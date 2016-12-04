@@ -1,0 +1,127 @@
+% resume.tex
+%
+% (c) 2002 Matthew Boedicker <mboedick@mboedick.org> (original author) http://mboedick.org
+% (c) 2003-2007 David J. Grant <davidgrant-at-gmail.com> http://www.davidgrant.ca
+% (c) 2007-2010 Todd C. Miller <Todd.Miller@courtesan.com> http://www.courtesan.com/todd
+%
+% This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+\documentclass[letterpaper,11pt]{article}
+
+%-----------------------------------------------------------
+\usepackage[empty]{fullpage}
+\usepackage{color}
+\usepackage[hide links]{hyperref}
+\definecolor{mygrey}{RGB}{112,183,224}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Adjust margins to 0.5in on all sides
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.0in}
+\addtolength{\topmargin}{-0.5in}
+\addtolength{\textheight}{1.0in}
+
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\large \colorbox{mygrey}{\begin{minipage}{\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{7.0in}{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+\end{tabular*}\vspace{-6pt}}
+%-----------------------------------------------------------
+
+
+\begin{document}
+
+\begin{tabular*}{7.5in}{l@{\extracolsep{\fill}}r}
+\textbf{\large Matthew D. Robertson}  & 226.868.3733 (cell phone)\\
+149 Erb Street West &  \href{mailto:m33rober@uwaterloo.ca}{m33rober@uwaterloo.ca} \\
+Waterloo, ON N2L 1T9& \url{https://github.com/matthew-robertson}\\
+\end{tabular*}
+\\
+
+\vspace{0.1in}
+
+\resheading{Summary of Qualifications}
+\begin{itemize}
+	\resitem{Proficient with Python, AngularJS, C++, Java, C, Ubuntu, Git, and \LaTeX. Functional knowledge of OpenGL, SQL, PostgreSQL, Jenkins, and SVN. }
+	\resitem{Four years experience as a core member of a small video game development team, focusing on engine design and implementation in the Object-Oriented paradigm.}
+	\resitem{Possesses excellent problem solving, communication, interpersonal, and organizational skills developed through past work experience.}	
+\end{itemize}
+
+\resheading{Work Experience}
+\begin{itemize}
+\item \ressubheading{Intel Security}{Waterloo, ON}{Software Development Engineer}{January 2016 - April 2016}
+	\begin{itemize}
+		\resitem{Resolved software problems in the Intel Security product line, including one which prevented the successful installation of the product.}
+		\resitem{Created and repaired Jenkins jobs to ensure the accuracy of test coverage metrics and proper deployment of builds.}
+	\end{itemize}
+\item \ressubheading{RideCo}{Waterloo, ON}{Software Developer}{May 2015 - August 2015}
+	\begin{itemize}
+		\resitem{Developed and simplified tools to allow administrators to quickly and easily create and visualize optimized vehicle schedules, for the efficient solving of custom vehicle routing problems.}
+		\resitem{Improved tools used by administrators to analyze user data in real-time.}
+	\end{itemize}
+\item \ressubheading{Bayer Radiology and Interventional}{Toronto, ON}{Software Developer}{May 2014 - August 2014}
+	\begin{itemize}
+		\resitem{Developed software for estimating and tracking radiation exposure in medical imaging as well as interfaces for consumption of derived data. }
+		\resitem{Engineered a higher performance ActionScript scatter-plot. This reduced runtime from up to eleven seconds for datasets with upwards of ten thousand points down to under three seconds.}
+	\end{itemize}
+\end{itemize}
+
+\resheading{Projects}
+\begin{itemize}
+\item
+	\ressubheading{Pixel Shaders and Demoscene}{\url{https://www.shadertoy.com/user/twitchingace}}{Lead Developer}{June 2014 - Present}
+	\begin{itemize}
+		\resitem{Created a number of pixel shaders built on the concept of "two-triangle rendering." Scenes created entirely inside the shader.}
+		\resitem{Created a distance-field based ray marcher for the purpose of rendering and blending geometric three-dimensional shapes.}
+		\resitem{Created a basic ray tracer as a foray into the technique.}
+	\end{itemize}
+\item
+	\ressubheading{3D-Game}{\url{https://github.com/Alec-Sobeck/3D-Game}}{Lead Developer}{December 2013 - April 2015}
+	\begin{itemize}
+		\resitem{Functioned as a lead developer on a project seeking to build a 3D C++ game engine on top of OpenGL.}
+		\resitem{Developed much of the initial technology for transforming and rendering the game world, including tools for importing and manipulating three-dimensional models.}
+		\resitem{Engineered an Octree-based technique for culling collision and rendering calculations between players and the game world.}
+	\end{itemize}
+\newpage
+\item
+	\ressubheading{Terrae Rasa}{\url{https://github.com/matthew-robertson/Terrae-Rasa}}{Lead Developer}{January 2012 - September 2013}
+	\begin{itemize}
+		\resitem{Worked as a lead developer and as a lead designer on a two-dimensional side-on adventure game.}
+		\resitem{Designed techniques which I used to procedurally generate random worlds of arbitrary size, while still ensuring the playability and enjoyability of the game world.}
+		\resitem{Developed an elementary physics-based particle engine for the handling of generic particle effects and projectiles.}
+		\resitem{Implemented a state-based AI with functionality to chase, retreat, or attack based on its environment.}
+	\end{itemize}
+\end{itemize}
+
+\resheading{Education}
+\begin{itemize}
+\item
+	\ressubheading{University of Waterloo}{Waterloo, ON}{Candidate for Bachelor of Mathematics in Computer Science. Honours Co-op}{September 2013 - Present}
+	\begin{itemize}
+		\resitem{Current 3B student, graduation anticipated for 2018.}
+		\resitem{$72.1\%$ cumulative average, $73.8\%$ major average.}	
+	\end{itemize}
+
+\end{itemize}
+
+\resheading{Awards}
+\begin{description}
+\item
+	\ressubheading{New Brunswick Computer Science Competition 2\textsuperscript{nd} place.}{2013}{}{}
+\item
+	\ressubheading{University of Waterloo Euclid Mathematics Competition top 20\%.} {2013} {} {}
+
+\item
+\ressubheading{New Brunswick Computer Science Competition 3\textsuperscript{rd} place.}{2012}{}{}
+\item
+\ressubheading{University of Waterloo Canadian Computing Competition honour roll.}{2012}{}{}
+\end{description}
+
+\end{document}
