@@ -1,0 +1,31 @@
+2016/12/02
+
+Ideas I had:
+	- Get a domain name/hosting
+		- Set up a vanity email
+			- yo@marob.ca?
+		- Set up some sort of devblog/portfolio
+	- Rebuild Legend of M to be not super shitty maybe
+	- Make Concentric Circle Test Super small/fast
+	- Raytrace a tower of cubes/pyramid of spheres
+
+What I wanted to do:
+	- Start actually writing my work report
+	- Build/Run Augury for the first time
+	- Work stuff
+		- Export my own new model to USD
+		- Figure out geometric variants
+		- Test how updating the stage works in Maya via USD
+		- create_set as an assembly (we might not actually want this)
+	- Practice Overwatch/Towerfall/Necrodancer
+
+What I actually did/learned:
+	- We did some kind of rotation/translation/other transform to USD assets
+	- The viewport requires some kind of 'kick' but Maya does seem to recognise/cache updates to the stage without the file needing to be saved.
+		Need to figure out what about loading the scene prompts it to redraw these things
+	- These cached changes persist through new scenes, probably a bad thing.
+	- Had a meeting about the USD prototype, learned at least a little bit about the plan.
+	- Did a chunk of Augury set up, need to figure out why it won't find the includes
+	- Practiced Necrodancer for a bit, I'm still super bad
+	- Played a little bit of guitar, I should start actually practicing
+	- Redid Concentric Circle Test

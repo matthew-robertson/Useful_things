@@ -1,0 +1,18 @@
+Ideas I haven't acted on:
+	- Get a domain name/hosting
+		- Set up a vanity email
+		- yo@marob.ca?
+		- Set up some sort of devblog/portfolio
+	- Rebuild Legend of M to be not super shitty maybe
+	- Raytrace a tower of cubes/pyramid of spheres
+	- Figure out and contribute to Dolphin you friggin nerd (or like any thing opensource)
+	- Do a post-mortem on Legend of M, Dungeon Crawler, Terrae Rasa, or 3D-game
+	- Write about my work at Autodesk and/or with USD
+	- Write about any of the shaders/math I've worked with
+	- Simple Ray marcher + scene so I can try implementing various lens effects:
+		- Bloom
+		- Depth of Field
+		- Translucency
+		- Tilt-shift
+	- Do something with bump-mapping, something that's a tunnel, etc...
+		- https://www.shadertoy.com/view/4ttSRj is crazy
