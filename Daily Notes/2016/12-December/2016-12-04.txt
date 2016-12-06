@@ -1,0 +1,19 @@
+2016/12/04
+
+Ideas I had:
+
+What I wanted to do:
+	- Report writing. It's a gogo on the analysis
+	- Actually 100% figure out a domain/website
+	- Laundry and bread please
+	- Track down relocatio nepenses reciepts
+	- Figure out if I'm shipping anything
+
+What I actually did/learned:
+	- Realised how short my work report could be
+	- Fixed up Diablo Shader
+		- Added some proper uvs for the orbs
+		- Set up way nicer textures
+		- Added legit specular highlights
+	- Holy crap I actually own a domain now
+	- Set up an e-mail/home page

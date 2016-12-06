@@ -1,7 +1,5 @@
 Ideas I haven't acted on:
 	- Get a domain name/hosting
-		- Set up a vanity email
-		- yo@marob.ca?
 		- Set up some sort of devblog/portfolio
 	- Rebuild Legend of M to be not super shitty maybe
 	- Raytrace a tower of cubes/pyramid of spheres
@@ -16,3 +14,7 @@ Ideas I haven't acted on:
 		- Tilt-shift
 	- Do something with bump-mapping, something that's a tunnel, etc...
 		- https://www.shadertoy.com/view/4ttSRj is crazy
+	- Make a pin-table type dealio (equalizer/3d visualiser)
+	- Implement some weather effects (fog, snow/rain, maybe I could do thunder/clouds?, etc...)
+	- Have a go at recreating Diablo angel wings
+	- Get into the modding scene for Crypt or Towerfall

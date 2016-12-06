@@ -1,0 +1,22 @@
+2016/12/04
+
+Ideas I had:
+	- Make a pin-table type dealio (equalizer/3d visualiser)
+	- Implement some weather effects (fog, snow/rain, maybe I could do thunder/clouds?, etc...)
+	- Have a go at recreating Diablo angel wings
+	- Get into the modding scene for Crypt or Towerfall
+
+What I wanted to do:
+	- Verify USD export of geometry
+	- Look into geometry variant sets/ other type of variants
+	- Finish analysis on work report
+	- Link Augury
+	- Website work
+
+What I actually did/learned:
+	- Figured out how exporting works (the plugin strips the top layer of the selection, so it was removing the xForm for some reason)
+	- Fixed an issue with black bars on my Diablo II resource orb shader
+	- Figured out how to author geometry and shading variant sets
+	- Wrote a script to generate a testShape with modeling and shading variants
+	- Wrote the second third of my analysis
+	- Did some placement matches
