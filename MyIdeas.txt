@@ -19,3 +19,4 @@ Ideas I haven't acted on:
 	- Have a go at recreating Diablo angel wings
 	- Get into the modding scene for Crypt or Towerfall
 	- Make a text scroller of some sort
+	- Make some sort of map editor for Augury, please self

@@ -2,6 +2,7 @@
 
 Ideas I had:
 	- Make a text scroller of some sort
+	- Make some sort of map editor for Augury, please self
 
 What I wanted to do:
 	- Export HSM assets to USD files
@@ -13,4 +14,3 @@ What I actually did/learned:
 	- Got all dem HSM resources
 	- Published my site
 	- Finished my analysis
-	
