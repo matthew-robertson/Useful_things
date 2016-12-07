@@ -1,6 +1,6 @@
 Ideas I haven't acted on:
 	- Get a domain name/hosting
-		- Set up some sort of devblog/portfolio
+		- Set up some sort of devblog
 	- Rebuild Legend of M to be not super shitty maybe
 	- Raytrace a tower of cubes/pyramid of spheres
 	- Figure out and contribute to Dolphin you friggin nerd (or like any thing opensource)
@@ -18,3 +18,4 @@ Ideas I haven't acted on:
 	- Implement some weather effects (fog, snow/rain, maybe I could do thunder/clouds?, etc...)
 	- Have a go at recreating Diablo angel wings
 	- Get into the modding scene for Crypt or Towerfall
+	- Make a text scroller of some sort
