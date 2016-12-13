@@ -15,7 +15,7 @@ Ideas I haven't acted on:
 	- Do something with bump-mapping, something that's a tunnel, etc...
 		- https://www.shadertoy.com/view/4ttSRj is crazy
 	- Make a pin-table type dealio (equalizer/3d visualiser)
-	- Implement some weather effects (fog, snow/rain, maybe I could do thunder/clouds?, etc...)
+	- Implement some weather effects (fog, rain, maybe I could do thunder/clouds?, etc...)
 	- Have a go at recreating Diablo angel wings
 	- Get into the modding scene for Crypt or Towerfall
 	- Make a text scroller of some sort

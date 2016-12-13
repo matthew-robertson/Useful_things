@@ -1,0 +1,16 @@
+2016/12/06
+
+Ideas I had:
+
+What I wanted to do:
+	- Talk to Patrick and ACRD about translating the Jungle to USD
+	- Add citations, letter of submittal, and summary to report
+	- Write a snow shader
+	- Actually start converting the Jungle to USD
+	- get reciepts for Joey
+
+What I actually did/learned:
+	- Packaged a test scene for Pierre
+	- Looked at HSM-City from ACRD
+	- Met with Patrick
+	- Wrote a snow shader

@@ -1,0 +1,12 @@
+2016/12/06
+
+Ideas I had:
+
+What I wanted to do:
+	- Get the rest of the terrain and the tree into USD
+	- Relax for once in my life
+
+What I actually did/learned:
+	- Figured out a plan for getting the tree/fruit into USD
+	- Helped Alec debug a weird texture bug in Augury
+	- Poked around in Minecraft's WorldEdit
