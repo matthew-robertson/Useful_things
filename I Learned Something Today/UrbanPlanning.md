@@ -4,8 +4,11 @@
 
 ## Architecture
 
-1. Anti-homeless features exist, and they're one of the more inhumane things I've seen.
+1. Anti-homeless features exist, under then name Hostile Architecture, and they're one of the more inhumane things I've seen.
 
+## Zoning
+1. Inclusionary zoning mandates the inclusion of affordable housing.
+2. Exclusionary zoning is about forcing groups into or out of an area (i.e.: not allowing apartment buildings). Historically, was used to prevent minorities from moving to middle or upper-class neighbourhoods.
 
 ## General City stuff
 1. Suburbs came about as a result of White Flight, don't forget that.
