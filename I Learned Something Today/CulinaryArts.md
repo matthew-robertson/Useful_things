@@ -3,8 +3,10 @@
 1. Replenish a ginger bug using one part minced ginger (1tbsp, usually) to one part water and one part sugar.
 
 ## Baking
+1. At least in baking (and especially with salt), always measure by mass. 3tbsp of kosher salt isn't 3tbsp of table salt, but 11g is 11g is 11g.
 
 ## General Cooking
+1. Cook times are guidelines, things obviously depend on the individual thing being cooked. Go by temperature or texture.
 
 ## Alcohol
 1. Gin is just a neutral alcohol (essentially, vodka), infused with a bunch of botanicals: mainly juniper.
