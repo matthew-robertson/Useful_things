@@ -10,6 +10,7 @@
 1. Citrus fruits are a mess of hybrids. Pretty much everything we know came from the pomelo, the citron, or the mandarin.
 1. Oranges don't turn orange naturally unless there are cool nights to break down chlorophyll, like in California. This is partly why Florida is more known for orange juice than fresh citrus.
 1. To help warm climate oranges turn orange, ethylene may be used to speed up ripening and the breakdown of chlorophyll. In addition, Texan and Floridian farmers can use Citrus Red No. 2 dye, if the fruit is for peeling and eating/juicing (like fruit for grocery stores is assumed to be).
+1. Things like turmeric and ginger are rhizomes (underground stems?) unlike carrots or potatoes.
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)
