@@ -20,3 +20,4 @@
 1. `debugger;` functions exactly like putting a breakpoint in the code.
 1. There is no difference between `npm install` and `npm i`. It is there because JS people type `npm install` so much.
 1. `NaN` always compares to false. Only `isNaN` can compare `NaN`.
+1. `const` can't be used in normal for loops, because it can't be reassigned. It *can* however be used in a `for (const foo in bar)`
