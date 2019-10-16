@@ -9,7 +9,7 @@
 1. Originally only marasca cherries preserved in maraschino could be called "maraschino cherries". The prohibition messed that up though, and led to gross bleached/dyed american "cherries" being sold as maraschino cherries.
 1. Citrus fruits are a mess of hybrids. Pretty much everything we know came from the pomelo, the citron, or the mandarin.
 1. Oranges don't turn orange naturally unless there are cool nights to break down chlorophyll, like in California. This is partly why Florida is more known for orange juice than fresh citrus.
-1. To help warm climate oranges turn orange, ethylene may be used to speed up ripening and the breakdown of chlorophyll. In addition, Texan and Floridian farmers can use Citrus Red No. 2 dye, if the fruit is for peeling and eating/juicing (like fruit for grocery stores is assumed to be).
+1. To help warm climate oranges turn orange, ethylene may be used to speed up ripening and the breakdown of chlorophyll. In addition, Texan and Floridian farmers can use Citrus Red No. 2 dye, if the fruit is for peeling and eating, but not juicing (like fruit for grocery stores is assumed to be).
 1. Things like turmeric and ginger are rhizomes (underground stems?) unlike carrots or potatoes.
 
 ## Farming
