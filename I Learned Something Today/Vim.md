@@ -13,9 +13,11 @@
 
 ## In-File Navigation
 1.`/` will search, using a regex for the next occurrence of what you search for. `n` afterwards will go to the next occurrence.
-1.`f` will find the next occurrence of the character you selected.
+1.`f` will find the next occurrence of the character you type afterwards.
 1. `%` will jump to the matching brace/bracket.
 1. `ctrl+y` and `ctrl+e` will expose one more line above and below the current frame, respectively. Saves you `j`ing all the way across the screen.
+1. `$` will jump to the end of the current line.
+1. `*` is a shortcut that searchs for the word under the cursor.
 
 ## Entering Insert Mode
 1. `o` and `O` open a new line below and above the current line, respectively
