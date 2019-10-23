@@ -25,3 +25,6 @@
 ## Text Manipulation
 1. `Y` will yank/copy and entire line.
 1. `p` will paste, `P` will insert a new line first.
+1. `ctrl+t` and `ctrl+d`, used in insert mode, will indent and unindent the current line respectively.
+1. `>` in normal mode will indent. `>>` will indent the current line, `>}` will indent the paragraph.
+1. `v` will enter visual mode, useful-ish for selecting blocks to indent, text to yank, or whatever,.
