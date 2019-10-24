@@ -12,8 +12,9 @@
 1. `ctrl+w [hjkl]` to navigate between splits/windows.
 
 ## In-File Navigation
-1.`/` will search, using a regex for the next occurrence of what you search for. `n` afterwards will go to the next occurrence.
-1.`f` will find the next occurrence of the character you type afterwards.
+1. `/` will search, using a regex for the next occurrence of what you search for. `n` afterwards will go to the next occurrence.
+1. `f` will find the next occurrence of the character you type afterwards.
+1. `t` will "move 'till" the character instead, moving the cursor to the character before the one you search for.
 1. `%` will jump to the matching brace/bracket.
 1. `ctrl+y` and `ctrl+e` will expose one more line above and below the current frame, respectively. Saves you `j`ing all the way across the screen.
 1. `$` will jump to the end of the current line.
