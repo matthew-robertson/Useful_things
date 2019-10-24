@@ -15,8 +15,13 @@
 1. `/` will search, using a regex for the next occurrence of what you search for. `n` afterwards will go to the next occurrence.
 1. `f` will find the next occurrence of the character you type afterwards.
 1. `t` will "move 'till" the character instead, moving the cursor to the character before the one you search for.
+1. `T` and `F` behave like their lowercase versions, but backwards.
 1. `%` will jump to the matching brace/bracket.
 1. `ctrl+y` and `ctrl+e` will expose one more line above and below the current frame, respectively. Saves you `j`ing all the way across the screen.
+1. `w` will jump to the start of the next word. EG: "lo**r**em ipsum" -> "lorem **i**psum".
+1. `e` will jump to the end of the current word (or the end of the next one). EG: "lo**r**em ipsum" -> "lore**m** ipsum" -> "lorem ipsu**m**".
+1. `b` is like `e`, but to the start.
+1. `W`, `E`, and `B` (and probably others) are like lowercase, but they only recognise whitespace as a wordbreak. 
 1. `$` will jump to the end of the current line.
 1. `*` is a shortcut that searchs for the word under the cursor.
 
