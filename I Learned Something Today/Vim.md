@@ -32,7 +32,8 @@
 1. `r` can be used to replace a single character.
 
 ## Text Manipulation
-1. `Y` will yank/copy and entire line.
+1. `Y` will yank/copy an entire line.
+1. `y[movement]` will yank based on the movement. E.G.: `yiw` will yank the word you're in.
 1. `p` will paste, `P` will insert a new line first.
 1. `ctrl+t` and `ctrl+d`, used in insert mode, will indent and unindent the current line respectively.
 1. `>` in normal mode will indent. `>>` will indent the current line, `>}` will indent the paragraph.
