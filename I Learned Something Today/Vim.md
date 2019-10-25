@@ -3,7 +3,10 @@
 1. `:tabn` `:tabp`, `:tabm [tab#]` willwitch between tabs.
 1. `:n` and co will switch between files.
 1. CtrlP is a godsend. Use `<c-t>` to open the found file in a new tab
-1. `:e` will switch the active buffer to the next one.
+1. `:e /file/path` will activate a new buffer at the given filepath.
+1. `:bd` will close the active buffer.
+1. `:bp`, `:bn` switch between buffers.
+1. `:buffers` will list all buffers currently in memory.
 
 ## Windows
 1. `ctrl+w v` will vertically split, opening a new window, duplicating the current file.
