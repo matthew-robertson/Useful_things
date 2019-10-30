@@ -31,6 +31,8 @@
 1. `$` will jump to the end of the current line.
 1. `*` is a shortcut that searchs for the word under the cursor.
 1. `19gg` will jump to line 19.
+1. `:19` and `:19G` will do the same.
+1. `G` will jump to the end of the file
 
 ## Entering Insert Mode
 1. `o` and `O` open a new line below and above the current line, respectively
