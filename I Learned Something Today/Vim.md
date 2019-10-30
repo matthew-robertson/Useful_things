@@ -30,6 +30,7 @@
 1. `W`, `E`, and `B` (and probably others) are like lowercase, but they only recognise whitespace as a wordbreak. 
 1. `$` will jump to the end of the current line.
 1. `*` is a shortcut that searchs for the word under the cursor.
+1. `19gg` will jump to line 19.
 
 ## Entering Insert Mode
 1. `o` and `O` open a new line below and above the current line, respectively
@@ -44,6 +45,7 @@
 1. `ctrl+t` and `ctrl+d`, used in insert mode, will indent and unindent the current line respectively.
 1. `>` in normal mode will indent. `>>` will indent the current line, `>}` will indent the paragraph.
 1. `v` will enter visual mode, useful-ish for selecting blocks to indent, text to yank, or whatever,.
+1. `:81,91y` will yank between lines 81 and 91.
 
 ## General Editing
 1. `u` will undo a change
