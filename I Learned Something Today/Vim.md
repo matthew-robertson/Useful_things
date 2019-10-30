@@ -7,6 +7,8 @@
 1. `:bd` will close the active buffer.
 1. `:bp`, `:bn` switch between buffers.
 1. `:buffers` will list all buffers currently in memory.
+1. `:b` will go to the specific buffer, using a buffer number or a partial filename
+1. `:b#` will go the the alternate buffer (probably the previous one)
 
 ## Windows
 1. `ctrl+w v` will vertically split, opening a new window, duplicating the current file.
@@ -42,3 +44,7 @@
 1. `ctrl+t` and `ctrl+d`, used in insert mode, will indent and unindent the current line respectively.
 1. `>` in normal mode will indent. `>>` will indent the current line, `>}` will indent the paragraph.
 1. `v` will enter visual mode, useful-ish for selecting blocks to indent, text to yank, or whatever,.
+
+## General Editing
+1. `u` will undo a change
+1. `ctrl+r` will redo a change.
