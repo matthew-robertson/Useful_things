@@ -1,11 +1,7 @@
 Ideas I haven't acted on:
-	- Get a domain name/hosting
-		- Set up some sort of devblog
 	- Rebuild Legend of M to be not super shitty maybe
-	- Raytrace a tower of cubes/pyramid of spheres
 	- Figure out and contribute to Dolphin you friggin nerd (or like any thing opensource)
 	- Do a post-mortem on Legend of M, Dungeon Crawler, Terrae Rasa, or 3D-game
-	- Write about my work at Autodesk and/or with USD
 	- Write about any of the shaders/math I've worked with
 	- Simple Ray marcher + scene so I can try implementing various lens effects:
 		- Bloom
@@ -16,7 +12,5 @@ Ideas I haven't acted on:
 		- https://www.shadertoy.com/view/4ttSRj is crazy
 	- Make a pin-table type dealio (equalizer/3d visualiser)
 	- Implement some weather effects (fog, rain, maybe I could do thunder/clouds?, etc...)
-	- Have a go at recreating Diablo angel wings
 	- Get into the modding scene for Crypt or Towerfall
 	- Make a text scroller of some sort
-	- Make some sort of map editor for Augury, please self
