@@ -1,11 +1,12 @@
 # System Design
 ## Patterns
-1. I don't want to talk about every pattern I ever see, so here's the official online version of (Game Programming Patterns)[https://gameprogrammingpatterns.com/contents.html].
-1. I'm not a huge fan of their site and find their content harder to grok, but (Refactoring Guru)[https://refactoring.guru/design-patterns/catalog] also has a decent collection.
+1. I don't want to talk about every pattern I ever see, so here's the official online version of [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html).
+1. I'm not a huge fan of their site and find their content harder to grok, but [Refactoring Guru](https://refactoring.guru/design-patterns/catalog) also has a decent collection.
 
-## Data Structures
-
-## Algorithms
+## Data Structures & Algorithms
+1. CLRS is the bible here. You own it, take a look sometime.
+1. Hashmaps, Dicts, Maps, whatever the language calls them, they're incredibly powerful tools.
+1. BigO runtimes of all the common algorithms can be found [here](https://www.bigocheatsheet.com/). They're not crazy important most of the time, but it's worth keeping the most common ones in your head.
 
 # Software Engineering
 1. According to Kent Beck, software is simple if, in order of importance, it: runs all the tests, is DRY, expresses the writer's intent, and minimizes the amount of classes/functions.
