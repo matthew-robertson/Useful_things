@@ -7,7 +7,7 @@
 
 ## Being a good developer
 1. Make physical records of agreements, keep people on the same page.
-1. It's far better to be good and liked, than great an hated. Don't be a dick.
+1. It's far better to be good and liked, than great and hated. Don't be a dick.
 1. References are incredibly important. Be reliable, treat people well, ask for references before leaving.
 1. Make use of RRSP matching, and any other employer benefits. It's free money.
 1. Deadlines are more flexible than you think they are, but you still need them.
@@ -21,3 +21,4 @@
 1. NETWORK.
 1. If you have trouble, do some quick research, then ask your team. They're here to help, and that means you'll have to help them too. This is good.
 1. Spend as little time crunching as possible. Burning out will always end up costing more. Besides, you have a life outside of work.
+1. Raises (and negotiations) can be for more than just cold, hard, cash. Extra vacation time, for example, can be something more easily given by your manager.
