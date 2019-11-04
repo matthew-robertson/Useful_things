@@ -1,4 +1,5 @@
 # Terrain building
+1. You probably want to be using XPS foam of some sort.
 1. Etching foam with a pencil (sharp, or blunt), is super handy because the graphite lets you see what you're actually etching.
 1. If you're using a pencil though, it has to be really short so you can maneuver it well.
 1. Pencil etching works better on some german green foam, vs the pink foam you see in a lot of terrain building videos. This is because it's firmer for some reason, and rebounds less.
