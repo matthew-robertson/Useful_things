@@ -3,3 +3,5 @@
 1. In the 15th-century, women would wear dresses so long you couldn't walk in them. This is why we see them carrying armfulls of skirt all the time in art.
 1. Structured garments (like corsets), weren't around until the 16th century.
 1. Cross lacing wasn't really a thing until the 19th century. Spiral and ladder-lacing were much more common.
+1. That comical bonnet you always see on "pilgrim" women is a real (ish) thing. But wasn't intended to block peripheral vision, and would have been smaller/further back.
+1. The 18th century *loved* [ruffles](https://youtu.be/vAoaksK9mZM?t=786)
