@@ -12,5 +12,10 @@
 1. You need to use lighting to draw the eye to where you want it to (probably the face). Apply stronger highlights towards the face, things like that,
 1. The paper mats that come with sta-wet palettes are meant for heavy-body acrylics, not stuff like mini-painting acrylics. Use parchment paper instead (not wax!).
 1. Clean your brush frequently, and use that opportunity to reshape the head of the brush.
+1. Two-brush-blending is a rad technique, and is super fast and very high contrast once you get it down. Learn it.
+1. Take inspiration from everywhere. Graffiti/street art in particular can be rad for colour-scheme inspritation.
+1. Working on some [larger figures](https://youtu.be/qqzqCC8RhXI?t=249), or on 2d mediums, can be great for improving your technique. Like with most things, don't try and improve in a million directions at once.
+1. Like with most things, pay attention to what you enjoy and what you don't. This is a hobby, do what you like, but stretch your comfort zone.
+1. You only improve if you figure out what parts went well and what went poorly.
 
 # Miniature basing
