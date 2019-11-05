@@ -59,6 +59,8 @@ function greet() {
 1. There is no difference between `npm install` and `npm i`. It is there because JS people type `npm install` so much.
 1. `NaN` always compares to false. Only `isNaN` can compare `NaN`.
 1. `const` can't be used in normal for loops, because it can't be reassigned. It *can* however be used in a `for (const foo in bar)`
+1. es2019 adds a "pipeline" operator `|>`, which lets you turn `b = bar(foo(a))` into `b = a |> foo |> bar`.
+
     ### Typescript
     1. In interface definitions, `?` can be used to mark optional parameters, like 
     ```
