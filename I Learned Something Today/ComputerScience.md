@@ -25,6 +25,7 @@
 1. Prefer immutable data when possible. It'll save you tons of headaches. The Functional Programming people have the right idea. Doing things by value instead of reference is one way to do this. (Martin Fowler, Refactoring, P.252)
 1. You'll still want references if you need shared data though.
 1. If you're swapping a reference to a value, don't forget to make sure you have a value-based equality method for it.
+1. If you're using a switch statement, it's worth considering if you could be doing it polymorphically instead. Especially if the logic is complicated or repeated elsewhere.
 
 # General Language Stuff
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 
