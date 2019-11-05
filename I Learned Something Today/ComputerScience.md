@@ -36,6 +36,12 @@
 1. Consider replacing special case code by making a class/object for the case. I.E.: an `UnkownCustomer` class, that returns the default values, instead of checking everywhere if the customer is unknown then doing special cases.
 1. Consider using assertions to enforce assumptions about your data/inputs. Only do this for things that would be programmer error.
 1. Like Clean Code and Refactoring both suggest, avoid flag arguments if you can. Better to have explicit functions for both cases. Makes things more clear.
+1. Sometimes, like for personal throwaway scripts, clean code isn't worth it. To quote [Larry Hastings](https://www.youtube.com/watch?v=Jd8ulMb6_ls) "Write Sloppy Code, Solve Your Problem".
+1. At least in personal automation stuff: fail fast, and fail loudly.
+1. Stop writing shell scripts. Let's do more Python or whatever.
+
+# Unix
+1. If you want to mass-rename stuff, don't copy the files to somewhere else, just make hardlinks to the backup folder.
 
 # General Language Stuff
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 
@@ -61,6 +67,7 @@ function greet() {
 1. Python has a "Walrus operator" `:=` as of 3.8. It's used to assign a variable and return the assigned value. E.G.: `print(a:="Whoopsie")` will print "Whoopsie" and also assign that to `a`. This is similar to assignment in other languages, but more explicit.
 1. [PEP 572](https://www.python.org/dev/peps/pep-0572/), which introduced the Walrus Operator, was the one that got Guido to step down as BDFL. Pushback was strong. Maybe this is useful for tricky elifs, or list comprehensions?
 1. Python doesn't have a conception of block scope. Most of the obvious things (like classes, functions/lambdas, comprehensions, etc) will create new scope, but [blocks wont](https://stackoverflow.com/a/6167952)
+1. `os.system()` won't throw an exception on errors. You need to use `subprocess.run(... check=True)` if you want to deal with errors from it.
 
 ## C++
 
