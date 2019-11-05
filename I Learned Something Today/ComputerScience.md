@@ -8,6 +8,13 @@
 1. Hashmaps, Dicts, Maps. Whatever the language calls them, they're incredibly powerful tools.
 1. BigO runtimes of all the common algorithms can be found [here](https://www.bigocheatsheet.com/). They're not crazy important most of the time, but it's worth keeping the most common ones in your head.
 
+## Building APIs
+1. This is more for general APIs than for HTTP ones (Since things like Get/Put/Patch are pretty explicit about what they allow), but "any function that returns a value should not have observable side effects" - Martin Fowler, Refactoring 307.
+1. (Idempotent methods](http://restcookbook.com/HTTP%20Methods/idempotency/) (Like GET, PUT, and DELETE), should have the same effect everytime for the same inputs.
+1. Safe (Like GET) methods shouldn't change data, just get it.
+
+## Devops
+
 # Software Engineering
 1. According to Kent Beck, software is simple if, in order of importance, it: runs all the tests, is DRY, expresses the writer's intent, and minimizes the amount of classes/functions.
 1. A cheat sheet for Clean Code's advice can be found [here](https://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf).
@@ -26,6 +33,9 @@
 1. You'll still want references if you need shared data though.
 1. If you're swapping a reference to a value, don't forget to make sure you have a value-based equality method for it.
 1. If you're using a switch statement, it's worth considering if you could be doing it polymorphically instead. Especially if the logic is complicated or repeated elsewhere.
+1. Consider replacing special case code by making a class/object for the case. I.E.: an `UnkownCustomer` class, that returns the default values, instead of checking everywhere if the customer is unknown then doing special cases.
+1. Consider using assertions to enforce assumptions about your data/inputs. Only do this for things that would be programmer error.
+1. Like Clean Code and Refactoring both suggest, avoid flag arguments if you can. Better to have explicit functions for both cases. Makes things more clear.
 
 # General Language Stuff
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 
@@ -41,7 +51,6 @@ function greet() {
     printGreeting();
 }
 ```
-
 
 # Language-specific
 ## Python
@@ -61,6 +70,7 @@ function greet() {
 1. `NaN` always compares to false. Only `isNaN` can compare `NaN`.
 1. `const` can't be used in normal for loops, because it can't be reassigned. It *can* however be used in a `for (const foo in bar)`
 1. es2019 adds a "pipeline" operator `|>`, which lets you turn `b = bar(foo(a))` into `b = a |> foo |> bar`.
+1. `0 === -0` will return true. If you explicitly want to check for negative 0, you should use `Object.is(x, -0)` instead. [Source](https://eslint.org/docs/rules/no-compare-neg-zero)
 
     ### Typescript
     1. In interface definitions, `?` can be used to mark optional parameters, like 
