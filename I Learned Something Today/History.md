@@ -5,3 +5,6 @@
 1. Cross lacing wasn't really a thing until the 19th century. Spiral and ladder-lacing were much more common.
 1. That comical bonnet you always see on "pilgrim" women is a real (ish) thing. But wasn't intended to block peripheral vision, and would have been smaller/further back.
 1. The 18th century *loved* [ruffles](https://youtu.be/vAoaksK9mZM?t=786)
+
+# Historical Tech
+1. Typewriters had a "lost" key: `⁝`. We don't really know what it was for, but [speculation](http://widespacer.blogspot.com/2016/03/the-lost-key-of-qwerty.html) is that it worked like we use the slash now, to separate lines: "Roses are red/ Violets are blue/ .."
