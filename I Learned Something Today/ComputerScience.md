@@ -2,6 +2,7 @@
 ## Patterns
 1. I don't want to talk about every pattern I ever see, so here's the official online version of [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html).
 1. I'm not a huge fan of their site and find their content harder to grok, but [Refactoring Guru](https://refactoring.guru/design-patterns/catalog) also has a decent collection.
+1. The [Command pattern](https://gameprogrammingpatterns.com/command.html) is super useful for letting you manage more complex operations compared to a regular function, by turning a function into an object. One such usage is including an "Undo", another is in games allowing easily rebound controls or NPC actors.
 
 ## Data Structures & Algorithms
 1. [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) is the bible here. You own it, take a look sometime.
@@ -11,7 +12,7 @@
 ## Building APIs
 1. This is more for general APIs than for HTTP ones (Since things like Get/Put/Patch are pretty explicit about what they allow), but "any function that returns a value should not have observable side effects" - Martin Fowler, Refactoring 307.
 1. (Idempotent methods](http://restcookbook.com/HTTP%20Methods/idempotency/) (Like GET, PUT, and DELETE), should have the same effect everytime for the same inputs.
-1. Safe (Like GET) methods shouldn't change data, just get it.
+1. Safe (Like GET) methods shouldn't change data, just fetch it.
 
 ## Devops
 
@@ -39,6 +40,8 @@
 1. Sometimes, like for personal throwaway scripts, clean code isn't worth it. To quote [Larry Hastings](https://www.youtube.com/watch?v=Jd8ulMb6_ls) "Write Sloppy Code, Solve Your Problem".
 1. At least in personal automation stuff: fail fast, and fail loudly.
 1. Stop writing shell scripts. Let's do more Python or whatever.
+1. Referential Transparency (Similar to idempotency, I think), means you'll get the same results for the same inputs. It makes things way easier to work with if you can pull it off.
+1. Taking cues from Unity, React, and a number of other things, "Favour object composition over class inheritance". Inheritance isn't bad, but think about if composition will work better in any given case. Especially if you need to vary in more than one way. You can't play the inheritance card twice, to paraphrase Martin Fowler.
 
 # Unix
 1. If you want to mass-rename stuff, don't copy the files to somewhere else, just make hardlinks to the backup folder.
