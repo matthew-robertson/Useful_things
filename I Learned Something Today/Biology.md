@@ -10,6 +10,7 @@
 1. The Underwood Tariff Act banned the import of feathers in 1918.
 
 # Human medicine
-1. Auto-brewery syndrome is a bizarre condition where people end up with brewer's yeast taking over their intestines, turning the carbs they eat into alcohol and making them constantly drunk.
-1. Short Gut Syndrome is exactly what it sounds like, and might cause auto-brewery syndrome.
-1. While your short intestine is about 20ft long, a lot of it isn't strictly speaking necessary. You'll be ok-ish with as little as 6ft.
+1. Auto-brewery syndrome is a bizarre condition where people end up with brewer's yeast taking over their intestines, turning the carbs they eat into alcohol and making them constantly drunk. (Sawbones: Auto-brewery Syndrome)
+1. Short Gut Syndrome is exactly what it sounds like, and might cause auto-brewery syndrome.  (Sawbones: Auto-brewery Syndrome)
+1. While your short intestine is about 20ft long, a lot of it isn't strictly speaking necessary. You'll be ok-ish with as little as 6ft. (Sawbones: Auto-brewery Syndrome)
+1. Ben Franklin was one of the first to confront the myth that being wet in the cold would get you sick. He knew this because he knew so many sailors, and they weren't constantly sick. (Sawbones: Ben Franklin)
