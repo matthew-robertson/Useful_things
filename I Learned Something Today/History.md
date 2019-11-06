@@ -8,3 +8,7 @@
 
 # Historical Tech
 1. Typewriters had a "lost" key: `⁝`. We don't really know what it was for, but [speculation](http://widespacer.blogspot.com/2016/03/the-lost-key-of-qwerty.html) is that it worked like we use the slash now, to separate lines: "Roses are red/ Violets are blue/ .."
+
+# General History
+1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)
+1. [1200 pieces of bones (probably from about 15 skeletons) were found when renovating Franklin House in London in 1998.](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/) This probably isn't from spooky murder, but from the illicit anatomy school run out of the house by Ben Franklin's protege (Sawbones: Ben Franklin)
