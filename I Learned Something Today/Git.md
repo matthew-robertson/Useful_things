@@ -12,6 +12,7 @@
 1. the `--patch` or `-p` flag on [`git add`](https://git-scm.com/docs/git-add#Documentation/git-add.txt---patch) lets you stage individual changes instead of entire files, which is handy.
 1. Generally speaking, you should use the pickaxe instead of `git blame`.
 1. `git annotate file/path` is like git blame, but sounds less mean and outputs in a slightly different format.
+1. If you want to do something and don't know how, [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) probably has something for you.
 
 ## Tips for maintaining a good commit history
 1. These are all taken from the back half of [Branch In Time, RubyConf2018](https://youtu.be/8OOTVxKDwe0?t=1107).
