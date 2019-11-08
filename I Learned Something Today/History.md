@@ -8,6 +8,7 @@
 
 # Historical Tech
 1. Typewriters had a "lost" key: `⁝`. We don't really know what it was for, but [speculation](http://widespacer.blogspot.com/2016/03/the-lost-key-of-qwerty.html) is that it worked like we use the slash now, to separate lines: "Roses are red/ Violets are blue/ .."
+1. Flicker was sput out of a social web game. They built picture sharing as a side thing for it, and it quickly outgrew the game in popularity.
 
 # General History
 1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)

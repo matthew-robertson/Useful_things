@@ -42,6 +42,8 @@
 1. Stop writing shell scripts. Let's do more Python or whatever.
 1. Referential Transparency (Similar to idempotency, I think), means you'll get the same results for the same inputs. It makes things way easier to work with if you can pull it off.
 1. Taking cues from Unity, React, and a number of other things, "Favour object composition over class inheritance". Inheritance isn't bad, but think about if composition will work better in any given case. Especially if you need to vary in more than one way. You can't play the inheritance card twice, to paraphrase Martin Fowler.
+1. "For each desired change, make the change easy (warning: this may be hard), then make the easy change." - Kent Beck.
+1. Software is more than just code. Its history is important, and keeping it nicely maintained will pay dividends over time.
 
 # Unix
 1. If you want to mass-rename stuff, don't copy the files to somewhere else, just make hardlinks to the backup folder.

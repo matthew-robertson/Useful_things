@@ -22,3 +22,10 @@
 1. If you have trouble, do some quick research, then ask your team. They're here to help, and that means you'll have to help them too. This is good.
 1. Spend as little time crunching as possible. Burning out will always end up costing more. Besides, you have a life outside of work.
 1. Raises (and negotiations) can be for more than just cold, hard, cash. Extra vacation time, for example, can be something more easily given by your manager.
+
+
+## General skills
+1. Sometimes, it's more advantageous to find a niche with less competition, instead of trying to be better than everyone else.
+1. You can't be all things, and spreading yourself too thin will have disadvantages. Figure yourself out a nice competitive advantage in a niche.
+1. Your soft assets (skills, knowledge, network, etc...) are hugely important, and you need to dedicate time to improve upon them.
+1. 
