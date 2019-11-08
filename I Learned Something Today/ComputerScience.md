@@ -44,9 +44,11 @@
 1. Taking cues from Unity, React, and a number of other things, "Favour object composition over class inheritance". Inheritance isn't bad, but think about if composition will work better in any given case. Especially if you need to vary in more than one way. You can't play the inheritance card twice, to paraphrase Martin Fowler.
 1. "For each desired change, make the change easy (warning: this may be hard), then make the easy change." - Kent Beck.
 1. Software is more than just code. Its history is important, and keeping it nicely maintained will pay dividends over time.
+1. Some (wrong) people will say that they do not need type safety because they use unit tests. These people are wrong. Type checks are way safer than tests can ever hope to be, and eliminate an entire category of tests which no longer need to be written.
 
 # Unix
 1. If you want to mass-rename stuff, don't copy the files to somewhere else, just make hardlinks to the backup folder.
+1. `grep [options] [pattern] [file]`. Use it. `-r` does recursive, `-i` does case-insensitive, `-n` gives line numbers too.
 
 # General Language Stuff
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 
@@ -62,3 +64,4 @@ function greet() {
     printGreeting();
 }
 ```
+1. Static typing can do wonders for preventing us from writing impossible or partial functions. consider `head :: [a] -> a` which seems simple enough. The typing doesn't work once you pass in an empty array though, and languages like Haskell can tell us that.

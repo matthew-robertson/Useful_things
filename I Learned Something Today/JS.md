@@ -5,6 +5,7 @@
 1. `const` can't be used in normal for loops, because it can't be reassigned. It *can* however be used in a `for (const foo in bar)`
 1. es2019 adds a "pipeline" operator `|>`, which lets you turn `b = bar(foo(a))` into `b = a |> foo |> bar`.
 1. `0 === -0` will return true. If you explicitly want to check for negative 0, you should use `Object.is(x, -0)` instead. [Source](https://eslint.org/docs/rules/no-compare-neg-zero)
+1. As of ES6, you can use variables as object keys like so `const key = 'asdf'; const bar = {[key]: 'foo'}`
 
 ## Typescript
 1. In interface definitions, `?` can be used to mark optional parameters, like 

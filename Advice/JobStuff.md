@@ -28,4 +28,5 @@
 1. Sometimes, it's more advantageous to find a niche with less competition, instead of trying to be better than everyone else.
 1. You can't be all things, and spreading yourself too thin will have disadvantages. Figure yourself out a nice competitive advantage in a niche.
 1. Your soft assets (skills, knowledge, network, etc...) are hugely important, and you need to dedicate time to improve upon them.
-1. 
+1. Studies seem to indicate that when people get referrals to jobs, they tend to be from "weak contacts": people you only see at most once or twice a year, so breadth in your network is handy.
+1. These weak ties tend to give better leads because if your closer contacts know about something, chances are you do too.

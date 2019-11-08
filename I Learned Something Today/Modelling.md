@@ -17,5 +17,7 @@
 1. Working on some [larger figures](https://youtu.be/qqzqCC8RhXI?t=249), or on 2d mediums, can be great for improving your technique. Like with most things, don't try and improve in a million directions at once.
 1. Like with most things, pay attention to what you enjoy and what you don't. This is a hobby, do what you like, but stretch your comfort zone.
 1. You only improve if you figure out what parts went well and what went poorly.
+1. Paint. More. Minis. Try and paint daily if possible. It's the best way to improve.
+1. Read painting blogs like massivevoodoo, or videos like miniac.
 
 # Miniature basing
