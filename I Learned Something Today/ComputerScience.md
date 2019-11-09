@@ -23,7 +23,6 @@
 1. Code is read way more frequently than it's written. Keep that in mind when coming up with names and laying out code.
 1. One of the overarching pieces of advice from Clean Code (R. Martin) and Refactoring (M. Fowler and K.Beck) is that refactoring should be done in more discrete steps than you probably think. In combination with good tests, this means that the code is never broken for too long, and you always know what broke it.
 1. Comments are often a sign that something should be renamed/refactored. Using the actual code to document the code is less prone to rot.
-1. Tests give confidence that errors will be caught. Such confidence means you spend less time deliberating changes, and more time doing them, since mistakes will be caught.
 1. The `Migration` method of refactoring functions is especially handy: instead of trying to fix all references to the old function at once, make the old function call your new one so you can change over one at a time. This is especially useful for API changes, and is a good way to deprecate things without losing DRYness.
 1. "I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.", [Linus Torvalds](https://lwn.net/Articles/193245/)
 1. "... \[Data processing\] is what most programs do most of the time. Sure, there is a computational aspect to programs. There is quality of implementation issues to this, but there is nothing wrong with saying: programs process data. Because data is information. Information systems ... this should be what we are doing, right? ...", [Rich Hickey, Creator of Clojure](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/ClojureMadeSimple.md).
@@ -35,7 +34,6 @@
 1. If you're swapping a reference to a value, don't forget to make sure you have a value-based equality method for it.
 1. If you're using a switch statement, it's worth considering if you could be doing it polymorphically instead. Especially if the logic is complicated or repeated elsewhere.
 1. Consider replacing special case code by making a class/object for the case. I.E.: an `UnkownCustomer` class, that returns the default values, instead of checking everywhere if the customer is unknown then doing special cases.
-1. Consider using assertions to enforce assumptions about your data/inputs. Only do this for things that would be programmer error.
 1. Like Clean Code and Refactoring both suggest, avoid flag arguments if you can. Better to have explicit functions for both cases. Makes things more clear.
 1. Sometimes, like for personal throwaway scripts, clean code isn't worth it. To quote [Larry Hastings](https://www.youtube.com/watch?v=Jd8ulMb6_ls) "Write Sloppy Code, Solve Your Problem".
 1. At least in personal automation stuff: fail fast, and fail loudly.
@@ -50,8 +48,9 @@
 1. If you want to mass-rename stuff, don't copy the files to somewhere else, just make hardlinks to the backup folder.
 1. Running services that use a port below 1024 requires `sudo` (or something like nginx to redirect from one port to another).
 1. `grep [options] [pattern] [file]`. Use it. `-r` does recursive, `-i` does case-insensitive, `-n` gives line numbers too.
+1. To use `scp` to copy a file to a remote server, use something like `scp -i Identity.pem localFile.ext username@domain:/path/to/copy/to`. To copy from, swap the order.
 
-# General Language Stuff
+# Programming Language Theory
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 
 ```
 const greeting = "Hello!";

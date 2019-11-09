@@ -24,6 +24,8 @@ def say_whee():
 1. the `requests` library makes things easy as hecke for dealing with HTTP requests. `request.headers` will get you the dict of headers, `request.json` will get the body of the request.
 1. Use `pip install -r fileName` to install every requirement in the file.
 1. Build your `requirements.py` using `pip freeze > requirements.py`.
+1. `Mypy` is a separate, official, tool, that will do static analysis of your code for type errors. It does this using the type hints.
+1. There are a few contract libraries in Python, but since contract testing is so uncommon, the libraries aren't that great. [Contracts](https://github.com/deadpixi/contracts) is the one [Hillel Wayne](https://www.youtube.com/watch?v=MYucYon2-lk) recommends.
 
 ## venv
 1. Set it up using `pip install virtualenv`.
@@ -37,3 +39,29 @@ def say_whee():
 1. [dataclasses](https://docs.python.org/3/library/dataclasses.html) are a pretty cool code generator Python 3.8 added to provide a bit more power than `namedTuple`. Notably it'll autogenerate an `__init__` and a `__repr__`, plus equality stuff.
 1. Some docs that go into more advanced use cases are [here](https://www.dropbox.com/s/m8pwkkz43qz5pgt/HettingerPycon2018.pdf)
 
+## [Hypothesis](hypothesis.works)
+1. Writing a test in hypothesis is similar to regular ones, but includes a `@given` decorator to let you try and sweep the state space.
+1. Hypothesis will remember any inputs that previously caused a test to fail, and always try those going forward, which seems wild.
+1. You can add parameters to the given as well. For example, this will test lists of integers that contain at least 2 elements:
+```
+@given(lists(integers(), min_size=2))
+def test_fuzz(li):
+	bar(li)
+```
+
+## Contracts
+1. `@require` describes the 
+1. You can write a contract in Contracts like so:
+```
+@require("l must not be empty", lambda args: len(args.l) > 0)
+@ensure("result is tail of list", labda args, result: [args.l[0]] + result == args.l)
+def tail(l: List[Any]) -> List[Any]:
+	output = l[1:]
+	return output
+```
+1. With that tail example, we've actually defined a full spec, so our property test is just:
+```
+@given(lists(integers(), min_size=1))
+def test_tail(li):
+	tail(li)
+```
