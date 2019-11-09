@@ -13,6 +13,9 @@
 1. Generally speaking, you should use the pickaxe instead of `git blame`.
 1. `git annotate file/path` is like git blame, but sounds less mean and outputs in a slightly different format.
 1. If you want to do something and don't know how, [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) probably has something for you.
+1. If you don't need to update the message when ammending, use `git commit --amend -C HEAD` to reuse the commits message of the current head.
+1. `git checkout -` will checkout the last branch you were on. (use `git co -` if you're cool and have a rad alias set up).
+1. If you want to revert a `git rm`, you can use `git checkout HEAD path/to/file` to checkout the file again. It will take multiple files if desired.
 
 ## Tips for maintaining a good commit history
 1. These are all taken from the back half of [Branch In Time, RubyConf2018](https://youtu.be/8OOTVxKDwe0?t=1107).
@@ -24,3 +27,4 @@
   1. the `git commit --amend` option is the most obvious
   1. `git rebase -i` is something to get better at though. You can always `git rebase --abort` though if things go sideways
 1. Build your instincts and get used to searching through history.
+

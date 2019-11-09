@@ -30,3 +30,10 @@ def say_whee():
 1. Create a new venv by using `virtualenv envName` where you want it to live.
 1. Activate a venv using `source envName/bin/activate`.
 1. Deactivate it using `deactivate`
+
+## Code Generators
+1. Code generators, like the name implies, will autogenerate code for you. This is good if the code they generate is the code you want.
+1. These kinds of things are handy, because they'll take a bit of the pressure off of you to remember to write all the little things, and should be pretty well tested.
+1. [dataclasses](https://docs.python.org/3/library/dataclasses.html) are a pretty cool code generator Python 3.8 added to provide a bit more power than `namedTuple`. Notably it'll autogenerate an `__init__` and a `__repr__`, plus equality stuff.
+1. Some docs that go into more advanced use cases are [here](https://www.dropbox.com/s/m8pwkkz43qz5pgt/HettingerPycon2018.pdf)
+
