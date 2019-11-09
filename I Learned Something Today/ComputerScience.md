@@ -45,6 +45,8 @@
 
 # Unix
 1. If you want to mass-rename stuff, don't copy the files to somewhere else, just make hardlinks to the backup folder.
+1. Running services that use a port below 1024 requires `sudo` (or something like nginx to redirect from one port to another).
+
 
 # General Language Stuff
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 

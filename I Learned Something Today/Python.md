@@ -21,3 +21,12 @@ def my_decorator(func):
 def say_whee():
     print("Whee!")
 ```
+1. the `requests` library makes things easy as hecke for dealing with HTTP requests. `request.headers` will get you the dict of headers, `request.json` will get the body of the request.
+1. Use `pip install -r fileName` to install every requirement in the file.
+1. Build your `requirements.py` using `pip freeze > requirements.py`.
+
+## venv
+1. Set it up using `pip install virtualenv`.
+1. Create a new venv by using `virtualenv envName` where you want it to live.
+1. Activate a venv using `source envName/bin/activate`.
+1. Deactivate it using `deactivate`

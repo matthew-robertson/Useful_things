@@ -1,0 +1,1 @@
+1. By default, all AWS instances are in UTC. Info about changing the timezone can be found [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html).
