@@ -48,6 +48,7 @@
 1. `>` in normal mode will indent. `>>` will indent the current line, `>}` will indent the paragraph.
 1. `v` will enter visual mode, useful-ish for selecting blocks to indent, text to yank, or whatever,.
 1. `:81,91y` will yank between lines 81 and 91.
+1. Search and replace is done with `:%s/old/new/`, adding a `g` to the end makes it global, `c` makes it interactive.
 
 ## General Editing
 1. `u` will undo a change
