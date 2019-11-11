@@ -31,6 +31,7 @@ def say_whee():
 from functools import partial
 basetwo = partial(int, base=2)
 basetwo('10010') #18
+```
 1. Magic methods start and end with `__` "dunder". You can implement a few of them to make your objects act like builtins (numbers, lists, dicts, etc..).
   1. `__str__` tells Python how to print out the class when in a string, instead of using `toString()` everywhere.
   1. `__add__`, and also subtractoin, multiplication, etc... lets you overload the mathematical symbols, which is handy.
