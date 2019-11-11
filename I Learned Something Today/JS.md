@@ -16,6 +16,19 @@ interface Person {
     phone?: string;
 }
 ```
+1. TypeScript only supports numeric and string-based enums. If you want an object, you need to emulate them with a class, e.g.:
+```
+export class PizzaSize {
+  static readonly SMALL = new PizzaSize('SMALL', 'A small pizza')
+  static readonly MEDIUM = new PizzaSize('MEDIUM', 'A medium pizza')
+
+  private constructor(private readonly key: string, public readonly value: any) {}
+
+  toString() {
+    return this.key
+  }
+}
+```
 
 ## Chai
 1. `expect(y).to.be.closeTo(x, delta)` can be used to test the equality of floats.

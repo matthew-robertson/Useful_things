@@ -26,6 +26,22 @@ def say_whee():
 1. Build your `requirements.py` using `pip freeze > requirements.py`.
 1. `Mypy` is a separate, official, tool, that will do static analysis of your code for type errors. It does this using the type hints.
 1. There are a few contract libraries in Python, but since contract testing is so uncommon, the libraries aren't that great. [Contracts](https://github.com/deadpixi/contracts) is the one [Hillel Wayne](https://www.youtube.com/watch?v=MYucYon2-lk) recommends.
+1. `functools.partial` lets you build partial functions, which is rad as hell. Eg.:
+```
+from functools import partial
+basetwo = partial(int, base=2)
+basetwo('10010') #18
+1. Magic methods start and end with `__` "dunder". You can implement a few of them to make your objects act like builtins (numbers, lists, dicts, etc..).
+  1. `__str__` tells Python how to print out the class when in a string, instead of using `toString()` everywhere.
+  1. `__add__`, and also subtractoin, multiplication, etc... lets you overload the mathematical symbols, which is handy.
+  1. `__getitem__` lets you use `d['asdf']` notation, which is rad as hell.
+  1. `__len__` lets you overload the built-in `len` to take your class.
+1. You can build custom iterables. To do that, you need to do two things:
+  1. Implement `__iter__()`, which must return an iterator
+  1. Have an iterator, which must implement `__next__()`, which must `raise StopIteration` when there are no more items left.
+  1. Your `Iterator` and your `Iterable` can be the same class, in which `__iter__` can just return self.
+1. You can use getattr in a cool way to make commandline tools, since `getattr` lets you get a function from a class using a string.
+
 
 ## venv
 1. Set it up using `pip install virtualenv`.
