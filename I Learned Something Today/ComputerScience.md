@@ -36,6 +36,11 @@
 1. "For each desired change, make the change easy (warning: this may be hard), then make the easy change." - Kent Beck.
 1. Software is more than just code. Its history is important, and keeping it nicely maintained will pay dividends over time.
 1. Some (wrong) people will say that they do not need type safety because they use unit tests. These people are wrong. Type checks are way safer than tests can ever hope to be, and eliminate an entire category of tests which no longer need to be written.
+1. If you're dealing with data that doesn't fit into memory, you have a few different techniques available to you.
+  1. Get more RAM. This is easy, and often times cheaper than your time. Do this first.
+  1. Compress the data's memory footprint: change ints to chars, to bools, etc...
+  1. Chunk the data: process books one page at a time.
+  1. Index the data: Build an easy way to determine what subset to load. The simplest way is to build a well-named file-structure.
 
 # Unix
 1. If you want to mass-rename stuff, don't copy the files to somewhere else, just make hardlinks to the backup folder.
