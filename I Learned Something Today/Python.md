@@ -44,6 +44,46 @@ basetwo('10010') #18
 1. You can use getattr in a cool way to make commandline tools, since `getattr` lets you get a function from a class using a string.
 
 
+## Typing
+1. Python is strongly, dynamically typed. Every object has a definitive type, but variables can hold anything. Note that it's not completely strongly typed: lots of stuff equates to boolean false.
+1. Type hints look like `def fun(foo: int) -> int`. To do type checking you need `Mypy`, so `pip install mypy`, then call `mypy file.py` to typecheck.
+1. A lot of types can be inferred, which is pretty rad. If it can't, annotating the variable will appease the typechecker. Only do this if needed.
+1. Always annotate the function signatures though, because you're good at your job.
+1. You *can* use `Union` and `Optional`, but you should avoid it if possible to avoid redundant checks to 
+1. importing `Optional` from `typing` lets you do stuff like `get_foo(foo_id: Optional[int])`, which requires either an integer or None.
+1. A better option is to use  the `@overload` decorator which does stuff kinda Haskelly:
+```
+from typing import Optional, overload
+
+@overload
+def get_foo(foo_id: None) -> None:
+  pass
+
+def get_foo(foo_id: int) -> Foo:
+  pass
+
+def get_foo(foo_id: Optional[int]) -> Optional[Foo]:
+  if foo_id is None:
+    return None
+  return Foo(foo_id)
+```
+1. You can do generic functions using `TypeVar`, like so: `AnyStr = TypeVar('AnyStr', str, bytes)`. This is like unioning `str` and `bytes`, but it [ensures that the typevar binds to the same variable throughout any call to the function](https://youtu.be/pMgmKJyWKn8?t=861s).
+1. `AnyStr` itself is actually useful enough that it's built into the `typing` module.
+1. The `Any` type exists as an escape hatch. Don't use it if possible, it'll make the typechecker miss things it should catch.
+1. `Protocols` let you ducktype, and let you build structural subtypes, but might still be part of `typing_extensions` instead of `typing`. Usage looks like:
+```
+from typing_extensions import Protocol
+
+class Renderable(Protocol):
+  def render(self) -> str: ...
+```
+1. There are a few ways to tell the typechecker to take a hike:
+  1. Using the `Any` type. Not great since you loss all benefits of typecasting, but you know
+  1. The `cast` function. `cast(Dict[str, int], get_config_var('my_config'))` lets you lie to the type checker and tell it your object is really of a different type.
+  1. `# type: ignore` will have it completely ignore the line. Kinda messed up. Only use this for type checker bugs
+  1. `.pyi` files let you "lie to the type checker on industrial scale", they just define interfactes to let you type things, without actually checking the types. It is a bit much, so check out the [talk example](https://youtu.be/pMgmKJyWKn8?t=1299).
+1. You can incrementally add typechecking since the typechecker only looks at functions with annotated signatures. [Type-checked Python in the real world](https://youtu.be/pMgmKJyWKn8?t=1480). 
+
 ## venv
 1. Set it up using `pip install virtualenv`.
 1. Create a new venv by using `virtualenv envName` where you want it to live.
