@@ -63,3 +63,4 @@ function greet() {
 }
 ```
 1. Static typing can do wonders for preventing us from writing impossible or partial functions. consider `head :: [a] -> a` which seems simple enough. The typing doesn't work once you pass in an empty array though, and languages like Haskell can tell us that.
+1. Functional Programming style asks you to "Avoid mutation and side effects", which is rad as hell. Why isn't it common? Possibly it just hasn't had enough time.

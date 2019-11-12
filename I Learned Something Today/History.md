@@ -9,6 +9,9 @@
 # Historical Tech
 1. Typewriters had a "lost" key: `⁝`. We don't really know what it was for, but [speculation](http://widespacer.blogspot.com/2016/03/the-lost-key-of-qwerty.html) is that it worked like we use the slash now, to separate lines: "Roses are red/ Violets are blue/ .."
 1. Flicker was sput out of a social web game. They built picture sharing as a side thing for it, and it quickly outgrew the game in popularity.
+1. Bjarne Stroustrup actually built another language before C++: C-with-classes. It wasn't as popular.
+1. OO being so popular is kind of a weird accident of history. For example: C# was designed to be an alternative to Java, which was designed to be familiar to C++ programmers, which didn't get popular because of its OO but for its other features) [Why Isn't Functional Programming the Norm](https://youtu.be/QyJZzq0v7Z4?t=1864)
+1. Python's OO probably isn't why it's so popular, since Ruby was specifically designed to be more Object-oriented than Python and has fallen by the wayside [Why Isn't Functional Programming the Norm?](https://youtu.be/QyJZzq0v7Z4?t=2118)
 
 # General History
 1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)
