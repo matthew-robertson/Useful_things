@@ -14,7 +14,17 @@
 1. (Idempotent methods](http://restcookbook.com/HTTP%20Methods/idempotency/) (Like GET, PUT, and DELETE), should have the same effect everytime for the same inputs.
 1. Safe (Like GET) methods shouldn't change data, just fetch it.
 
+## Microservices
+1. Microservices should be independant. That means you *can* choose the "best" tech for each service. Don't though. You should use the same handfuls of things to prevent re-invention and enable knowledge sharing.
+1. Prefer separate databases/schemas/whatever for each micro-service to maintain clear ownership lines. 
+1. Watch out for dependency versions, especially for in-house frameworks. It's easy to couple micro-services more tightly than you'd expect.
+1. Design with the assumption that things will fail. Otherwise you'll "combine the ocmplexity of a microservice architecture with the rigidity of a monolith"
+1. Having well-defined tools is good, but you *should* let people upgrade or use clearly better tools.
+1. "The key to failure is the hidden monolith." - [David Schmitz](https://youtu.be/X0tjziAQfNQ?t=2396)
+
 ## Devops
+1. Don't be afraid to revert. You should not be leaving broken code in production if you don't have to.
+1. Automate as much as possible, and be comfortable and confident in your CI/CD. It'll eliminate easy mistakes from configuring and deploying things. Here's looking at you, Banned-word-services.
 
 # Software Engineering
 1. According to Kent Beck, software is simple if, in order of importance, it: runs all the tests, is DRY, expresses the writer's intent, and minimizes the amount of classes/functions.

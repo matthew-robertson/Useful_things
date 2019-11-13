@@ -83,6 +83,8 @@ class Renderable(Protocol):
   1. `# type: ignore` will have it completely ignore the line. Kinda messed up. Only use this for type checker bugs
   1. `.pyi` files let you "lie to the type checker on industrial scale", they just define interfactes to let you type things, without actually checking the types. It is a bit much, so check out the [talk example](https://youtu.be/pMgmKJyWKn8?t=1299).
 1. You can incrementally add typechecking since the typechecker only looks at functions with annotated signatures. [Type-checked Python in the real world](https://youtu.be/pMgmKJyWKn8?t=1480). 
+1. `mypy` lets you specify strictness levels, and you should use it as part of your CI process to not regress.
+1. Adding types to legacy code can be a nightmare. `monkeytype` was added to help figure out what types things actually are, and create stub files for modules and aplpy them.
 
 ## venv
 1. Set it up using `pip install virtualenv`.
