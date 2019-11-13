@@ -12,7 +12,7 @@
 
 ## Windows
 1. `ctrl+w v` will vertically split, opening a new window, duplicating the current file.
-1. `ctrl+w s` will horizontally slit.
+1. `ctrl+w s` will horizontally split.
 1. `:vsp /file/path` will vertically split, opening the given file in the new window.
 1. `:sp /file/path` will horizontally split.
 1. `ctrl+w [hjkl]` to navigate between splits/windows.
