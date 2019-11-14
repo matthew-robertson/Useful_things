@@ -33,14 +33,14 @@ basetwo = partial(int, base=2)
 basetwo('10010') #18
 ```
 1. Magic methods start and end with `__` "dunder". You can implement a few of them to make your objects act like builtins (numbers, lists, dicts, etc..).
-  1. `__str__` tells Python how to print out the class when in a string, instead of using `toString()` everywhere.
-  1. `__add__`, and also subtractoin, multiplication, etc... lets you overload the mathematical symbols, which is handy.
-  1. `__getitem__` lets you use `d['asdf']` notation, which is rad as hell.
-  1. `__len__` lets you overload the built-in `len` to take your class.
+ 	1. `__str__` tells Python how to print out the class when in a string, instead of using `toString()` everywhere.
+	1. `__add__`, and also subtractoin, multiplication, etc... lets you overload the mathematical symbols, which is handy.
+	1. `__getitem__` lets you use `d['asdf']` notation, which is rad as hell.
+	1. `__len__` lets you overload the built-in `len` to take your class.
 1. You can build custom iterables. To do that, you need to do two things:
-  1. Implement `__iter__()`, which must return an iterator
-  1. Have an iterator, which must implement `__next__()`, which must `raise StopIteration` when there are no more items left.
-  1. Your `Iterator` and your `Iterable` can be the same class, in which `__iter__` can just return self.
+	1. Implement `__iter__()`, which must return an iterator
+	1. Have an iterator, which must implement `__next__()`, which must `raise StopIteration` when there are no more items left.
+	1. Your `Iterator` and your `Iterable` can be the same class, in which `__iter__` can just return self.
 1. You can use getattr in a cool way to make commandline tools, since `getattr` lets you get a function from a class using a string.
 
 
@@ -78,10 +78,10 @@ class Renderable(Protocol):
   def render(self) -> str: ...
 ```
 1. There are a few ways to tell the typechecker to take a hike:
-  1. Using the `Any` type. Not great since you loss all benefits of typecasting, but you know
-  1. The `cast` function. `cast(Dict[str, int], get_config_var('my_config'))` lets you lie to the type checker and tell it your object is really of a different type.
-  1. `# type: ignore` will have it completely ignore the line. Kinda messed up. Only use this for type checker bugs
-  1. `.pyi` files let you "lie to the type checker on industrial scale", they just define interfactes to let you type things, without actually checking the types. It is a bit much, so check out the [talk example](https://youtu.be/pMgmKJyWKn8?t=1299).
+	1. Using the `Any` type. Not great since you loss all benefits of typecasting, but you know
+	1. The `cast` function. `cast(Dict[str, int], get_config_var('my_config'))` lets you lie to the type checker and tell it your object is really of a different type.
+	1. `# type: ignore` will have it completely ignore the line. Kinda messed up. Only use this for type checker bugs
+	1. `.pyi` files let you "lie to the type checker on industrial scale", they just define interfactes to let you type things, without actually checking the types. It is a bit much, so check out the [talk example](https://youtu.be/pMgmKJyWKn8?t=1299).
 1. You can incrementally add typechecking since the typechecker only looks at functions with annotated signatures. [Type-checked Python in the real world](https://youtu.be/pMgmKJyWKn8?t=1480). 
 1. `mypy` lets you specify strictness levels, and you should use it as part of your CI process to not regress.
 1. Adding types to legacy code can be a nightmare. `monkeytype` was added to help figure out what types things actually are, and create stub files for modules and aplpy them.
