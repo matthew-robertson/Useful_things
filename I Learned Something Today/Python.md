@@ -8,6 +8,7 @@
 1. `os.system()` won't throw an exception on errors. You need to use `subprocess.run(... check=True)` if you want to deal with errors from it.
 1. You can declare regular functions inside of other functions, not just lambdas.
 1. The format for making lambdas is `x = lambda a, b : a * b`
+1. Python pre-allocates the integers -5 to 256, so `x = 4; y = 4; x is y` will return true, while `x = 257; y = 257; x is y` will be false. Interestingly, it'll reuse the same object inline, so `257 is 257` will still be true, but for some reason `-6 is -6` will still result in false.
 1. Decorators are a pretty nifty way to wrap functions and have them execute the same functionality. They look roughly like this:
 ```
 def my_decorator(func):
