@@ -7,6 +7,10 @@
 1. `0 === -0` will return true. If you explicitly want to check for negative 0, you should use `Object.is(x, -0)` instead. [Source](https://eslint.org/docs/rules/no-compare-neg-zero)
 1. As of ES6, you can use variables as object keys like so `const key = 'asdf'; const bar = {[key]: 'foo'}`
 1. You can destructure arrays in js like so `const [asdf, fdsa] = [1, 2]`. This is similar to object destructuring, but has existed longer.
+1. the `arguments` keyword exists in functions, which is... cool, I guess? It doesn't exist in the scope of an arrow function.
+1. `var` is function scoped, while `let` is block scoped.
+1. `console.log` doesn't print the full object, and will evaluate it when expanded. This can lead one to tear their hair out when logging objects that change. Get around this by cloning the object before the initial print.
+1. You can assign default parameters like `function foo(bar=10) {...}`, which is pretty tame. It gets nutty when you start using arguments as parameters to other default values like so: `function foo(bar, baz=test(bar)) {...}`.
 
 ## Typescript
 1. In interface definitions, `?` can be used to mark optional parameters, like 
@@ -44,6 +48,7 @@ export class PizzaSize {
 1. Hooks need to always be created, and in the same order. As a fun joke "You really love hooks. In fact, you love them unconditionally."
 1. To do your cleanup stuff in hooks, like in `componentDidUnmount`, return a void function describing what it should do.
 1. If can get annoying using a billion useState bits, so you may want to combine it into a single object. You can do that with the builtIn `useReducer`.
+1. the `set` part of `useState`, like the `setState` in class-based components, executes on the next tick. This can cause timing/overwriting issues if you call it without batching updates.
 1. The Container/view pattern is a pretty handy simple pattern, where you factor out views (which render the dom elements), and the containers (which deal wth side-effects and state and whatnot).
 1. Higher-order components are functions that take at least one component as a param, and return a component, usually augmenting it. These components compose super well
 1. The Render Props pattern is used almost like when composing partial functions, and lets you do stuff like HOC does. They don't compose well though:

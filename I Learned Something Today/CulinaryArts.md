@@ -25,3 +25,6 @@
 1. Tonic water will glow under a UV light because of the quinine alkaloids in it.
 1. Vermouth is still a wine, and will go bad. Keep it in the fridge, use smaller bottles to fight oxidization.
 1. The beer in beer batter is used largely because the boiling point is lower than water, and disrupts gluten formation. This is also why vodka is used in some batters. [Flavor-wise you want something malty and not bitter](https://cooking.stackexchange.com/a/103312)
+
+## Food Oddities
+1. Frozen Florida is an inverted [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), which seemingly can only be produced in a microwave. It's weird.

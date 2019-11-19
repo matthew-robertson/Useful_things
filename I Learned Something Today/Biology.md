@@ -9,6 +9,9 @@
 1. The feather trade blew up on account of women's fashion (mostly hats), and was subsequently largly banned, also thanks largely to women.
 1. The Underwood Tariff Act banned the import of feathers in 1918.
 
+# Mammals
+1. Cats, unlike all other mammals we've examined, can not taste sweetness. They can taste some other stuff we can't though. [Scientific American](https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/)
+
 # Human medicine
 1. Auto-brewery syndrome is a bizarre condition where people end up with brewer's yeast taking over their intestines, turning the carbs they eat into alcohol and making them constantly drunk. (Sawbones: Auto-brewery Syndrome)
 1. Short Gut Syndrome is exactly what it sounds like, and might cause auto-brewery syndrome.  (Sawbones: Auto-brewery Syndrome)
