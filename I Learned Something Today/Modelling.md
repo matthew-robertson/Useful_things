@@ -6,6 +6,8 @@
 1. Scenic glue (very watered down PVA glue) is super handy for "setting" things like sand, gravel, etc...
 1. If you're building a corner for terrain, you can either do additive stuff and build actual bricks, or you can fake it by butting the walls against a "corner" piece that has the right texture.
 1. Tinfoil balls are great for adding texture. Make sure to do it before you use a brick cylinder (or whatever), since doing it after can distort patterns in weird ways.
+1. Warping is often caused by applying glue to a side, which shrinks when it dries and causes the side to pull. Ways around this include applying glues that warp less, differently shaped bases, or applying glue to both sides.
+1. Chip board in particular is known for warping.
 
 # Miniature painting
 1. "If you're spending 100 hours on a miniature, spend 60 of those on the face" - some miniac video. The face is where people should be looking. Make sure it looks good.
