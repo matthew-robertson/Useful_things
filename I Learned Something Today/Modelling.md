@@ -8,6 +8,7 @@
 1. Tinfoil balls are great for adding texture. Make sure to do it before you use a brick cylinder (or whatever), since doing it after can distort patterns in weird ways.
 1. Warping is often caused by applying glue to a side, which shrinks when it dries and causes the side to pull. Ways around this include applying glues that warp less, differently shaped bases, or applying glue to both sides.
 1. Chip board in particular is known for warping.
+1. Corkboard can be used to make fake rocks, which is pretty neat.
 
 # Miniature painting
 1. "If you're spending 100 hours on a miniature, spend 60 of those on the face" - some miniac video. The face is where people should be looking. Make sure it looks good.
@@ -21,5 +22,12 @@
 1. You only improve if you figure out what parts went well and what went poorly.
 1. Paint. More. Minis. Try and paint daily if possible. It's the best way to improve.
 1. Read painting blogs like massivevoodoo, or videos like miniac.
+
+## Airbrushing
+1. Airbrush cups come in two main varieties:
+  1. Gravity-fed: the paint comes from the top in a cup.
+  1. Siphon-fed: The paint comes from below, letting you use more paint at once, at the expense of being harder to change paints.
+1. Most airbrushes mix paint internally, to let the paint come out in a finer spray.
+1. Airbrushes don't push the paint out, like you'd expect, but "pull" it out via a low-pressure zone in the front of the airbrush.
 
 # Miniature basing
