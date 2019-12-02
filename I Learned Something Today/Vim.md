@@ -4,7 +4,7 @@
 1. `:n` and co will switch between files.
 1. CtrlP is a godsend. Use `<c-t>` to open the found file in a new tab
 1. `:e /file/path` will activate a new buffer at the given filepath.
-1. `:bd` will close the active buffer.
+1. `:bd` will close the active buffer. Adding a number afterwards will close a specific buffer. You can also use tab completion and do it by name.
 1. `:bp`, `:bn` switch between buffers.
 1. `:buffers` will list all buffers currently in memory.
 1. `:b` will go to the specific buffer, using a buffer number or a partial filename
@@ -16,6 +16,7 @@
 1. `:vsp /file/path` will vertically split, opening the given file in the new window.
 1. `:sp /file/path` will horizontally split.
 1. `ctrl+w [hjkl]` to navigate between splits/windows.
+1. Splits can be re-equalised (after changing the terminal size or whatever) using `Ctrl+w =`.
 
 ## In-File Navigation
 1. `/` will search, using a regex for the next occurrence of what you search for. `n` afterwards will go to the next occurrence.
@@ -53,3 +54,4 @@
 ## General Editing
 1. `u` will undo a change
 1. `ctrl+r` will redo a change.
+

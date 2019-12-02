@@ -58,7 +58,8 @@
 1. `grep [options] [pattern] [file]`. Use it. `-r` does recursive, `-i` does case-insensitive, `-n` gives line numbers too.
 1. To use `scp` to copy a file to a remote server, use something like `scp -i Identity.pem localFile.ext username@domain:/path/to/copy/to`. To copy from, swap the order.
 
-# Programming Language Theory
+# General Language Stuff
+1. Floating point math, amirite? It means `0.1 + 0.2 != 0.3`, thanks to issues with representing necesarry rounding to store floats/doubles in memory.
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 
 ```
 const greeting = "Hello!";
@@ -73,4 +74,9 @@ function greet() {
 }
 ```
 1. Static typing can do wonders for preventing us from writing impossible or partial functions. consider `head :: [a] -> a` which seems simple enough. The typing doesn't work once you pass in an empty array though, and languages like Haskell can tell us that.
+
+## Functional Programming
 1. Functional Programming style asks you to "Avoid mutation and side effects", which is rad as hell. Why isn't it common? Possibly it just hasn't had enough time.
+1. [Persistent Data Structures](https://en.wikipedia.org/wiki/Persistent_data_structure) are versions of arrays, lists, trees, etc... that are 1) immutable, and 2) support a "copy with small change" operation that it does extremely efficiently to avoid slowdown from editing large structures. [Russ Olsen, FP in 40 minutes](https://youtu.be/0if71HOyVjY?t=1355)
+1. Atoms in clojure help bridge between functions and state, and function by applying a function using their current value, then updating their value to reflect the result of the function. They get around timing trickiness by detecting if the value changed out from under it, and if so, re-run it.
+1. There are a lot of things FP won't help you with, but it *will* prevent threads changing values out from under other threads. It might have the wrong version, but it won't be garbage.
