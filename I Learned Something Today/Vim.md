@@ -16,6 +16,7 @@
 1. `:vsp /file/path` will vertically split, opening the given file in the new window.
 1. `:sp /file/path` will horizontally split.
 1. `ctrl+w [hjkl]` to navigate between splits/windows.
+1. Splits can be re-equalised (after changing the terminal size or whatever) using `Ctrl+w =`.
 
 ## In-File Navigation
 1. `/` will search, using a regex for the next occurrence of what you search for. `n` afterwards will go to the next occurrence.
@@ -53,3 +54,4 @@
 ## General Editing
 1. `u` will undo a change
 1. `ctrl+r` will redo a change.
+
