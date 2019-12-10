@@ -110,7 +110,7 @@ def test_fuzz(li):
 ```
 
 ## Contracts
-1. `@require` describes the 
+1. `@require` describes the precondition, `ensure` describes the postcondition.
 1. You can write a contract in Contracts like so:
 ```
 @require("l must not be empty", lambda args: len(args.l) > 0)
