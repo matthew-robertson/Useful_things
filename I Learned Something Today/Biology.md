@@ -17,3 +17,5 @@
 1. Short Gut Syndrome is exactly what it sounds like, and might cause auto-brewery syndrome.  (Sawbones: Auto-brewery Syndrome)
 1. While your short intestine is about 20ft long, a lot of it isn't strictly speaking necessary. You'll be ok-ish with as little as 6ft. (Sawbones: Auto-brewery Syndrome)
 1. Ben Franklin was one of the first to confront the myth that being wet in the cold would get you sick. He knew this because he knew so many sailors, and they weren't constantly sick. (Sawbones: Ben Franklin)
+1. Vitamin B12 deficiency is super common, especially in vegans.
+1. You only need about 2.4mcg of B12 a day, which is weird given the pills are about 1000mcg. This is because bio-availability is super low, and you'll only absorb about 10mcg of a 500mcg supplement.
