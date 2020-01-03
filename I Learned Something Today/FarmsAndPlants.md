@@ -12,6 +12,13 @@
 1. To help warm climate oranges turn orange, ethylene may be used to speed up ripening and the breakdown of chlorophyll. In addition, Texan and Floridian farmers can use Citrus Red No. 2 dye, if the fruit is for peeling and eating, but not juicing (like fruit for grocery stores is assumed to be).
 1. Things like turmeric and ginger are rhizomes (underground stems?) unlike carrots or potatoes.
 1. Chipotles are just dried jalapeños. This fact seems to be as surprising to everyone else as it was to you.
+1. Guarana is about 4 times as caffeine-rich as coffee beans, which is kinda wild. It also seems to react with alcohol in a way that caffeine alone doesn't, and is pretty dangerous to combine as a result. Quite a few people have died from the combination (A Grain of Salt, dr. Joe Schwarcz).
+1. Washed poppy seeds, like you'd find on bagels or in noodles, are unlikely to cause any opioid-related effect outside of failing a drug test. Unwashed poppy seeds, like seen in "poppy seed tea" can be used to overdose somewhat easily. (A Grain of Salt, dr. Joe Schwarcz).
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)
+
+## Other Food Production
+1. Greek yogurt production is terrible for the environment, taking about 4 times as much milk to make as regular yogurt (which already takes quite a lot of water to raise the cows, etc..)
+1. Greek Yogurt byproducts (whey) is hard to dispose of, and protein supplements can't use all of what we produce. This is because dumping it into water will cause the whey to absorb most of the oxygen in the water and suffocate sealife (A Grain of Salt, dr. Joe Schwarcz).
+1. Icecream is often manufactured using cellulose from wood pulp. Its purpose is to absorb water and prevent bad refreezing. This is because icecream is smooth due to the small ice crystals in it, caused by agitation during freezing. When you take icecream out of the freezer the top layer melts a bit, if it refroze after that, it would form larger ice crystals and create a crunchy top layer.
