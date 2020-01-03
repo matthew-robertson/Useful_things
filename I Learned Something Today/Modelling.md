@@ -23,6 +23,7 @@
 1. Paint. More. Minis. Try and paint daily if possible. It's the best way to improve.
 1. Read painting blogs like massivevoodoo, or videos like miniac.
 
+
 ## Airbrushing
 1. Airbrush cups come in two main varieties:
   1. Gravity-fed: the paint comes from the top in a cup.
@@ -31,3 +32,7 @@
 1. Airbrushes don't push the paint out, like you'd expect, but "pull" it out via a low-pressure zone in the front of the airbrush.
 
 # Miniature basing
+
+# Model Assembling
+1. Mold-lines are pretty uncool. Using an xacto-knife is probably the easiest way to remove them.
+1. When removing pieces from sprues, don't clip next to the part: it'll stress the plastic and possibly remove more than you want. You should leave a nub behind and either sand it off or snip it after it's off the sprue (with an xacto or otherwise).
