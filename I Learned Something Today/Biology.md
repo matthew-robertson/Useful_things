@@ -19,3 +19,6 @@
 1. Ben Franklin was one of the first to confront the myth that being wet in the cold would get you sick. He knew this because he knew so many sailors, and they weren't constantly sick. (Sawbones: Ben Franklin)
 1. Vitamin B12 deficiency is super common, especially in vegans.
 1. You only need about 2.4mcg of B12 a day, which is weird given the pills are about 1000mcg. This is because bio-availability is super low, and you'll only absorb about 10mcg of a 500mcg supplement.
+1. Evidence for the benefits of cryotherapy is far outstripped by claims. It does, however, produce a powerful placebo effect (A Grain of Salt, Dr. Joe Schwarcz).
+1. Lots of nutrition studies are pretty spurious, but as far as research goes, the idea that 5-10 servings of fruits/veg per day will help prevent cancer is about as iron-clad as it gets. (A Grain of Salt, Dr. Joe Schwarcz).
+1. Beef has been linked to increased rates of colon cancer, likely due to the oxidation of the iron in it. Not every study has found such a link, but almost every one testing processed meats has found one (A Grain of Salt, Dr. Joe Schwarcz).
