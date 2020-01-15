@@ -2,6 +2,7 @@
 1. The Southern Part of the [San Andreas Fault](https://en.wikipedia.org/wiki/San_Andreas_Fault#The_next_%22Big_One%22) hasn't had an earthquake in 300 years.
 This is because the plates there have been ground so smooth that no small earthquakes can happen there. When the plates inevitably slip, it'll cause "the big one",
 since the plates won't have enough dynamic friction to stop moving in a short period of time.
+1. When an earthquake moves on a fault, every point on the faults surface produces shaking. So vertical faults (like San Andreas) concentrate shaking on a single line, while ones in a subduction zone cause strong shaking in a wider area.
 
 # Volcanos
 1. There are three kinds of volcanos:
@@ -11,6 +12,6 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 1. Iceland is incredibly special among volcano having spaces. It's a hot spot coinciding with a mid-ocean ridge, causing way more magma than usual to surface. The whole country is essentially an active volcano, and its oldest rock is 13.5 million years old (The Big Ones, pg.70, ebook).
 
 # Plate Tectonics
-1. The continental crust is made of lighter and weakre rock than the ocean floor, which is kinda wild. This caused issues with the idea of continental drift, as the idea that the contintents were pushing themselves apart would be, and I quote "Like pushing a marshmalow through a brick" - The Big Ones, pg.69
+1. The continental crust is made of lighter and weakre rock than the ocean floor, which is kinda wild. This caused issues with the idea of continental drift, as the idea that the contintents were pushing themselves apart would be, and I quote "Like pushing a marshmallow through a brick" - The Big Ones, pg.69
 1. It turns out, the continents are just carried along by the movement of lithospheric plates. Interestingly, this leads to the ocean floor being - relatively speaking - rather new: the oldest findings on the ocean floor are under 200 million years old, while the oldest continental rock is 3.7 billion.
 1. What happens to all the old parts of the Earth's crust? subduction zones happen. When plates collide here, one gets forced down and is (slowly, bit by bit) melted and recycled.
