@@ -1,3 +1,14 @@
+## Gardening
+1. Some herbs that are a bit more shade (and Canadian winter) tolerant: parsley, basil, cilantro, catnip, oregano, and rosemary.
+1. Don't overwater your ding dang plants, nerd.
+1. "You can read all kinds of things, but you only start learning when your favourite plants start dying." - NicolasCageLovesMe, reddit.
+1. ["Square Foot Gardening"](https://en.wikipedia.org/wiki/Square_foot_gardening) is apparently pretty good for beginners.
+1. When harvesting basil (and possibly all plants?) you shouldn't take more than 1/3 of the plant if you want it to keep growing.
+1. Harvesting leaves near the top of the plan encourages bushier growth, taking ones lower down encourages taller growth.
+1. Pretty much all watering is done by watering until water comes out the drainage holes. What changes from plant to plant is how often you do it.
+1. Pots with drainage! Otherwise you'll have to dump out water or whatever.
+1. Don't repot too often, it'll make plants go into shock, and make them pretty unhappy.
+
 ## Plants
 1. Hops apparently heat up after being picked, like a compost heap does. Hopyard fires were a common occurance early in the hop-growing days (The Drunken Botanist, 217).
 1. Due to the way smell differs, there's a chemical (phenyl-acetic acid) that half the population thinks is like honey, and the other half is reminded of urine.
