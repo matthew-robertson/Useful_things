@@ -3,6 +3,7 @@
 This is because the plates there have been ground so smooth that no small earthquakes can happen there. When the plates inevitably slip, it'll cause "the big one",
 since the plates won't have enough dynamic friction to stop moving in a short period of time.
 1. When an earthquake moves on a fault, every point on the faults surface produces shaking. So vertical faults (like San Andreas) concentrate shaking on a single line, while ones in a subduction zone cause strong shaking in a wider area.
+1. Earthquakes in China are different, since it doesn't seem to be near the edge of a plate, but still gets them. This seems to be because India's movement northward isn't just pushing the Himalayas up, but pushing China out of the was. This is because pushing mountains up progressively higher takes more and more work, and at some point it became easier to move China than to raise the Himalayas.
 
 # Volcanos
 1. There are three kinds of volcanos:
@@ -18,3 +19,9 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 
 # Rivers
 1. Rivers naturally meander, and naturally create levees. This is because faster moving parts pick up silt that is deposited by slower moving parts.
+
+# Tsunamis
+1. Magnitude 8 tsunamis can produce locally devastating tsunamis, but 8.5 is necessary to move enough traverse an ocean basin.
+1. Tsunamis are waves with multiple peaks and troughs, like ripples from a rock dropping in the water. How far apart they are and their relative size depends on the shape of the sea floor.
+1. If a trough hits land first, the first sign of a tsunami is seawater receding disconcertingly fast.
+1. Damage in a tsunami is mostly dealt by the currents, not by the flooding. It travels through the ocean roughly at the speed of a jet, but as water shallows out it will slow down to the speed of a car. Unsurprisingly, that much water moving at 20mph carries a lot of energy.
