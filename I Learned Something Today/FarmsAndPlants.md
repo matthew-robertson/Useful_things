@@ -8,6 +8,8 @@
 1. Pretty much all watering is done by watering until water comes out the drainage holes. What changes from plant to plant is how often you do it.
 1. Pots with drainage! Otherwise you'll have to dump out water or whatever.
 1. Don't repot too often, it'll make plants go into shock, and make them pretty unhappy.
+1. Rotate the pots occasionally to prevent them getting leggy and leaning towards the light.
+1. Parsley and chives are lower-light plants, but most herbs require full light.
 
 ## Plants
 1. Hops apparently heat up after being picked, like a compost heap does. Hopyard fires were a common occurance early in the hop-growing days (The Drunken Botanist, 217).

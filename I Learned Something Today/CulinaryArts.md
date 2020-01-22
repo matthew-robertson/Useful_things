@@ -26,5 +26,26 @@
 1. Vermouth is still a wine, and will go bad. Keep it in the fridge, use smaller bottles to fight oxidization.
 1. The beer in beer batter is used largely because the boiling point is lower than water, and disrupts gluten formation. This is also why vodka is used in some batters. [Flavor-wise you want something malty and not bitter](https://cooking.stackexchange.com/a/103312)
 
-## Food Oddities
+## Molecular Gastronomy
 1. Frozen Florida is an inverted [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), which seemingly can only be produced in a microwave. It's weird.
+1. Umami is tassted thanks to the amino acid glutamate. GMP and IMP also contribute significantly to umami, and all three are synergystic. GMP is more common in vegetable sources, while IMP is more common in animal ones. Hence the combos of Cheese+tomato sauce, and katsuboshi+kombu.
+
+## Kitchen management
+1. Kitchen zoning. Separate things by purpose, keep things near where you'll use it, and set things up like a grocery store. Stuff like:
+  1. Pantry
+    1. Rice/oats/pasta
+    1. Sugars
+    1. flours
+  1. Cleaning supplies
+  1. Tools
+  1. Pots/pans
+  1. Spices
+  1. Glasses
+1. Use Drawer organizers/shelf inserts and make more efficient use of space.
+1. "Combine like things. Spoons with spoons."
+1. Open top containers are rad for things.
+1. Use lots of food storage containers.
+1. Cutting board racks can be useful for pot lids.
+1. Hang things that can be hung.
+1. Keep your counters clean. Clean station, clean mind.
+1. Do all these things to your fridge too.

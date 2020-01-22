@@ -19,3 +19,4 @@
 1. In the wake of [The Great Flood of 1862](https://en.wikipedia.org/wiki/Great_Flood_of_1862), the whole city of Sacramento was raised 9-14 feet. This is a wild idea (The Big Ones, pg. 102, ebook).
 1. In the 1900's, people [reversed the flow of the Chicago River](https://en.wikipedia.org/wiki/Chicago_River#Reversing_the_flow). Mostly because the river was dirty as hell, and was in danger of causing some serious health issues.
 1. A day after the Kanto region was devastated by a 7.9 earthquake, the ministry of home affairs proclaimed martial law. Vigilantes, imperial soldiers, and police murdered at least 6000 Koreans and Japanese socialists.
+1. Pope John XII (955-964) was super young (between 18 and 25) when he became pope. He also was allegedly [murdered by the jealous husband of the woman with whom he was in bed](https://en.wikipedia.org/wiki/List_of_popes_who_died_violently), which is wild.

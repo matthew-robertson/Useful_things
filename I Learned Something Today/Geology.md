@@ -25,3 +25,6 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 1. Tsunamis are waves with multiple peaks and troughs, like ripples from a rock dropping in the water. How far apart they are and their relative size depends on the shape of the sea floor.
 1. If a trough hits land first, the first sign of a tsunami is seawater receding disconcertingly fast.
 1. Damage in a tsunami is mostly dealt by the currents, not by the flooding. It travels through the ocean roughly at the speed of a jet, but as water shallows out it will slow down to the speed of a car. Unsurprisingly, that much water moving at 20mph carries a lot of energy.
+
+# Hurricanes
+1. 
