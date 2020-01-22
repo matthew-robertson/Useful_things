@@ -14,6 +14,7 @@
 1. Chipotles are just dried jalapeños. This fact seems to be as surprising to everyone else as it was to you.
 1. Guarana is about 4 times as caffeine-rich as coffee beans, which is kinda wild. It also seems to react with alcohol in a way that caffeine alone doesn't, and is pretty dangerous to combine as a result. Quite a few people have died from the combination (A Grain of Salt, dr. Joe Schwarcz).
 1. Washed poppy seeds, like you'd find on bagels or in noodles, are unlikely to cause any opioid-related effect outside of failing a drug test. Unwashed poppy seeds, like seen in "poppy seed tea" can be used to overdose somewhat easily. (A Grain of Salt, dr. Joe Schwarcz).
+1. Kelp grows half a meter a day. What the heck.
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)
