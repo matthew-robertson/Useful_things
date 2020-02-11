@@ -34,5 +34,5 @@
 
 ## Other Food Production
 1. Greek yogurt production is terrible for the environment, taking about 4 times as much milk to make as regular yogurt (which already takes quite a lot of water to raise the cows, etc..)
-1. Greek Yogurt byproducts (whey) is hard to dispose of, and protein supplements can't use all of what we produce. This is because dumping it into water will cause the whey to absorb most of the oxygen in the water and suffocate sealife (A Grain of Salt, dr. Joe Schwarcz).
+1. Greek Yogurt byproducts (whey) are hard to dispose of, and protein supplements can't use all of what we produce. This is because dumping it into water will cause the whey to absorb most of the oxygen in the water and suffocate sealife (A Grain of Salt, dr. Joe Schwarcz).
 1. Icecream is often manufactured using cellulose from wood pulp. Its purpose is to absorb water and prevent bad refreezing. This is because icecream is smooth due to the small ice crystals in it, caused by agitation during freezing. When you take icecream out of the freezer the top layer melts a bit, if it refroze after that, it would form larger ice crystals and create a crunchy top layer.
