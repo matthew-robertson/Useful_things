@@ -9,6 +9,7 @@
 1. Warping is often caused by applying glue to a side, which shrinks when it dries and causes the side to pull. Ways around this include applying glues that warp less, differently shaped bases, or applying glue to both sides.
 1. Chip board in particular is known for warping.
 1. Corkboard can be used to make fake rocks, which is pretty neat.
+1. Hot glue is one of your best friends for attaching things.
 
 # Miniature painting
 1. "If you're spending 100 hours on a miniature, spend 60 of those on the face" - some miniac video. The face is where people should be looking. Make sure it looks good.
@@ -22,6 +23,8 @@
 1. You only improve if you figure out what parts went well and what went poorly.
 1. Paint. More. Minis. Try and paint daily if possible. It's the best way to improve.
 1. Read painting blogs like massivevoodoo, or videos like miniac.
+1. Makeup brushes make for good dry-brushing brushes. Only use your dry-brushes for dry-brushing. It'll shred brushes.
+1. OSL (Object Source Lighting) is hard as hell. A decent technique is to do all your regular painting, and then apply a glaze to try and get the glow you want. Increase brightness/intensity nearer to the light source (for instance, using a really bright blue or even white highlights for something glowing blue)
 
 
 ## Airbrushing
@@ -35,4 +38,5 @@
 
 # Model Assembling
 1. Mold-lines are pretty uncool. Using an xacto-knife is probably the easiest way to remove them.
+1. Emery boards are also super useful tools for removing mold-lines and nubs. Especially the flexible tube ones.
 1. When removing pieces from sprues, don't clip next to the part: it'll stress the plastic and possibly remove more than you want. You should leave a nub behind and either sand it off or snip it after it's off the sprue (with an xacto or otherwise).
