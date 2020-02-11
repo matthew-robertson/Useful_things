@@ -28,7 +28,7 @@
 
 ## Molecular Gastronomy
 1. Frozen Florida is an inverted [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), which seemingly can only be produced in a microwave. It's weird.
-1. Umami is tassted thanks to the amino acid glutamate. GMP and IMP also contribute significantly to umami, and all three are synergystic. GMP is more common in vegetable sources, while IMP is more common in animal ones. Hence the combos of Cheese+tomato sauce, and katsuboshi+kombu.
+1. Umami is tasted thanks to the amino acid glutamate. GMP and IMP also contribute significantly to umami, and all three are synergystic. GMP is more common in vegetable sources, while IMP is more common in animal ones. Hence the combos of Cheese+tomato sauce, and katsuboshi+kombu.
 
 ## Kitchen management
 1. Kitchen zoning. Separate things by purpose, keep things near where you'll use it, and set things up like a grocery store. Stuff like:
