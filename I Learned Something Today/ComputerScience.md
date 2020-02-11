@@ -18,7 +18,7 @@
 1. Microservices should be independant. That means you *can* choose the "best" tech for each service. Don't though. You should use the same handfuls of things to prevent re-invention and enable knowledge sharing.
 1. Prefer separate databases/schemas/whatever for each micro-service to maintain clear ownership lines. 
 1. Watch out for dependency versions, especially for in-house frameworks. It's easy to couple micro-services more tightly than you'd expect.
-1. Design with the assumption that things will fail. Otherwise you'll "combine the ocmplexity of a microservice architecture with the rigidity of a monolith"
+1. Design with the assumption that things will fail. Otherwise you'll "combine the complexity of a microservice architecture with the rigidity of a monolith"
 1. Having well-defined tools is good, but you *should* let people upgrade or use clearly better tools.
 1. "The key to failure is the hidden monolith." - [David Schmitz](https://youtu.be/X0tjziAQfNQ?t=2396)
 
@@ -28,7 +28,7 @@
 
 ## Scalability
 1. Vertical scaling is the easiest. If you're bounded by RAM: throw more money at the machine and pack more ram in it. This is a problem though, because you'll eventually run out of money or hit the state of the art.
-1. Horizontal scaling is a little nicer, but involves parallelizing the problem in som way so that many machines can do your work. Some issues with this:
+1. Horizontal scaling is a little nicer, but involves parallelizing the problem in some way so that many machines can do your work. Some issues with this:
   1. You need to figure out how to load balance, i.e.: distribute the traffic among the backend servers. A decent way is to have a public server that just determines what backend server to use. This means the backend servers can use exclusively private IPs, which is nice.
   1. You need to decide if you have a bunch of services, or a bunch of clones of a monolith. The latter ends up eating up a lot more diskspace, but is more redundant.
 1. load balancing strategies:
@@ -93,7 +93,7 @@ function greet() {
 1. Static typing can do wonders for preventing us from writing impossible or partial functions. consider `head :: [a] -> a` which seems simple enough. The typing doesn't work once you pass in an empty array though, and languages like Haskell can tell us that.
 
 ## Functional Programming
-1. Functional Programming style asks you to "Avoid mutation and side effects", which is rad as hell. Why isn't it common? Possibly it just hasn't had enough time.
+1. Functional Programming style asks you to "Avoid mutation and side effects", which is rad as hell. Why isn't it more common? Possibly it just hasn't had enough time.
 1. [Persistent Data Structures](https://en.wikipedia.org/wiki/Persistent_data_structure) are versions of arrays, lists, trees, etc... that are 1) immutable, and 2) support a "copy with small change" operation that it does extremely efficiently to avoid slowdown from editing large structures. [Russ Olsen, FP in 40 minutes](https://youtu.be/0if71HOyVjY?t=1355)
 1. Atoms in clojure help bridge between functions and state, and function by applying a function using their current value, then updating their value to reflect the result of the function. They get around timing trickiness by detecting if the value changed out from under it, and if so, re-run it.
 1. There are a lot of things FP won't help you with, but it *will* prevent threads changing values out from under other threads. It might have the wrong version, but it won't be garbage.
