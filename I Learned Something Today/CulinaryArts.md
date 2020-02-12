@@ -12,6 +12,9 @@
 1. Cooking beans in the oven helps them keep their shape better.
 1. You can keep butter emulsified while melting it by shaking the pan somewhat violently. It'll keep the water in it.
 1. You want olive oil in smaller containers, and in dark containers, to prevent it going rancid.
+1. Crack eggs one at a time into a small bowl before adding them to all the eggs you're cracking. Easier to avoid bad eggs that way.
+1. Crack eggs on a flat surface. Doing it on a bowl edge or something like that can send shards of shell into the egg, and risks contamination.
+1. If you're plating something crispy that you want a sauce for (fish was what this was mentioned for), plate the sauce first and put the crispy thing on top. This will help you prevent crispy things from getting soggy.
 
 ## Alcohol
 1. Gin is just a neutral alcohol (essentially, vodka), infused with a bunch of botanicals: mainly juniper.
@@ -49,3 +52,8 @@
 1. Hang things that can be hung.
 1. Keep your counters clean. Clean station, clean mind.
 1. Do all these things to your fridge too.
+1. Manage your mise. Have tons of pinch bowls and whatnot for it. Cook calmly. [BA Restaurant tips](https://www.youtube.com/watch?v=A8g-bt9GbRk)
+1. Label and date all your things. Painter's tape is fantastic. [BA Restaurant tips](https://www.youtube.com/watch?v=A8g-bt9GbRk)
+1. Consolidate into smaller containers as you use things, to save space. Deli containers are amazing. [Carla's tip](https://youtu.be/A8g-bt9GbRk?t=119)
+1. Have lots of towels. Keep a dry towel for grabbing hot things, and have a second towel for drying your hands. Don't mix them up because you'll burn yourself. You've done this accidentally when washing your hands just before putting on cloth oven mitts. [BA Restaurant tips](https://www.youtube.com/watch?v=A8g-bt9GbRk)
+1. Use *clap* your *clap* freezer! Freeze chilis and grate them later, freeze big batches of sauces, whatever. To quote [Priya](https://youtu.be/A8g-bt9GbRk?t=527): "I use my freezer kind of like a pantry. I freeze everything".
