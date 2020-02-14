@@ -12,6 +12,11 @@
 # Mammals
 1. Cats, unlike all other mammals we've examined, can not taste sweetness. They can taste some other stuff we can't though. [Scientific American](https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/)
 
+# Humans in general
+1. "Brown is a colour that doesn't really exist" - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
+1. "Brown is a colour that exists due to context, not wavelength"
+1. Magenta is a colour that our brains made up, detected by things emitting high and low wavelength light, but not much in the middle. This is why it isn't in the rainbow. - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
+
 # Human medicine
 1. Auto-brewery syndrome is a bizarre condition where people end up with brewer's yeast taking over their intestines, turning the carbs they eat into alcohol and making them constantly drunk. (Sawbones: Auto-brewery Syndrome)
 1. Short Gut Syndrome is exactly what it sounds like, and might cause auto-brewery syndrome.  (Sawbones: Auto-brewery Syndrome)
