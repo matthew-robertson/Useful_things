@@ -15,6 +15,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://pomb.us/build-your-own-react/
 1. https://raphlinus.github.io/
 1. http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
+1. https://news.ycombinator.com/item?id=22471355
 
 ### Tooling specific
 1. http://robertames.com/files/vim-editing.html
@@ -51,3 +52,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://dystroy.org/broot/
 1. https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10
 1. https://news.ycombinator.com/item?id=22156868
+1. https://news.ycombinator.com/item?id=22473209
+1. https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
+1. https://news.ycombinator.com/item?id=22473990
