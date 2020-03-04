@@ -55,3 +55,4 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://news.ycombinator.com/item?id=22473209
 1. https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
 1. https://news.ycombinator.com/item?id=22473990
+1. https://news.ycombinator.com/item?id=22482731
