@@ -16,6 +16,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://raphlinus.github.io/
 1. http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
 1. https://news.ycombinator.com/item?id=22471355
+1. https://www.gresearch.co.uk/article/defunctionalisation/
 
 ### Tooling specific
 1. http://robertames.com/files/vim-editing.html
