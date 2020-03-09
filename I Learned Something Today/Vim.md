@@ -1,6 +1,6 @@
 ## File Navigation
 1. `:tabnew /file/path` will open a (possibly new) file at the given path, as a new tab.
-1. `:tabn` `:tabp`, `:tabm [tab#]` willwitch between tabs.
+1. `:tabn` `:tabp`, `:tabm [tab#]` will switch between tabs.
 1. `:n` and co will switch between files.
 1. CtrlP is a godsend. Use `<c-t>` to open the found file in a new tab
 1. `:e /file/path` will activate a new buffer at the given filepath.
@@ -50,6 +50,7 @@
 1. `v` will enter visual mode, useful-ish for selecting blocks to indent, text to yank, or whatever,.
 1. `:81,91y` will yank between lines 81 and 91.
 1. Search and replace is done with `:%s/old/new/`, adding a `g` to the end makes it global, `c` makes it interactive.
+1. `ctrl+n` will bring up the autocomplete word suggestions when in insert mode.
 
 ## General Editing
 1. `u` will undo a change
