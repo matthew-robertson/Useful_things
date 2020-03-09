@@ -44,6 +44,9 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://www.reddit.com/r/AskCulinary/wiki/foodlifefaqs
 1. https://www.reddit.com/r/AskCulinary/comments/6tdms4/cooking_a_multicourse_dinner_to_thank_a_friend/
 
+## Business
+1. https://lunchbag.ca/lunch-money-mistakes/
+
 ### Random stuff
 1. https://news.ycombinator.com/item?id=21801242
 1. https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
