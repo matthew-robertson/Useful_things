@@ -25,6 +25,7 @@
 ## Devops
 1. Don't be afraid to revert. You should not be leaving broken code in production if you don't have to.
 1. Automate as much as possible, and be comfortable and confident in your CI/CD. It'll eliminate easy mistakes from configuring and deploying things. Here's looking at you, Banned-word-services.
+1. Dev machines should look like staging, should look like prod. Otherwise, you'll break things moving from one environment to another. Can't do CD if you don't have something set up well.
 
 ## Scalability
 1. Vertical scaling is the easiest. If you're bounded by RAM: throw more money at the machine and pack more ram in it. This is a problem though, because you'll eventually run out of money or hit the state of the art.
@@ -35,7 +36,11 @@
   1. Round robin: Like tetris piece generation. Use each ip once, then repeat. This can cause a problem since loaded servers will continue to get more hits. If you do it DNS side, there's also the issue of caching.
   1. Metric based: If you can tell how much load a server is under, you could go for the lightest server each time, for example. However, you have to send the user to the same server each time, or you'll break sessions. 
 
-# Things to look for in a hosting company
+## Infrastructure
+1. [Bastion Hosts](https://en.wikipedia.org/wiki/Bastion_host) are a public interface to a private network, allowing a network's defenses to be concentrated in fewer places.
+1. Bastion Hosts should have public IPs, not because you need them to reach them (VPNs and things can be used to avoid that), but to decouple the internal network and prod so that if something breaks you can switch to using the public IPs.
+
+## Things to look for in a hosting company
 1. SFTP over FTP. Gotta encrypt usernames and passwords.
 1. Check that you won't run into geo-blocking issues.
 1. Watch out for shared hosts, versus VPS (virtual private server), if you think you'll actually need a decent amount of resources. A major difference is that you get control over the OS with a VPS, where no one else has access to your chunk of hardware.
