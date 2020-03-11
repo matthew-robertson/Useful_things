@@ -18,6 +18,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://news.ycombinator.com/item?id=22471355
 1. https://www.gresearch.co.uk/article/defunctionalisation/
 1. https://news.ycombinator.com/item?id=22521557
+1. Health Status/circuit breakers in services - https://news.ycombinator.com/item?id=22545972
 
 ### Tooling specific
 1. http://robertames.com/files/vim-editing.html
@@ -50,7 +51,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://lunchbag.ca/lunch-money-mistakes/
 
 ## Writing
-1. https://news.ycombinator.com/item?id=22544688
+1. How good coporate engineering blogs are written - https://news.ycombinator.com/item?id=22544688
 
 ### Random stuff
 1. https://news.ycombinator.com/item?id=21801242
