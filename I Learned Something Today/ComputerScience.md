@@ -39,6 +39,7 @@
 ## Infrastructure
 1. [Bastion Hosts](https://en.wikipedia.org/wiki/Bastion_host) are a public interface to a private network, allowing a network's defenses to be concentrated in fewer places.
 1. Bastion Hosts should have public IPs, not because you need them to reach them (VPNs and things can be used to avoid that), but to decouple the internal network and prod so that if something breaks you can switch to using the public IPs.
+1. Set up as much as you cna through automate-able processes. You *will* have to do it again later, and this will prevent both making random mistakes/typos, and forgetting what exactly you did.
 
 ## Things to look for in a hosting company
 1. SFTP over FTP. Gotta encrypt usernames and passwords.
