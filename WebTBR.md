@@ -49,6 +49,9 @@ To be (re)read and integrated elsewhere in this wiki:
 ## Business
 1. https://lunchbag.ca/lunch-money-mistakes/
 
+## Writing
+1. https://news.ycombinator.com/item?id=22544688
+
 ### Random stuff
 1. https://news.ycombinator.com/item?id=21801242
 1. https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
