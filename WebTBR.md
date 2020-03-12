@@ -19,6 +19,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://www.gresearch.co.uk/article/defunctionalisation/
 1. https://news.ycombinator.com/item?id=22521557
 1. Health Status/circuit breakers in services - https://news.ycombinator.com/item?id=22545972
+1. Why I Don't Use Classes - https://news.ycombinator.com/item?id=22555938
 
 ### Tooling specific
 1. http://robertames.com/files/vim-editing.html
@@ -65,3 +66,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
 1. https://news.ycombinator.com/item?id=22473990
 1. https://news.ycombinator.com/item?id=22482731
+1. Why Soap Works For Viruses - https://threadreaderapp.com/thread/1236549305189597189.html
+1. How to Tell You're Following A Bot - https://nixintel.info/osint/signs-youre-following-a-fake-twitter-account/
+1. 
