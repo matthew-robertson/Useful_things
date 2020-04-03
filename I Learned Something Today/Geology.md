@@ -28,3 +28,6 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 
 # Hurricanes
 1. 
+
+# The Earth
+1. [Tired Mountain Syndrome](https://en.wikipedia.org/wiki/Tired_mountain_syndrome) is something mountains can experience after underground nuclear bomb testing. The large explosions change the geology of the area substantially enough to weaken the surrounding rock and increase the risk of radioactive stuff leaking out.
