@@ -23,6 +23,8 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Models of Generics and Metaprogramming - https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics
 
 ### Tooling specific
+1. Patterns for managing source code branches - https://martinfowler.com/articles/branching-patterns.html
+1. Streamed Lines - https://martinfowler.com/articles/branching-patterns.html
 1. http://robertames.com/files/vim-editing.html
 1. https://sanctum.geek.nz/arabesque/vim-anti-patterns/
 1. https://github.com/kerkeslager/dotfiles
@@ -80,3 +82,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. The Edge of Emulation - https://byuu.org/articles/edge-of-emulation
 1. Russian citrus trenches - https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html
 1. Bennett Foddy's blog - https://www.foddy.net/
+1. Playstation Architecture - https://copetti.org/projects/consoles/playstation/
+1. How Crash Bandicoot Hacked the original playstation - https://copetti.org/projects/consoles/playstation/
+1. I'm a programmer going blind, how should I prepare? - https://news.ycombinator.com/item?id=22918980
