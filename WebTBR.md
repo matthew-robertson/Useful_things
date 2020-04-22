@@ -21,6 +21,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Health Status/circuit breakers in services - https://news.ycombinator.com/item?id=22545972
 1. Why I Don't Use Classes - https://news.ycombinator.com/item?id=22555938
 1. Models of Generics and Metaprogramming - https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics
+1. Things I wish programmers knew about databases - https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
 
 ### Tooling specific
 1. Patterns for managing source code branches - https://martinfowler.com/articles/branching-patterns.html
