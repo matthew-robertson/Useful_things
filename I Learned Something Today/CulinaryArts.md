@@ -15,6 +15,9 @@
 1. Crack eggs one at a time into a small bowl before adding them to all the eggs you're cracking. Easier to avoid bad eggs that way.
 1. Crack eggs on a flat surface. Doing it on a bowl edge or something like that can send shards of shell into the egg, and risks contamination.
 1. If you're plating something crispy that you want a sauce for (fish was what this was mentioned for), plate the sauce first and put the crispy thing on top. This will help you prevent crispy things from getting soggy.
+1. Different cultures have butchery traditions that have different cuts, but they largely follow the same things (since the animals are still the animals). "In more industrialized societies you see more of what would be called square cutting, where a butcher breaks the primal down into more uniform cuts based on where it is easiest to cut through the bones with a band saw. In countries with a longer tradition of butchery/charcuterie you see more of what would be called seam butchery where primals are broken down into muscle groups and individual muscles with as little use of a band saw as possible." [This Reddit Post](https://www.reddit.com/r/AskCulinary/comments/fqo8gu/are_there_different_cuts_of_meat_in_different/flrcm3d/)
+1. toasting (heating dry), and blooming (cooking in oil) are two ways to integrate spices into your dishes, the mechanics are talked about [here](https://www.reddit.com/r/AskCulinary/comments/fpl8h7/toasting_spices_to_improve_flavor_is_a_common/).
+1. [Culinary school-inspired pracice](https://www.reddit.com/r/AskCulinary/comments/ftcuyv/suggestions_for_culinary_school_type_exercises/fm6l9ce/).
 
 ## Alcohol
 1. Gin is just a neutral alcohol (essentially, vodka), infused with a bunch of botanicals: mainly juniper.
