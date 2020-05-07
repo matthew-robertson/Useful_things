@@ -1,0 +1,2 @@
+## Compilation
+1. Modern compilers are aboslute witchcraft, which can result in some weird bugs from time to time. for instance, [here](https://twitter.com/SciresM/status/1257874707816144896) they had to include a definition for `memcpy`, since the standard library wasn't part of the build. However, the compiler optimized the function into memcpy itself, resulting in the included `memcpy` infinitely recursing.'
