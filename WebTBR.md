@@ -22,6 +22,8 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Why I Don't Use Classes - https://news.ycombinator.com/item?id=22555938
 1. Models of Generics and Metaprogramming - https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics
 1. Things I wish programmers knew about databases - https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
+1. Rules of Thumb for a 1x Developer - https://news.ycombinator.com/item?id=23029489 (https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+
 
 ### Tooling specific
 1. Patterns for managing source code branches - https://martinfowler.com/articles/branching-patterns.html
@@ -31,6 +33,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://github.com/kerkeslager/dotfiles
 1. https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/
 1. Bash customization - https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/
+1. SSH tooling - https://news.ycombinator.com/item?id=23025756
 
 ### Graphics
 1. http://www.pbr-book.org/3ed-2018/contents.html
