@@ -69,18 +69,17 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Literary translation press, Open Letter Books - https://www.openletterbooks.org
 
 ### Random stuff
-1. https://news.ycombinator.com/item?id=21801242
-1. https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
-1. https://news.ycombinator.com/item?id=21332957
-1. https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/
-1. https://dystroy.org/broot/
-1. https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10
-1. https://news.ycombinator.com/item?id=22156868
-1. https://news.ycombinator.com/item?id=22473209
-1. https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
-1. https://news.ycombinator.com/item?id=22473990
-1. https://news.ycombinator.com/item?id=22482731
-1. Why Soap Works For Viruses - https://threadreaderapp.com/thread/1236549305189597189.html
+1. Roguelike Tutorial (Rust) - https://news.ycombinator.com/item?id=21801242
+1. I Add 3-25 Seconds of Latency to Every Page I visit - https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
+1. How did you build up your personal knowledge base? - https://news.ycombinator.com/item?id=21332957
+1. A plan to learn Japanese in a year - https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/
+1. broot, a tool for viewing directories - https://dystroy.org/broot/
+1. Creating/Growing a Discord Server - https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10
+1. Into the Personal Website-verse - https://news.ycombinator.com/item?id=22156868
+1. How to take good notes? - https://news.ycombinator.com/item?id=22473209
+1. Someone's knowledge Wiki - https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
+1. Active Recall, a memory technique - https://news.ycombinator.com/item?id=22473990
+1. Spot the Drowning child - https://news.ycombinator.com/item?id=22482731
 1. How to Tell You're Following A Bot - https://nixintel.info/osint/signs-youre-following-a-fake-twitter-account/
 1. The Door Problem of Combat Design - https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design
 1. The Edge of Emulation - https://byuu.org/articles/edge-of-emulation

@@ -27,3 +27,9 @@
 1. Evidence for the benefits of cryotherapy is far outstripped by claims. It does, however, produce a powerful placebo effect (A Grain of Salt, Dr. Joe Schwarcz).
 1. Lots of nutrition studies are pretty spurious, but as far as research goes, the idea that 5-10 servings of fruits/veg per day will help prevent cancer is about as iron-clad as it gets. (A Grain of Salt, Dr. Joe Schwarcz).
 1. Beef has been linked to increased rates of colon cancer, likely due to the oxidation of the iron in it. Not every study has found such a link, but almost every one testing processed meats has found one (A Grain of Salt, Dr. Joe Schwarcz).
+
+# Virology
+1. Viruses are, generally: a sack of RNA with some proteins to help replicate/break into cells/etc..., all surrounded by lipids. The lipids are half for protection, and half for invading cells. [Twitter source](https://twitter.com/PalliThordarson/status/1236549318439387137)
+1. Viruses don't last very long on wood or fabric because they can form lots of hydrogen bonds with the surface. Whereas on something like steel it can't, and will just kind of chill until your hand comesand touches it, and it'll hop on. [source](https://twitter.com/PalliThordarson/status/1236549338320343040).
+1. Water alone doesn't wash away viruses because it only competes against the hydrogen bonds the virus has formed with your skin, but it isn't usually enough.
+1. Soap works though, becuase it contains fat-like "amphiphiles", which end up tearing the virus apart by attracting its fatty barrier. [Here](https://twitter.com/PalliThordarson/status/1236553248862957569). The soap particles also do a great job of separating the virus from your skin.
