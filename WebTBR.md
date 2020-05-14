@@ -84,7 +84,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. How to Tell You're Following A Bot - https://nixintel.info/osint/signs-youre-following-a-fake-twitter-account/
 1. The Door Problem of Combat Design - https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design
 1. The Edge of Emulation - https://byuu.org/articles/edge-of-emulation
-1. Russian citrus trenches - https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html
 1. Bennett Foddy's blog - https://www.foddy.net/
 1. Playstation Architecture - https://copetti.org/projects/consoles/playstation/
 1. How Crash Bandicoot Hacked the original playstation - https://copetti.org/projects/consoles/playstation/
