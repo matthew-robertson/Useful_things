@@ -7,6 +7,7 @@
 1. `:bd` will close the active buffer. Adding a number afterwards will close a specific buffer. You can also use tab completion and do it by name.
 1. `:bp`, `:bn` switch between buffers.
 1. `:buffers` will list all buffers currently in memory.
+1. `ls` is a shortcut for `:buffers`. Use it instead.
 1. `:b` will go to the specific buffer, using a buffer number or a partial filename
 1. `:b#` will go the the alternate buffer (probably the previous one)
 
@@ -30,11 +31,13 @@
 1. `b` is like `e`, but to the start.
 1. `W`, `E`, and `B` (and probably others) are like lowercase, but they only recognise whitespace as a wordbreak. 
 1. `$` will jump to the end of the current line.
+1. `0` will jump to the start of the current line, and `^` jumps to the first character in the line.'
 1. `*` is a shortcut that searchs for the word under the cursor.
 1. `19gg` will jump to line 19.
 1. `:19` and `:19G` will do the same.
-1. `G` will jump to the end of the file
-
+1. `G` will jump to the end of the file.
+1. `gg` will jump to the start of the file.
+1. `` `. `` jumps to the last edited line. Much nicer than `u` + `ctrl+r`.
 ## Entering Insert Mode
 1. `o` and `O` open a new line below and above the current line, respectively
 1. `a` inserts after the current character, `i` inserts before it.
