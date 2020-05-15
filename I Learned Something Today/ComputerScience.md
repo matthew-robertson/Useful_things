@@ -80,6 +80,10 @@
 1. `grep [options] [pattern] [file]`. Use it. `-r` does recursive, `-i` does case-insensitive, `-n` gives line numbers too.
 1. To use `scp` to copy a file to a remote server, use something like `scp -i Identity.pem localFile.ext username@domain:/path/to/copy/to`. To copy from, swap the order.
 1. If you need to locate a file you know the name of, use `find .` (replacing with whatever directory you want), with the argument `-name 'fileName'`. `-iname` will make it case-insensitive, `-maxdepth n` lets you set how deep to recurse.
+1. "Those that don't remember history are doomed to press Up repeatedly."
+1. `alt+b` and `alt+f` move backwards and forwards by a word.
+1. `ctrl+a` and `ctrl+e` move to the start/end of the line.
+1. `ctrl+r` and `ctrl+s` will search through the history, which is wild.
 
 # General Language Stuff
 1. Floating point math, amirite? It means `0.1 + 0.2 != 0.3`, thanks to issues with representing necesarry rounding to store floats/doubles in memory.

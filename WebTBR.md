@@ -29,7 +29,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Patterns for managing source code branches - https://martinfowler.com/articles/branching-patterns.html
 1. Streamed Lines - https://martinfowler.com/articles/branching-patterns.html
 1. http://robertames.com/files/vim-editing.html
-1. https://sanctum.geek.nz/arabesque/vim-anti-patterns/
 1. https://github.com/kerkeslager/dotfiles
 1. https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/
 1. Bash customization - https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/
