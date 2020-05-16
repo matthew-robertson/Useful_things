@@ -1,6 +1,10 @@
 ## Video Games
 1. It has been proven, mathematically, that a hypothetical game of Tetris must eventually end. There is a string of pieces that are guaranteed to raise your tower.
 1. Most every somewhat modern version of Tetris generates pieces using some kind of bag system. It randomizes what order you'll get each piece in, and then repeats that once you've gotten one of everything. That's why you'll never go 20 blocks without seeing a line piece, and will never see 3 back-to-back.
+1. King's Quest VI was the first one designed by someone other than Roberta Williams, and is apparently the best one for it. [Source](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/)
+1. Sierra was [big into](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) pushing the audio-visual aspect of the medium, and probably had a big role in the bloating of game budgets. This includes, but is not limited to: An attempt at radio play for the game's tracks, and going to an actual animation studio to make their (pretty rough) opening animatic for KQVI.
+1. Sierra, at one point, was trying to port their games to [every system under the sun](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/). This went... with difficulty, from much smaller colourspaces to much less memory, etc... Most were abandoned, the rest barely sold.
+1. Unsurprisingly, increasingly large budgets (and in Sierra's case, increasingly large mortgages) led to a lot of pressure to release sellable games at their deadline. This is.. not a great way to make good games.
 
 ## Dungeons and Dragons
 1. If you're using terrain, you don't have to represent everything. That will leave pressure off you, and give you better opportunities to wow your players. Use a variety of methods: theatre of the mind, battle mat, actual builds.
