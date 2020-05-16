@@ -1,3 +1,4 @@
+## Video Games
 1. It has been proven, mathematically, that a hypothetical game of Tetris must eventually end. There is a string of pieces that are guaranteed to raise your tower.
 1. Most every somewhat modern version of Tetris generates pieces using some kind of bag system. It randomizes what order you'll get each piece in, and then repeats that once you've gotten one of everything. That's why you'll never go 20 blocks without seeing a line piece, and will never see 3 back-to-back.
 
@@ -12,3 +13,11 @@
 1. Don't buy your whole army at once. It's overwhelming and a mistake.
 1. Find out the bare minimum you need to get started, and do it. Get the rulebook first.
 1. Paint your troops before painting your fancy HQ units: you want your HQs to look nice, so get your experience knowing what you want things to look like by doing the cannon-fodder first.
+
+
+## Childrens' Games
+1. The Floor Is Lava is a [weird](http://www.hollygramazio.net/blog/2020/4/1/the-floor-the-floor) cultural game. Lots of people play it as what you call "Grounders".
+1. [Grounders](http://wiki.scouts.ca/en/Grounders) is apparently a game known to Scouts Canada. Who'd have guessed.
+1. Only 72.28% of [survey respondants](http://www.hollygramazio.net/blog/2020/4/1/the-floor-the-floor) played the game with the floor being lava. Water type things get up to 11%, and somehow "No particular reason" got 7%.
+1. Unsurprisingly, floor danger is regional. Places where lava is a real concern (like Hawai'i), seem to shy away from using Lava.
+1. Pippi Longstocking in 1945 has a really quite good description of the game, though without the lava. Probably not the earliest. Lava doesn't seem to show up until the 50's.
