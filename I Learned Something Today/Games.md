@@ -5,6 +5,11 @@
 1. Sierra was [big into](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) pushing the audio-visual aspect of the medium, and probably had a big role in the bloating of game budgets. This includes, but is not limited to: An attempt at radio play for the game's tracks, and going to an actual animation studio to make their (pretty rough) opening animatic for KQVI.
 1. Sierra, at one point, was trying to port their games to [every system under the sun](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/). This went... with difficulty, from much smaller colourspaces to much less memory, etc... Most were abandoned, the rest barely sold.
 1. Unsurprisingly, increasingly large budgets (and in Sierra's case, increasingly large mortgages) led to a lot of pressure to release sellable games at their deadline. This is.. not a great way to make good games.
+1. From a [2014 PCGamer investigation](https://www.pcgamer.com/hacks-an-investigation-into-aimbot-dealers-wallhack-users-and-the-million-dollar-business-of-video-game-cheating/), bigger cheat providers could be pulling in millions of dollars a yea. Some claim to sell their tools for hundreds of dollars a month.
+1. Unsurprisingly, competitive games (especially shooters) are absolutely riddled with cheaters: aimbots, lag-switches, x-ray modes, all sorts of things.
+1. Infinity Ward tries to [match cheaters against each other](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem).
+1. The Overwatch community has formed an ["Overwatch Police Department"](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem) that infiltrates cheating rings to try and shut tools down. It's probably less cool than it sounds.
+1. Valorant's Anticheat is absolutely [terrifying](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem). It's a kernel driver, always on, and has issues with Notepad, among other things.
 
 ## Dungeons and Dragons
 1. If you're using terrain, you don't have to represent everything. That will leave pressure off you, and give you better opportunities to wow your players. Use a variety of methods: theatre of the mind, battle mat, actual builds.
