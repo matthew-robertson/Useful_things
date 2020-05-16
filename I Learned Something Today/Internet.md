@@ -1,0 +1,3 @@
+## Technological Dystopias
+1. Amazon's self-publishing arm is comfortable with [shockingly racist](https://www.propublica.org/article/the-hate-store-amazons-self-publishing-arm-is-a-haven-for-white-supremacists) stuff. Amazon caught a lot of heat for self-published books back in 2010 when someone self-published a book about grooming. It got approved, then banned, then re-instated, htne banned again. Still seems to be the case that they're just looking for illegal (copyright infringing) things rather than defamatory stuff. Yes, this does mean that Amazon algorithmically pushes some pretty hateful stuff.
+1. "One technique is to category squat  that is, classify ones books in low-traffic or obscure categories such as Ancient Greek History to game their rankings."
