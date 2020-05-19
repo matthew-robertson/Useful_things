@@ -11,9 +11,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
 1. https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
 1. https://wiki.nikitavoloboev.xyz/programming
-1. https://tekin.co.uk/
 1. https://pomb.us/build-your-own-react/
-1. https://raphlinus.github.io/
 1. http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
 1. https://news.ycombinator.com/item?id=22471355
 1. https://www.gresearch.co.uk/article/defunctionalisation/

@@ -1,0 +1,3 @@
+## Fantasy
+1. [Spoilers](https://jamesmendezhodes.com/blog/2019/1/13/orcs-britons-and-the-martial-race-myth-part-i-a-species-built-for-racial-terror), Tolkien's orcs were based off of some pretty harmful stereotypes of Asian people. For example: "The Orcs are definitely stated to be corruptions of the 'human' form seen in Elves and Men. They are (or were) squat, broad, flat-nosed, sallow-skinned, with wide mouths and slant eyes: in fact degraded and repulsive versions of the (to Europeans) least lovely Mongol-types." - JRR Tolkien, Letter @210.
+1. Which, after the quote that "The hobbits were 'a reflection of the English soldier'", woof.
