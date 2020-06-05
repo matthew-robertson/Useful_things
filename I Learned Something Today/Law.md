@@ -1,0 +1,1 @@
+1. [Legal Observers](https://en.wikipedia.org/wiki/Legal_observer) are an interesting concept. Sporting neon green hats, they're sanctioned representatives of human rights agencies (and generally lawyers), who observe protests and thing where there may be conflict between LEO and the public. The intent is to report/monitor/record unlawful behaviour on the behalf of the LEOs.
