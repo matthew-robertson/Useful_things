@@ -12,6 +12,7 @@
 1. Bjarne Stroustrup actually built another language before C++: C-with-classes. It wasn't as popular.
 1. OO being so popular is kind of a weird accident of history. For example: C# was designed to be an alternative to Java, which was designed to be familiar to C++ programmers, which didn't get popular because of its OO but for its other features) [Why Isn't Functional Programming the Norm](https://youtu.be/QyJZzq0v7Z4?t=1864)
 1. Python's OO probably isn't why it's so popular, since Ruby was specifically designed to be more Object-oriented than Python and has fallen by the wayside [Why Isn't Functional Programming the Norm?](https://youtu.be/QyJZzq0v7Z4?t=2118)
+1. The World Wide Web was released to the public by CERN in 1993. That's quite a bit [later than you thought](https://neustadt.fr/essays/against-a-user-hostile-web/#table-of-content).
 
 # General History
 1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)

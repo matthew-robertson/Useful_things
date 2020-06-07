@@ -101,9 +101,12 @@ function greet() {
 }
 ```
 1. Static typing can do wonders for preventing us from writing impossible or partial functions. consider `head :: [a] -> a` which seems simple enough. The typing doesn't work once you pass in an empty array though, and languages like Haskell can tell us that.
+1. If you find yourself in the unenviable position of writing a lexer/parser for a language. [Don't  use a ReGeX](https://commandcenter.blogspot.com/2011/08/regular-expressions-in-lexing-and.html).
 
 ## Functional Programming
 1. Functional Programming style asks you to "Avoid mutation and side effects", which is rad as hell. Why isn't it more common? Possibly it just hasn't had enough time.
 1. [Persistent Data Structures](https://en.wikipedia.org/wiki/Persistent_data_structure) are versions of arrays, lists, trees, etc... that are 1) immutable, and 2) support a "copy with small change" operation that it does extremely efficiently to avoid slowdown from editing large structures. [Russ Olsen, FP in 40 minutes](https://youtu.be/0if71HOyVjY?t=1355)
 1. Atoms in clojure help bridge between functions and state, and function by applying a function using their current value, then updating their value to reflect the result of the function. They get around timing trickiness by detecting if the value changed out from under it, and if so, re-run it.
 1. There are a lot of things FP won't help you with, but it *will* prevent threads changing values out from under other threads. It might have the wrong version, but it won't be garbage.
+
+

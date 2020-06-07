@@ -10,10 +10,15 @@
 1. Infinity Ward tries to [match cheaters against each other](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem).
 1. The Overwatch community has formed an ["Overwatch Police Department"](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem) that infiltrates cheating rings to try and shut tools down. It's probably less cool than it sounds.
 1. Valorant's Anticheat is absolutely [terrifying](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem). It's a kernel driver, always on, and has issues with Notepad, among other things.
+1. Leoburke has put together a virtual showroom called [Auto Museum 64](https://leoburke.itch.io/auto-museum-64)], which shows off a bunch of car models from the N64's library.
 
 ## Dungeons and Dragons
 1. If you're using terrain, you don't have to represent everything. That will leave pressure off you, and give you better opportunities to wow your players. Use a variety of methods: theatre of the mind, battle mat, actual builds.
 1. In 5E, ties are generally won by the roller. 
+1. Surprise, D&D's been a weird proponent for racial realism for its entire lifespan, likely due to []Tolkien's initial influence](https://www.publicmedievalist.com/race-fantasy-genre/). This manifests most directly in all of the "races" having numerical stat differences between them.
+1. Drow, bizzaro-world elves, are a DnD thing. ["The basic template—of black, underground elves—was established by a scant mention in the great 13th-century compendium of Norse mythology, the Prose Edda (which calls them svartálfar). But everything beyond this was determined by the creators of D&D."](https://www.publicmedievalist.com/race-fantasy-genre/)
+1. Drizz't actually began as a secondary character, and to date, all 30 of the books involving him by R.A. Salvatore have been best-sellers. Thankfully, Salvatore's thoughts on race have [improved over time](http://www.lightspeedmagazine.com/nonfiction/interview-r-a-salvatore/)
+1. The major problem with making races like Drow and Orcs inherently evil (aside from the implicit weirdness in making dark-skinned "races" evil), is that it paints racism against them as something logical, instead of irrational: If the average Drow is a sadistic torturer, of course it's reasonable to assume any you meet are.
 
 ## Magic The Gathering
 1. Magic The Gathering is provably turing-complete

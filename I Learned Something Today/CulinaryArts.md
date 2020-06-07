@@ -38,6 +38,7 @@
 
 ## Food Trivia
 1. The marshmallows in Lucky Charms are called "Marbits", short for "Marshmallow bits".
+1. Everyone's mom uses a [biscuit tin to store sewing supplies](https://www.vice.com/en_uk/article/qv3jax/seriously-why-does-everyones-mum-use-that-same-cookie-tin-for-sewing-stuff). It's something that dates back before WWII, and largely has to do with finding new uses for the sturdy and uncommon tins.
 
 ## Kitchen management
 1. Kitchen zoning. Separate things by purpose, keep things near where you'll use it, and set things up like a grocery store. Stuff like:
