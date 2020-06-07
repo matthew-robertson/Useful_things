@@ -26,6 +26,8 @@
 1. Don't be afraid to revert. You should not be leaving broken code in production if you don't have to.
 1. Automate as much as possible, and be comfortable and confident in your CI/CD. It'll eliminate easy mistakes from configuring and deploying things. Here's looking at you, Banned-word-services.
 1. Dev machines should look like staging, should look like prod. Otherwise, you'll break things moving from one environment to another. Can't do CD if you don't have something set up well.
+1. When launching, newly deploying something to prod, or otherwise expecting a big uptick in users, [make sure your SAAS plans and environment test are set correctly](https://lunchbag.ca/lunch-money-mistakes/).
+1. Remember YAGNI: You ain't gonna need it. Don't overexpand and build things you think you "might" want later.
 
 ## Scalability
 1. Vertical scaling is the easiest. If you're bounded by RAM: throw more money at the machine and pack more ram in it. This is a problem though, because you'll eventually run out of money or hit the state of the art.

@@ -55,7 +55,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://www.reddit.com/r/AskCulinary/comments/6tdms4/cooking_a_multicourse_dinner_to_thank_a_friend/
 
 ## Business
-1. https://lunchbag.ca/lunch-money-mistakes/
 
 ## Writing
 1. How good coporate engineering blogs are written - https://news.ycombinator.com/item?id=22544688
@@ -75,10 +74,8 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Someone's knowledge Wiki - https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
 1. Active Recall, a memory technique - https://news.ycombinator.com/item?id=22473990
 1. Spot the Drowning child - https://news.ycombinator.com/item?id=22482731
-1. How to Tell You're Following A Bot - https://nixintel.info/osint/signs-youre-following-a-fake-twitter-account/
 1. The Door Problem of Combat Design - https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design
 1. The Edge of Emulation - https://byuu.org/articles/edge-of-emulation
-1. Bennett Foddy's blog - https://www.foddy.net/
 1. Playstation Architecture - https://copetti.org/projects/consoles/playstation/
 1. How Crash Bandicoot Hacked the original playstation - https://copetti.org/projects/consoles/playstation/
 1. I'm a programmer going blind, how should I prepare? - https://news.ycombinator.com/item?id=22918980
