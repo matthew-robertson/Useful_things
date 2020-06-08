@@ -24,3 +24,6 @@
 1. Why did Mongol terror last until Tolkien's time? Probably partly their success, and partly their curiosity for foreign cultures [here](https://jamesmendezhodes.com/blog/2019/1/13/orcs-britons-and-the-martial-race-myth-part-i-a-species-built-for-racial-terror).
 1. "Caucasian" came to mean white people, instead of people from the Caucus mountains thank to some weird "scientists" who classed humans into ~[three gross categories](https://www.youtube.com/watch?v=GKB8hXYod2w)
 1. [Adrian Schoolcraft](https://en.wikipedia.org/wiki/Adrian_Schoolcraft_) was an archetypical "good cop", who ended up secretly recording police conversations to show corruption in the NYPD. They reassigned him to a deskjob, raided his apartment, abducted him, and forcibly admitted him to a psych ward.
+
+# Medical History
+1. In 1972, The Black Panther Party added "Free healthcare for all black and oppressed people" to their (Ten Point Program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024403/). Before that even, in 1969, they began establishing health clinics.
