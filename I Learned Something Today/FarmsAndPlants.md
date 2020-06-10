@@ -33,6 +33,8 @@
 1. The Russian citrologists used "Progressive cold-hardening" to make cold-resistant citrus. It worked by planting trees from seed progressively further north.
 1. Radical pruning techniques were also used to make weather-resistant plants, from Dwarf trees, to "Creeping Citrus" plants, made by pruning and guiding the trees into a form only 25cm tall. [Lower here](https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html).
 1.Those techniques didn't save plants in locations where the ground froze though, so they also managed to grow them in trenches, and covered the trenches in the winter. While this works with citrus, it won't work with plants that can't tolerate low light over the winter.
+1. The import of avocados from Mexico was [banned in the United States](https://www.latimes.com/archives/la-xpm-1997-02-01-fi-24310-story.html) until 1997. Wild.
+1. American consummption of avocados has risen like 4x [over the last 20 years](https://www.theatlantic.com/health/archive/2015/01/the-selling-of-the-avocado/385047/) and they're now the most popular fruit in America. This is largely a marketing push. Plus them being delicious, I guess.
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)

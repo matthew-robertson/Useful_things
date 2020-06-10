@@ -13,3 +13,6 @@
 1. In situations where computers/relays can't be used, [air logic](https://en.wikipedia.org/wiki/Pneumatics#Pneumatic_logic) is a cool way to control machines. They avoid the risk of explosions igniting controls, or moisture causing shorts.
 1. Unsurprisingly, air-logic circuits are slower than electronics.
 1. A somewhat confusing rundown of how basic logical elements are constructed from 3/4-way valves is [here](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic).
+
+## Tools
+1. All sorts of weird drafting tools exist. [This one](https://youtu.be/PVQFvHuJHec?t=13://youtu.be/PVQFvHuJHec?t=131) is a compass(?) that splits a space into  two areas corresponding to the golden ratio.
