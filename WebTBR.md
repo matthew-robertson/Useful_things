@@ -12,15 +12,11 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
 1. https://wiki.nikitavoloboev.xyz/programming
 1. https://pomb.us/build-your-own-react/
-1. http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
-1. https://news.ycombinator.com/item?id=22471355
 1. https://www.gresearch.co.uk/article/defunctionalisation/
-1. https://news.ycombinator.com/item?id=22521557
 1. Health Status/circuit breakers in services - https://news.ycombinator.com/item?id=22545972
 1. Why I Don't Use Classes - https://news.ycombinator.com/item?id=22555938
 1. Models of Generics and Metaprogramming - https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics
 1. Things I wish programmers knew about databases - https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
-1. Rules of Thumb for a 1x Developer - https://news.ycombinator.com/item?id=23029489 (https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 
 
 ### Tooling specific
@@ -57,7 +53,6 @@ To be (re)read and integrated elsewhere in this wiki:
 ## Business
 
 ## Writing
-1. How good coporate engineering blogs are written - https://news.ycombinator.com/item?id=22544688
 1. What is your blog and why should I read it? - https://news.ycombinator.com/item?id=22800136
 1. What are some great personal blogs/portfolios - https://news.ycombinator.com/item?id=19114037
 1. Literary translation press, Open Letter Books - https://www.openletterbooks.org
