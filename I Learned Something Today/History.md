@@ -14,6 +14,16 @@
 1. Python's OO probably isn't why it's so popular, since Ruby was specifically designed to be more Object-oriented than Python and has fallen by the wayside [Why Isn't Functional Programming the Norm?](https://youtu.be/QyJZzq0v7Z4?t=2118)
 1. The World Wide Web was released to the public by CERN in 1993. That's quite a bit [later than you thought](https://neustadt.fr/essays/against-a-user-hostile-web/#table-of-content).
 
+# Art History
+1. There was a really quite large [monument to Stalin](https://en.wikipedia.org/wiki/Stalin_Monument_(Prague)) in Prague. It was built by [Otakar Švec](https://en.wikipedia.org/wiki/Otakar_%C5%A0vec), [the winner of a competition no one wanted to win](https://twitter.com/lewis_crofts/status/1270786908768083969).
+1. Otakar eventually committed suicide before the statue was unveiled, and in 1962 it was [destroyed with 800KG of dynamite](https://en.wikipedia.org/wiki/Otakar_%C5%A0vec#cite_note-rp-3).
+1. Michelangelo was contracted to sculpt a tomb for Pope Julius II in 1505, and it was [a real mess](https://twitter.com/Ada_Palmer/status/1271057741134680064).
+1. The Pope kept giving Michelangelo the runaround, so he fled Rome. The pope spent a while threatening the Florentine government that he'd march the Vatican armies on them, so Michelangelo was [forced to sculpt a large statue of the pope](https://twitter.com/Ada_Palmer/status/1271058832433852417).
+1. Everyone (including Michelangelo) hated the statue, so after the city was lost by the pope, the statue was [melted down and turned into a cannon named "Julius"](https://twitter.com/Ada_Palmer/status/1271072810564280320).
+
+# Medical History
+1. In 1972, The Black Panther Party added "Free healthcare for all black and oppressed people" to their (Ten Point Program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024403/). Before that even, in 1969, they began establishing health clinics.
+
 # General History
 1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)
 1. [1200 pieces of bones (probably from about 15 skeletons) were found when renovating Franklin House in London in 1998.](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/) This probably isn't from spooky murder, but from the illicit anatomy school run out of the house by Ben Franklin's protege (Sawbones: Ben Franklin)
@@ -25,5 +35,3 @@
 1. "Caucasian" came to mean white people, instead of people from the Caucus mountains thank to some weird "scientists" who classed humans into ~[three gross categories](https://www.youtube.com/watch?v=GKB8hXYod2w)
 1. [Adrian Schoolcraft](https://en.wikipedia.org/wiki/Adrian_Schoolcraft_) was an archetypical "good cop", who ended up secretly recording police conversations to show corruption in the NYPD. They reassigned him to a deskjob, raided his apartment, abducted him, and forcibly admitted him to a psych ward.
 
-# Medical History
-1. In 1972, The Black Panther Party added "Free healthcare for all black and oppressed people" to their (Ten Point Program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024403/). Before that even, in 1969, they began establishing health clinics.
