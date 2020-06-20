@@ -56,6 +56,7 @@
 ## Text Manipulation
 1. `Y` will yank/copy an entire line.
 1. `y[movement]` will yank based on the movement. E.G.: `yiw` will yank the word you're in.
+1. `:r` is used to copy a bunch of text into the current buffer. `:r!ls` will copy the result of ls, one per line, into the page at the cursor.
 1. `p` will paste, `P` will insert a new line first.
 1. `ctrl+t` and `ctrl+d`, used in insert mode, will indent and un-indent the current line respectively.
 1. `>` in normal mode will indent. `>>` will indent the current line, `>}` will indent the paragraph.
@@ -81,3 +82,4 @@
 1. Like everything else in Vim, macros are just text. They're stored in the same buffers you yank/paste from, they're just interpreted as commands instead of characters to print.
 1. [The leader key](https://medium.com/usevim/vim-101-what-is-the-leader-key-f2f5c1fa610f) is a customizable modifier key, essentially: Vim doesn't map anything to it, unlike pretty much everything else. By default it's `\`, but you can change it using `let mapleader=","` or whatever you want to set it to. It also doesn't need to be held. Once pressed, Vim will wait ~1 second for a command's input.
 1. `map` and `noremap` do basically the same thing, but `noremap` is non-recursive/non-expanding. a handful of characters can be prefixed onto either to specify the mode the mapping should apply to `i` - insert mode, `n` - normal mode, etc...
+1. In command mode, `!` indicates the start of an external command. It will pop you out into the terminal to see the result of running it. Handy stuff for all the searching you do.
