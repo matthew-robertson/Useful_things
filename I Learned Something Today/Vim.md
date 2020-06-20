@@ -79,3 +79,5 @@
 1. Converting long `.vimrc` files into `.vim` directories, some useful config tips in [here](https://vimways.org/2018/from-vimrc-to-vim/) too.
 1. Vim supports syntax folding, neat stuff.
 1. Like everything else in Vim, macros are just text. They're stored in the same buffers you yank/paste from, they're just interpreted as commands instead of characters to print.
+1. [The leader key](https://medium.com/usevim/vim-101-what-is-the-leader-key-f2f5c1fa610f) is a customizable modifier key, essentially: Vim doesn't map anything to it, unlike pretty much everything else. By default it's `\`, but you can change it using `let mapleader=","` or whatever you want to set it to. It also doesn't need to be held. Once pressed, Vim will wait ~1 second for a command's input.
+1. `map` and `noremap` do basically the same thing, but `noremap` is non-recursive/non-expanding. a handful of characters can be prefixed onto either to specify the mode the mapping should apply to `i` - insert mode, `n` - normal mode, etc...
