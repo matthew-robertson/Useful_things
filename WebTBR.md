@@ -13,8 +13,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Health Status/circuit breakers in services - https://news.ycombinator.com/item?id=22545972
 1. Why I Don't Use Classes - https://news.ycombinator.com/item?id=22555938
 1. Models of Generics and Metaprogramming - https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics
-1. Things I wish programmers knew about databases - https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
-
 
 ### Tooling specific
 1. Patterns for managing source code branches - https://martinfowler.com/articles/branching-patterns.html
@@ -31,10 +29,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2
 1. https://www.froyok.fr/documents/making_of_sotc.pdf
 1. https://www.whiteflash.com/ags-cut-grade-research.pdf
-1. https://80.lv/articles/lighting-encyclopedia-from-joey-lenz/
-1. https://pixelandpoly.com/ior.html
-1. https://happycoding.io/gallery/ludum-dare-45/about
-1. https://c0de517e.blogspot.com
 1. A noisy rant about banding in games - https://loopit.dk/banding_in_games.pdf
 
 ### Math
@@ -60,12 +54,8 @@ To be (re)read and integrated elsewhere in this wiki:
 1. How did you build up your personal knowledge base? - https://news.ycombinator.com/item?id=21332957
 1. A plan to learn Japanese in a year - https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/
 1. Into the Personal Website-verse - https://news.ycombinator.com/item?id=22156868
-1. How to take good notes? - https://news.ycombinator.com/item?id=22473209
 1. Someone's knowledge Wiki - https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
-1. Active Recall, a memory technique - https://news.ycombinator.com/item?id=22473990
-1. Spot the Drowning child - https://news.ycombinator.com/item?id=22482731
 1. The Door Problem of Combat Design - https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design
 1. The Edge of Emulation - https://byuu.org/articles/edge-of-emulation
 1. Playstation Architecture - https://copetti.org/projects/consoles/playstation/
 1. How Crash Bandicoot Hacked the original playstation - https://copetti.org/projects/consoles/playstation/
-1. I'm a programmer going blind, how should I prepare? - https://news.ycombinator.com/item?id=22918980

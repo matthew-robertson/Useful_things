@@ -7,3 +7,5 @@
 1. A List Apart - https://alistapart.com/
 1. Programing is Terrible - https://programmingisterrible.com/
 1. Rachel By the Bay - http://rachelbythebay.com/
+1. CodeSize, CS+Graphics - https://c0de517e.blogspot.com
+1. HappyCoding, A googler mostly teaching and talking about creative code - https://happycoding.io/blog/
