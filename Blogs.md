@@ -6,3 +6,4 @@
 1. Raph Levien - https://raphlinus.github.io/
 1. A List Apart - https://alistapart.com/
 1. Programing is Terrible - https://programmingisterrible.com/
+1. Rachel By the Bay - http://rachelbythebay.com/

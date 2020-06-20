@@ -30,6 +30,8 @@
 1. Remember YAGNI: You ain't gonna need it. Don't overexpand and build things you think you "might" want later.
 1. [Simple services have less downtime](https://www.gkogan.co/blog/simple-systems/?r=0). Similarly, code that doesn't exist can't have issues. An important aspect of a simple system is that it's easy to see a solution to problems that may arise in it.
 1. Complex ideas lead to complex implementations, and features don't justify making things more complex.
+1. Rollbacks should ALWAYS be possible. If they're not, because something isn't [forward-compatible](http://rachelbythebay.com/w/2019/07/21/reliability/) or any other silly thing, you're going to have a problem.
+1. Make sure that multiple people (or maybe preferably, a machine multiple people understand) are able to ship the actual product. You don't want that single point of failure.
 
 ## Scalability
 1. Vertical scaling is the easiest. If you're bounded by RAM: throw more money at the machine and pack more ram in it. This is a problem though, because you'll eventually run out of money or hit the state of the art.
@@ -77,6 +79,9 @@
   1. Compress the data's memory footprint: change ints to chars, to bools, etc...
   1. Chunk the data: process books one page at a time.
   1. Index the data: Build an easy way to determine what subset to load. The simplest way is to build a well-named file-structure.
+1. "Performance is everyones responsibility and it needs to be part of the process along the way. And that leads to item 3, you need to take performance regressions seriously. If performance unexpectedly drops, it should be a top priority to investigate and fix. And to catch performance regressions you should have systems in place detecting it, such as auto tests with daily graphs over performance. But engineers on the team should also profile often enough to have a good idea in their head of the overall performance characteristics of their game or application as a whole, and of their particular systems in particular, so that whenever it looks different from the usual they know that either something broke or theres a team member that needs an extra pat on their back for the awesome performance work." - [Humus](http://www.humus.name/index.php?page=News&ID=383).
+1. "Elegance is what happens when we find a way to express what we mean with the units of meaning that our tools provide." - [Eevee](https://eev.ee/blog/2016/04/21/elegance/)
+1. "Tool design is important! Its why I pick on programming languages. If the fundamental pieces at your disposal are awkwardly-shaped, youll have a much harder time expressing what you actually intended." - Eevee, [talking about jank in zdoom's API](https://eev.ee/blog/2016/04/21/elegance/#zdoom-and-pickactor)
 
 
 # General Language Stuff

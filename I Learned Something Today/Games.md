@@ -10,6 +10,7 @@
 1. Infinity Ward tries to [match cheaters against each other](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem).
 1. The Overwatch community has formed an ["Overwatch Police Department"](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem) that infiltrates cheating rings to try and shut tools down. It's probably less cool than it sounds.
 1. Valorant's Anticheat is absolutely [terrifying](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem). It's a kernel driver, always on, and has issues with Notepad, among other things.
+1. zDoom's API is powerful, but an [absolute shambles](https://eev.ee/blog/2016/04/21/elegance/#zdoom-and-pickactor) to work with for something as longstanding and formative as it is. Specifc attention is drawn to the ness that is properly selecting an `actor` (read, entity) to operate on.
 
 ## Nintendo
 1. Leoburke has put together a virtual showroom called [Auto Museum 64](https://leoburke.itch.io/auto-museum-64)], which shows off a bunch of car models from the N64's library.
