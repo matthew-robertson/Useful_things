@@ -41,7 +41,8 @@
 1. `:19` and `:19G` will do the same.
 1. `G` will jump to the end of the file.
 1. `gg` will jump to the start of the file.
-1. `` `. `` jumps to the last edited line. Much nicer than `u` + `ctrl+r`.
+1. `` `. `` jumps to the last edited line. Much nicer than `u` + `ctrl+r`.jj
+1. `g` makes for a weird prefix for commands. `g;` will jump backwards through to lines you've edited.
 1. Stop moving around in insert mode, you dummy. All the tools are in normal mode, so use them.
 1. `zz` redraws the vim window so your cursor is in the middle of the screen, which is cool as heck. 
 
@@ -83,3 +84,4 @@
 1. [The leader key](https://medium.com/usevim/vim-101-what-is-the-leader-key-f2f5c1fa610f) is a customizable modifier key, essentially: Vim doesn't map anything to it, unlike pretty much everything else. By default it's `\`, but you can change it using `let mapleader=","` or whatever you want to set it to. It also doesn't need to be held. Once pressed, Vim will wait ~1 second for a command's input.
 1. `map` and `noremap` do basically the same thing, but `noremap` is non-recursive/non-expanding. a handful of characters can be prefixed onto either to specify the mode the mapping should apply to `i` - insert mode, `n` - normal mode, etc...
 1. In command mode, `!` indicates the start of an external command. It will pop you out into the terminal to see the result of running it. Handy stuff for all the searching you do.
+1. `gf` will open the file path you have selected apparently, and `gx` will open a link in a browser? At least, it's supposed to.
