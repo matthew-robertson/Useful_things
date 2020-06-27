@@ -16,6 +16,7 @@
 
 ## Tools
 1. All sorts of weird drafting tools exist. [This one](https://youtu.be/PVQFvHuJHec?t=13://youtu.be/PVQFvHuJHec?t=131) is a compass(?) that splits a space into  two areas corresponding to the golden ratio.
+1. [Japanese Saws](https://en.wikipedia.org/wiki/Japanese_saw) differ from most European ones in that they cut on the pull stroke instead of the push, since their teeth are sharpened "backwards". On one hand, they apparently don't work on hardwoods as well, but on the other they allegedly cut more efficiently and use narrower blades.
 
 ## Nautical Engineering
 1. Why are ship bottoms generally red? To [avoid algae and whatnot growing on them](https://www.youtube.com/watch?v=-AdW030xQB4). That sounds wild, but they're [anti-fouling paints](https://en.wikipedia.org/wiki/Anti-fouling_paint), and are designed to keep things from growing on ships. They're red because they're largely based on copper compounds, and those are naturally red.
