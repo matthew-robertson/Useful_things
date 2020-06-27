@@ -31,6 +31,10 @@
 1. Tonic water will glow under a UV light because of the quinine alkaloids in it.
 1. Vermouth is still a wine, and will go bad. Keep it in the fridge, use smaller bottles to fight oxidization.
 1. The beer in beer batter is used largely because the boiling point is lower than water, and disrupts gluten formation. This is also why vodka is used in some batters. [Flavor-wise you want something malty and not bitter](https://cooking.stackexchange.com/a/103312)
+1. Cocktail originally just meant spirit+bitters+sugar. At the time, sours meants spirit+citrus+sugar.
+1. Cocktail originally just meant spirit+bitters+sugar. At the time, sours meants spirit+citrus+sugar.
+1. The New York Sour, which allegedly was invented in Chicago, is basically a whisky sour with some red wine on top.
+1. Egg whites are optional in sours, but they add the rad foam to it. Make sure to dry shake (without ice), as cold prevents the proteins from unravelling and [doing their thing](https://drinks.seriouseats.com/2011/08/cocktail-101-how-to-use-eggs-in-cocktails-what-do-egg-whites-do-in-drinks.html).
 
 ## Molecular Gastronomy
 1. Frozen Florida is an inverted [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), which seemingly can only be produced in a microwave. It's weird.
