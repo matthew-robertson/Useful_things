@@ -8,6 +8,7 @@
 1. Fans are generally made using [Induction Motors](https://en.wikipedia.org/wiki/Induction_motor), which are really cool, but can't get themselves started. They need to be given an initial push somehow, to generate the torque they need to get going.
 1. Some fans provide the kick to start their induction motors using a [Shaded-pole motor](https://en.wikipedia.org/wiki/Shaded-pole_motor),  which is a passive component.
 1. Fan knobs generally have the high setting next to off to guarantee that they'll start up. If they started directly on low, there's a chance that the shaded-pole motor wouldn't be able to provide enough torque to start the induction motor, and it would stall out. This is mostly unneeded tradition though. [Technology Connections video about it](https://www.youtube.com/watch?v=hQ3GW7lVBWY).
+1. [Anti-Backlash](https://youtu.be/9JnP9qNtnIQ?t=531) is a specific aspect of (toothed) gear design, which is surprisingly deep as a subject. Backlash is caused by deadspace between teeth, where things can chatter around a bit. One way they accomplish this is by kind of springloading one face of each tooth, so they can expand/contract to fit the valley appropriately. The nano stuff used by watchmakers is wild.
 
 ## Logic/Circuits
 1. In situations where computers/relays can't be used, [air logic](https://en.wikipedia.org/wiki/Pneumatics#Pneumatic_logic) is a cool way to control machines. They avoid the risk of explosions igniting controls, or moisture causing shorts.
