@@ -43,6 +43,7 @@ basetwo('10010') #18
 	1. Have an iterator, which must implement `__next__()`, which must `raise StopIteration` when there are no more items left.
 	1. Your `Iterator` and your `Iterable` can be the same class, in which `__iter__` can just return self.
 1. You can use getattr in a cool way to make commandline tools, since `getattr` lets you get a function from a class using a string.
+1. Python has a built in memoization decorator, discussed [here](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html): `@functools.lru_cache(maxsize=max_lru, typed=False)`.
 
 
 ## Typing
