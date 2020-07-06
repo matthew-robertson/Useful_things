@@ -24,6 +24,12 @@
 # Medical History
 1. In 1972, The Black Panther Party added "Free healthcare for all black and oppressed people" to their (Ten Point Program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024403/). Before that even, in 1969, they began establishing health clinics.
 
+# Canadian History
+1. In the 1980's, Montreal Police used photos of young black men as targets for target practice, which is pretty fucked up. (See Policing Black Lives, preface). I couldn't find citations for this (blame me listening to the audiobook), so [here's](https://www.huffingtonpost.ca/entry/north-miami-beach-target-practice_n_6482964?ri18n=true) an article about it happening in Florida.
+1. Canadians still wanted to build plantations, but didn't because the growing season wasn't good enough. (Policing Black Lives, chapter 1).
+1. Medical examiners in Canada were once paid bonuses for denying black migrants at the US-Canada border. (Policing Black Lives, chapter 1).
+1. The Canadian government also paid black docters to go to America and convince potential black migrants not to migrate, as "the climate was dangerous for black people." (Policing Black Lives, chapter 1).
+
 # General History
 1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)
 1. [1200 pieces of bones (probably from about 15 skeletons) were found when renovating Franklin House in London in 1998.](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/) This probably isn't from spooky murder, but from the illicit anatomy school run out of the house by Ben Franklin's protege (Sawbones: Ben Franklin)
@@ -35,4 +41,3 @@
 1. "Caucasian" came to mean white people, instead of people from the Caucus mountains thank to some weird "scientists" who classed humans into ~[three gross categories](https://www.youtube.com/watch?v=GKB8hXYod2w)
 1. [Adrian Schoolcraft](https://en.wikipedia.org/wiki/Adrian_Schoolcraft_) was an archetypical "good cop", who ended up secretly recording police conversations to show corruption in the NYPD. They reassigned him to a deskjob, raided his apartment, abducted him, and forcibly admitted him to a psych ward.
 1. Unclear if it's real, but there's a famous story about [Kafka and the Doll](https://www.huffpost.com/entry/kafka-and-the-doll_b_981348), in which Franz Kafka discovers a child has lost her doll, and writes many letters to her as the doll, as if it were travelling the world. The story culminates in Kafka giving the child a new doll ("My travels have changed me.."), summarized as: every thing that you love, you will eventually lose, but in the end, love will return in a different form."
-

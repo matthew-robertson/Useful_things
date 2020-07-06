@@ -69,3 +69,7 @@
 1. Consolidate into smaller containers as you use things, to save space. Deli containers are amazing. [Carla's tip](https://youtu.be/A8g-bt9GbRk?t=119)
 1. Have lots of towels. Keep a dry towel for grabbing hot things, and have a second towel for drying your hands. Don't mix them up because you'll burn yourself. You've done this accidentally when washing your hands just before putting on cloth oven mitts. [BA Restaurant tips](https://www.youtube.com/watch?v=A8g-bt9GbRk)
 1. Use *clap* your *clap* freezer! Freeze chilis and grate them later, freeze big batches of sauces, whatever. To quote [Priya](https://youtu.be/A8g-bt9GbRk?t=527): "I use my freezer kind of like a pantry. I freeze everything".
+
+
+## Food History
+1. [Bannock](https://en.wikipedia.org/wiki/Bannock_(food) is a bread that's common to Canadian indigenous groups all across the country. The fact that's true should make you think about why: the answer is that [the ingredients are all common to what was included in the ration packs the groups were given after being forced into reservations](https://youtu.be/4EXVrzOACv4?t=245).
