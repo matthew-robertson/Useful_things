@@ -1,3 +1,6 @@
+# Printing
+1. Those weird uneven pages on some books are an intentional printing choice (these days, at least) called a [deckle edge](https://en.wikipedia.org/wiki/Deckle).
+
 # Writing
 ## Blogging
 1. As [Sander Knape](https://sanderknape.com/2020/04/why-great-write-blog-posts/) mentions, a good point of blogging is that it will improve your writing skills, and help you write better documentation/notes in your day-to-day.
