@@ -66,6 +66,7 @@
 1. Search and replace is done with `:%s/old/new/`, adding a `g` to the end makes it global, `c` makes it interactive.
 1. Search and replace can be made global by default using `set gdefault`, which then inverts the use of `g` in searches. [Vim Annoyances](https://sanctum.geek.nz/arabesque/vim-annoyances/)
 1. `ctrl+n` will bring up the autocomplete word suggestions when in insert mode.
+1. Manipulate buffers by prefixing a command with `"a` (or some other buffer name). `"aY` `"aP" Will yank the current line into the `a` buffer, then paste it. This gives you acces to multiple clipboards.
 
 ## General Editing
 1. `u` will undo a change
