@@ -28,6 +28,8 @@
 1. Evidence for the benefits of cryotherapy is far outstripped by claims. It does, however, produce a powerful placebo effect (A Grain of Salt, Dr. Joe Schwarcz).
 1. Lots of nutrition studies are pretty spurious, but as far as research goes, the idea that 5-10 servings of fruits/veg per day will help prevent cancer is about as iron-clad as it gets. (A Grain of Salt, Dr. Joe Schwarcz).
 1. Beef has been linked to increased rates of colon cancer, likely due to the oxidation of the iron in it. Not every study has found such a link, but almost every one testing processed meats has found one (A Grain of Salt, Dr. Joe Schwarcz).
+1. The first case of HIV/AIDS (unknown at the time) was in 1908, when a hunter contracted it from a chimp's blood.
+1. "Patient zero" as a term comes from the AIDS epidemic. He was marked as "patient O" for "Out of California" (and was not the first patient). This was later misread as a 0 however.
 
 # Virology
 1. Viruses are, generally: a sack of RNA with some proteins to help replicate/break into cells/etc..., all surrounded by lipids. The lipids are half for protection, and half for invading cells. [Twitter source](https://twitter.com/PalliThordarson/status/1236549318439387137)
