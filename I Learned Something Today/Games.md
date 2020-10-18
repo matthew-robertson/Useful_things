@@ -13,8 +13,12 @@
 1. zDoom's API is powerful, but an [absolute shambles](https://eev.ee/blog/2016/04/21/elegance/#zdoom-and-pickactor) to work with for something as longstanding and formative as it is. Specifc attention is drawn to the ness that is properly selecting an `actor` (read, entity) to operate on.
 
 ## Nintendo
-1. Leoburke has put together a virtual showroom called [Auto Museum 64](https://leoburke.itch.io/auto-museum-64)], which shows off a bunch of car models from the N64's library.
+1. Leoburke has put together a virtual showroom called [Auto Museum 64](https://leoburke.itch.io/auto-museum-64), which shows off a bunch of car models from the N64's library.
 1. The Switch's joycons can tell what colour they are because they report a hex-code as [part of their Bluetooth handshake](https://gaming.stackexchange.com/a/370957). This can be seen (and changed!) using [Joy-Con Toolkit](https://gbatemp.net/threads/tool-joy-con-toolkit.478560/).
+1. It turns out "Famiclones" were a [whole thing](https://medium.com/super-jump/the-nintendo-famicom-clone-craze-ebbf69bdd403).
+1. "Chinese company Subor shifted its efforts to develop a game console, creating an unlicensed Chinese language version of the Famicom, called the Xiao Ba Wang (‘Little Tyrant”)." Jackie Chan was a brand ambassador for their educational series.
+1. The popular Polish Famiclone "Pegasus" was apparently a re-branded Taiwanese clone, of all things, named "Micro Genius". After other Famiclones overtook the Pegasus, they made a deal with Sega to sell a rebranded Genesis. Then the next gen of consoles released in Europe. They bowed out of consoles and now make soft drinks as Hoop.
+1. The Russian famiclone was, of course, the Dendy Junior.
 
 ## Dungeons and Dragons
 1. If you're using terrain, you don't have to represent everything. That will leave pressure off you, and give you better opportunities to wow your players. Use a variety of methods: theatre of the mind, battle mat, actual builds.
@@ -26,7 +30,7 @@
 1. The major problem with making races like Drow and Orcs inherently evil (aside from the implicit weirdness in making dark-skinned "races" evil), is that it paints racism against them as something logical, instead of irrational: If the average Drow is a sadistic torturer, of course it's reasonable to assume any you meet are.
 
 ## Magic The Gathering
-1. Magic The Gathering is provably Turing-complete
+1. Magic The Gathering is provably Turing-complete.
 
 ## Wargames
 1. Don't buy your whole army at once. It's overwhelming and a mistake.
