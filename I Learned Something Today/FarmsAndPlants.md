@@ -37,6 +37,9 @@
 1. American consummption of avocados has risen like 4x [over the last 20 years](https://www.theatlantic.com/health/archive/2015/01/the-selling-of-the-avocado/385047/) and they're now the most popular fruit in America. This is largely a marketing push. Plus them being delicious, I guess.
 1. Watermelons only have black seeds after reaching maturity, [apparently](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings).
 1. A 17th-century painting by Giovanni Stanchi shows a rather strange looking [watermelon](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings). The starring evident there can still be seen in modern watermelons that aren't pollinated properly, and probably some other cultivars.
+1. Caffeine is a pesticide, and also has some anti-microbial properties. This is why a bunch of more or less unrelated plants include it in both their fruits and their vascular structure.
+1. Younger tea leaves produce more caffeine. This is somewhat generally true, and because younger plants tend to produce more chemical defenses before their physical defenses harden (their cells toughening, etc..)
+1. We don't know how, but seedlings will leech caffeine into their surrounding area as an anti-competition measure. It somehow makes other plants less likely to seed in the immediate area.
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)
