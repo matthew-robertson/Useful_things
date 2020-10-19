@@ -8,3 +8,6 @@
 1. Penthouses were originally built as servant quarters: super hot in the summer, super cold in the winter. Turns out, the view is nice and there's only one per building, so they became a luxury. Came about because of zoning laws requiring setbacks.
 1. NYC's setback laws were part of a 1916 zoning change, and led to outdoor terraces and defined NYC's skyline.
 1. The Mansard Roof is one with a very sharp incline, and a mostly flat top. Created in France to get around zoning laws and create an extra livable floor.
+
+# Architecture
+1. "Compression" and "Expansion" are architecture terms used in designing spaces. "compressed" corridors are used to funnel people along and keep them moving, while "expanded" open spaces encourage people to meander around and mill about.
