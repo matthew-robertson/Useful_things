@@ -1,5 +1,6 @@
 # Printing
 1. Those weird uneven pages on some books are an intentional printing choice (these days, at least) called a [deckle edge](https://en.wikipedia.org/wiki/Deckle).
+1. A [Chapbook](https://en.wikipedia.org/wiki/Chapbook) is a small book (usually under 40 pages). They're named for the salesmen who sold them back in the 1800s: chapmen (meaning businessmen. "Chap" is also where "cheap" comes from).
 
 # Writing
 ## Blogging
