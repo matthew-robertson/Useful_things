@@ -86,3 +86,4 @@
 1. `map` and `noremap` do basically the same thing, but `noremap` is non-recursive/non-expanding. a handful of characters can be prefixed onto either to specify the mode the mapping should apply to `i` - insert mode, `n` - normal mode, etc...
 1. In command mode, `!` indicates the start of an external command. It will pop you out into the terminal to see the result of running it. Handy stuff for all the searching you do.
 1. `gf` will open the file path you have selected apparently, and `gx` will open a link in a browser? At least, it's supposed to.
+1. The `n` flag on the substitute command will tell you how many occurences of a given pattern are in a buffer. ex: `:%s/pattern//gn`
