@@ -40,6 +40,7 @@
 1. Frozen Florida is an inverted [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), which seemingly can only be produced in a microwave. It's weird.
 1. Umami is tasted thanks to the amino acid glutamate. GMP and IMP also contribute significantly to umami, and all three are synergystic. GMP is more common in vegetable sources, while IMP is more common in animal ones. Hence the combos of Cheese+tomato sauce, and katsuboshi+kombu.
 1. Caffeine is way more soluble in boiling water (66g/100mL) when compared to room temperature (2g/100mL), which is probably why coldbrew takes way longer to make than instant brew. [Wikipedia](https://en.wikipedia.org/wiki/Caffeine#Chemistry).
+1. A [few](https://www.nature.com/articles/srep00196) [studies](https://arxiv.org/ftp/arxiv/papers/1502/1502.03815.pdf) have looked as western (and non-western) cooking on a molecular level, and have noticed that western food seems to pair similar flavour compounds together, while most other cultures pair disparate flavours.
 
 ## Food Trivia
 1. The marshmallows in Lucky Charms are called "Marbits", short for "Marshmallow bits".
@@ -73,3 +74,4 @@
 
 ## Food History
 1. [Bannock](https://en.wikipedia.org/wiki/Bannock_(food) is a bread that's common to Canadian indigenous groups all across the country. The fact that's true should make you think about why: the answer is that [the ingredients are all common to what was included in the ration packs the groups were given after being forced into reservations](https://youtu.be/4EXVrzOACv4?t=245).
+1. It's a [bit more complicated](https://www.npr.org/sections/thesalt/2015/03/26/394339284/how-snobbery-helped-take-the-spice-out-of-european-cooking) than that, but part of why European cooking isn't known for spices is that after they became accessible to the common folk, it became "cool" to instead have things which "taste like themselves". This shift started around 1600.
