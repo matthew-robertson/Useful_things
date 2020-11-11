@@ -11,3 +11,5 @@
 1. `ctrl+a` and `ctrl+e` move to the start/end of the line.
 1. `ctrl+r` and `ctrl+s` will search through the history, which is wild.
 1. You cna repeat previous data using a couple different things. `!!` will repeat the previous command, useful for building pipelines. `!$` is shorthand for the last argument of the previous command, and `!*` is shorthand for all of the arguments of the previous command.
+1. `df -h` gives you the disk sizes in a human-readable format, while `du -h` does the same for file sizes.
+1. start services (like docker, for when an AWS instance gets reset!) using `sudo service docker start`.
