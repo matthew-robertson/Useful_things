@@ -30,6 +30,7 @@
 1. Beef has been linked to increased rates of colon cancer, likely due to the oxidation of the iron in it. Not every study has found such a link, but almost every one testing processed meats has found one (A Grain of Salt, Dr. Joe Schwarcz).
 1. The first case of HIV/AIDS (unknown at the time) was in 1908, when a hunter contracted it from a chimp's blood.
 1. "Patient zero" as a term comes from the AIDS epidemic. He was marked as "patient O" for "Out of California" (and was not the first patient). This was later misread as a 0 however.
+1. Tannins, such as those in tea, can cause nausea on an empty stomach, and can lower the bioavailability of Iron, making [iron deficiencies more likely](https://pubmed.ncbi.nlm.nih.gov/29955693/). Notably, the tannins in tea seem to cause this more than "condensed tannins", which are more-often found in foods.
 
 # Virology
 1. Viruses are, generally: a sack of RNA with some proteins to help replicate/break into cells/etc..., all surrounded by lipids. The lipids are half for protection, and half for invading cells. [Twitter source](https://twitter.com/PalliThordarson/status/1236549318439387137)

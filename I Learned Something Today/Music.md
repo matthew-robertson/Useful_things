@@ -8,3 +8,4 @@
 
 ## Random nonsens
 1. Zendaya is apparently a Kidz Bop alumni.
+1. They're called Original SoundTracks to contrast with scores: meaning that they were composed originally for the piece of media, instead of licensing pre-existing music.
