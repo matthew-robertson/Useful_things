@@ -7,3 +7,6 @@
 1. When constructing foreign keys, the types need to match. This includes signed vs. unsigned.
 1. You can use `SHOW ENGINE INNODB STATUS;` to see causes for specific error messages, seeing what went wrong in the DB.
 1. `KEY` is a synonym for `INDEX`, evidently.
+
+# Relational Databases generally
+1. [Shadow Tables](https://en.wikipedia.org/wiki/Shadow_table) are a thing. They're another table that mimics/shadows another table? This might be how sessions+rollbacks work? Applying changes to a copy, and if successful, swapping the two.

@@ -9,6 +9,7 @@
 1. Some fans provide the kick to start their induction motors using a [Shaded-pole motor](https://en.wikipedia.org/wiki/Shaded-pole_motor),  which is a passive component.
 1. Fan knobs generally have the high setting next to off to guarantee that they'll start up. If they started directly on low, there's a chance that the shaded-pole motor wouldn't be able to provide enough torque to start the induction motor, and it would stall out. This is mostly unneeded tradition though. [Technology Connections video about it](https://www.youtube.com/watch?v=hQ3GW7lVBWY).
 1. [Anti-Backlash](https://youtu.be/9JnP9qNtnIQ?t=531) is a specific aspect of (toothed) gear design, which is surprisingly deep as a subject. Backlash is caused by deadspace between teeth, where things can chatter around a bit. One way they accomplish this is by kind of springloading one face of each tooth, so they can expand/contract to fit the valley appropriately. The nano stuff used by watchmakers is wild.
+1. Michelin (Yes, the tire+restaurant review company) once made a car. Called the [Michelin PLR](https://en.wikipedia.org/wiki/Michelin_PLR), it was designed to test big-rig tires without risking the nightmare that would be a big-rig blowing a tire at speed. It had a second engine specifically to power the test tire. It had lead installed in it so that it weighed 9.5 metric tons.
 
 ## Logic/Circuits
 1. In situations where computers/relays can't be used, [air logic](https://en.wikipedia.org/wiki/Pneumatics#Pneumatic_logic) is a cool way to control machines. They avoid the risk of explosions igniting controls, or moisture causing shorts.
@@ -21,3 +22,6 @@
 
 ## Nautical Engineering
 1. Why are ship bottoms generally red? To [avoid algae and whatnot growing on them](https://www.youtube.com/watch?v=-AdW030xQB4). That sounds wild, but they're [anti-fouling paints](https://en.wikipedia.org/wiki/Anti-fouling_paint), and are designed to keep things from growing on ships. They're red because they're largely based on copper compounds, and those are naturally red.
+1. SSDs (and other flash storage) uses a semi-conductor as a gate, to either trap charge or not, and that's how it stores data (Foon)[https://twitter.com/Foone/status/1336410974178295808]
+1. CD-RWs [are wild](https://twitter.com/Foone/status/1336413407503818752), and use a laser to change a material to inidcate ones and zeros. The burner hits a bit, melting it, which prevents it from reflecting light as well, which distinguishes 1s and 0s. How does this let you re-write? High heat melts the material, but a lower heat will make it recrystalize. 
+1. Wildly, Blu-ray-re (meaning recordable erasable, instead of read+write, for some reason), does this over *multiple layers*. It manages to achieve it by making the laser focus at slightly different distances to melt only a target layer.

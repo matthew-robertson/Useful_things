@@ -13,3 +13,7 @@
 1. "N-amino azidotetrazole" fucked up, but leads to even more [messed up materials](https://corante.com/things-i-wont-work-with/things-i-wont-work-with-azidoazide-azides-more-or-less/). Notably, the wildest one "cannot be handled". "The smallest possible loadings in shock and friction tests led to explosive decomposition". This is at a lab specialized in handling these kinds of things.
 1. "The compund exploded in solution,.. on any attempts to touch of move the solid, and explodd when trying to get an infrared spectrum of it."
 1. [Hexanitrohexaazaisowurtzitane](https://blogs.sciencemag.org/pipeline/archives/2011/11/11/things_i_wont_work_with_hexanitrohexaazaisowurtzitane) is kind of hilarious as a compound. Developed to be a new explosive, it's not quitestable enough to use. There's been talk of making it more stable by mixing it with TNT. Which is.. interesting. Notably, heating it leads to CL-20 soaking in liquid TNT.
+
+
+## Miscellaneous
+1. [The ISS uses UTC for its timezone](https://www.world-timezone.com/time-zones-in-outer-space/).

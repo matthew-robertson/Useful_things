@@ -82,7 +82,10 @@
 1. "Performance is everyones responsibility and it needs to be part of the process along the way. And that leads to item 3, you need to take performance regressions seriously. If performance unexpectedly drops, it should be a top priority to investigate and fix. And to catch performance regressions you should have systems in place detecting it, such as auto tests with daily graphs over performance. But engineers on the team should also profile often enough to have a good idea in their head of the overall performance characteristics of their game or application as a whole, and of their particular systems in particular, so that whenever it looks different from the usual they know that either something broke or theres a team member that needs an extra pat on their back for the awesome performance work." - [Humus](http://www.humus.name/index.php?page=News&ID=383).
 1. "Elegance is what happens when we find a way to express what we mean with the units of meaning that our tools provide." - [Eevee](https://eev.ee/blog/2016/04/21/elegance/)
 1. "Tool design is important! Its why I pick on programming languages. If the fundamental pieces at your disposal are awkwardly-shaped, youll have a much harder time expressing what you actually intended." - Eevee, [talking about jank in zdoom's API](https://eev.ee/blog/2016/04/21/elegance/#zdoom-and-pickactor)
-
+1. How do you find potentially malicious dependencies? Two ways: static analysis (scanning code for problems), or dynamic analysis (living dangerously, installing/runing them, and seeing what happens).
+    1. One way of doing dynamic analysis is to [watch syscalls during package installation](https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/) to see if anything spooky's happening.
+    1. Jordan Wright uses [sysdig](https://github.com/draios/sysdig), mostly for its filtering capabilities.
+    1. One neat benefit of using syscalls to check this stuff is that code obfuscation won't actually impact you.
 
 # General Language Stuff
 1. Floating point math, amirite? It means `0.1 + 0.2 != 0.3`, thanks to issues with representing necesarry rounding to store floats/doubles in memory.
