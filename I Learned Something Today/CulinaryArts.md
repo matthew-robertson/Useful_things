@@ -18,6 +18,8 @@
 1. Different cultures have butchery traditions that have different cuts, but they largely follow the same things (since the animals are still the animals). "In more industrialized societies you see more of what would be called square cutting, where a butcher breaks the primal down into more uniform cuts based on where it is easiest to cut through the bones with a band saw. In countries with a longer tradition of butchery/charcuterie you see more of what would be called seam butchery where primals are broken down into muscle groups and individual muscles with as little use of a band saw as possible." [This Reddit Post](https://www.reddit.com/r/AskCulinary/comments/fqo8gu/are_there_different_cuts_of_meat_in_different/flrcm3d/)
 1. toasting (heating dry), and blooming (cooking in oil) are two ways to integrate spices into your dishes, the mechanics are talked about [here](https://www.reddit.com/r/AskCulinary/comments/fpl8h7/toasting_spices_to_improve_flavor_is_a_common/).
 1. [Culinary school-inspired pracice](https://www.reddit.com/r/AskCulinary/comments/ftcuyv/suggestions_for_culinary_school_type_exercises/fm6l9ce/).
+1. Sodium Citrate is sometimes called ["sour salt"](https://www.youtube.com/watch?v=PTbdvND_YLQ), and is added to a bunch of stuff as a preservative (like kraft singles, or jams), but it's also great for helping emulsification. This is why american cheese melts smooth, while regular cheddar splits. "Sodium citrate allows the proteins in the cheese sauce to become more soluble without lowering the pH of the sauce, which creates a smooth emulsion without curdling." - [Modernist Cuisine](https://modernistcuisine.com/recipes/silky-smooth-macaroni-and-cheese/)
+1. To make a silky cheese sauce, use: 1 part cheese, .5 part liquid (probably water, but beer and things like that work too), and 2-3% sodium citrate by weight. Slowly heat and mix.
 
 ## Alcohol
 1. Gin is just a neutral alcohol (essentially, vodka), infused with a bunch of botanicals: mainly juniper.
@@ -41,6 +43,13 @@
 1. Umami is tasted thanks to the amino acid glutamate. GMP and IMP also contribute significantly to umami, and all three are synergystic. GMP is more common in vegetable sources, while IMP is more common in animal ones. Hence the combos of Cheese+tomato sauce, and katsuboshi+kombu.
 1. Caffeine is way more soluble in boiling water (66g/100mL) when compared to room temperature (2g/100mL), which is probably why coldbrew takes way longer to make than instant brew. [Wikipedia](https://en.wikipedia.org/wiki/Caffeine#Chemistry).
 1. A [few](https://www.nature.com/articles/srep00196) [studies](https://arxiv.org/ftp/arxiv/papers/1502/1502.03815.pdf) have looked as western (and non-western) cooking on a molecular level, and have noticed that western food seems to pair similar flavour compounds together, while most other cultures pair disparate flavours.
+1. A [susceptor](https://en.wikipedia.org/wiki/Susceptor) is a material that captures microwaves and converts them to heat. That's what the 'crisping packet' on a hot pocket is. Some microwave popcorn bags have them too.
+1. A meringue is a foam of [mostly, air suspended in albumen](https://devilsfoodkitchen.com/2016/07/16/food-science-meringue/).
+    1. Salt will rapidly break down into sodium and chlorine, then re-bond with the egg-white proteins. This prevents forming the long chains needed for a meringue, but is great for protecting it afterwards
+    1. Acid, kinda similarly, somehow prevents *over-bonding*, which is why cream of tartar or some other acide is a common ingredient added at the start.
+    1. Fat will ruin your meringues, so make sure your bowls+tools are super clean. Fat does this because it'll coat the proteins and prevent them from denaturing, it'll also "stick itself in the neutral zone, right where air and water molecules meet", which ruins its chance to form a good structure.
+    1. Adding sugar later is better than early, as long as it has time to dissolve. Either way, it'll create a thick syrup, but early on it'll weigh the mixture down and prevent forming thin bubbles. Later on, it'll bulk up those small bubbles, which is good. It also prevents protein denaturing, which will slow the process of whipping down (at least, when added early).
+1. Sugar dissolves into warm water more easily, which is probably why you make simple syrup by boiling the water.
 
 ## Food Trivia
 1. The marshmallows in Lucky Charms are called "Marbits", short for "Marshmallow bits".
@@ -70,7 +79,9 @@
 1. Consolidate into smaller containers as you use things, to save space. Deli containers are amazing. [Carla's tip](https://youtu.be/A8g-bt9GbRk?t=119)
 1. Have lots of towels. Keep a dry towel for grabbing hot things, and have a second towel for drying your hands. Don't mix them up because you'll burn yourself. You've done this accidentally when washing your hands just before putting on cloth oven mitts. [BA Restaurant tips](https://www.youtube.com/watch?v=A8g-bt9GbRk)
 1. Use *clap* your *clap* freezer! Freeze chilis and grate them later, freeze big batches of sauces, whatever. To quote [Priya](https://youtu.be/A8g-bt9GbRk?t=527): "I use my freezer kind of like a pantry. I freeze everything".
-
+1. Things should 1) have a defined place, and 2) be visible.
+1. Store things so that your most used tools are the most accessible tools.
+1. Don't store onions and potatoes near each other. Onions emit ethylene gas, which makes potatoes spoil faster.
 
 ## Food History
 1. [Bannock](https://en.wikipedia.org/wiki/Bannock_(food) is a bread that's common to Canadian indigenous groups all across the country. The fact that's true should make you think about why: the answer is that [the ingredients are all common to what was included in the ration packs the groups were given after being forced into reservations](https://youtu.be/4EXVrzOACv4?t=245).
