@@ -27,7 +27,8 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 1. Damage in a tsunami is mostly dealt by the currents, not by the flooding. It travels through the ocean roughly at the speed of a jet, but as water shallows out it will slow down to the speed of a car. Unsurprisingly, that much water moving at 20mph carries a lot of energy.
 
 # Hurricanes
-1. 
+1. Hurricanes were [originally named](https://www.britannica.com/story/how-are-hurricanes-and-typhoons-named) after the area where they formed. The modern naming system developed in World War II, and only had masculine names added in 1979 after women's groups complained.
+1. After an especially bad wind storm, the name [will be retired](https://www.britannica.com/story/how-are-hurricanes-and-typhoons-named). Notable exmaples are: Katrina, Sandy, Harvey, and Irma.
 
 # The Earth
 1. [Tired Mountain Syndrome](https://en.wikipedia.org/wiki/Tired_mountain_syndrome) is something mountains can experience after underground nuclear bomb testing. The large explosions change the geology of the area substantially enough to weaken the surrounding rock and increase the risk of radioactive stuff leaking out.
