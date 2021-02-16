@@ -66,7 +66,8 @@
 1. Search and replace is done with `:%s/old/new/`, adding a `g` to the end makes it global, `c` makes it interactive.
 1. Search and replace can be made global by default using `set gdefault`, which then inverts the use of `g` in searches. [Vim Annoyances](https://sanctum.geek.nz/arabesque/vim-annoyances/)
 1. `ctrl+n` will bring up the autocomplete word suggestions when in insert mode.
-1. Manipulate buffers by prefixing a command with `"a` (or some other buffer name). `"aY` `"aP" Will yank the current line into the `a` buffer, then paste it. This gives you acces to multiple clipboards.
+1. Manipulate buffers by prefixing a command with `"a` (or some other buffer name). `"aY` `"aP" Will yank the current line into the `a` buffer, then paste it. This gives you access to multiple clipboards.
+1. When you yank something, it goes into the `0` buffer, unlike on deletion/change/whatever. You can imagine how this is useful.
 
 ## General Editing
 1. `u` will undo a change
@@ -87,3 +88,6 @@
 1. In command mode, `!` indicates the start of an external command. It will pop you out into the terminal to see the result of running it. Handy stuff for all the searching you do.
 1. `gf` will open the file path you have selected apparently, and `gx` will open a link in a browser? At least, it's supposed to.
 1. The `n` flag on the substitute command will tell you how many occurences of a given pattern are in a buffer. ex: `:%s/pattern//gn`
+1. Want to search for something you've yanked/got in a buffer? `/ctrl+r{buffer}` will do the job. This was super useful for building macros when translating countries.
+1. `:reg` will list all the named buffers, and what they contain.
+1. `q{a-z}` will record to the chosen buffer. `@{a-z}` will execute the selected buffer as a macro. You can execute macros in other macros, so it's useful to build things up in pieces.
