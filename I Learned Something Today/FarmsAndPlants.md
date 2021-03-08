@@ -25,6 +25,7 @@
 1. To help warm climate oranges turn orange, ethylene may be used to speed up ripening and the breakdown of chlorophyll. In addition, Texan and Floridian farmers can use Citrus Red No. 2 dye, if the fruit is for peeling and eating, but not juicing (like fruit for grocery stores is assumed to be).
 1. Things like turmeric and ginger are rhizomes (underground stems?) unlike carrots or potatoes.
 1. Chipotles are just dried jalapeños. This fact seems to be as surprising to everyone else as it was to you.
+1. Ancho and Mulato peppers are both dried poblano peppers, but the first is smoked when green, the other when red.
 1. Guarana is about 4 times as caffeine-rich as coffee beans, which is kinda wild. It also seems to react with alcohol in a way that caffeine alone doesn't, and is pretty dangerous to combine as a result. Quite a few people have died from the combination (A Grain of Salt, dr. Joe Schwarcz).
 1. Washed poppy seeds, like you'd find on bagels or in noodles, are unlikely to cause any opioid-related effect outside of failing a drug test. Unwashed poppy seeds, like seen in "poppy seed tea" can be used to overdose somewhat easily. (A Grain of Salt, dr. Joe Schwarcz).
 1. Kelp grows half a meter a day. What the heck.

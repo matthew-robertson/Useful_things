@@ -40,3 +40,6 @@
 1. Mold-lines are pretty uncool. Using an xacto-knife is probably the easiest way to remove them.
 1. Emery boards are also super useful tools for removing mold-lines and nubs. Especially the flexible tube ones.
 1. When removing pieces from sprues, don't clip next to the part: it'll stress the plastic and possibly remove more than you want. You should leave a nub behind and either sand it off or snip it after it's off the sprue (with an xacto or otherwise).
+
+# ...Prop making?
+1. Sugar-glass isn't industry standard these days, mostly because it doesn't last very long (and yellows, and attracts ants, etc...). Nowadays people mostly use a very brittle resin, mentioned [here](https://www.youtube.com/watch?v=1RVvgJD3vts)

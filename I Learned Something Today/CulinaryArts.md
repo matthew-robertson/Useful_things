@@ -50,6 +50,8 @@
     1. Fat will ruin your meringues, so make sure your bowls+tools are super clean. Fat does this because it'll coat the proteins and prevent them from denaturing, it'll also "stick itself in the neutral zone, right where air and water molecules meet", which ruins its chance to form a good structure.
     1. Adding sugar later is better than early, as long as it has time to dissolve. Either way, it'll create a thick syrup, but early on it'll weigh the mixture down and prevent forming thin bubbles. Later on, it'll bulk up those small bubbles, which is good. It also prevents protein denaturing, which will slow the process of whipping down (at least, when added early).
 1. Sugar dissolves into warm water more easily, which is probably why you make simple syrup by boiling the water.
+1. Making good ice is a matter of directional freezing. If it warrants it, buy clear ice from professionally made ice. If you want to make your own, use a cooler (or some other insulated container) in the freezer.
+1. Making decent ice at home requires water with less impurities: use hot/warm water, let it cool in the container you'll be freezeing in. It contains less trapped gas than cold water (Liquid Intelligence)
 
 ## Food Trivia
 1. The marshmallows in Lucky Charms are called "Marbits", short for "Marshmallow bits".
