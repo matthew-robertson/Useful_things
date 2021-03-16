@@ -37,6 +37,8 @@
 1. Cocktail originally just meant spirit+bitters+sugar. At the time, sours meants spirit+citrus+sugar.
 1. The New York Sour, which allegedly was invented in Chicago, is basically a whisky sour with some red wine on top.
 1. Egg whites are optional in sours, but they add the rad foam to it. Make sure to dry shake (without ice), as cold prevents the proteins from unravelling and [doing their thing](https://drinks.seriouseats.com/2011/08/cocktail-101-how-to-use-eggs-in-cocktails-what-do-egg-whites-do-in-drinks.html).
+1. People associate smaller carbonation bubbles with fancy drinks largely because aged champange tends to have smaller bubbles. This is less a mark of quality on its own, and more because CO2 will diffuse through the cork over time lowering the carbonatioln in the bottle. (Liquid Intelligence, 291)
+1. Carbonated drinks will get people drunk faster. This is because alchohol is mostly absorbed in the intestine rather than the stomach, and CO2 is thought to speed gastric emptying, leaving to more alcohol being available for absorption. We're also just conditioned to drink carbonated drinks more quickly. (Liquid Intelligence)
 
 ## Molecular Gastronomy
 1. Frozen Florida is an inverted [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), which seemingly can only be produced in a microwave. It's weird.
@@ -52,6 +54,7 @@
 1. Sugar dissolves into warm water more easily, which is probably why you make simple syrup by boiling the water.
 1. Making good ice is a matter of directional freezing. If it warrants it, buy clear ice from professionally made ice. If you want to make your own, use a cooler (or some other insulated container) in the freezer.
 1. Making decent ice at home requires water with less impurities: use hot/warm water, let it cool in the container you'll be freezeing in. It contains less trapped gas than cold water (Liquid Intelligence)
+1. We have speicifc elements in our mouths that sense CO2. It seems to be related to our sense of sour, but doesn't taste acidic. (Liquid Intelligence, 288)
 
 ## Food Trivia
 1. The marshmallows in Lucky Charms are called "Marbits", short for "Marshmallow bits".
