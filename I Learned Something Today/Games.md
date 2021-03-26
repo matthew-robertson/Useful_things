@@ -18,6 +18,10 @@
 1. Minecraft (and all games that use that sort of grid inventory, with equip slots and the option to see your character: Diablo for instance), [derives from a game called Dungeon Master](https://blog.ihobo.com/2016/08/game-inventories-1.html)
 1. "Here, we run up against the vagaries of historical research, since while id Software admit to being influenced by dungeon crawl games, no-one will name which. If Dungeon Master were one of them, it would arguably make it the second most influential game after D&D, having set up both the later Western RPG lineage and the FPS lineage."[Game Inventories 1](https://blog.ihobo.com/2016/08/game-inventories-1.html).
 
+## Development and Design
+1. Honestly, just a [cool look at designing a 2d Zelda-like game](https://totter87.medium.com/zen-and-the-art-of-retro-level-design-in-kudzu-81cc7545fb3e)
+1. From Kudzu's design (and taken from Boss Keys): Instead of backtracking from boss rooms, make use of one-sided short (or long) cuts: possibly a whole new flow. Loops work better than backtracking.
+
 ## Nintendo
 1. Leoburke has put together a virtual showroom called [Auto Museum 64](https://leoburke.itch.io/auto-museum-64), which shows off a bunch of car models from the N64's library.
 1. The Switch's joycons can tell what colour they are because they report a hex-code as [part of their Bluetooth handshake](https://gaming.stackexchange.com/a/370957). This can be seen (and changed!) using [Joy-Con Toolkit](https://gbatemp.net/threads/tool-joy-con-toolkit.478560/).
@@ -30,7 +34,7 @@
 1. If you're using terrain, you don't have to represent everything. That will leave pressure off you, and give you better opportunities to wow your players. Use a variety of methods: theatre of the mind, battle mat, actual builds.
 1. In 5E, ties are generally won by the roller. 
 1. Consider making your game less lethal: let players choose how enemies exit combat when they drop them to 0, maybe they run away, maybe they surrender. You can extend this to PCs as well. It makes it hit a lot harder when they encounter an enemy who they *know* will fight to the death. Knowing they can lose a fight and end up worse off without crippling the story can do interesting things to strategy.
-1. Surprise, D&D's been a weird proponent for racial realism for its entire lifespan, likely due to []Tolkien's initial influence](https://www.publicmedievalist.com/race-fantasy-genre/). This manifests most directly in all of the "races" having numerical stat differences between them.
+1. Surprise, D&D's been a weird proponent for racial realism for its entire lifespan, likely due to [Tolkien's initial influence](https://www.publicmedievalist.com/race-fantasy-genre/). This manifests most directly in all of the "races" having numerical stat differences between them.
 1. Drow, bizarro-world elves, are a DnD thing. ["The basic template—of black, underground elves—was established by a scant mention in the great 13th-century compendium of Norse mythology, the Prose Edda (which calls them svartálfar). But everything beyond this was determined by the creators of D&D."](https://www.publicmedievalist.com/race-fantasy-genre/)
 1. Drizz't actually began as a secondary character, and to date, all 30 of the books involving him by R.A. Salvatore have been best-sellers. Thankfully, Salvatore's thoughts on race have [improved over time](http://www.lightspeedmagazine.com/nonfiction/interview-r-a-salvatore/)
 1. The major problem with making races like Drow and Orcs inherently evil (aside from the implicit weirdness in making dark-skinned "races" evil), is that it paints racism against them as something logical, instead of irrational: If the average Drow is a sadistic torturer, of course it's reasonable to assume any you meet are.
