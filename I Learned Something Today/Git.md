@@ -18,6 +18,7 @@
 1. `git checkout -` will checkout the last branch you were on. (use `git co -` if you're cool and have a rad alias set up).
 1. If you want to revert a `git rm`, you can use `git checkout HEAD path/to/file` to checkout the file again. It will take multiple files if desired.
 1. `git push origin HEAD` is a shortcut for pushing the current branch. How did I not know this before now.
+1. `git switch` and `git restore` are new commands introduced to alleviate confusion around checkout's overloading. `switch` lets you swap between branches, and `restore` lets you reset viles to a revision. [See here](https://stackoverflow.com/a/57266005/13053386)
 
 ## Tips for maintaining a good commit history
 1. These are all taken from the back half of [Branch In Time, RubyConf2018](https://youtu.be/8OOTVxKDwe0?t=1107).
