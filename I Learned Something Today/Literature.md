@@ -15,10 +15,13 @@
 1. Which, after the quote that "The hobbits were 'a reflection of the English soldier'", woof.
 
 ## Comics
-1. Dilbert's creator, Scott Adams, is a trash child. This isn't news. However, consider that the Pointy-Haired Boss - a decidedly Trumpian character - has e decidedly more sympathetic over time](https://www.theawl.com/2017/12/dilbert-a-reckoning/).
+1. Dilbert's creator, Scott Adams, is a trash child. This isn't news. However, consider that the Pointy-Haired Boss - a decidedly Trumpian character - has become decidedly more sympathetic over time](https://www.theawl.com/2017/12/dilbert-a-reckoning/).
 1. Garfield's color palette is an [impressionistic techincolor hellscape](http://wondermark.com/garfield-color/). The rooms in Jon's house are never a specific colour, different publications colour things differently, and wildly ingongrous colours will be placed besides each other.
 1. Amusingly, a lot of the older archives of Garfield comics use a *ton* of colours that are "out-of-gamut". That is to say: colours that can't be reproduced by a standard printing press, and more or less only exist digitally.
 1. Pre-2000, before digital colouring was common, colouring for daily comics was often done by separate production houses, and would [vary from paper to paper](http://wondermark.com/garfield-color/).
+
+## Myth
+1. The Golem is a [Jewish Myth](https://www.youtube.com/watch?v=pUBVSH6hBvY), and its Prague narrative is a surprisingly recent creation: in ~1837. Taking place in the 1500s, this golem was created almost as a detective to protect the Jewish population of Prague by finding the murderers who were behind accusations of [Blood Libel](https://en.wikipedia.org/wiki/Blood_libel)
 
 # Quotes to note
 1. "To speak gobbledygook to a black man is insulting, for it means he is the gook. Yet, we'll be told, there is no intention to willfully give offense. OK, but it is precisely this absence of will - this offhand manner; this casualness; and the ease with which they classify him, imprison him at an uncivilised and primitive level - that is insulting." - Fanon, Black Skin, Whick Masks "The Black Man and Language."
