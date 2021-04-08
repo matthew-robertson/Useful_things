@@ -18,6 +18,8 @@
 1. `:sp /file/path` will horizontally split.
 1. `ctrl+w [hjkl]` to navigate between splits/windows.
 1. Splits can be re-equalised (after changing the terminal size or whatever) using `Ctrl+w =`.
+1. If you need to open a bunch of files as splits quickly, use something like `:args path/to/*.py | vertical all`. 
+1. An alternative is apparently `:vert sf path/to/*.py`.
 
 ## In-File Navigation
 1. Don't move a character at a time, it's dumb and slow. Use word motions, searches, and similar to move around.
@@ -57,6 +59,7 @@
 ## Text Manipulation
 1. `Y` will yank/copy an entire line.
 1. `y[movement]` will yank based on the movement. E.G.: `yiw` will yank the word you're in.
+1. `*` refers to the system register, so `"*y` will yank into your actual clipboard.
 1. `:r` is used to copy a bunch of text into the current buffer. `:r!ls` will copy the result of ls, one per line, into the page at the cursor.
 1. `p` will paste, `P` will insert a new line first.
 1. `ctrl+t` and `ctrl+d`, used in insert mode, will indent and un-indent the current line respectively.

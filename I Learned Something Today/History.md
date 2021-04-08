@@ -13,6 +13,7 @@
 1. OO being so popular is kind of a weird accident of history. For example: C# was designed to be an alternative to Java, which was designed to be familiar to C++ programmers, which didn't get popular because of its OO but for its other features) [Why Isn't Functional Programming the Norm](https://youtu.be/QyJZzq0v7Z4?t=1864)
 1. Python's OO probably isn't why it's so popular, since Ruby was specifically designed to be more Object-oriented than Python and has fallen by the wayside [Why Isn't Functional Programming the Norm?](https://youtu.be/QyJZzq0v7Z4?t=2118)
 1. The World Wide Web was released to the public by CERN in 1993. That's quite a bit [later than you thought](https://neustadt.fr/essays/against-a-user-hostile-web/#table-of-content).
+1. Spam emails are, in-fact named after the food Spam. It's [because](https://www.bbc.com/news/av/uk-40505539) of the Monty Python sketch.
 
 # Art History
 1. There was a really quite large [monument to Stalin](https://en.wikipedia.org/wiki/Stalin_Monument_(Prague)) in Prague. It was built by [Otakar Švec](https://en.wikipedia.org/wiki/Otakar_%C5%A0vec), [the winner of a competition no one wanted to win](https://twitter.com/lewis_crofts/status/1270786908768083969).

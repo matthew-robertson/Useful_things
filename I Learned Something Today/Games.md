@@ -17,6 +17,7 @@
 1. The third proposed flaw, "Rupture", encompasses ludonarrative dissonance, but also includes things like Final Fantasy or Kingdom hearts' propensity to rip the player out of gameplay and make them reckon with story elements: drawing attention to the mechanical parts of the experience.
 1. Minecraft (and all games that use that sort of grid inventory, with equip slots and the option to see your character: Diablo for instance), [derives from a game called Dungeon Master](https://blog.ihobo.com/2016/08/game-inventories-1.html)
 1. "Here, we run up against the vagaries of historical research, since while id Software admit to being influenced by dungeon crawl games, no-one will name which. If Dungeon Master were one of them, it would arguably make it the second most influential game after D&D, having set up both the later Western RPG lineage and the FPS lineage."[Game Inventories 1](https://blog.ihobo.com/2016/08/game-inventories-1.html).
+1. Sonic 3D has a secret level select that can be accessed via "punching" the cartridge. This is because *every* error handler is set up to take you to the level select screen. Apparently this was a fun trick to have an easier time [making it past Sega's quality control tests](https://www.youtube.com/watch?v=i9bkKw32dGw) (They're very serious about making sure the games don't crash).
 
 ## Development and Design
 1. Honestly, just a [cool look at designing a 2d Zelda-like game](https://totter87.medium.com/zen-and-the-art-of-retro-level-design-in-kudzu-81cc7545fb3e)
