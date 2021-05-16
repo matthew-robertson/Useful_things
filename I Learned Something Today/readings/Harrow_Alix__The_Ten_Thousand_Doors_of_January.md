@@ -1,0 +1,22 @@
+Impression:
+I'm reminded of bouth Kingdom Hearts and Inspell, but more coherent. I'm into that.
+
+Quotes/Annotations:
+1. 'My father... puts it much better: "If we address stories as archaeological sites, and dust throughu their layers with meticulous care, we find at some level there is always a doorway. A dividing point between *here* and *there*, us and them, mundane and magical."' - Is her dad Campbell?
+1. "Father was hired before dusk. Now he gallivants around the world collecting objects 'of particular unique value' and mailing them to Me. Locke so he can put them in glass cases with brass plaques..." - Ah yes, enacting colonialism.
+1. "that diary was the most precious thing I had ever owned, though whether I techincally owned it is legally questionable. I hadn't bought it, and no one had given it to me - I'd found it." - Well that's ominous.
+1. "It seems cruel to you, doesn't it? A sullen child punishing her father for his absence. But I assure you my intentions at the time were thoroughly mnuddled; there was just something about the shape of him in the doorway that made me dizzy with anger. Maybe because he smelled like jungles and steamships and adventures, like shadowed caves and unseen wonders, and my world was so ferociously mundane. Or maybe just because I'd been locked away and he hadn't been there to open the door."
+1. I made a point of marking all the references to birds. There's quite a few, and they fade away (switching to dragons for a bit, then back to birds and slowly fading). I won't be marking them here, but it's a recurring motif.
+1. "This one smelled unlike any book I'd ever held. Cinnamon and coal smoke, catacombs, and loam. Damp seasisde evenings and sweat-slick noontimes beneath palm fronds. It smelled as if it had been in the mail for longer than any one parcel could be, circling the world for years and accumulating layers of smells like a tramp wearing too many clothes. It smelled like adventure itself had been harvested in the wild, distilled to a fine wine, and splashed across each page."
+1. '"Miss Jane. Could I see my father's letter?"... "No."' - "Localized entirely within your kitchen"
+1. 'His eyes slid to Jane and me and his mouth curled into a smile-shaped sneer. "You ought to send this pair down to visit, if you ever grow bored with them. I'm always in need of more warm bodies." - Yikes.
+1. "I have written it anyway, for two reasons: First because what is written is what is true. Words and their meanings have weight in the world of matter, shaping and reshaping realities through a most ancient alchemy. Evne my own writings- so damnably powerless - may have just enough power to reach the right person and to tell the right truth and change the nature of things. Second, my long years of reserarch have taught me that all stories, even the meanest folktales, matter. They are artifacts and palimpsests, riddles and histories. They are the red threads that we may follow out of the labyrinth."
+1. '"It's late. I'm going in," I announced, and the harshness of it erased the miraculous circle we'd drawn around ourselves...' - Is this related to the concept of the Magic Circle in games?
+1. '"...Of all the items in my collections, I've treasured you most of all." His fist closed in frustration. "ANd yet you insist on flinging yourself into danger."' - Holy yikes batman.
+1. "Now, not every written word holds such power - what chaos that would be! - but only certain words written by certain peopls combine an innate talent with many years of carful study..." - Inkspell intensifies.
+1. "Cats, I have found, seem to exist in more of less the same form in every world. It is my belief that they have bene slipping in and out of doors for several thousand years. Anyone familiar with house cats will know this is a particular hobby of theirs." - a footnote.
+1. "Stoker should've been summarily exeecuted, if you ask me." - Mans *would* say that about a folklore almost specifically about class, huh.
+1. "It hurt less than I'd thought it would. No, that's a lie- it hurt precisely as much as you'd think to carve letters into your own flesh, deep enough for blood to boil up like red oil wells; it's just that sometimes pain is too unavoidable, too necessary to feel." - Metal as hell.
+1. "His own limbs, emerging from the tangle at careless, random angles like debris from a flood, looked thin and wasted." - Fun.
+1. "Because I am a collector of the unique and valuable, and I suspect that you are both." - Horrid.
+1.
