@@ -39,6 +39,15 @@
 1. Drow, bizarro-world elves, are a DnD thing. ["The basic template—of black, underground elves—was established by a scant mention in the great 13th-century compendium of Norse mythology, the Prose Edda (which calls them svartálfar). But everything beyond this was determined by the creators of D&D."](https://www.publicmedievalist.com/race-fantasy-genre/)
 1. Drizz't actually began as a secondary character, and to date, all 30 of the books involving him by R.A. Salvatore have been best-sellers. Thankfully, Salvatore's thoughts on race have [improved over time](http://www.lightspeedmagazine.com/nonfiction/interview-r-a-salvatore/)
 1. The major problem with making races like Drow and Orcs inherently evil (aside from the implicit weirdness in making dark-skinned "races" evil), is that it paints racism against them as something logical, instead of irrational: If the average Drow is a sadistic torturer, of course it's reasonable to assume any you meet are.
+1. To guide players towards a specific plan, Matt Colville will challenge the one that he likes "what will you do about X", "you know Y can happen if you do this", while not saying anything about the bad plans.
+1. If you want players to care about your world, you need to chase them up a tree with problems their character sheet can't solve.
+1. As a DM, you want to spend as little time as possible speaking. Set your scene, and let the players get going. (Dungeon Master of None)
+1. Be careful about showing vs telling. For example, Graduations conceit of "Heroes+Villains are effectively pro wreslters, hired out for publicity": don't just take a knowledge roll and explain everything in detail, make it happen! They could've gone out as interns or whatever, seen a villan get arrested, and then see them back at the school being pals with the hero.
+1. You don't have to start with a "whiz-bang fight", but you *should* give the players something interesting to do ASAP.
+1. "If you, as the DM, are talking to yourself: you've fucked something up."
+1. The key to interesting NPCs is to, without a ton of effort, know what they want. Sometimes the shopkeep's motivation is just "I want to make enough to feed my family"
+1. You can not set up scenarios predicated on how you think the players will react. It will be incorrect, and you can't force them to feel/respond a certain way.
+1. The DM should generally be the straight-person in the comedy duo. Set the scene, let the players make the obvious jokes.
 
 ## Magic The Gathering
 1. Magic The Gathering is provably Turing-complete.
