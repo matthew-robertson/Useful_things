@@ -71,3 +71,4 @@ export default () => {
 ## Testing Ember?
 1. When constructing components in tests, the elements you pass in have are found from the `this` scope. Local variables don't exist in its space, it's weird. You once spent comically long trying to track down a test that was failing because of this.
 1. Tests like to do things by referencing classnames. A neat trick you can use is to pop a garbage classname on things just for testing purposes, like `js-search-box`.
+1. A thing to note with this, at least in Capybara, when trying to find an element to click on `When I click on element '.js-search-box'` for example, a period has to be added to the front to ensure it's looking for an element with that classname. Without it, it'll look for a tag named that, like `When I click on element 'input'`.
