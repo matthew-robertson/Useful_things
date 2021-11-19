@@ -14,3 +14,4 @@
 1. `df -h` gives you the disk sizes in a human-readable format, while `du -h` does the same for file sizes.
 1. start services (like docker, for when an AWS instance gets reset!) using `sudo service docker start`.
 1. `strace` is a cool little (and performance-heavy) tool, that tracks all syscalls a call makes. `strace ls .` records every system call `ls` would make.
+1. `grep -rl "foo" dict/to/search | xargs sed -i 's/foo/bar/g'`  will replace all instances of foo with bar in files in the target directory. If you're on mac, `-i` requires an argument. `-i ""` should cover that.
