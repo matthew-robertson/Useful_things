@@ -71,6 +71,7 @@
 1. `ctrl+n` will bring up the autocomplete word suggestions when in insert mode.
 1. Manipulate buffers by prefixing a command with `"a` (or some other buffer name). `"aY` `"aP" Will yank the current line into the `a` buffer, then paste it. This gives you access to multiple clipboards.
 1. When you yank something, it goes into the `0` buffer, unlike on deletion/change/whatever. You can imagine how this is useful.
+1. `:sort` with some kind of selection (visual works well), will sort the selected lines alphabetically.
 
 ## General Editing
 1. `u` will undo a change
