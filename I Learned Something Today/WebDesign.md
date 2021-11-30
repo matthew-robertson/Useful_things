@@ -5,3 +5,6 @@
 1. Don't specify font pts, you can't guess at what the user uses as accessible. You can, however, suggest larger font sizes for headings and whatnot. CSS allows you to specify fontsize as a percent of its parent, and you should use that.
 1. Percentages remain useful when specifying [layouts](https://alistapart.com/article/dao/#section8). Notably, margins can be specified using the `em` unit, which is relative to the fontsize.
 1. People are colourblind, [don't rely on colour alone to convey meaning](https://alistapart.com/article/dao/#section9). Use stylesheets to specify colour, so users can override them with their user style sheet.
+
+## CSS
+1. `.a + .b` is the sibling selector. This will apply a style to an element with the class `b` below/next to an element with the class `a`.
