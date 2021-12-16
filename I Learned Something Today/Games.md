@@ -19,6 +19,23 @@
 1. "Here, we run up against the vagaries of historical research, since while id Software admit to being influenced by dungeon crawl games, no-one will name which. If Dungeon Master were one of them, it would arguably make it the second most influential game after D&D, having set up both the later Western RPG lineage and the FPS lineage."[Game Inventories 1](https://blog.ihobo.com/2016/08/game-inventories-1.html).
 1. Sonic 3D has a secret level select that can be accessed via "punching" the cartridge. This is because *every* error handler is set up to take you to the level select screen. Apparently this was a fun trick to have an easier time [making it past Sega's quality control tests](https://www.youtube.com/watch?v=i9bkKw32dGw) (They're very serious about making sure the games don't crash).
 
+## Thinking about Games
+1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:
+```
+In a scene of futile interactivity, the player is given agency, apparently as normal... It is
+essential that the goal seems normal for the game in which it occurs, and the player
+have a natural-seeming control of the character. However, the scene is designed
+so that the goal is impossible to achieve... When the trope is well-
+constructed, the player attempts to pursue the apparent goal with the belief they can
+succeed. Thus, the players can struggle in a typically gamer fashion to make the
+goal, and feel the same ambition and emotion they do when they attempt to win in
+regular play. But the futility of struggle,..., means that through the use of agency, the
+designers can set up the player to feel a certain way as they control the character,
+but can then betray those feelings when the scene resolves to designer’s and not
+the player’s objective. In this way, futile interactivity gives the designer a way of
+using agency in order to create dramatic necessity.
+```
+
 ## Development and Design
 1. Honestly, just a [cool look at designing a 2d Zelda-like game](https://totter87.medium.com/zen-and-the-art-of-retro-level-design-in-kudzu-81cc7545fb3e)
 1. From Kudzu's design (and taken from Boss Keys): Instead of backtracking from boss rooms, make use of one-sided short (or long) cuts: possibly a whole new flow. Loops work better than backtracking.
