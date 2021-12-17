@@ -90,5 +90,6 @@
 1. Don't store onions and potatoes near each other. Onions emit ethylene gas, which makes potatoes spoil faster.
 
 ## Food History
-1. [Bannock](https://en.wikipedia.org/wiki/Bannock_(food) is a bread that's common to Canadian indigenous groups all across the country. The fact that's true should make you think about why: the answer is that [the ingredients are all common to what was included in the ration packs the groups were given after being forced into reservations](https://youtu.be/4EXVrzOACv4?t=245).
+1. [Bannock](https://en.wikipedia.org/wiki/Bannock_(food)) is a bread that's common to Canadian indigenous groups all across the country. The fact that's true should make you think about why: the answer is that [the ingredients are all common to what was included in the ration packs the groups were given after being forced into reservations](https://youtu.be/4EXVrzOACv4?t=245).
 1. It's a [bit more complicated](https://www.npr.org/sections/thesalt/2015/03/26/394339284/how-snobbery-helped-take-the-spice-out-of-european-cooking) than that, but part of why European cooking isn't known for spices is that after they became accessible to the common folk, it became "cool" to instead have things which "taste like themselves". This shift started around 1600.
+1. [The first restaurant was opened in 1765](https://www.merriam-webster.com/words-at-play/the-history-of-restaurant), and was so named because the meat stews it sold would "restore" those who had them.
