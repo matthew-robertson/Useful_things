@@ -34,6 +34,6 @@
 
 # Virology
 1. Viruses are, generally: a sack of RNA with some proteins to help replicate/break into cells/etc..., all surrounded by lipids. The lipids are half for protection, and half for invading cells. [Twitter source](https://twitter.com/PalliThordarson/status/1236549318439387137)
-1. Viruses don't last very long on wood or fabric because they can form lots of hydrogen bonds with the surface. Whereas on something like steel it can't, and will just kind of chill until your hand comesand touches it, and it'll hop on. [source](https://twitter.com/PalliThordarson/status/1236549338320343040).
+1. Viruses don't last very long on wood or fabric because they can form lots of hydrogen bonds with the surface. Whereas on something like steel it can't, and will just kind of chill until your hand comes and touches it, and it'll hop on. [source](https://twitter.com/PalliThordarson/status/1236549338320343040).
 1. Water alone doesn't wash away viruses because it only competes against the hydrogen bonds the virus has formed with your skin, but it isn't usually enough.
 1. Soap works though, becuase it contains fat-like "amphiphiles", which end up tearing the virus apart by attracting its fatty barrier. [Here](https://twitter.com/PalliThordarson/status/1236553248862957569). The soap particles also do a great job of separating the virus from your skin.

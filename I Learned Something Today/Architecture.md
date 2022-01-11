@@ -11,4 +11,4 @@
 
 # Architecture
 1. "Compression" and "Expansion" are architecture terms used in designing spaces. "compressed" corridors are used to funnel people along and keep them moving, while "expanded" open spaces encourage people to meander around and mill about.
-1. A ["Panopticon"](https://en.wikipedia.org/wiki/Panopticon) is a style of prison (or whatever) designed so that one guard can watch every prisoner. Done by putting a guard tower in the center of a round roomof individual cells. Spooky.
+1. A ["Panopticon"](https://en.wikipedia.org/wiki/Panopticon) is a style of prison (or whatever) designed so that one guard can watch every prisoner. Done by putting a guard tower in the center of a round room of individual cells. Spooky.
