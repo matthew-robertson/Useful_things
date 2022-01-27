@@ -16,3 +16,4 @@
 	1. Global Contracts (from Ada)
 	1. Static Verifiication (from Dafny)
 	1. Abstract Base Classes Metatyping (from Python potentially)
+1. Check out [a11y-automation](https://a11y-automation.dev) for a list of possible accessibility violations and how they might be tested.

@@ -12,6 +12,7 @@
 # Mammals
 1. Cats, unlike all other mammals we've examined, can not taste sweetness. They can taste some other stuff we can't though. [Scientific American](https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/)
 1. [Livestock guardian dogs](https://en.wikipedia.org/wiki/Livestock_guardian_dog) are a dog type bred to protect livestock from predators. This is distinct form herding dogs, and they generally live as a part of the herd and are bonded to the herd from a young age. The only breed you know of previously that was bred for this is the great pyrenees.
+1. Not only do hedgehogs hibernate, they're one of the few mammals that "truly" hibernate: they aren't asleep, they've dropped their body temp to match the cold and almost cryo themselves.
 
 # Humans in general
 1. "Brown is a colour that doesn't really exist" - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
