@@ -20,6 +20,7 @@
 1. Sonic 3D has a secret level select that can be accessed via "punching" the cartridge. This is because *every* error handler is set up to take you to the level select screen. Apparently this was a fun trick to have an easier time [making it past Sega's quality control tests](https://www.youtube.com/watch?v=i9bkKw32dGw) (They're very serious about making sure the games don't crash).
 1. [Line Wobbler](https://wobblylabs.com/projects/wobbler) is a 1D dungeon crawler, controlled using a door-stopper spring and a line of LEDs. It's a pretty wild idea.
 1. Despite being built to be compatible, a [number of games](https://en.wikipedia.org/wiki/List_of_PlayStation_games_incompatible_with_PlayStation_2) for the PS1 can't be played on the PS2. Including Final Fantasy Anthology, the one game in that side-series that I luckily didn't buy.
+1. The [Video Game Soda Machine Project](https://vgsmproject.com/) is what you think it is: a quest to document every soda machine in video games. It's *long*.
 
 ## Thinking about Games
 1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:
