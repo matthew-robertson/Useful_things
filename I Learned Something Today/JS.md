@@ -73,3 +73,5 @@ export default () => {
 1. Tests like to do things by referencing classnames. A neat trick you can use is to pop a garbage classname on things just for testing purposes, like `js-search-box`.
 1. A thing to note with this, at least in Capybara, when trying to find an element to click on `When I click on element '.js-search-box'` for example, a period has to be added to the front to ensure it's looking for an element with that classname. Without it, it'll look for a tag named that, like `When I click on element 'input'`.
 1. `ember-template-lint` is a rad accessibility linter. Notably, they now have a todo functionality to help with introducing it to older code. Instead of ignoring errors, you can use `ember-template-lint . --update-todo` to create todos for them, which eventually degrade to warnings and then errors. `--include-todo` will list how many todos remain, and `--fix` will remove todos.
+1. Adding your own lint rule to extend ESLint is pretty straightforward. Such an example is done in [this talk](https://youtu.be/nAIiXcisknc?t=559) in a few minutes.
+1. `eslint-plugin-qunit` can apparently help with finding invalid test assertions and whatnot.
