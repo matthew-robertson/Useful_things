@@ -13,6 +13,8 @@
 ## Fantasy
 1. [Spoilers](https://jamesmendezhodes.com/blog/2019/1/13/orcs-britons-and-the-martial-race-myth-part-i-a-species-built-for-racial-terror), Tolkien's orcs were based off of some pretty harmful stereotypes of Asian people. For example: "The Orcs are definitely stated to be corruptions of the 'human' form seen in Elves and Men. They are (or were) squat, broad, flat-nosed, sallow-skinned, with wide mouths and slant eyes: in fact degraded and repulsive versions of the (to Europeans) least lovely Mongol-types." - JRR Tolkien, Letter @210.
 1. Which, after the quote that "The hobbits were 'a reflection of the English soldier'", woof.
+1. [Dwarves are also kind bad](https://dc.swosu.edu/cgi/viewcontent.cgi?article=1172&context=mythlore), encompassing more than a handful of anti-semitic tropes in The Hobbit, which Tolkien spent a decent amount of time walking back in later works. Thanks, Rebecca Brackmann's Dwarves are not Heroes.
+1. To paraphrase China Mieville "Race is true in Tolkien", much like in DnD and other fantasy settings.
 
 ## Comics
 1. Dilbert's creator, Scott Adams, is a trash child. This isn't news. However, consider that the Pointy-Haired Boss - a decidedly Trumpian character - has become decidedly more sympathetic over time](https://www.theawl.com/2017/12/dilbert-a-reckoning/).
@@ -29,3 +31,4 @@
 
 # Quotes to note
 1. "To speak gobbledygook to a black man is insulting, for it means he is the gook. Yet, we'll be told, there is no intention to willfully give offense. OK, but it is precisely this absence of will - this offhand manner; this casualness; and the ease with which they classify him, imprison him at an uncivilised and primitive level - that is insulting." - Fanon, Black Skin, Whick Masks "The Black Man and Language."
+1. "Instead of insisting that Tolkien is worth of literary study but resisting analyses that present problems for the reader, critics should allow themselves (and be allowed by their own readers) to examine his books with the same approaches that they use for other texts, noticing changes, gaps, alterations, and biases in Tolkien's texts. After all, in the case of the Dwarbes in *The Hobbit*, he seems to have been perfectly willing to perform such examinations himself."

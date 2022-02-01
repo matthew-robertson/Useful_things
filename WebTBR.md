@@ -37,6 +37,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://www.froyok.fr/documents/making_of_sotc.pdf
 1. https://www.whiteflash.com/ags-cut-grade-research.pdf
 1. A noisy rant about banding in games - https://loopit.dk/banding_in_games.pdf
+1. Designing 2D graphics in the Japanese Industry - https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s
 
 ### Math
 1. https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf
@@ -69,6 +70,5 @@ To be (re)read and integrated elsewhere in this wiki:
 1. How did you build up your personal knowledge base? - https://news.ycombinator.com/item?id=21332957
 1. A plan to learn Japanese in a year - https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/
 1. I've Seen the Metaverse - and I don't want it - https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it
-1. Why Bored Ape Yacht Club is Racist and Started by Neo-Nazis - https://gordongoner.com/
-1. My Productivity App for hte past 12 years has been a single .txt file - https://jeffhuang.com/productivity_text_file/
+1. My Productivity App for the past 12 years has been a single .txt file - https://jeffhuang.com/productivity_text_file/
 1. Passion Play: How did participatory culture of early internet fandom turn into the mob culture familiar today? - https://reallifemag.com/passion-play/

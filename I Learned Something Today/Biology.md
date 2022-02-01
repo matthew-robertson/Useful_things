@@ -18,6 +18,8 @@
 1. "Brown is a colour that doesn't really exist" - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
 1. "Brown is a colour that exists due to context, not wavelength"
 1. Magenta is a colour that our brains made up, detected by things emitting high and low wavelength light, but not much in the middle. This is why it isn't in the rainbow. - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
+1.'In analyzing their data, the researchers found “Clerical VDT operators showed much higher levels of visual, musculoskeletal, and emotional health complaints, as well as higher job stress levels, than did control subjects and professionals using VDTs.” In every category of health complaint—from fainting to stomach pain to neck pressure to hand cramps—the percentage of complaints went up among clerical workers stationed at computer terminals, often doubling, tripling, or quadrupling in number. ' (note, VDT stands for Video Display Terminal: a monitor. And professional vs clerical is largely a heirarchical split and is quite gendered.). See [here](https://www.vice.com/en/article/y3dda7/how-the-personal-computer-broke-the-human-body).
+1. Also found in that study, the act of using a computer seemed to make the work hurt more and feel less fulfilling.
 
 # Human medicine
 1. Auto-brewery syndrome is a bizarre condition where people end up with brewer's yeast taking over their intestines, turning the carbs they eat into alcohol and making them constantly drunk. (Sawbones: Auto-brewery Syndrome)
