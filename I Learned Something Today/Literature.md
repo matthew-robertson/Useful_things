@@ -23,5 +23,9 @@
 ## Myth
 1. The Golem is a [Jewish Myth](https://www.youtube.com/watch?v=pUBVSH6hBvY), and its Prague narrative is a surprisingly recent creation: in ~1837. Taking place in the 1500s, this golem was created almost as a detective to protect the Jewish population of Prague by finding the murderers who were behind accusations of [Blood Libel](https://en.wikipedia.org/wiki/Blood_libel)
 
+## Commercial Fiction
+1. [The Boy in the Striped Pyjamas](https://en.wikipedia.org/wiki/The_Boy_in_the_Striped_Pyjamas#Educational_implications) has had a pretty disastrous impact on history education. A [twitter thread](https://twitter.com/gwenckatz/status/1487530360703361024) goes into some details. One of note is the use of a non-Jewish perspective as the narrator.
+1. The author of The Boy in the Striped Pyjamas is the same dumb-ass who included [Legend of Zelda ingredients](https://twitter.com/DanaSchwartzzz/status/1290099395220799488?ref_src=twsrc%5Etfw) in his historical fiction. A paragon of research.
+
 # Quotes to note
 1. "To speak gobbledygook to a black man is insulting, for it means he is the gook. Yet, we'll be told, there is no intention to willfully give offense. OK, but it is precisely this absence of will - this offhand manner; this casualness; and the ease with which they classify him, imprison him at an uncivilised and primitive level - that is insulting." - Fanon, Black Skin, Whick Masks "The Black Man and Language."

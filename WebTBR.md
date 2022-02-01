@@ -13,6 +13,14 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Health Status/circuit breakers in services - https://news.ycombinator.com/item?id=22545972
 1. Why I Don't Use Classes - https://news.ycombinator.com/item?id=22555938
 1. Models of Generics and Metaprogramming - https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics
+1. In Defence of the Boring Web - https://bastian.rieck.me/blog/posts/2022/boring/
+1. How to Approach and Prioritize Technical Debt - http://news.ycombinator.com/item?id=30149864
+1. There's No Such Thing as Clean Code - https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code
+1. Thunks: Read 100 Books on OOP - https://github.com/fogus/thunks/blob/main/studies/1OO.txt
+1. Write Shitty Code - why you should and feel good about it - https://www.cyclic.sh/posts/write-shitty-code
+
+### Design
+1. The UX of Lega Interface Panels - https://interactionmagic.com/UX-LEGO-Interfaces
 
 ### Tooling specific
 1. Patterns for managing source code branches - https://martinfowler.com/articles/branching-patterns.html
@@ -45,12 +53,22 @@ To be (re)read and integrated elsewhere in this wiki:
 ## Writing
 1. Literary translation press, Open Letter Books - https://www.openletterbooks.org
 
-### Random stuff
+### Games
 1. Roguelike Tutorial (Rust) - https://news.ycombinator.com/item?id=21801242
-1. I Add 3-25 Seconds of Latency to Every Page I visit - https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
-1. How did you build up your personal knowledge base? - https://news.ycombinator.com/item?id=21332957
-1. A plan to learn Japanese in a year - https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/
 1. The Door Problem of Combat Design - https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design
 1. The Edge of Emulation - https://byuu.org/articles/edge-of-emulation
 1. Playstation Architecture - https://copetti.org/projects/consoles/playstation/
 1. How Crash Bandicoot Hacked the original playstation - https://copetti.org/projects/consoles/playstation/
+1. Why So Few Violent Games? - https://ludusnovus.net/2011/08/15/why-so-few-violent-games/
+1. Game Design Perspective: Stardew Valley - https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley
+1. Killing Our Gods: Faith Remains in Final Fantasy X - https://uppercutcrit.com/killing-our-gods-faith-remains-in-final-fantasy-x/
+1. Final Fantasy X Part 1: Favourite Fantasy - https://www.shamusyoung.com/twentysidedtale/?p=32341
+
+### Random stuff
+1. I Add 3-25 Seconds of Latency to Every Page I visit - https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
+1. How did you build up your personal knowledge base? - https://news.ycombinator.com/item?id=21332957
+1. A plan to learn Japanese in a year - https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/
+1. I've Seen the Metaverse - and I don't want it - https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it
+1. Why Bored Ape Yacht Club is Racist and Started by Neo-Nazis - https://gordongoner.com/
+1. My Productivity App for hte past 12 years has been a single .txt file - https://jeffhuang.com/productivity_text_file/
+1. Passion Play: How did participatory culture of early internet fandom turn into the mob culture familiar today? - https://reallifemag.com/passion-play/
