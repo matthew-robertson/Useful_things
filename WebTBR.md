@@ -20,7 +20,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Write Shitty Code - why you should and feel good about it - https://www.cyclic.sh/posts/write-shitty-code
 
 ### Design
-1. The UX of Lega Interface Panels - https://interactionmagic.com/UX-LEGO-Interfaces
 
 ### Tooling specific
 1. Patterns for managing source code branches - https://martinfowler.com/articles/branching-patterns.html
