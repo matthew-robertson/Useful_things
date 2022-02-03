@@ -12,3 +12,6 @@
 ## Other languages
 1. Verbs gets marked with gender suffixes in Russian (and tons of others), unlike in English. Sometimes it's based on the speaker, sometimes it's based on the person being spoken to, sometimes it's something else. ("From Uptalk to Vocal Fry, Women Are Prolific Language Innovators", Lexicon Valley)
 1. To quote John McWhorter, languages spoken by smaller groups tend to be more complicated, not less.
+
+# Links
+1. [A plan to learn Japanese in a year](https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/)

@@ -84,3 +84,8 @@ using agency in order to create dramatic necessity.
 1. Only 72.28% of [survey respondants](http://www.hollygramazio.net/blog/2020/4/1/the-floor-the-floor) played the game with the floor being lava. Water type things get up to 11%, and somehow "No particular reason" got 7%.
 1. Unsurprisingly, floor danger is regional. Places where lava is a real concern (like Hawai'i), seem to shy away from using Lava.
 1. Pippi Longstocking in 1945 has a really quite good description of the game, though without the lava. Probably not the earliest. Lava doesn't seem to show up until the 50's.
+
+
+# Links
+1. [Passion Play - How did participatory culture of early internet fandom turn into the mob culture familiar torday?](https://reallifemag.com/passion-play/)
+1. [Why So Few Violent Games?](https://ludusnovus.net/2011/08/15/why-so-few-violent-games/)

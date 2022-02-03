@@ -51,7 +51,6 @@ To be (re)read and integrated elsewhere in this wiki:
 ## Business
 
 ## Writing
-1. Literary translation press, Open Letter Books - https://www.openletterbooks.org
 
 ### Games
 1. Roguelike Tutorial (Rust) - https://news.ycombinator.com/item?id=21801242
@@ -59,7 +58,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. The Edge of Emulation - https://byuu.org/articles/edge-of-emulation
 1. Playstation Architecture - https://copetti.org/projects/consoles/playstation/
 1. How Crash Bandicoot Hacked the original playstation - https://copetti.org/projects/consoles/playstation/
-1. Why So Few Violent Games? - https://ludusnovus.net/2011/08/15/why-so-few-violent-games/
 1. Game Design Perspective: Stardew Valley - https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley
 1. Killing Our Gods: Faith Remains in Final Fantasy X - https://uppercutcrit.com/killing-our-gods-faith-remains-in-final-fantasy-x/
 1. Final Fantasy X Part 1: Favourite Fantasy - https://www.shamusyoung.com/twentysidedtale/?p=32341
@@ -67,7 +65,5 @@ To be (re)read and integrated elsewhere in this wiki:
 ### Random stuff
 1. I Add 3-25 Seconds of Latency to Every Page I visit - https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
 1. How did you build up your personal knowledge base? - https://news.ycombinator.com/item?id=21332957
-1. A plan to learn Japanese in a year - https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/
 1. I've Seen the Metaverse - and I don't want it - https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it
 1. My Productivity App for the past 12 years has been a single .txt file - https://jeffhuang.com/productivity_text_file/
-1. Passion Play: How did participatory culture of early internet fandom turn into the mob culture familiar today? - https://reallifemag.com/passion-play/

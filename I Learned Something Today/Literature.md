@@ -32,3 +32,8 @@
 # Quotes to note
 1. "To speak gobbledygook to a black man is insulting, for it means he is the gook. Yet, we'll be told, there is no intention to willfully give offense. OK, but it is precisely this absence of will - this offhand manner; this casualness; and the ease with which they classify him, imprison him at an uncivilised and primitive level - that is insulting." - Fanon, Black Skin, Whick Masks "The Black Man and Language."
 1. "Instead of insisting that Tolkien is worth of literary study but resisting analyses that present problems for the reader, critics should allow themselves (and be allowed by their own readers) to examine his books with the same approaches that they use for other texts, noticing changes, gaps, alterations, and biases in Tolkien's texts. After all, in the case of the Dwarbes in *The Hobbit*, he seems to have been perfectly willing to perform such examinations himself."
+1. 'At the “proper” level of fandom, one can enjoy commercials as content and enjoy hype as an experience rather than promotion for something else' - [Josh Tucker](https://reallifemag.com/passion-play/)
+
+
+# Links
+1. [Literary translation press, Open Letter Books](https://www.openletterbooks.org)
