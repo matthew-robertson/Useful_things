@@ -76,3 +76,4 @@ export default () => {
 1. `ember-template-lint` is a rad accessibility linter. Notably, they now have a todo functionality to help with introducing it to older code. Instead of ignoring errors, you can use `ember-template-lint . --update-todo` to create todos for them, which eventually degrade to warnings and then errors. `--include-todo` will list how many todos remain, and `--fix` will remove todos.
 1. Adding your own lint rule to extend ESLint is pretty straightforward. Such an example is done in [this talk](https://youtu.be/nAIiXcisknc?t=559) in a few minutes.
 1. `eslint-plugin-qunit` can apparently help with finding invalid test assertions and whatnot.
+1. [Ember-asset-sizes-action](https://github.com/simplabs/ember-asset-size-action) helps compare asset sizes between master and the feature branch. This is useful for noting when you're about to blow up the bundle size.
