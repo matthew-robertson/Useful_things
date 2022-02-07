@@ -95,3 +95,4 @@
 1. Want to search for something you've yanked/got in a buffer? `/ctrl+r{buffer}` will do the job. This was super useful for building macros when translating countries.
 1. `:reg` will list all the named buffers, and what they contain.
 1. `q{a-z}` will record to the chosen buffer. `@{a-z}` will execute the selected buffer as a macro. You can execute macros in other macros, so it's useful to build things up in pieces.
+1. `:set filetype?` will tell you what filetype Vim thinks you're dealing with.
