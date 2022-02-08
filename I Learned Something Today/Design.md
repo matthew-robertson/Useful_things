@@ -1,6 +1,7 @@
 # Physical Design
 1. Differentiate your inputs. Do it with different shapes, sizes, colours, etxtures, modalities (switches vs buttons, vs dials, etc..), positions, whatever. This issue has caused a ton of plane crashes, car recalls, [etc...](https://interactionmagic.com/UX-LEGO-Interfaces). This is also why single screen UIs are horrible in vehicles. People rely on mucle memory when their full attention isn't on something, don't move things on them.
 1. When organizing inputs, there are a [handful of approaches](https://interactionmagic.com/UX-LEGO-Interfaces) one might take. You might group by operation (like switches together), or by feature (all lighting controls in one place, all airflow ones in another). Consider [this picutre](https://interactionmagic.com/images/pages/UX-LEGO-Interfaces/organisation.jpg) of Lego UIs demonstrating examples.
+1. The 1964 Tokyo Games gave us the first system for [sports+services pictograms](https://olympic-museum.de/pictograms/olympic-games-pictograms-1964.php). Yes, this is where the symbols for men's+women's bathrooms come from.
 
 # Web Design
 1. The web as a medium is flexible and adaptable. [Don't try to control the user's browser](https://alistapart.com/article/dao/). "Designing adaptable pages is designing accessible pages".

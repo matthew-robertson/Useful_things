@@ -29,6 +29,12 @@
 1. [The Boy in the Striped Pyjamas](https://en.wikipedia.org/wiki/The_Boy_in_the_Striped_Pyjamas#Educational_implications) has had a pretty disastrous impact on history education. A [twitter thread](https://twitter.com/gwenckatz/status/1487530360703361024) goes into some details. One of note is the use of a non-Jewish perspective as the narrator.
 1. The author of The Boy in the Striped Pyjamas is the same dumb-ass who included [Legend of Zelda ingredients](https://twitter.com/DanaSchwartzzz/status/1290099395220799488?ref_src=twsrc%5Etfw) in his historical fiction. A paragon of research.
 
+## Poetry
+1. Poetry's *about* [playing with language](https://youtu.be/arE2yyQe1PY). 
+1. Avoid cliches in your metaphor: stop comparing life to candles, sex to drugs, etc... Find something new, or subvert the usual.
+1. People tend to approach poems by targetting "death" or "love" or some abstract thing, and try to find an image to relate them to (this is common in "instaPoetry"). This is... hard, if your goal is to get people to think/feel something.
+1. "Show don't tell" applies to poetry too. Concrete happenings and (specific) images are your bread and butter, and help get people to inhabit your space. Don't overdo it.
+
 # Quotes to note
 1. "To speak gobbledygook to a black man is insulting, for it means he is the gook. Yet, we'll be told, there is no intention to willfully give offense. OK, but it is precisely this absence of will - this offhand manner; this casualness; and the ease with which they classify him, imprison him at an uncivilised and primitive level - that is insulting." - Fanon, Black Skin, Whick Masks "The Black Man and Language."
 1. "Instead of insisting that Tolkien is worth of literary study but resisting analyses that present problems for the reader, critics should allow themselves (and be allowed by their own readers) to examine his books with the same approaches that they use for other texts, noticing changes, gaps, alterations, and biases in Tolkien's texts. After all, in the case of the Dwarbes in *The Hobbit*, he seems to have been perfectly willing to perform such examinations himself."
