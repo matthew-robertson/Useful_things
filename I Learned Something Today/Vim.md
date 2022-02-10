@@ -10,6 +10,7 @@
 1. `ls` is a shortcut for `:buffers`. Use it instead.
 1. `:b` will go to the specific buffer, using a buffer number or a partial filename
 1. `:b#` will go to the alternate buffer (probably the previous one)
+1. `vim -p 'grep -ril test .'` will open up all the results of grep in different vim tabs. `-O` will instead open them as windows.
 
 ## Windows
 1. `ctrl+w v` will vertically split, opening a new window, duplicating the current file.
