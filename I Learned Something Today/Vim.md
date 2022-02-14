@@ -21,6 +21,7 @@
 1. Splits can be re-equalised (after changing the terminal size or whatever) using `Ctrl+w =`.
 1. If you need to open a bunch of files as splits quickly, use something like `:args path/to/*.py | vertical all`. 
 1. An alternative is apparently `:vert sf path/to/*.py`.
+1. `:only` is excellent for resetting. It closes all windows but the active one.
 
 ## In-File Navigation
 1. Don't move a character at a time, it's dumb and slow. Use word motions, searches, and similar to move around.

@@ -11,7 +11,7 @@
 1. `var` is function scoped, while `let` is block scoped.
 1. `console.log` doesn't print the full object, and will evaluate it when expanded. This can lead one to tear their hair out when logging objects that change. Get around this by cloning the object before the initial print.
 1. You can assign default parameters like `function foo(bar=10) {...}`, which is pretty tame. It gets nutty when you start using arguments as parameters to other default values like so: `function foo(bar, baz=test(bar)) {...}`.
-1. Want to insert an asynchronous sleep, for use in tests or something? `const delay = ms => new Promise(res => setTimeout(res, ms)); delay(2000)` has you covered.
+1. Want to insert an asynchronous sleep, for use in tests or something? `const delay = ms => new Promise(res => setTimeout(res, ms)); await delay(2000)` has you covered.
 
 ## Typescript
 1. In interface definitions, `?` can be used to mark optional parameters, like 
