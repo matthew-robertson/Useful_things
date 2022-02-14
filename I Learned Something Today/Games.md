@@ -21,6 +21,9 @@
 1. [Line Wobbler](https://wobblylabs.com/projects/wobbler) is a 1D dungeon crawler, controlled using a door-stopper spring and a line of LEDs. It's a pretty wild idea.
 1. Despite being built to be compatible, a [number of games](https://en.wikipedia.org/wiki/List_of_PlayStation_games_incompatible_with_PlayStation_2) for the PS1 can't be played on the PS2. Including Final Fantasy Anthology, the one game in that side-series that I luckily didn't buy.
 1. The [Video Game Soda Machine Project](https://vgsmproject.com/) is what you think it is: a quest to document every soda machine in video games. It's *long*.
+1. [Moonlander](https://www.acriticalhit.com/moonlander-one-giant-leap-for-game-design/) is pretty groundbreaking in a number of ways. Including: first overworld map, possibly first human character, cutscene, and the first easter egg in a video game. Thanks [Kate Willart](https://youtu.be/z97TfAhDKGk).
+1. Atari's Adventure was not only *not* the first video game easter egg, it wasn't even the first one in a cartridge game. That title seems to belong to Fairchild F's [Spitfire](https://youtu.be/z97TfAhDKGk).
+1. Atari pretty consistently gets credit for inventing things they didn't. Like Pong (Magnavox Odyssey), or Game Cartridges (Fairchild F), or Easter Eggs.
 
 ## Thinking about Games
 1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:
