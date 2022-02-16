@@ -17,6 +17,8 @@ To be (re)read and integrated elsewhere in this wiki:
 1. There's No Such Thing as Clean Code - https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code
 1. Thunks: Read 100 Books on OOP - https://github.com/fogus/thunks/blob/main/studies/1OO.txt
 1. Write Shitty Code - why you should and feel good about it - https://www.cyclic.sh/posts/write-shitty-code
+1. 20 Things I've Learned in my 20 Years as a Software Engineer - https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+1. Do things, tell people - http://carl.flax.ie/dothingstellpeople.html
 
 ### Design
 
@@ -25,6 +27,8 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Streamed Lines - https://martinfowler.com/articles/branching-patterns.html
 1. https://github.com/kerkeslager/dotfiles
 1. SSH tooling - https://news.ycombinator.com/item?id=23025756
+1. Developer Tools secrets taht shouldn't be secrets - https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/
+1. Happy Birthday Vim - https://news.ycombinator.com/item?id=29113216
 
 ### Graphics
 1. http://www.pbr-book.org/3ed-2018/contents.html
@@ -37,9 +41,16 @@ To be (re)read and integrated elsewhere in this wiki:
 1. A noisy rant about banding in games - https://loopit.dk/banding_in_games.pdf
 1. Designing 2D graphics in the Japanese Industry - https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s
 
+### Games Tech
+1. SNES Development Part 1: Getting Started - https://blog.wesleyac.com/posts/snes-dev-1-getting-started
+1. Building a PS1 style retro 3D renderer - https://www.david-colson.com/2021/11/30/ps1-style-renderer.html
+1. A project to port Jak 1 to PC by building a GOAL (Naughty Dog's custom LISP) compiler - https://github.com/open-goal/jak-project
+
+
 ### Math
 1. https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf
 1. Probability Theory for Physically Based Rendering - https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2
+1. UBC's 2007 Fluid Simulation course notes - https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf
 
 ### Food
 1. https://www.seriouseats.com/2013/03/the-vegan-experience-green-risotto-with-mushr.html
@@ -50,6 +61,7 @@ To be (re)read and integrated elsewhere in this wiki:
 ## Business
 
 ## Writing
+1. Ask HN: Best Engineering Blog Posts?  - news.ycombinator.com/item?id=29758396
 
 ### Games
 1. Roguelike Tutorial (Rust) - https://news.ycombinator.com/item?id=21801242
@@ -59,6 +71,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Game Design Perspective: Stardew Valley - https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley
 1. Killing Our Gods: Faith Remains in Final Fantasy X - https://uppercutcrit.com/killing-our-gods-faith-remains-in-final-fantasy-x/
 1. Final Fantasy X Part 1: Favourite Fantasy - https://www.shamusyoung.com/twentysidedtale/?p=32341
+1. Donky Kong Country Speedruns - DKC Tricks - https://dkcspeedruns.com/DKC_Tricks
 
 ### Random stuff
 1. I Add 3-25 Seconds of Latency to Every Page I visit - https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
