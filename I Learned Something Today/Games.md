@@ -24,6 +24,7 @@
 1. [Moonlander](https://www.acriticalhit.com/moonlander-one-giant-leap-for-game-design/) is pretty groundbreaking in a number of ways. Including: first overworld map, possibly first human character, cutscene, and the first easter egg in a video game. Thanks [Kate Willart](https://youtu.be/z97TfAhDKGk).
 1. Atari's Adventure was not only *not* the first video game easter egg, it wasn't even the first one in a cartridge game. That title seems to belong to Fairchild F's [Spitfire](https://youtu.be/z97TfAhDKGk).
 1. Atari pretty consistently gets credit for inventing things they didn't. Like Pong (Magnavox Odyssey), or Game Cartridges (Fairchild F), or Easter Eggs.
+1. SNES emulation is pretty solid, thanks to folks like Byuu who developed with a focus on accuracy. One extremely tricky bit lies in the PPUs (picture processing units), as they're more or less quite complex black-boxes as far as the SNES is concerned. The original post about the problem is gone, but a mirror of [Edge of Emulation](https://near.sh/articles/emulation/edge-of-emulation) can be found online.
 
 ## Thinking about Games
 1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:

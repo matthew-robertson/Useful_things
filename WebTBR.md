@@ -13,7 +13,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Health Status/circuit breakers in services - https://news.ycombinator.com/item?id=22545972
 1. Why I Don't Use Classes - https://news.ycombinator.com/item?id=22555938
 1. Models of Generics and Metaprogramming - https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics
-1. In Defence of the Boring Web - https://bastian.rieck.me/blog/posts/2022/boring/
 1. How to Approach and Prioritize Technical Debt - http://news.ycombinator.com/item?id=30149864
 1. There's No Such Thing as Clean Code - https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code
 1. Thunks: Read 100 Books on OOP - https://github.com/fogus/thunks/blob/main/studies/1OO.txt
@@ -55,7 +54,6 @@ To be (re)read and integrated elsewhere in this wiki:
 ### Games
 1. Roguelike Tutorial (Rust) - https://news.ycombinator.com/item?id=21801242
 1. The Door Problem of Combat Design - https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design
-1. The Edge of Emulation - https://byuu.org/articles/edge-of-emulation
 1. Playstation Architecture - https://copetti.org/projects/consoles/playstation/
 1. How Crash Bandicoot Hacked the original playstation - https://copetti.org/projects/consoles/playstation/
 1. Game Design Perspective: Stardew Valley - https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley
