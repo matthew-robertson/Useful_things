@@ -19,6 +19,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Write Shitty Code - why you should and feel good about it - https://www.cyclic.sh/posts/write-shitty-code
 1. 20 Things I've Learned in my 20 Years as a Software Engineer - https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 1. Do things, tell people - http://carl.flax.ie/dothingstellpeople.html
+1. [Architecture Patterns with Python] (https://www.cosmicpython.com/)
 
 ### Design
 

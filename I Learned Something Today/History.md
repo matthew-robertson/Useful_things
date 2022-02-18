@@ -30,6 +30,7 @@
 
 # Medical History
 1. In 1972, The Black Panther Party added "Free healthcare for all black and oppressed people" to their (Ten Point Program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024403/). Before that even, in 1969, they began establishing health clinics.
+1. Prior to the 1980s, Autism was part of a chatchall diagnostic called "childhood schizophrenia": more or less any non-normative psychiactric state would get you a childhood schizophrenia diagnosis, and institutionalized. The separation was motivated by the racialized treatment of "childhood schizophrenia": middle class white parents pressured medical bodies to carve autism out so their children wouldn't be associated with a "black disease". - [Condition Critical](https://reallifemag.com/condition-critical/)
 
 # Canadian History
 1. In the 1980's, Montreal Police used photos of young black men as targets for target practice, which is pretty fucked up. (See Policing Black Lives, preface). I couldn't find citations for this (blame me listening to the audiobook), so [here's](https://www.huffingtonpost.ca/entry/north-miami-beach-target-practice_n_6482964?ri18n=true) an article about it happening in Florida.
