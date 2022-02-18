@@ -8,6 +8,7 @@
 1. There are, probably, about 9-10 thousand species of bird. Though a 2016 study suggested that number might actually be closer to 18 thousand.
 1. The feather trade blew up on account of women's fashion (mostly hats), and was subsequently largly banned, also thanks largely to women.
 1. The Underwood Tariff Act banned the import of feathers in 1918.
+1. Baby owls sleep [face down](https://twitter.com/roook/status/1494691070571069441?s=21). This is because their heads are too heavy and they haven't learned to quite hold them up yet.
 
 # Mammals
 1. Cats, unlike all other mammals we've examined, can not taste sweetness. They can taste some other stuff we can't though. [Scientific American](https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/)
