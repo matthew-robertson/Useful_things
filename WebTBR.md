@@ -16,20 +16,21 @@ To be (re)read and integrated elsewhere in this wiki:
 1. How to Approach and Prioritize Technical Debt - http://news.ycombinator.com/item?id=30149864
 1. There's No Such Thing as Clean Code - https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code
 1. Thunks: Read 100 Books on OOP - https://github.com/fogus/thunks/blob/main/studies/1OO.txt
-1. Write Shitty Code - why you should and feel good about it - https://www.cyclic.sh/posts/write-shitty-code
-1. 20 Things I've Learned in my 20 Years as a Software Engineer - https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
-1. Do things, tell people - http://carl.flax.ie/dothingstellpeople.html
-1. [Architecture Patterns with Python] (https://www.cosmicpython.com/)
+1. [Write Shitty Code - why you should and feel good about it](https://www.cyclic.sh/posts/write-shitty-code)
+1. [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+1. [Do things, tell people](http://carl.flax.ie/dothingstellpeople.html)
+1. [Architecture Patterns with Python](https://www.cosmicpython.com/)
+1. [EmberConf - Ending the Plague of Memory Leaks](https://www.youtube.com/watch?v=slIz90NHKUs)
 
 ### Design
 
 ### Tooling specific
-1. Patterns for managing source code branches - https://martinfowler.com/articles/branching-patterns.html
-1. Streamed Lines - https://martinfowler.com/articles/branching-patterns.html
+1. [Patterns for managing source code branches](https://martinfowler.com/articles/branching-patterns.html)
+1. [Streamed Lines: Branking Patterns for Parallel Software Development](https://www.hillside.net/plop/plop98/final_submissions/P37.pdf)
 1. https://github.com/kerkeslager/dotfiles
-1. SSH tooling - https://news.ycombinator.com/item?id=23025756
-1. Developer Tools secrets taht shouldn't be secrets - https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/
-1. Happy Birthday Vim - https://news.ycombinator.com/item?id=29113216
+1. [SSH tooling](https://news.ycombinator.com/item?id=23025756)
+1. [Developer Tools secrets taht shouldn't be secrets](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
+1. [Happy Birthday Vim](https://news.ycombinator.com/item?id=29113216)
 
 ### Graphics
 1. http://www.pbr-book.org/3ed-2018/contents.html
@@ -39,12 +40,12 @@ To be (re)read and integrated elsewhere in this wiki:
 1. https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2
 1. https://www.froyok.fr/documents/making_of_sotc.pdf
 1. https://www.whiteflash.com/ags-cut-grade-research.pdf
-1. A noisy rant about banding in games - https://loopit.dk/banding_in_games.pdf
-1. Designing 2D graphics in the Japanese Industry - https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s
+1. [A noisy rant about banding in games](https://loopit.dk/banding_in_games.pdf)
+1. [Designing 2D graphics in the Japanese Industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s)
 
 ### Games Tech
-1. SNES Development Part 1: Getting Started - https://blog.wesleyac.com/posts/snes-dev-1-getting-started
-1. Building a PS1 style retro 3D renderer - https://www.david-colson.com/2021/11/30/ps1-style-renderer.html
+1. [SNES Development Part 1: Getting Started](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
+1. [Building a PS1 style retro 3D renderer](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html)
 1. A project to port Jak 1 to PC by building a GOAL (Naughty Dog's custom LISP) compiler - https://github.com/open-goal/jak-project
 
 
@@ -75,7 +76,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. Donky Kong Country Speedruns - DKC Tricks - https://dkcspeedruns.com/DKC_Tricks
 
 ### Random stuff
-1. I Add 3-25 Seconds of Latency to Every Page I visit - https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html'
-1. How did you build up your personal knowledge base? - https://news.ycombinator.com/item?id=21332957
-1. I've Seen the Metaverse - and I don't want it - https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it
-1. My Productivity App for the past 12 years has been a single .txt file - https://jeffhuang.com/productivity_text_file/
+1. [I Add 3-25 Seconds of Latency to Every Page I visit](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
+1. [How did you build up your personal knowledge base?](https://news.ycombinator.com/item?id=21332957)
+1. [I've Seen the Metaverse - and I don't want it](https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it)
+1. [My Productivity App for the past 12 years has been a single .txt file](https://jeffhuang.com/productivity_text_file/)
