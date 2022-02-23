@@ -14,7 +14,7 @@
 1. Generally speaking, you should use the pickaxe instead of `git blame`.
 1. `git annotate file/path` is like git blame, but sounds less mean and outputs in a slightly different format.
 1. If you want to do something and don't know how, [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) probably has something for you.
-1. If you don't need to update the message when ammending, use `git commit --amend -C HEAD` to reuse the commits message of the current head.
+1. If you don't need to update the message when amending, use `git commit --amend -C HEAD` to reuse the commits message of the current head.
 1. `git checkout -` will checkout the last branch you were on. (use `git co -` if you're cool and have a rad alias set up).
 1. If you want to revert a `git rm`, you can use `git checkout HEAD path/to/file` to checkout the file again. It will take multiple files if desired.
 1. `git push origin HEAD` is a shortcut for pushing the current branch. How did I not know this before now.

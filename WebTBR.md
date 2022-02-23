@@ -45,14 +45,17 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [SNES Development Part 1: Getting Started](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
 1. [Building a PS1 style retro 3D renderer](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html)
 1. [A project to port Jak 1 to PC by building a GOAL (Naughty Dog's custom LISP) compiler](https://github.com/open-goal/jak-project)
-
+1. [Roguelike Tutorial (Rust)](https://news.ycombinator.com/item?id=21801242)
+1. [Playstation Architecture](https://copetti.org/projects/consoles/playstation/)
+1. [Game Boy Techincal Specification](https://gbdev.io/pandocs/About.html)
+1. [How Crash Bandicoot Hacked the original playstation](https://copetti.org/projects/consoles/playstation/)
 
 ### Math
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
 1. [Probability Theory for Physically Based Rendering Pt.2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 1. [UBC's 2007 Fluid Simulation course notes](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)
 
-### Food
+## Food
 1. [Green Risotto with Mushrooms](https://www.seriouseats.com/2013/03/the-vegan-experience-green-risotto-with-mushr.html)
 1. [Mushroom "Calimari"](https://www.reddit.com/r/veganrecipes/comments/ehhiit/mushroom_calimari_with_homemade_tartar_sauce/)
 1. [r/AskCulinary's wiki](https://www.reddit.com/r/AskCulinary/wiki/foodlifefaqs)
@@ -65,15 +68,11 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Ask HN: Great Blogs by Programmers](https://news.ycombinator.com/item?id=30245247) 
 
 ### Games
-1. [Roguelike Tutorial (Rust)](https://news.ycombinator.com/item?id=21801242)
 1. [The Door Problem of Combat Design](https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design)
-1. [Playstation Architecture](https://copetti.org/projects/consoles/playstation/)
-1. [How Crash Bandicoot Hacked the original playstation](https://copetti.org/projects/consoles/playstation/)
 1. [Game Design Perspective: Stardew Valley](https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley)
 1. [Killing Our Gods: Faith Remains in Final Fantasy X](https://uppercutcrit.com/killing-our-gods-faith-remains-in-final-fantasy-x/)
 1. [Final Fantasy X Part 1: Favourite Fantasy](https://www.shamusyoung.com/twentysidedtale/?p=32341)
 1. [Donky Kong Country Speedruns - DKC Tricks](https://dkcspeedruns.com/DKC_Tricks)
-1. [Game Boy Techincal Specification](https://gbdev.io/pandocs/About.html)
 1. [Satoshi Matrix's Top 100 Famicom/NES Games](https://satoshimatrix.wordpress.com/2012/03/20/top-100-nesfamicom-games-list-1/)
 
 ### Random stuff
