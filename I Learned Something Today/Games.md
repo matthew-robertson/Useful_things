@@ -83,7 +83,7 @@ using agency in order to create dramatic necessity.
 1. Don't buy your whole army at once. It's overwhelming and a mistake.
 1. Find out the bare minimum you need to get started, and do it. Get the rulebook first.
 1. Paint your troops before painting your fancy HQ units: you want your HQs to look nice, so get your experience knowing what you want things to look like by doing the cannon-fodder first.
-
+1. The Eldar of Warhammer are named for the [elves of LotR](https://en.wikipedia.org/wiki/Eldar_(Warhammer_40%2C000)#Inspiration).
 
 ## Childrens' Games
 1. The Floor Is Lava is a [weird](http://www.hollygramazio.net/blog/2020/4/1/the-floor-the-floor) cultural game. Lots of people play it as what you call "Grounders".
