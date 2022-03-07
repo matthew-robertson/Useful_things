@@ -10,3 +10,5 @@
 ## Random nonsense
 1. Zendaya is apparently a Kidz Bop alumni.
 1. They're called Original SoundTracks to contrast with scores: meaning that they were composed originally for the piece of media, instead of licensing pre-existing music.
+1. With upright bass, multiple bow styles exist. Specifically, [French and German](https://gollihurmusic.com/french-or-german-bow-which-should-i-choose/), the latter of which looks almost like an underhand grip. Allegedly French is more dextrous and German is more powerful, but it's largely preference. Orchestral players often use both kinds of bow so they can switch as needed.
+1. Drums distinguish grip in a [couple ways](https://www.libertyparkmusic.com/drum-sticks-grip-guide/): most prominantly with match grip (double overhand) vs traditional grip (weak-hand underhand).
