@@ -17,6 +17,7 @@
 1. `strace` is a cool little (and performance-heavy) tool, that tracks all syscalls a call makes. `strace ls .` records every system call `ls` would make.
 1. `grep -rl "foo" dict/to/search | xargs sed -i 's/foo/bar/g'`  will replace all instances of foo with bar in files in the target directory. If you're on mac, `-i` requires an argument. `-i ""` should cover that.
 1. `cp -r /path/to/copy path/to/add` will copy the contents of the first folder into the second, craeting it if needed. This can get funky if you're trying to copy it into a sub-folder. Don't do that.
+1. `awk 'BEGIN {srand(); print srand()}'` will get the number of seconds [since epoch](https://stackoverflow.com/a/41324810). Don't ask me how, it has to do with `srand` generally being seeded with the current time.
 
 ## Scripting
 1. `if [ -d /folder ]` will return true if a folder exists. `-f` will check files, and `[ ! -d /folder ]` will return true if it *doesn't* exist. A bunch of these tests exist, check them [here](https://www.geeksforgeeks.org/bash-scripting-how-to-check-if-file-exists/).
