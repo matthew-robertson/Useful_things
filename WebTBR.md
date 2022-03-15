@@ -1,5 +1,5 @@
 To be (re)read and integrated elsewhere in this wiki:
-### Genral Programming
+### General Programming
 1. [Gordon Brander's Wiki](http://gordonbrander.com/pattern/)
 1. [How to Be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
 1. [Professional Programming](https://github.com/charlax/professional-programming)
@@ -21,6 +21,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Do things, tell people](http://carl.flax.ie/dothingstellpeople.html)
 1. [Architecture Patterns with Python](https://www.cosmicpython.com/)
 1. [EmberConf - Ending the Plague of Memory Leaks](https://www.youtube.com/watch?v=slIz90NHKUs)
+1. [Everything I Know About Alt Text](https://maxakohler.medium.com/everything-i-know-about-alt-text-3e1c8567c4f5)
 
 ### Design
 
@@ -40,6 +41,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [The Optical Design of Gemstones](https://www.whiteflash.com/ags-cut-grade-research.pdf)
 1. [Banding in Games: A Noisy Rant](https://loopit.dk/banding_in_games.pdf)
 1. [Designing 2D graphics in the Japanese Industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s)
+1. [Abstracting the Graphics API for a Toy Renderer](https://interplayoflight.wordpress.com/2022/03/12/abstracting-the-api-for-a-toy-renderer/)
 
 ### Games Tech
 1. [SNES Development Part 1: Getting Started](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
@@ -54,6 +56,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
 1. [Probability Theory for Physically Based Rendering Pt.2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 1. [UBC's 2007 Fluid Simulation course notes](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)
+1. [Ask HN: The Book that did it for You in Math and/or CS](https://news.ycombinator.com/item?id=30485544)
 
 ## Food
 1. [Green Risotto with Mushrooms](https://www.seriouseats.com/2013/03/the-vegan-experience-green-risotto-with-mushr.html)
@@ -66,6 +69,9 @@ To be (re)read and integrated elsewhere in this wiki:
 ## Writing
 1. [Ask HN: Best Engineering Blog Posts?](https://news.ycombinator.com/item?id=29758396)
 1. [Ask HN: Great Blogs by Programmers](https://news.ycombinator.com/item?id=30245247) 
+1. [A non-standard book list](https://news.ycombinator.com/item?id=30651273)
+1. [Write Plain Text Files](https://sive.rs/plaintext)
+1. [Don't Write Just in Plain Text](https://blog.miris.design/not-just-plain-text)
 
 ### Games
 1. [The Door Problem of Combat Design](https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design)

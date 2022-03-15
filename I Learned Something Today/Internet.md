@@ -6,3 +6,6 @@
 
 ### Random facts
 1. The `--random-wait` option was added to `wget` in response to "an ill-advised 2001 article". The man page still refernces it.
+
+### Useful ideas
+1. A neat sorting method for emails proposed by [Arne Bahlo](https://arne.me/blog/youre-using-email-wrong/): use multiple emails to sort by purpose. They use a bare `inbox` email for humans only, `+papertrail` for things that are important to have but not necessarily read, `+newsletter` for newsletters to look at asynchronously, etc...

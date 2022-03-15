@@ -87,6 +87,9 @@
     1. Jordan Wright uses [sysdig](https://github.com/draios/sysdig), mostly for its filtering capabilities.
     1. One neat benefit of using syscalls to check this stuff is that code obfuscation won't actually impact you.
 
+## Programming Trivia
+1. A decent amount of hello world implementations have [a bug](https://a2zfacts.net/articles/bugs-in-hello-world/) in them, exposed by trying to pipe its output into a full file, prompting it to fail silently (The OS reports the error, the program does not). C, Haskell, and Java have this bug in at least some capacity. Python3 and Rust do not, for example. 
+
 # General Language Stuff
 1. Floating point math, amirite? It means `0.1 + 0.2 != 0.3`, thanks to issues with representing necesarry rounding to store floats/doubles in memory.
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 
@@ -110,5 +113,4 @@ function greet() {
 1. [Persistent Data Structures](https://en.wikipedia.org/wiki/Persistent_data_structure) are versions of arrays, lists, trees, etc... that are 1) immutable, and 2) support a "copy with small change" operation that it does extremely efficiently to avoid slowdown from editing large structures. [Russ Olsen, FP in 40 minutes](https://youtu.be/0if71HOyVjY?t=1355)
 1. Atoms in clojure help bridge between functions and state, and function by applying a function using their current value, then updating their value to reflect the result of the function. They get around timing trickiness by detecting if the value changed out from under it, and if so, re-run it.
 1. There are a lot of things FP won't help you with, but it *will* prevent threads changing values out from under other threads. It might have the wrong version, but it won't be garbage.
-
 

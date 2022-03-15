@@ -79,6 +79,15 @@ using agency in order to create dramatic necessity.
 ## Magic The Gathering
 1. Magic The Gathering is provably Turing-complete.
 
+### Improving at Magic
+1. "The first step to mind-reading is asking opponents questions when you lose" - [Autumn Burchett](https://twitter.com/autumnlilypad/status/1503099602337251332)
+1. "Try decks that aren't in your comfort zone" - [Autumn Burchett](https://twitter.com/autumnlilypad/status/1503099602337251332). You can't play around stuff you don't know about.
+1. To that point: play more games. Don't *just* play though, you've got to go through again and learn what you played wrong, where your opponent made better plays, etc...
+1. Don't play around cards you can't beat, sometimes you've just gotta play to win.
+1. Like with improving at anything else, [play against people better than you](https://twitter.com/DGallenMtg/status/1502236250656448523?s=20&t=MHvf0E9TmrUOnWT_xDjYOQ).
+1. Plan your turn before you start actually doing it.
+1. A neat trick when reviewing replays: pause often, reason through the lines, see if you still agree with your past self.
+
 ## Wargames
 1. Don't buy your whole army at once. It's overwhelming and a mistake.
 1. Find out the bare minimum you need to get started, and do it. Get the rulebook first.
