@@ -68,6 +68,8 @@ export default () => {
 ```
 
 ## Ember
+1. Ember provides some handy built-in stuff around memory hygiene to avoid leaks. One example is the way `on` event handlers take care of properly tearing down event listeners, which is a [common source of errors](https://www.youtube.com/watch?v=slIz90NHKUs)
+1. The [Destroyable](https://api.emberjs.com/ember/release/modules/@ember%2Fdestroyable) package in ember exposes the building-blocks needed to handle object destruction memory-safely. It's not *recent*, but it hasn't been around forever.
 
 ## Testing Ember?
 1. When constructing components in tests, the elements you pass in have are found from the `this` scope. Local variables don't exist in its space, it's weird. You once spent comically long trying to track down a test that was failing because of this.
@@ -77,3 +79,4 @@ export default () => {
 1. Adding your own lint rule to extend ESLint is pretty straightforward. Such an example is done in [this talk](https://youtu.be/nAIiXcisknc?t=559) in a few minutes.
 1. `eslint-plugin-qunit` can apparently help with finding invalid test assertions and whatnot.
 1. [Ember-asset-sizes-action](https://github.com/simplabs/ember-asset-size-action) helps compare asset sizes between master and the feature branch. This is useful for noting when you're about to blow up the bundle size.
+1. [Ember-cli-memory-leak-detector](https://github.com/steveszc/ember-cli-memory-leak-detector) is a neat seeming tool that hooks into your test suite to help detect memory leaks before they make it to production.

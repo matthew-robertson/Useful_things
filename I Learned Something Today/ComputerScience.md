@@ -86,6 +86,13 @@
     1. One way of doing dynamic analysis is to [watch syscalls during package installation](https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/) to see if anything spooky's happening.
     1. Jordan Wright uses [sysdig](https://github.com/draios/sysdig), mostly for its filtering capabilities.
     1. One neat benefit of using syscalls to check this stuff is that code obfuscation won't actually impact you.
+1. A few common sources of memory leaks [in web apps](https://www.youtube.com/watch?v=slIz90NHKUs):
+    1. Event callbacks that are never cleaned up
+    1. Storing state in the module scope
+    1. Putting non-primitives on object prototypes
+    1. Async functions never returning
+    1. Unintended closures
+    1. Babel transpilation of let/const (no, I haven't been able to find details about what this means)
 
 ## Programming Trivia
 1. A decent amount of hello world implementations have [a bug](https://a2zfacts.net/articles/bugs-in-hello-world/) in them, exposed by trying to pipe its output into a full file, prompting it to fail silently (The OS reports the error, the program does not). C, Haskell, and Java have this bug in at least some capacity. Python3 and Rust do not, for example. 

@@ -21,7 +21,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Do things, tell people](http://carl.flax.ie/dothingstellpeople.html)
 1. [Architecture Patterns with Python](https://www.cosmicpython.com/)
 1. [EmberConf - Ending the Plague of Memory Leaks](https://www.youtube.com/watch?v=slIz90NHKUs)
-1. [Everything I Know About Alt Text](https://maxakohler.medium.com/everything-i-know-about-alt-text-3e1c8567c4f5)
+1. [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
 
 ### Design
 
@@ -31,6 +31,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [SSH tooling](https://news.ycombinator.com/item?id=23025756)
 1. [Developer Tools secrets that shouldn't be secrets](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 1. [Happy Birthday Vim](https://news.ycombinator.com/item?id=29113216)
+1. [EmberConf 2021 Notes](https://alexdiliberto.com/posts/emberconf-2021-notes/)
 
 ### Graphics
 1. [Physically Based Rendering](http://www.pbr-book.org/3ed-2018/contents.html)

@@ -75,6 +75,8 @@ using agency in order to create dramatic necessity.
 1. The key to interesting NPCs is to, without a ton of effort, know what they want. Sometimes the shopkeep's motivation is just "I want to make enough to feed my family"
 1. You can not set up scenarios predicated on how you think the players will react. It will be incorrect, and you can't force them to feel/respond a certain way.
 1. The DM should generally be the straight-person in the comedy duo. Set the scene, let the players make the obvious jokes.
+1. "If I roll into town looking for Big Guns the Bandit Lord, only to have the City Watch demand I go to the king's house and fill out tax paperwork, I am understandably going to be annoyed". "The problem isn't your players' decision-making process. The problem is that you gave your party five options for dealing with a problem ther were *not interested in dealing with*." - [Tack](https://rpg.stackexchange.com/a/196654)
+1. Players are more movivated by rewards than by fear of consequences. Don't start making their lives difficult until after they've bought in. [StackExchange Post](https://rpg.stackexchange.com/a/196654).
 
 ## Magic The Gathering
 1. Magic The Gathering is provably Turing-complete.

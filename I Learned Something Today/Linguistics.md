@@ -10,6 +10,7 @@
 1. [Soda pop gets its name from](https://kitchensavvy.com/how-soda-pop-got-its-name): 1) bicarbonate of soda to try and replicate the fizziness of seltzer, and 2) the sound it makes when you open a bottle. 
 
 ## Japanese
+1. Learning Hiragana/Katakana? Check out [Read The Kanji](https://www.readthekanji.com/user/study).
 
 ## French
 
