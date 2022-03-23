@@ -103,6 +103,10 @@ using agency in order to create dramatic necessity.
 1. Unsurprisingly, floor danger is regional. Places where lava is a real concern (like Hawai'i), seem to shy away from using Lava.
 1. Pippi Longstocking in 1945 has a really quite good description of the game, though without the lava. Probably not the earliest. Lava doesn't seem to show up until the 50's.
 
+## LEGO
+1. [Illegal LEGO techniques](https://youtu.be/PpZjHV1n6Hg) are those that are either too fragile to stay together, or that stress the parts. LEGO sets avoid using these techniques for obvious reasons. An excellent example is stuffing plates inbetween studs.
+1. Amusingly, there's [one such technique](https://youtu.be/jWtZUzkvQ2E?t=60) that's nearly identical to a legal technique. Its illegality comes down to the `LEGO` logo on normal bricks compared to technic bricks (it adds a slight amount of height).
+
 
 # Links
 1. [Passion Play - How did participatory culture of early internet fandom turn into the mob culture familiar torday?](https://reallifemag.com/passion-play/)

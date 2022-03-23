@@ -6,6 +6,7 @@
 
 ### Random facts
 1. The `--random-wait` option was added to `wget` in response to "an ill-advised 2001 article". The man page still refernces it.
+1. the `.kosher` TLD was added in 2014, despite the other 11 kosher certification organizations [objecting to it](https://en.wikipedia.org/wiki/.kosher). Especially weird, since `.halal` was rejected for "religious sensitivity reasons" around the same time.
 
 ### Useful ideas
 1. A neat sorting method for emails proposed by [Arne Bahlo](https://arne.me/blog/youre-using-email-wrong/): use multiple emails to sort by purpose. They use a bare `inbox` email for humans only, `+papertrail` for things that are important to have but not necessarily read, `+newsletter` for newsletters to look at asynchronously, etc...

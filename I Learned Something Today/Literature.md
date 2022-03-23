@@ -1,6 +1,8 @@
 # Printing
 1. Those weird uneven pages on some books are an intentional printing choice (these days, at least) called a [deckle edge](https://en.wikipedia.org/wiki/Deckle).
 1. A [Chapbook](https://en.wikipedia.org/wiki/Chapbook) is a small book (usually under 40 pages). They're named for the salesmen who sold them back in the 1800s: chapmen (meaning businessmen. "Chap" is also where "cheap" comes from).
+1. [French flaps](https://rhollick.wordpress.com/2018/12/20/french-flaps/) are like dustcover flaps, but directly part of a soft-cover. No, I don't know what they're actually used for or why they're called that.
+1. A [headband](https://www.bookbindingworkshopsg.com/how-to-make-a-headband-for-book-binding/) is the strip of fabric at the top+bottom of a book. Originally used to strengthen the binding, they're largely decorative (think shirts with fake integrated camisoles) these days.
 
 # Writing
 ## Blogging
