@@ -6,10 +6,10 @@ Mechanically, the writing itself is pretty lackluster, and could've used some re
 Quotes/Annotations:
 1. '
 These are the rules we eventually came up with [for designing the ruleset for our design system]:
-1. Only include immutable rules, not general instructions
-1. Always boil each rule downto its simplest expression
-1. Always state the rule first, then explain "If not, then what?"
-1. Every rule should include one of the following: *always*, *never*, *only*, *every*, *don't*, or *do*.
+    1. Only include immutable rules, not general instructions
+    1. Always boil each rule downto its simplest expression
+    1. Always state the rule first, then explain "If not, then what?"
+    1. Every rule should include one of the following: *always*, *never*, *only*, *every*, *don't*, or *do*.
 '
 
 1. 'For our system and set of rules, the single responsibility principle means that every class I create is made ot be used for a singler purpose, in a single place. Therefor, if I make a change to `.rh-standard-band-title`, I can be confident that the only effect this will have on our site is to change the appearance of the title in side of the `rh-standard-band`. This also means that if we decide to deprecate `rh-standard-band`, we can completely remove all of the associated CSS withour fear of breaking some other component that "hijacked inheritance" and became reliant on that CSS.'
