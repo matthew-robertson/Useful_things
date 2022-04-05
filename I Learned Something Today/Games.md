@@ -28,6 +28,7 @@
 1. The Japanese government used a partnership with Capcom in 2021 to [use Ace Attorney Characters to combat cannabis abuse](https://www.nintendolife.com/news/2021/12/random-ace-attorney-says-objection-to-drugs-in-japanese-anti-marijuana-campaign).
 1. [Ken Penders](https://sonic.fandom.com/wiki/Ken_Penders%27_legal_cases) filed for ownership of all the Sonic characters he created as part of the Archie comic. The ensuing suits he filed resulted in *hundreds* of characters being [retconnned out of existence](https://nymag.com/intelligencer/2020/02/the-lawsuit-that-reshaped-sonic-the-hedgehog-comics.html).
 1. A Serial Experiments Lain PS1 interactive CD exists. It's heavily audio based, extremely indie, and developed simultaneously to the show. [It's wild](https://www.youtube.com/watch?v=Rm47V1O78Ts).
+1. The battle system in Final Fantasy was 1) designed by someone who didn't play RPGs, and 2) was inspired by his knowledge of professional sports. Specifically, [the NFL](https://www.giantbomb.com/final-fantasy/3025-194/forums/final-fantasys-battle-system-inspired-by-nfl-564914/).
 
 ## Thinking about Games
 1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:

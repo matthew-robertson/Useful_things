@@ -22,6 +22,11 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Architecture Patterns with Python](https://www.cosmicpython.com/)
 1. [EmberConf - Ending the Plague of Memory Leaks](https://www.youtube.com/watch?v=slIz90NHKUs)
 1. [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
+1. [Debugging Under Fire, GOTO2017](https://www.youtube.com/watch?v=30jNsCVLpAE)
+1. [C isn't a Programming Language Anymore](https://gankra.github.io/blah/c-isnt-a-language/)
+
+### Hardware nonsense
+1. [The smallest and worst HDMI display](https://mitxela.com/projects/ddc-oled)
 
 ### Design
 
@@ -52,12 +57,14 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Playstation Architecture](https://copetti.org/projects/consoles/playstation/)
 1. [Game Boy Techincal Specification](https://gbdev.io/pandocs/About.html)
 1. [How Crash Bandicoot Hacked the original playstation](https://copetti.org/projects/consoles/playstation/)
+1. [How the Nintendo Switch Prevents Downgrades by Irreparably Blowing its own Fuses](https://blog.jonlu.ca/posts/nintendo-switch)
 
 ### Math
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
 1. [Probability Theory for Physically Based Rendering Pt.2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 1. [UBC's 2007 Fluid Simulation course notes](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)
 1. [Ask HN: The Book that did it for You in Math and/or CS](https://news.ycombinator.com/item?id=30485544)
+1. [Theorems for Free!](http://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)
 
 ## Food
 1. [Green Risotto with Mushrooms](https://www.seriouseats.com/2013/03/the-vegan-experience-green-risotto-with-mushr.html)

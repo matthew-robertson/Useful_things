@@ -2,7 +2,6 @@
 1. You're interviewing the company as much as they're interviewing you. Find out what's important to you, ask some tangential quesitons, and pay attention to the interviewers' answers. https://www.reddit.com/r/cscareerquestions/comments/5ncqti/no_palantir_your_internships_are_not_worth_5/dcfbnwd/
 1. If you don't have a physical offer in hand, it doesn't exist.
 1. Interviewing other people is a great way to get better at interviewing. Pay attention
-1. 
 
 
 ## Being a good developer
@@ -30,3 +29,9 @@
 1. Your soft assets (skills, knowledge, network, etc...) are hugely important, and you need to dedicate time to improve upon them.
 1. Studies seem to indicate that when people get referrals to jobs, they tend to be from "weak contacts": people you only see at most once or twice a year, so breadth in your network is handy.
 1. These weak ties tend to give better leads because if your closer contacts know about something, chances are you do too.
+1. How do you get a mentor? It mostly comes down to finding people who will *continue* to answer your questions. [A few steps](https://commoncog.com/blog/be-good-to-your-mentors/):
+    1. Many people are willing to answer at least one question
+    1. You "earn the right" to continue asking questions by *taking action* on the last answer the person gave you
+    1. Then, when you come back, you say some form of "last time we met, you told me to do so-and-so. I did so-and-so, and here's what happened. Thank you, I have a new problem now..."
+    1. If you aren't getting especially helpful answers, consider if you really want to keep going to them for advice.
+    1. If you *can't* say "you told my to try X and I did Y", maybe don't go to them quite yet. You don't have to meet with your mentors frequently.
