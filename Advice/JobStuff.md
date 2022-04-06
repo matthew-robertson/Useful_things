@@ -35,3 +35,14 @@
     1. Then, when you come back, you say some form of "last time we met, you told me to do so-and-so. I did so-and-so, and here's what happened. Thank you, I have a new problem now..."
     1. If you aren't getting especially helpful answers, consider if you really want to keep going to them for advice.
     1. If you *can't* say "you told my to try X and I did Y", maybe don't go to them quite yet. You don't have to meet with your mentors frequently.
+1. Want to make the most of your 1-1s? You need to make sure your manager knows what you want. Here are some [helpful questions](https://www.reddit.com/r/ExperiencedDevs/comments/o7fjdn/advice_for_weekly_11s_with_direct_manager/):
+    1. Quite literally just tell them "I want to get promoted to lead", "I want to own bigger initiatives", etc...
+    1. "What specific skills do you think our team needs to be successful? Do we have them on the team? How do we grow/hire them?"
+    1. "What's keeping you up at night lately?"
+    1. "What do you see as the biggest upcoming challenges for our team? How can I/we help?"
+    1. "What's keeping me from being promoted? How do I close my gaps?"
+    1. Managers hear about a lot more than you do. Ask about initiatives you can volunteer for, etc...
+    1. Plan, plan, plan. If you don't come in with notes, it's really easy to slip into "everything's goign well". This is especially a problem for you, personally.
+    1. Take notes of things that block or interest you, things that annoy you, things you've learned or want to know more about, etc... A good manager will help unblock you.
+    1. Ask how we're doing wrt OKRs/goals.
+    1. A list of things to talk about, courtesy of [Julia Evans](https://twitter.com/b0rk/status/1037186572234498048)
