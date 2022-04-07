@@ -10,7 +10,7 @@
 1. `git push --force-with-lease` is a [safer version of `--force`](https://stackoverflow.com/a/52823955), which will warn you if someone else has made a change to the branch before you.
 1. If you want to write your commits and things in something other than the system default, use `git config --global core.editor "subl -m"` or equivalent (this one will set up sublime).
 1. If you find yourself wanting to write a comment, and can't refactor to avoid it, it might make more sense in a commit
-1. the `--patch` or `-p` flag on [`git add`](https://git-scm.com/docs/git-add#Documentation/git-add.txt---patch) lets you stage individual changes instead of entire files, which is handy.
+1. the `--patch` or `-p` flag on [`git add`](https://git-scm.com/docs/git-add#Documentation/git-add.txt---patch) lets you stage individual changes instead of entire files, which is handy. It lets you split work into multiple commits cleanly in case a commit would be bloated.
 1. Generally speaking, you should use the pickaxe instead of `git blame`.
 1. `git annotate file/path` is like git blame, but sounds less mean and outputs in a slightly different format.
 1. If you want to do something and don't know how, [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) probably has something for you.
@@ -20,6 +20,8 @@
 1. `git push origin HEAD` is a shortcut for pushing the current branch. How did I not know this before now.
 1. `git switch` and `git restore` are new commands introduced to alleviate confusion around checkout's overloading. `switch` lets you swap between branches, and `restore` lets you reset viles to a revision. [See here](https://stackoverflow.com/a/57266005/13053386)
 1. `git rerere` is a [little-known](https://www.git-scm.com/book/en/v2/Git-Tools-Rerere) feature to have git remember how you resolved a conflict and not ask you when it comes up again. Handy for big rebases and things. Set it with `git config --global rerere.enabled true`.
+1. `git diff --staged` lets you know what you've changed without unstaging your commit-in-progress. Incredible.
+1. `git log --grep regexp` lets you search your history using a regex.
 
 ## Tips for maintaining a good commit history
 1. These are all taken from the back half of [Branch In Time, RubyConf2018](https://youtu.be/8OOTVxKDwe0?t=1107).
@@ -27,8 +29,10 @@
 1. Turn on git verbose mode `git config --global commit.verbose true`, it'll give the full diff in the commit prompt.
 1. Capture the why, not just the what. Capture context, since the code will tell you the what. Write what a future developer might want to know.
 1. Your commits should be atomic. If you find yourself using the word "and", you might want to split it into multiple commits.
+1. Write your commit messages as if you were explaining them to a co-worker beside you who didn't know what was happening. Answer: 1) Why is the change necessary, 2) how it addresses the issue, 3) what side effects it has, 4) which,if any, other solutions were considered, and 5) a reference to a discussion/ticket/document.
 1. Get used to treating local commits as mutable so you can shape what will end up in master.
   1. the `git commit --amend` option is the most obvious
   1. `git rebase -i` is something to get better at though. You can always `git rebase --abort` though if things go sideways
 1. Build your instincts and get used to searching through history.
-
+1. "The ability to document code effectively using Git is just as important as being able to ship a feature, write clean code, or readable tests."
+1. "Commit messages don't clutter up the code, and don't grow stale"

@@ -17,6 +17,7 @@
 1. The [first image on the internet](https://petapixel.com/2012/07/10/this-is-the-first-photo-ever-uploaded-to-the-internet/) is a photo of Les Horribles Cernettes, added to a page about musical acts at CERN.
 1. The first minifig released [in 1975](https://blog.hobbydb.com/2018/11/05/the-evolution-of-lego-minifigs-brick-by-brick/). There was nothing printed on them, and they had no moving parts.
 1. Minifigs gained faces and moving limbs [in 1978](https://blog.hobbydb.com/2018/11/05/the-evolution-of-lego-minifigs-brick-by-brick/), and with it, small-scale vehicles got wider, to accomodate figures.
+1. The Trackball was invented [by the Canadian Navy in 1952]](https://tedium.co/2021/11/12/trackball-input-device-history/). It was discarded in favor of the tech the US military was using, but eventually came back and was popular with air traffic controllers.
 
 # Art History
 1. There was a really quite large [monument to Stalin](https://en.wikipedia.org/wiki/Stalin_Monument_(Prague)) in Prague. It was built by [Otakar Švec](https://en.wikipedia.org/wiki/Otakar_%C5%A0vec), [the winner of a competition no one wanted to win](https://twitter.com/lewis_crofts/status/1270786908768083969).

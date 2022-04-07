@@ -75,6 +75,7 @@
 1. Manipulate buffers by prefixing a command with `"a` (or some other buffer name). `"aY` `"aP" Will yank the current line into the `a` buffer, then paste it. This gives you access to multiple clipboards.
 1. When you yank something, it goes into the `0` buffer, unlike on deletion/change/whatever. You can imagine how this is useful.
 1. `:sort` with some kind of selection (visual works well), will sort the selected lines alphabetically.
+1. `i` can be used as a prefix for "in". `ciw` will change the word you're currently in, `ci"  does the same for a quotation, `cit` changes inside of an HTML tag.
 
 ## General Editing
 1. `u` will undo a change
@@ -100,3 +101,9 @@
 1. `q{a-z}` will record to the chosen buffer. `@{a-z}` will execute the selected buffer as a macro. You can execute macros in other macros, so it's useful to build things up in pieces.
 1. `:set filetype?` will tell you what filetype Vim thinks you're dealing with.
 1. `:e!` Reloads the current file with changes from disk.
+
+## General tips
+1. Prefer `iw` to `w` and visa versa, it makes `.` *way* more functional.
+1. Similarly, prefer text objects to motions.
+1. Make use of `:set relativenumber`, which gives you lines relative to your current, rather than aboslutely, which is handy for "how many lines do I need to move down?". `:set norelativenumber` will disable it.
+1. Repeating yourself or using Visual mode is a smell. If you find yourself using either, consider if you can use a better object/motion.
