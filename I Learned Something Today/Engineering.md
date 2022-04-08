@@ -15,6 +15,7 @@
 1. In situations where computers/relays can't be used, [air logic](https://en.wikipedia.org/wiki/Pneumatics#Pneumatic_logic) is a cool way to control machines. They avoid the risk of explosions igniting controls, or moisture causing shorts.
 1. Unsurprisingly, air-logic circuits are slower than electronics.
 1. A somewhat confusing rundown of how basic logical elements are constructed from 3/4-way valves is [here](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic).
+1. Thanks to the DDC (display cata channel) protocol existing and becoming entrenched, even modern HDMI and DisplayPort cables have an i2c bus in them. Couple this with the fact that tiny OLED dot-matrix displays often have an i2c controller, and you get [this](https://mitxela.com/projects/ddc-oled): a hack to directly plug such a terrible screen directly into an HDMI cable, only doing a *bunch* of work to get it functional as a screen.
 
 ## Tools
 1. All sorts of weird drafting tools exist. [This one](https://youtu.be/PVQFvHuJHec?t=13://youtu.be/PVQFvHuJHec?t=131) is a compass(?) that splits a space into  two areas corresponding to the golden ratio.

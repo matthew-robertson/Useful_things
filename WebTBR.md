@@ -16,17 +16,12 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [How to Approach and Prioritize Technical Debt](http://news.ycombinator.com/item?id=30149864)
 1. [There's No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
 1. [Thunks: Read 100 Books on OOP](https://github.com/fogus/thunks/blob/main/studies/1OO.txt)
-1. [Write Shitty Code - why you should and feel good about it](https://www.cyclic.sh/posts/write-shitty-code)
-1. [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
-1. [Do things, tell people](http://carl.flax.ie/dothingstellpeople.html)
 1. [Architecture Patterns with Python](https://www.cosmicpython.com/)
-1. [EmberConf - Ending the Plague of Memory Leaks](https://www.youtube.com/watch?v=slIz90NHKUs)
 1. [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
 1. [Debugging Under Fire, GOTO2017](https://www.youtube.com/watch?v=30jNsCVLpAE)
 1. [C isn't a Programming Language Anymore](https://gankra.github.io/blah/c-isnt-a-language/)
 
 ### Hardware nonsense
-1. [The smallest and worst HDMI display](https://mitxela.com/projects/ddc-oled)
 
 ### Design
 

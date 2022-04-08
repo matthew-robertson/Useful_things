@@ -21,6 +21,8 @@
 1. If you have trouble, do some quick research, then ask your team. They're here to help, and that means you'll have to help them too. This is good.
 1. Spend as little time crunching as possible. Burning out will always end up costing more. Besides, you have a life outside of work.
 1. Raises (and negotiations) can be for more than just cold, hard, cash. Extra vacation time, for example, can be something more easily given by your manager.
+1. Make sure you keep your users in mind. Think a bit like a designer, make sure what you're building makes sense with how/why/when people use it. [Justin Etheredge](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+1. Communication is a hugely important skill. Practice it by by blogging, writing documentation, etc... Your team (and your future self) will thank you. [Justin Etheredge](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 
 
 ## General skills
@@ -46,3 +48,7 @@
     1. Take notes of things that block or interest you, things that annoy you, things you've learned or want to know more about, etc... A good manager will help unblock you.
     1. Ask how we're doing wrt OKRs/goals.
     1. A list of things to talk about, courtesy of [Julia Evans](https://twitter.com/b0rk/status/1037186572234498048)
+1. Remember that your self-worth shouldn't be a function of your total comp. Capitalism's pretty bad at determining value, honestly. [flipstables](https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
+1. Carpal tunnel and back problems are no joke. Use a good chair, get a good keyboard+mouse, etc...
+1. There's always going to be a ton of gaps in your knowledge. Get comfortable with that, it means you know things your colleagues don't too. [Justin Etheredge](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+1. [Do things, tell people](http://carl.flax.ie/dothingstellpeople.html). Learn things, make things that interest you, spend time on them, this part's easy. Tell people about them, either through blogs, social media, in-person, whatever. There's a lot of cool stuff out there, sharing yours will help you find others'.
