@@ -107,3 +107,6 @@
 1. Similarly, prefer text objects to motions.
 1. Make use of `:set relativenumber`, which gives you lines relative to your current, rather than aboslutely, which is handy for "how many lines do I need to move down?". `:set norelativenumber` will disable it.
 1. Repeating yourself or using Visual mode is a smell. If you find yourself using either, consider if you can use a better object/motion.
+
+# Links
+1. [Your problem with Vim is that you don't grok Vi](https://stackoverflow.com/a/1220118/13053386)
