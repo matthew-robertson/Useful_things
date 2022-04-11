@@ -2,7 +2,16 @@
 1. You're interviewing the company as much as they're interviewing you. Find out what's important to you, ask some tangential quesitons, and pay attention to the interviewers' answers. https://www.reddit.com/r/cscareerquestions/comments/5ncqti/no_palantir_your_internships_are_not_worth_5/dcfbnwd/
 1. If you don't have a physical offer in hand, it doesn't exist.
 1. Interviewing other people is a great way to get better at interviewing. Pay attention
-
+1. A handful of good questions to bring into an interview, stolen from [here](https://www.reddit.com/r/ExperiencedDevs/comments/qrmwpc/questions_ive_asked_during_interviews/):
+    1. "What is the career progression path like for my position at this company"
+    1. "Can you give me an example of a technical (non-management track) leader at your company, and what their position/responsibilities are like?"
+    1. "What does an effective imployee look like in this position to achieve top ratings in reviews"/"what does a successful first year look like?"
+    1. "Why is this role open? New growth? Did someone occupy it previously? If so, why did they leave?"
+    1. "What are the goals of the company currently, and how will my position be used to further these goals?"
+    1. "How are requirements delivered to engineering teams?" (more generally, what's the development lifecycle like?)
+    1. "How frequently do you deploy? What happens when one fails?"
+    1. "What's the most difficulr project you've assigned/worked on at this company? Why was it difficult? What was the outcome?"
+    1. "Are we given time to address tech debt? Is tech debt tracked?"
 
 ## Being a good developer
 1. Make physical records of agreements, keep people on the same page.
@@ -23,6 +32,7 @@
 1. Raises (and negotiations) can be for more than just cold, hard, cash. Extra vacation time, for example, can be something more easily given by your manager.
 1. Make sure you keep your users in mind. Think a bit like a designer, make sure what you're building makes sense with how/why/when people use it. [Justin Etheredge](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 1. Communication is a hugely important skill. Practice it by by blogging, writing documentation, etc... Your team (and your future self) will thank you. [Justin Etheredge](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+1. Starting to run into diminishing returns from skill improvements wrt career stuff? Do what you can to [do less, but more impactful work](https://www.reddit.com/r/ExperiencedDevs/comments/nyldve/why_i_stopped_only_writing_code_and_you_could_too/). Code is a side-effect of actually solving problems. Get bigger scale work, help co-workers get more done, etc...
 
 
 ## General skills
