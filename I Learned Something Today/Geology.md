@@ -5,17 +5,17 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 1. When an earthquake moves on a fault, every point on the faults surface produces shaking. So vertical faults (like San Andreas) concentrate shaking on a single line, while ones in a subduction zone cause strong shaking in a wider area.
 1. Earthquakes in China are different, since it doesn't seem to be near the edge of a plate, but still gets them. This seems to be because India's movement northward isn't just pushing the Himalayas up, but pushing China out of the was. This is because pushing mountains up progressively higher takes more and more work, and at some point it became easier to move China than to raise the Himalayas.
 
-# Volcanos
-1. There are three kinds of volcanos:
+# Volcanoes
+1. There are three kinds of volcanoes:
   1. Ones under the ocean "mid-ocean ridges": caused by plates moving apart and leaving holes for magma to rise from the mantle and fill the space. Interestingly, the density of magma from the mantle results in heavier rock being formed at lower elevations.
-  1. Above subduction zones: Vesuvius being a famous example, these volcanos are formed through subduction. As one plate is forced down, friction with the upper plate will eventually melt the rock, which rises through the plate and emerges as a volcano. See also the "Ring of Fire" in the pacific.
+  1. Above subduction zones: Vesuvius being a famous example, these volcanoes are formed through subduction. As one plate is forced down, friction with the upper plate will eventually melt the rock, which rises through the plate and emerges as a volcano. See also the "Ring of Fire" in the pacific.
   1. Hot spots: Areas where the mantle is, for some reason, exceptionally hot. Examples include Hawaii, Yellowstone, and Iceland.
 1. Iceland is incredibly special among volcano having spaces. It's a hot spot coinciding with a mid-ocean ridge, causing way more magma than usual to surface. The whole country is essentially an active volcano, and its oldest rock is 13.5 million years old (The Big Ones, pg.70, ebook).
 
 # Plate Tectonics
-1. The continental crust is made of lighter and weaker rock than the ocean floor, which is kinda wild. This caused issues with the idea of continental drift, as the idea that the contintents were pushing themselves apart would be, and I quote "Like pushing a marshmallow through a brick" - The Big Ones, pg.69
+1. The continental crust is made of lighter and weaker rock than the ocean floor, which is kinda wild. This caused issues with the idea of continental drift, as the idea that the continents were pushing themselves apart would be, and I quote "Like pushing a marshmallow through a brick" - The Big Ones, pg.69
 1. It turns out, the continents are just carried along by the movement of lithospheric plates. Interestingly, this leads to the ocean floor being - relatively speaking - rather new: the oldest findings on the ocean floor are under 200 million years old, while the oldest continental rock is 3.7 billion.
-1. What happens to all the old parts of the Earth's crust? subduction zones happen. When plates collide here, one gets forced down and is (slowly, bit by bit) melted and recycled.
+1. What happens to all the old parts of the Earth's crust? Subduction zones happen. When plates collide here, one gets forced down and is (slowly, bit by bit) melted and recycled.
 
 # Rivers
 1. Rivers naturally meander, and naturally create levees. This is because faster moving parts pick up silt that is deposited by slower moving parts.
@@ -28,7 +28,7 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 
 # Hurricanes
 1. Hurricanes were [originally named](https://www.britannica.com/story/how-are-hurricanes-and-typhoons-named) after the area where they formed. The modern naming system developed in World War II, and only had masculine names added in 1979 after women's groups complained.
-1. After an especially bad wind storm, the name [will be retired](https://www.britannica.com/story/how-are-hurricanes-and-typhoons-named). Notable exmaples are: Katrina, Sandy, Harvey, and Irma.
+1. After an especially bad wind storm, the name [will be retired](https://www.britannica.com/story/how-are-hurricanes-and-typhoons-named). Notable examples are: Katrina, Sandy, Harvey, and Irma.
 
 # The Earth
 1. [Tired Mountain Syndrome](https://en.wikipedia.org/wiki/Tired_mountain_syndrome) is something mountains can experience after underground nuclear bomb testing. The large explosions change the geology of the area substantially enough to weaken the surrounding rock and increase the risk of radioactive stuff leaking out.

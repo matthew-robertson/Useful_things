@@ -17,44 +17,43 @@
 1. If you're plating something crispy that you want a sauce for (fish was what this was mentioned for), plate the sauce first and put the crispy thing on top. This will help you prevent crispy things from getting soggy.
 1. Different cultures have butchery traditions that have different cuts, but they largely follow the same things (since the animals are still the animals). "In more industrialized societies you see more of what would be called square cutting, where a butcher breaks the primal down into more uniform cuts based on where it is easiest to cut through the bones with a band saw. In countries with a longer tradition of butchery/charcuterie you see more of what would be called seam butchery where primals are broken down into muscle groups and individual muscles with as little use of a band saw as possible." [This Reddit Post](https://www.reddit.com/r/AskCulinary/comments/fqo8gu/are_there_different_cuts_of_meat_in_different/flrcm3d/)
 1. toasting (heating dry), and blooming (cooking in oil) are two ways to integrate spices into your dishes, the mechanics are talked about [here](https://www.reddit.com/r/AskCulinary/comments/fpl8h7/toasting_spices_to_improve_flavor_is_a_common/).
-1. [Culinary school-inspired pracice](https://www.reddit.com/r/AskCulinary/comments/ftcuyv/suggestions_for_culinary_school_type_exercises/fm6l9ce/).
-1. Sodium Citrate is sometimes called ["sour salt"](https://www.youtube.com/watch?v=PTbdvND_YLQ), and is added to a bunch of stuff as a preservative (like kraft singles, or jams), but it's also great for helping emulsification. This is why american cheese melts smooth, while regular cheddar splits. "Sodium citrate allows the proteins in the cheese sauce to become more soluble without lowering the pH of the sauce, which creates a smooth emulsion without curdling." - [Modernist Cuisine](https://modernistcuisine.com/recipes/silky-smooth-macaroni-and-cheese/)
+1. [Culinary school-inspired practice](https://www.reddit.com/r/AskCulinary/comments/ftcuyv/suggestions_for_culinary_school_type_exercises/fm6l9ce/).
+1. Sodium Citrate is sometimes called ["sour salt"](https://www.youtube.com/watch?v=PTbdvND_YLQ), and is added to a bunch of stuff as a preservative (like Kraft Singles, or jams), but it's also great for helping emulsification. This is why American cheese melts smooth, while regular cheddar splits. "Sodium citrate allows the proteins in the cheese sauce to become more soluble without lowering the pH of the sauce, which creates a smooth emulsion without curdling." - [Modernist Cuisine](https://modernistcuisine.com/recipes/silky-smooth-macaroni-and-cheese/)
 1. To make a silky cheese sauce, use: 1 part cheese, .5 part liquid (probably water, but beer and things like that work too), and 2-3% sodium citrate by weight. Slowly heat and mix.
 
 ## Alcohol
 1. Gin is just a neutral alcohol (essentially, vodka), infused with a bunch of botanicals: mainly juniper.
-1. Distilation is done by heating up regular fermented alcohol, letting the "head" escape as steam, capturing the alcohol vapor, and leaving the "tail" behind un-vaporised. If an alcohol exists, it can be distilled: wine to brandy, sake to soju, etc...
+1. Distillation is done by heating up regular fermented alcohol, letting the "head" escape as steam, capturing the alcohol vapor, and leaving the "tail" behind un-vaporised. If an alcohol exists, it can be distilled: wine to brandy, sake to soju, etc...
 1. Sake was served hot to mask low-quality alcohol, just take it cold.
 1. Beer bottles are brown because isohumulones in hops break down when exposed to light and give off a smell similar to skunks.
-1. Absinthe only really needs cold water added, to break chemical bonds and release essetial oils. Add it slowly to let every flavour come out.
+1. Absinthe only really needs cold water added, to break chemical bonds and release essential oils. Add it slowly to let every flavour come out.
 1. Curacao's blue colour is artificial.
 1. Angostura bitters are very firm that they don't contain angostura bark, probably for copyright/trademark reasons. Presumably contains some other part of the angostura tree though.
 1. Quinine, used to treat malaria and in a billion tonics, bitters, and spirits, comes from a plant called Chinchona.
 1. Tonic water will glow under a UV light because of the quinine alkaloids in it.
 1. Vermouth is still a wine, and will go bad. Keep it in the fridge, use smaller bottles to fight oxidization.
 1. The beer in beer batter is used largely because the boiling point is lower than water, and disrupts gluten formation. This is also why vodka is used in some batters. [Flavor-wise you want something malty and not bitter](https://cooking.stackexchange.com/a/103312)
-1. Cocktail originally just meant spirit+bitters+sugar. At the time, sours meants spirit+citrus+sugar.
-1. Cocktail originally just meant spirit+bitters+sugar. At the time, sours meants spirit+citrus+sugar.
+1. Cocktail originally just meant spirit+bitters+sugar. At the time, sours meant spirit+citrus+sugar.
 1. The New York Sour, which allegedly was invented in Chicago, is basically a whisky sour with some red wine on top.
 1. Egg whites are optional in sours, but they add the rad foam to it. Make sure to dry shake (without ice), as cold prevents the proteins from unravelling and [doing their thing](https://drinks.seriouseats.com/2011/08/cocktail-101-how-to-use-eggs-in-cocktails-what-do-egg-whites-do-in-drinks.html).
-1. People associate smaller carbonation bubbles with fancy drinks largely because aged champange tends to have smaller bubbles. This is less a mark of quality on its own, and more because CO2 will diffuse through the cork over time lowering the carbonatioln in the bottle. (Liquid Intelligence, 291)
-1. Carbonated drinks will get people drunk faster. This is because alchohol is mostly absorbed in the intestine rather than the stomach, and CO2 is thought to speed gastric emptying, leaving to more alcohol being available for absorption. We're also just conditioned to drink carbonated drinks more quickly. (Liquid Intelligence)
+1. People associate smaller carbonation bubbles with fancy drinks largely because aged champagne tends to have smaller bubbles. This is less a mark of quality on its own, and more because CO2 will diffuse through the cork over time lowering the carbonation in the bottle. (Liquid Intelligence, 291)
+1. Carbonated drinks will get people drunk faster. This is because alcohol is mostly absorbed in the intestine rather than the stomach, and CO2 is thought to speed gastric emptying, leaving to more alcohol being available for absorption. We're also just conditioned to drink carbonated drinks more quickly. (Liquid Intelligence)
 
 ## Molecular Gastronomy
 1. Frozen Florida is an inverted [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), which seemingly can only be produced in a microwave. It's weird.
-1. Umami is tasted thanks to the amino acid glutamate. GMP and IMP also contribute significantly to umami, and all three are synergystic. GMP is more common in vegetable sources, while IMP is more common in animal ones. Hence the combos of Cheese+tomato sauce, and katsuboshi+kombu.
-1. Caffeine is way more soluble in boiling water (66g/100mL) when compared to room temperature (2g/100mL), which is probably why coldbrew takes way longer to make than instant brew. [Wikipedia](https://en.wikipedia.org/wiki/Caffeine#Chemistry).
+1. Umami is tasted thanks to the amino acid glutamate. GMP and IMP also contribute significantly to umami, and all three are synergistic. GMP is more common in vegetable sources, while IMP is more common in animal ones. Hence the combos of Cheese+tomato sauce, and katsuboshi+kombu.
+1. Caffeine is way more soluble in boiling water (66g/100ml) when compared to room temperature (2g/100ml), which is probably why cold brew takes way longer to make than instant brew. [Wikipedia](https://en.wikipedia.org/wiki/Caffeine#Chemistry).
 1. A [few](https://www.nature.com/articles/srep00196) [studies](https://arxiv.org/ftp/arxiv/papers/1502/1502.03815.pdf) have looked as western (and non-western) cooking on a molecular level, and have noticed that western food seems to pair similar flavour compounds together, while most other cultures pair disparate flavours.
 1. A [susceptor](https://en.wikipedia.org/wiki/Susceptor) is a material that captures microwaves and converts them to heat. That's what the 'crisping packet' on a hot pocket is. Some microwave popcorn bags have them too.
 1. A meringue is a foam of [mostly, air suspended in albumen](https://devilsfoodkitchen.com/2016/07/16/food-science-meringue/).
     1. Salt will rapidly break down into sodium and chlorine, then re-bond with the egg-white proteins. This prevents forming the long chains needed for a meringue, but is great for protecting it afterwards
-    1. Acid, kinda similarly, somehow prevents *over-bonding*, which is why cream of tartar or some other acide is a common ingredient added at the start.
+    1. Acid, kinda similarly, somehow prevents *over-bonding*, which is why cream of tartar or some other acid is a common ingredient added at the start.
     1. Fat will ruin your meringues, so make sure your bowls+tools are super clean. Fat does this because it'll coat the proteins and prevent them from denaturing, it'll also "stick itself in the neutral zone, right where air and water molecules meet", which ruins its chance to form a good structure.
     1. Adding sugar later is better than early, as long as it has time to dissolve. Either way, it'll create a thick syrup, but early on it'll weigh the mixture down and prevent forming thin bubbles. Later on, it'll bulk up those small bubbles, which is good. It also prevents protein denaturing, which will slow the process of whipping down (at least, when added early).
 1. Sugar dissolves into warm water more easily, which is probably why you make simple syrup by boiling the water.
 1. Making good ice is a matter of directional freezing. If it warrants it, buy clear ice from professionally made ice. If you want to make your own, use a cooler (or some other insulated container) in the freezer.
-1. Making decent ice at home requires water with less impurities: use hot/warm water, let it cool in the container you'll be freezeing in. It contains less trapped gas than cold water (Liquid Intelligence)
-1. We have speicifc elements in our mouths that sense CO2. It seems to be related to our sense of sour, but doesn't taste acidic. (Liquid Intelligence, 288)
+1. Making decent ice at home requires water with less impurities: use hot/warm water, let it cool in the container you'll be freezing in. It contains less trapped gas than cold water (Liquid Intelligence)
+1. We have specific elements in our mouths that sense CO2. It seems to be related to our sense of sour, but doesn't taste acidic. (Liquid Intelligence, 288)
 
 ## Food Trivia
 1. The marshmallows in Lucky Charms are called "Marbits", short for "Marshmallow bits".

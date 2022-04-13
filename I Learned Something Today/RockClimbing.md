@@ -9,7 +9,7 @@
 ## Lead climbing
 
 ## Injury recovery
-### Pulley injurys
+### Pulley injuries
 1. All coming from [here](https://www.youtube.com/watch?v=RWZQMnlHEbg)
 1. tendon glides: move the hand between open palm, bent at the first knuckle, and full fist.
 1. pen glides: Hold a pen in the first position for tendon glides (fingers bent at first knuckle, back of the hand straight), and try and roll the pen with all fingers.

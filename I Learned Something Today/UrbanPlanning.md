@@ -1,6 +1,6 @@
 ## Transit
 1. Dwell Time - the amount of time a vehicle spends stopped at a station (helped by things like the Presto Pass/OPUS instead of cash/tickets)
-1. In 1986 busses in the UK were deregulated everywhere except London, which is absolutely wild.
+1. In 1986 buses in the UK were deregulated everywhere except London, which is absolutely wild.
 1. "Rapid Transit" is defined as anything that has its own right-of-way: LRT, dedicated bus lanes, etc...
 
 ## Architecture

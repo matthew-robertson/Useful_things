@@ -1,6 +1,6 @@
 # Historical Dress
 1. A bunch of this is gonna come from [here](https://www.youtube.com/watch?v=vAoaksK9mZM) and her channel, probably.
-1. In the 15th-century, women would wear dresses so long you couldn't walk in them. This is why we see them carrying armfulls of skirt all the time in art.
+1. In the 15th-century, women would wear dresses so long you couldn't walk in them. This is why we see them carrying armfuls of skirt all the time in art.
 1. Structured garments (like corsets), weren't around until the 16th century.
 1. Cross lacing wasn't really a thing until the 19th century. Spiral and ladder-lacing were much more common.
 1. That comical bonnet you always see on "pilgrim" women is a real (ish) thing. But wasn't intended to block peripheral vision, and would have been smaller/further back.
@@ -8,7 +8,7 @@
 
 # Historical Tech
 1. Typewriters had a "lost" key: `⁝`. We don't really know what it was for, but [speculation](http://widespacer.blogspot.com/2016/03/the-lost-key-of-qwerty.html) is that it worked like we use the slash now, to separate lines: "Roses are red/ Violets are blue/ .."
-1. Flicker was sput out of a social web game. They built picture sharing as a side thing for it, and it quickly outgrew the game in popularity.
+1. Flicker was spun out of a social web game. They built picture sharing as a side thing for it, and it quickly outgrew the game in popularity.
 1. Bjarne Stroustrup actually built another language before C++: C-with-classes. It wasn't as popular.
 1. OO being so popular is kind of a weird accident of history. For example: C# was designed to be an alternative to Java, which was designed to be familiar to C++ programmers, which didn't get popular because of its OO but for its other features) [Why Isn't Functional Programming the Norm](https://youtu.be/QyJZzq0v7Z4?t=1864)
 1. Python's OO probably isn't why it's so popular, since Ruby was specifically designed to be more Object-oriented than Python and has fallen by the wayside [Why Isn't Functional Programming the Norm?](https://youtu.be/QyJZzq0v7Z4?t=2118)
@@ -16,7 +16,7 @@
 1. Spam emails are, in-fact named after the food Spam. It's [because](https://www.bbc.com/news/av/uk-40505539) of the Monty Python sketch.
 1. The [first image on the internet](https://petapixel.com/2012/07/10/this-is-the-first-photo-ever-uploaded-to-the-internet/) is a photo of Les Horribles Cernettes, added to a page about musical acts at CERN.
 1. The first minifig released [in 1975](https://blog.hobbydb.com/2018/11/05/the-evolution-of-lego-minifigs-brick-by-brick/). There was nothing printed on them, and they had no moving parts.
-1. Minifigs gained faces and moving limbs [in 1978](https://blog.hobbydb.com/2018/11/05/the-evolution-of-lego-minifigs-brick-by-brick/), and with it, small-scale vehicles got wider, to accomodate figures.
+1. Minifigs gained faces and moving limbs [in 1978](https://blog.hobbydb.com/2018/11/05/the-evolution-of-lego-minifigs-brick-by-brick/), and with it, small-scale vehicles got wider, to accommodate figures.
 1. The Trackball was invented [by the Canadian Navy in 1952]](https://tedium.co/2021/11/12/trackball-input-device-history/). It was discarded in favor of the tech the US military was using, but eventually came back and was popular with air traffic controllers.
 
 # Art History
@@ -31,13 +31,13 @@
 
 # Medical History
 1. In 1972, The Black Panther Party added "Free healthcare for all black and oppressed people" to their (Ten Point Program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024403/). Before that even, in 1969, they began establishing health clinics.
-1. Prior to the 1980s, Autism was part of a chatchall diagnostic called "childhood schizophrenia": more or less any non-normative psychiactric state would get you a childhood schizophrenia diagnosis, and institutionalized. The separation was motivated by the racialized treatment of "childhood schizophrenia": middle class white parents pressured medical bodies to carve autism out so their children wouldn't be associated with a "black disease". - [Condition Critical](https://reallifemag.com/condition-critical/)
+1. Prior to the 1980s, Autism was part of a catchall diagnostic called "childhood schizophrenia": more or less any non-normative psychiatric state would get you a childhood schizophrenia diagnosis, and institutionalized. The separation was motivated by the racialized treatment of "childhood schizophrenia": middle class white parents pressured medical bodies to carve autism out so their children wouldn't be associated with a "black disease". - [Condition Critical](https://reallifemag.com/condition-critical/)
 
 # Canadian History
 1. In the 1980's, Montreal Police used photos of young black men as targets for target practice, which is pretty fucked up. (See Policing Black Lives, preface). I couldn't find citations for this (blame me listening to the audiobook), so [here's](https://www.huffingtonpost.ca/entry/north-miami-beach-target-practice_n_6482964?ri18n=true) an article about it happening in Florida.
 1. Canadians still wanted to build plantations, but didn't because the growing season wasn't good enough. (Policing Black Lives, chapter 1).
 1. Medical examiners in Canada were once paid bonuses for denying black migrants at the US-Canada border. (Policing Black Lives, chapter 1).
-1. The Canadian government also paid black docters to go to America and convince potential black migrants not to migrate, as "the climate was dangerous for black people." (Policing Black Lives, chapter 1).
+1. The Canadian government also paid black doctors to go to America and convince potential black migrants not to migrate, as "the climate was dangerous for black people." (Policing Black Lives, chapter 1).
 
 # General History
 1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)
@@ -48,11 +48,11 @@
 1. Pope John XII (955-964) was super young (between 18 and 25) when he became pope. He also was allegedly [murdered by the jealous husband of the woman with whom he was in bed](https://en.wikipedia.org/wiki/List_of_popes_who_died_violently), which is wild.
 1. Why did Mongol terror last until Tolkien's time? Probably partly their success, and partly their curiosity for foreign cultures [here](https://jamesmendezhodes.com/blog/2019/1/13/orcs-britons-and-the-martial-race-myth-part-i-a-species-built-for-racial-terror).
 1. "Caucasian" came to mean white people, instead of people from the Caucus mountains thank to some weird "scientists" who classed humans into ~[three gross categories](https://www.youtube.com/watch?v=GKB8hXYod2w)
-1. [Adrian Schoolcraft](https://en.wikipedia.org/wiki/Adrian_Schoolcraft_) was an archetypical "good cop", who ended up secretly recording police conversations to show corruption in the NYPD. They reassigned him to a deskjob, raided his apartment, abducted him, and forcibly admitted him to a psych ward.
+1. [Adrian Schoolcraft](https://en.wikipedia.org/wiki/Adrian_Schoolcraft_) was an archetypal "good cop", who ended up secretly recording police conversations to show corruption in the NYPD. They reassigned him to a desk job, raided his apartment, abducted him, and forcibly admitted him to a psych ward.
 1. Unclear if it's real, but there's a famous story about [Kafka and the Doll](https://www.huffpost.com/entry/kafka-and-the-doll_b_981348), in which Franz Kafka discovers a child has lost her doll, and writes many letters to her as the doll, as if it were travelling the world. The story culminates in Kafka giving the child a new doll ("My travels have changed me.."), summarized as: every thing that you love, you will eventually lose, but in the end, love will return in a different form."
 1. There's a common pop-theory that our conception of witches stems from alewives. Unfortunately [that doesn't seem correct](https://braciatrix.com/2017/10/27/nope-medieval-alewives-arent-the-archetype-for-the-modern-pop-culture-witch/).
-1. There are a few theories on where the witch's pointy hat comes from. It may be from classical depictions of the goddess Diana; an exaggeration of the dunce cap; or more likely it stems from anti-semitism or the common hats of the day [as mentioned here](https://braciatrix.com/2017/10/27/nope-medieval-alewives-arent-the-archetype-for-the-modern-pop-culture-witch/).
+1. There are a few theories on where the witch's pointy hat comes from. It may be from classical depictions of the goddess Diana; an exaggeration of the dunce cap; or more likely it stems from antisemitism or the common hats of the day [as mentioned here](https://braciatrix.com/2017/10/27/nope-medieval-alewives-arent-the-archetype-for-the-modern-pop-culture-witch/).
 1. While the broomstick is the most popular flying item in modern society, they've been portrayed flying on everything from shovels to tridents (though notably no alestakes). The broom may be associated with witches [simply to reflect the amount of female witches](https://braciatrix.com/2017/10/27/nope-medieval-alewives-arent-the-archetype-for-the-modern-pop-culture-witch/).
 
 # Military History?
-1. A [Decurion](https://en.wikipedia.org/wiki/Decurion_(Roman_cavalry_officer)) was a Roman officer in charge of a squardron (roughly 10 people), while a [Centurion](https://en.wikipedia.org/wiki/Centurion) was a higher rank, in charge of a century (about 80 legionnaires). A Legion would be commanded by the senior-most centurion of the constituent centuries.
+1. A [Decurion](https://en.wikipedia.org/wiki/Decurion_(Roman_cavalry_officer)) was a Roman officer in charge of a squadron (roughly 10 people), while a [Centurion](https://en.wikipedia.org/wiki/Centurion) was a higher rank, in charge of a century (about 80 legionnaires). A Legion would be commanded by the senior-most centurion of the constituent centuries.

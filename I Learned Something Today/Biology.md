@@ -6,7 +6,7 @@
 # Birds
 1. The record for most bird species spotted in a year is 4,342. That's a solid chunk of them.
 1. There are, probably, about 9-10 thousand species of bird. Though a 2016 study suggested that number might actually be closer to 18 thousand.
-1. The feather trade blew up on account of women's fashion (mostly hats), and was subsequently largly banned, also thanks largely to women.
+1. The feather trade blew up on account of women's fashion (mostly hats), and was subsequently largely banned, also thanks largely to women.
 1. The Underwood Tariff Act banned the import of feathers in 1918.
 1. Baby owls sleep [face down](https://twitter.com/roook/status/1494691070571069441?s=21). This is because their heads are too heavy and they haven't learned to quite hold them up yet.
 
@@ -20,7 +20,7 @@
 1. "Brown is a colour that doesn't really exist" - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
 1. "Brown is a colour that exists due to context, not wavelength"
 1. Magenta is a colour that our brains made up, detected by things emitting high and low wavelength light, but not much in the middle. This is why it isn't in the rainbow. - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
-1.'In analyzing their data, the researchers found “Clerical VDT operators showed much higher levels of visual, musculoskeletal, and emotional health complaints, as well as higher job stress levels, than did control subjects and professionals using VDTs.” In every category of health complaint—from fainting to stomach pain to neck pressure to hand cramps—the percentage of complaints went up among clerical workers stationed at computer terminals, often doubling, tripling, or quadrupling in number. ' (note, VDT stands for Video Display Terminal: a monitor. And professional vs clerical is largely a heirarchical split and is quite gendered.). See [here](https://www.vice.com/en/article/y3dda7/how-the-personal-computer-broke-the-human-body).
+1.'In analyzing their data, the researchers found “Clerical VDT operators showed much higher levels of visual, musculoskeletal, and emotional health complaints, as well as higher job stress levels, than did control subjects and professionals using VDTs.” In every category of health complaint—from fainting to stomach pain to neck pressure to hand cramps—the percentage of complaints went up among clerical workers stationed at computer terminals, often doubling, tripling, or quadrupling in number. ' (note, VDT stands for Video Display Terminal: a monitor. And professional vs clerical is largely a hierarchical split and is quite gendered.). See [here](https://www.vice.com/en/article/y3dda7/how-the-personal-computer-broke-the-human-body).
 1. Also found in that study, the act of using a computer seemed to make the work hurt more and feel less fulfilling.
 
 # Human medicine
@@ -41,4 +41,4 @@
 1. Viruses are, generally: a sack of RNA with some proteins to help replicate/break into cells/etc..., all surrounded by lipids. The lipids are half for protection, and half for invading cells. [Twitter source](https://twitter.com/PalliThordarson/status/1236549318439387137)
 1. Viruses don't last very long on wood or fabric because they can form lots of hydrogen bonds with the surface. Whereas on something like steel it can't, and will just kind of chill until your hand comes and touches it, and it'll hop on. [source](https://twitter.com/PalliThordarson/status/1236549338320343040).
 1. Water alone doesn't wash away viruses because it only competes against the hydrogen bonds the virus has formed with your skin, but it isn't usually enough.
-1. Soap works though, becuase it contains fat-like "amphiphiles", which end up tearing the virus apart by attracting its fatty barrier. [Here](https://twitter.com/PalliThordarson/status/1236553248862957569). The soap particles also do a great job of separating the virus from your skin.
+1. Soap works though, because it contains fat-like "amphiphiles", which end up tearing the virus apart by attracting its fatty barrier. [Here](https://twitter.com/PalliThordarson/status/1236553248862957569). The soap particles also do a great job of separating the virus from your skin.

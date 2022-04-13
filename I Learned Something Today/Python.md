@@ -35,7 +35,7 @@ basetwo('10010') #18
 ```
 1. Magic methods start and end with `__` "dunder". You can implement a few of them to make your objects act like builtins (numbers, lists, dicts, etc..).
  	1. `__str__` tells Python how to print out the class when in a string, instead of using `toString()` everywhere.
-	1. `__add__`, and also subtractoin, multiplication, etc... lets you overload the mathematical symbols, which is handy.
+	1. `__add__`, and also subtraction, multiplication, etc... lets you overload the mathematical symbols, which is handy.
 	1. `__getitem__` lets you use `d['asdf']` notation, which is rad as hell.
 	1. `__len__` lets you overload the built-in `len` to take your class.
 1. You can build custom iterables. To do that, you need to do two things:
@@ -55,9 +55,9 @@ basetwo('10010') #18
 1. Always annotate the function signatures though, because you're good at your job.
 1. You *can* use `Union` and `Optional`, but you should avoid it if possible to avoid redundant checks to 
 1. importing `Optional` from `typing` lets you do stuff like `get_foo(foo_id: Optional[int])`, which requires either an integer or None.
-1. A better option is to use  the `@overload` decorator which does stuff kinda Haskelly:
+1. A better option is to use  the `@overload` decorator which does stuff kinda Haskell-y:
 ```
-from typing import Optional, overload
+frmom typing import Optional, overload
 
 @overload
 def get_foo(foo_id: None) -> None:
@@ -85,7 +85,7 @@ class Renderable(Protocol):
 	1. Using the `Any` type. Not great since you loss all benefits of typecasting, but you know
 	1. The `cast` function. `cast(Dict[str, int], get_config_var('my_config'))` lets you lie to the type checker and tell it your object is really of a different type.
 	1. `# type: ignore` will have it completely ignore the line. Kinda messed up. Only use this for type checker bugs
-	1. `.pyi` files let you "lie to the type checker on industrial scale", they just define interfactes to let you type things, without actually checking the types. It is a bit much, so check out the [talk example](https://youtu.be/pMgmKJyWKn8?t=1299).
+	1. `.pyi` files let you "lie to the type checker on industrial scale", they just define interfaces to let you type things, without actually checking the types. It is a bit much, so check out the [talk example](https://youtu.be/pMgmKJyWKn8?t=1299).
 1. You can incrementally add typechecking since the typechecker only looks at functions with annotated signatures. [Type-checked Python in the real world](https://youtu.be/pMgmKJyWKn8?t=1480). 
 1. `mypy` lets you specify strictness levels, and you should use it as part of your CI process to not regress.
 1. Adding types to legacy code can be a nightmare. `monkeytype` was added to help figure out what types things actually are, and create stub files for modules and aplpy them.
@@ -97,9 +97,9 @@ class Renderable(Protocol):
 1. Deactivate it using `deactivate`
 
 ## Code Generators
-1. Code generators, like the name implies, will autogenerate code for you. This is good if the code they generate is the code you want.
+1. Code generators, like the name implies, will auto-generate code for you. This is good if the code they generate is the code you want.
 1. These kinds of things are handy, because they'll take a bit of the pressure off of you to remember to write all the little things, and should be pretty well tested.
-1. [dataclasses](https://docs.python.org/3/library/dataclasses.html) are a pretty cool code generator Python 3.8 added to provide a bit more power than `namedTuple`. Notably it'll autogenerate an `__init__` and a `__repr__`, plus equality stuff.
+1. [dataclasses](https://docs.python.org/3/library/dataclasses.html) are a pretty cool code generator Python 3.8 added to provide a bit more power than `namedTuple`. Notably it'll auto-generate an `__init__` and a `__repr__`, plus equality stuff.
 1. Some docs that go into more advanced use cases are [here](https://www.dropbox.com/s/m8pwkkz43qz5pgt/HettingerPycon2018.pdf)
 
 ## [Hypothesis](hypothesis.works)

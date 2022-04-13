@@ -15,7 +15,7 @@
 1. Safe (Like GET) methods shouldn't change data, just fetch it.
 
 ## Microservices
-1. Microservices should be independant. That means you *can* choose the "best" tech for each service. Don't though. You should use the same handfuls of things to prevent re-invention and enable knowledge sharing.
+1. Microservices should be independent. That means you *can* choose the "best" tech for each service. Don't though. You should use the same handfuls of things to prevent re-invention and enable knowledge sharing.
 1. Prefer separate databases/schemas/whatever for each micro-service to maintain clear ownership lines. 
 1. Watch out for dependency versions, especially for in-house frameworks. It's easy to couple micro-services more tightly than you'd expect.
 1. Design with the assumption that things will fail. Otherwise you'll "combine the complexity of a microservice architecture with the rigidity of a monolith"
@@ -27,7 +27,7 @@
 1. Automate as much as possible, and be comfortable and confident in your CI/CD. It'll eliminate easy mistakes from configuring and deploying things. Here's looking at you, Banned-word-services.
 1. Dev machines should look like staging, should look like prod. Otherwise, you'll break things moving from one environment to another. Can't do CD if you don't have something set up well.
 1. When launching, newly deploying something to prod, or otherwise expecting a big uptick in users, [make sure your SAAS plans and environment test are set correctly](https://lunchbag.ca/lunch-money-mistakes/).
-1. Remember YAGNI: You ain't gonna need it. Don't overexpand and build things you think you "might" want later.
+1. Remember YAGNI: You ain't gonna need it. Don't over-expand and build things you think you "might" want later.
 1. [Simple services have less downtime](https://www.gkogan.co/blog/simple-systems/?r=0). Similarly, code that doesn't exist can't have issues. An important aspect of a simple system is that it's easy to see a solution to problems that may arise in it.
 1. Complex ideas lead to complex implementations, and features don't justify making things more complex.
 1. Rollbacks should ALWAYS be possible. If they're not, because something isn't [forward-compatible](http://rachelbythebay.com/w/2019/07/21/reliability/) or any other silly thing, you're going to have a problem.
@@ -37,15 +37,15 @@
 1. Vertical scaling is the easiest. If you're bounded by RAM: throw more money at the machine and pack more ram in it. This is a problem though, because you'll eventually run out of money or hit the state of the art.
 1. Horizontal scaling is a little nicer, but involves parallelizing the problem in some way so that many machines can do your work. Some issues with this:
   1. You need to figure out how to load balance, i.e.: distribute the traffic among the backend servers. A decent way is to have a public server that just determines what backend server to use. This means the backend servers can use exclusively private IPs, which is nice.
-  1. You need to decide if you have a bunch of services, or a bunch of clones of a monolith. The latter ends up eating up a lot more diskspace, but is more redundant.
+  1. You need to decide if you have a bunch of services, or a bunch of clones of a monolith. The latter ends up eating up a lot more disk space, but is more redundant.
 1. load balancing strategies:
-  1. Round robin: Like tetris piece generation. Use each ip once, then repeat. This can cause a problem since loaded servers will continue to get more hits. If you do it DNS side, there's also the issue of caching.
+  1. Round robin: Like Tetris piece generation. Use each IP once, then repeat. This can cause a problem since loaded servers will continue to get more hits. If you do it DNS side, there's also the issue of caching.
   1. Metric based: If you can tell how much load a server is under, you could go for the lightest server each time, for example. However, you have to send the user to the same server each time, or you'll break sessions. 
 
 ## Infrastructure
-1. [Bastion Hosts](https://en.wikipedia.org/wiki/Bastion_host) are a public interface to a private network, allowing a network's defenses to be concentrated in fewer places.
+1. [Bastion Hosts](https://en.wikipedia.org/wiki/Bastion_host) are a public interface to a private network, allowing a network's defences to be concentrated in fewer places.
 1. Bastion Hosts should have public IPs, not because you need them to reach them (VPNs and things can be used to avoid that), but to decouple the internal network and prod so that if something breaks you can switch to using the public IPs.
-1. Set up as much as you cna through automate-able processes. You *will* have to do it again later, and this will prevent both making random mistakes/typos, and forgetting what exactly you did.
+1. Set up as much as you can through automate-able processes. You *will* have to do it again later, and this will prevent both making random mistakes/typos, and forgetting what exactly you did.
 
 ## Things to look for in a hosting company
 1. SFTP over FTP. Gotta encrypt usernames and passwords.
@@ -60,7 +60,7 @@
 1. "I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.", [Linus Torvalds](https://lwn.net/Articles/193245/)
 1. "... \[Data processing\] is what most programs do most of the time. Sure, there is a computational aspect to programs. There is quality of implementation issues to this, but there is nothing wrong with saying: programs process data. Because data is information. Information systems ... this should be what we are doing, right? ...", [Rich Hickey, Creator of Clojure](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/ClojureMadeSimple.md).
 1. "Data dominates.  If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident.  Data structures, not algorithms, are central to programming.", [Rob Pike, creator of Go](https://www.lysator.liu.se/c/pikestyle.html)
-1. "I find it wise to be moderately paranoid about collections and I'd rather copy them unncessarily than debug errors due to unexpected modifications.", Martin Fowler, Refactoring P.173
+1. "I find it wise to be moderately paranoid about collections and I'd rather copy them unnecessarily than debug errors due to unexpected modifications.", Martin Fowler, Refactoring P.173
 1. Prefer immutable data when possible. It'll save you tons of headaches. The Functional Programming people have the right idea. Doing things by value instead of reference is one way to do this. (Martin Fowler, Refactoring, P.252)
 1. You'll still want references if you need shared data though.
 1. Like Clean Code and Refactoring both suggest, avoid flag arguments if you can. Better to have explicit functions for both cases. Makes things more clear.
@@ -79,10 +79,10 @@
   1. Compress the data's memory footprint: change ints to chars, to bools, etc...
   1. Chunk the data: process books one page at a time.
   1. Index the data: Build an easy way to determine what subset to load. The simplest way is to build a well-named file-structure.
-1. "Performance is everyones responsibility and it needs to be part of the process along the way. And that leads to item 3, you need to take performance regressions seriously. If performance unexpectedly drops, it should be a top priority to investigate and fix. And to catch performance regressions you should have systems in place detecting it, such as auto tests with daily graphs over performance. But engineers on the team should also profile often enough to have a good idea in their head of the overall performance characteristics of their game or application as a whole, and of their particular systems in particular, so that whenever it looks different from the usual they know that either something broke or theres a team member that needs an extra pat on their back for the awesome performance work." - [Humus](http://www.humus.name/index.php?page=News&ID=383).
+1. "Performance is everyone's responsibility and it needs to be part of the process along the way. And that leads to item 3, you need to take performance regressions seriously. If performance unexpectedly drops, it should be a top priority to investigate and fix. And to catch performance regressions you should have systems in place detecting it, such as auto tests with daily graphs over performance. But engineers on the team should also profile often enough to have a good idea in their head of the overall performance characteristics of their game or application as a whole, and of their particular systems in particular, so that whenever it looks different from the usual they know that either something broke or there's a team member that needs an extra pat on their back for the awesome performance work." - [Humus](http://www.humus.name/index.php?page=News&ID=383).
 1. "Elegance is what happens when we find a way to express what we mean with the units of meaning that our tools provide." - [Eevee](https://eev.ee/blog/2016/04/21/elegance/)
-1. "Tool design is important! Its why I pick on programming languages. If the fundamental pieces at your disposal are awkwardly-shaped, youll have a much harder time expressing what you actually intended." - Eevee, [talking about jank in zdoom's API](https://eev.ee/blog/2016/04/21/elegance/#zdoom-and-pickactor)
-1. How do you find potentially malicious dependencies? Two ways: static analysis (scanning code for problems), or dynamic analysis (living dangerously, installing/runing them, and seeing what happens).
+1. "Tool design is important! Its why I pick on programming languages. If the fundamental pieces at your disposal are awkwardly-shaped, you'll have a much harder time expressing what you actually intended." - Eevee, [talking about jank in zdoom's API](https://eev.ee/blog/2016/04/21/elegance/#zdoom-and-pickactor)
+1. How do you find potentially malicious dependencies? Two ways: static analysis (scanning code for problems), or dynamic analysis (living dangerously, installing/running them, and seeing what happens).
     1. One way of doing dynamic analysis is to [watch syscalls during package installation](https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/) to see if anything spooky's happening.
     1. Jordan Wright uses [sysdig](https://github.com/draios/sysdig), mostly for its filtering capabilities.
     1. One neat benefit of using syscalls to check this stuff is that code obfuscation won't actually impact you.
@@ -90,7 +90,7 @@
     1. Event callbacks that are never cleaned up
     1. Storing state in the module scope
     1. Putting non-primitives on object prototypes
-    1. Async functions never returning
+    1. Asynchronous functions never returning
     1. Unintended closures
     1. Babel transpilation of let/const (no, I haven't been able to find details about what this means)
 1. Someone's made a tool called [Septum](https://github.com/pyjarrett/septum) to do context-based search. It's not meant to replace Grep and co, but it's a neat alternative alongside it.
@@ -108,7 +108,7 @@ But don’t follow that blindly because it is dependent on the nature of the pro
 1. A decent amount of hello world implementations have [a bug](https://a2zfacts.net/articles/bugs-in-hello-world/) in them, exposed by trying to pipe its output into a full file, prompting it to fail silently (The OS reports the error, the program does not). C, Haskell, and Java have this bug in at least some capacity. Python3 and Rust do not, for example. 
 
 # General Language Stuff
-1. Floating point math, amirite? It means `0.1 + 0.2 != 0.3`, thanks to issues with representing necesarry rounding to store floats/doubles in memory.
+1. Floating point math, amirite? It means `0.1 + 0.2 != 0.3`, thanks to issues with representing necessary rounding to store floats/doubles in memory.
 1. Languages can be [dynamically](https://en.wikipedia.org/wiki/Scope_(computer_science)#Dynamic_scoping) (Like most shells, a few LISPS or lexically (I.E. Pretty much every language you've used) scoped. Some examples are [here](https://stackoverflow.com/questions/1473111/besides-logo-and-emacs-lisp-what-are-other-pure-dynamically-scoped-languages). If dynamically scoped, this code will print "Heck off": 
 ```
 const greeting = "Hello!";
@@ -128,6 +128,6 @@ function greet() {
 ## Functional Programming
 1. Functional Programming style asks you to "Avoid mutation and side effects", which is rad as hell. Why isn't it more common? Possibly it just hasn't had enough time.
 1. [Persistent Data Structures](https://en.wikipedia.org/wiki/Persistent_data_structure) are versions of arrays, lists, trees, etc... that are 1) immutable, and 2) support a "copy with small change" operation that it does extremely efficiently to avoid slowdown from editing large structures. [Russ Olsen, FP in 40 minutes](https://youtu.be/0if71HOyVjY?t=1355)
-1. Atoms in clojure help bridge between functions and state, and function by applying a function using their current value, then updating their value to reflect the result of the function. They get around timing trickiness by detecting if the value changed out from under it, and if so, re-run it.
+1. Atoms in Clojure help bridge between functions and state, and function by applying a function using their current value, then updating their value to reflect the result of the function. They get around timing trickiness by detecting if the value changed out from under it, and if so, re-run it.
 1. There are a lot of things FP won't help you with, but it *will* prevent threads changing values out from under other threads. It might have the wrong version, but it won't be garbage.
 

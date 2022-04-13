@@ -11,12 +11,12 @@
 1. `alt+b` and `alt+f` move backwards and forwards by a word.
 1. `ctrl+a` and `ctrl+e` move to the start/end of the line.
 1. `ctrl+r` and `ctrl+s` will search through the history, which is wild.
-1. You cna repeat previous data using a couple different things. `!!` will repeat the previous command, useful for building pipelines. `!$` is shorthand for the last argument of the previous command, and `!*` is shorthand for all of the arguments of the previous command.
+1. You can repeat previous data using a couple different things. `!!` will repeat the previous command, useful for building pipelines. `!$` is shorthand for the last argument of the previous command, and `!*` is shorthand for all of the arguments of the previous command.
 1. `df -h` gives you the disk sizes in a human-readable format, while `du -h` does the same for file sizes.
 1. start services (like docker, for when an AWS instance gets reset!) using `sudo service docker start`.
 1. `strace` is a cool little (and performance-heavy) tool, that tracks all syscalls a call makes. `strace ls .` records every system call `ls` would make.
 1. `grep -rl "foo" dict/to/search | xargs sed -i 's/foo/bar/g'`  will replace all instances of foo with bar in files in the target directory. If you're on mac, `-i` requires an argument. `-i ""` should cover that.
-1. `cp -r /path/to/copy path/to/add` will copy the contents of the first folder into the second, craeting it if needed. This can get funky if you're trying to copy it into a sub-folder. Don't do that.
+1. `cp -r /path/to/copy path/to/add` will copy the contents of the first folder into the second, creating it if needed. This can get funky if you're trying to copy it into a sub-folder. Don't do that.
 1. `awk 'BEGIN {srand(); print srand()}'` will get the number of seconds [since epoch](https://stackoverflow.com/a/41324810). Don't ask me how, it has to do with `srand` generally being seeded with the current time.
 
 ## Scripting
@@ -25,3 +25,4 @@
 1. Arguments are fetched from a bash function like `$1`, etc... `$@` will get all arguments. If you for some godforsaken reason need a 10th argument, you need to use `${10}.
 1. `${var:?error message}` will require the argument to exist else it'll throw an error.
 1. `${var:-default_val}` will give an argument a default value. Handy.
+1. `foo | bar` no longer involves running `foo`, and *then* piping it into `bar`, there's a lot of parallel execution here, which means it's hard if not impossible to prevent [the second half of a pipe from running](http://rachelbythebay.com/w/2022/04/05/pipe/) in the case of an error. `set -o pipefail` is usually what people are looking for, but doesn't actually help.

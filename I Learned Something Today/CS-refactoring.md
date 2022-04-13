@@ -7,7 +7,7 @@
 1. Consider replacing special case code by making a class/object for the case. I.E.: an `UnkownCustomer` class, that returns the default values, instead of checking everywhere if the customer is unknown then doing special cases.
 
 ## [Using GIT to support SOLID refactoring](https://www.youtube.com/watch?v=3OgbQOsW61Y)
-1. It can be hard to figure how to make classes single-purpose, but analysing commit messages can help you figure out why classes have reason to change, and potentially break them out.
+1. It can be hard to figure how to make classes single-purpose, but analyzing commit messages can help you figure out why classes have reason to change, and potentially break them out.
 	1. For this to work, you need to have good commit messages, so they're actually helpful.
 1. Git can help you recognize violations of the Open/closed principle. If you're adding features, you shouldn't need to change existing code (no red in the diff).
 	1. For this to work, you need to have a consistent style so that diffs aren't muddied.

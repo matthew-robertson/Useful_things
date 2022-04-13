@@ -3,7 +3,7 @@
 1. `:tabn` `:tabp`, `:tabm [tab#]` will switch between tabs.
 1. `:n` and co will switch between files.
 1. CtrlP is a godsend. Use `<c-t>` to open the found file in a new tab
-1. `:e /file/path` will activate a new buffer at the given filepath.
+1. `:e /file/path` will activate a new buffer at the given file path.
 1. `:bd` will close the active buffer. Adding a number afterwards will close a specific buffer. You can also use tab completion and do it by name.
 1. `:bp`, `:bn` switch between buffers.
 1. `:buffers` will list all buffers currently in memory.
@@ -11,7 +11,7 @@
 1. `:b` will go to the specific buffer, using a buffer number or a partial filename
 1. `:b#` will go to the alternate buffer (probably the previous one)
 1. `vim -p 'grep -ril test .'` will open up all the results of grep in different vim tabs. `-O` will instead open them as vertical splits. `-o` will do horizontal.
-1. `:wincmd` lets you move windows around. Of note: `vim -o 1 2 3 -c "wincmd H"` will open three horizontal splits, and resize the leftmost to be a fullheight vertical split (giving you one your preferred format).
+1. `:wincmd` lets you move windows around. Of note: `vim -o 1 2 3 -c "wincmd H"` will open three horizontal splits, and re-size the leftmost to be a full-height vertical split (giving you one your preferred format).
 
 ## Windows
 1. `ctrl+w v` will vertically split, opening a new window, duplicating the current file.
@@ -19,7 +19,7 @@
 1. `:vsp /file/path` will vertically split, opening the given file in the new window.
 1. `:sp /file/path` will horizontally split.
 1. `ctrl+w [hjkl]` to navigate between splits/windows.
-1. Splits can be re-equalised (after changing the terminal size or whatever) using `Ctrl+w =`.
+1. Splits can be re-equalized (after changing the terminal size or whatever) using `Ctrl+w =`.
 1. If you need to open a bunch of files as splits quickly, use something like `:args path/to/*.py | vertical all`. 
 1. An alternative is apparently `:vert sf path/to/*.py`.
 1. `:only` is excellent for resetting. It closes all windows but the active one.
@@ -29,7 +29,7 @@
 1. `/` will search using a regex for the next occurrence of what you search for. `n` afterwards will go to the next occurrence.
 1. `?` works like `/`, but backwards.
 1. `{` and `}` will move to the start of the next, or end of the current, paragraph/code block.
-1. `ctrl+f` and `ctrl+b` will  move forward/backward one screenful.
+1. `ctrl+f` and `ctrl+b` will  move forward/backward one full screen.
 1. `f` will find the next occurrence of the character you type afterwards.
 1. `t` will "move 'till" the character instead, moving the cursor to the character before the one you search for.
 1. `T` and `F` behave like their lowercase versions, but backwards.
@@ -38,15 +38,15 @@
 1. `w` will jump to the start of the next word. EG: "lo**r**em ipsum" -> "lorem **i**psum".
 1. `e` will jump to the end of the current word (or the end of the next one). EG: "lo**r**em ipsum" -> "lore**m** ipsum" -> "lorem ipsu**m**".
 1. `b` is like `e`, but to the start.
-1. `W`, `E`, and `B` (and probably others) are like lowercase, but they only recognise whitespace as a wordbreak. 
+1. `W`, `E`, and `B` (and probably others) are like lowercase, but they only recognize white space as a wordbreak. 
 1. `$` will jump to the end of the current line.
 1. `0` will jump to the start of the current line, and `^` jumps to the first character in the line.'
-1. `*` is a shortcut that searchs for the word under the cursor.
+1. `*` is a shortcut that searches for the word under the cursor.
 1. `19gg` will jump to line 19.
 1. `:19` and `:19G` will do the same.
 1. `G` will jump to the end of the file.
 1. `gg` will jump to the start of the file.
-1. `` `. `` jumps to the last edited line. Much nicer than `u` + `ctrl+r`.jj
+1. `` `. `` jumps to the last edited line. Much nicer than `u` + `ctrl+r`.
 1. `g` makes for a weird prefix for commands. `g;` will jump backwards through to lines you've edited.
 1. Stop moving around in insert mode, you dummy. All the tools are in normal mode, so use them.
 1. `zz` redraws the vim window so your cursor is in the middle of the screen, which is cool as heck. 
@@ -76,6 +76,9 @@
 1. When you yank something, it goes into the `0` buffer, unlike on deletion/change/whatever. You can imagine how this is useful.
 1. `:sort` with some kind of selection (visual works well), will sort the selected lines alphabetically.
 1. `i` can be used as a prefix for "in". `ciw` will change the word you're currently in, `ci"  does the same for a quotation, `cit` changes inside of an HTML tag.
+1. `:set spell` and `:set nospell` will en/disable spellcheck, respectively. While spell-checking, `]s` and `[s` will jump to the next/previous misspelling, `z=` will bring up suggested replacements, and `zg` will add the word under the cursor to the dictionary. 
+1. `gUiw` will swap the current word to uppercase. `guiw` will do the same to lowercase.
+1. `~` will toggle the current character's case.
 
 ## General Editing
 1. `u` will undo a change
@@ -91,21 +94,21 @@
 1. Converting long `.vimrc` files into `.vim` directories, some useful config tips in [here](https://vimways.org/2018/from-vimrc-to-vim/) too.
 1. Vim supports syntax folding, neat stuff.
 1. Like everything else in Vim, macros are just text. They're stored in the same buffers you yank/paste from, they're just interpreted as commands instead of characters to print.
-1. [The leader key](https://medium.com/usevim/vim-101-what-is-the-leader-key-f2f5c1fa610f) is a customizable modifier key, essentially: Vim doesn't map anything to it, unlike pretty much everything else. By default it's `\`, but you can change it using `let mapleader=","` or whatever you want to set it to. It also doesn't need to be held. Once pressed, Vim will wait ~1 second for a command's input.
+1. [The leader key](https://medium.com/usevim/vim-101-what-is-the-leader-key-f2f5c1fa610f) is a customize able modifier key, essentially: Vim doesn't map anything to it, unlike pretty much everything else. By default it's `\`, but you can change it using `let mapleader=","` or whatever you want to set it to. It also doesn't need to be held. Once pressed, Vim will wait ~1 second for a command's input.
 1. `map` and `noremap` do basically the same thing, but `noremap` is non-recursive/non-expanding. a handful of characters can be prefixed onto either to specify the mode the mapping should apply to `i` - insert mode, `n` - normal mode, etc...
 1. In command mode, `!` indicates the start of an external command. It will pop you out into the terminal to see the result of running it. Handy stuff for all the searching you do.
 1. `gf` will open the file path you have selected apparently, and `gx` will open a link in a browser? At least, it's supposed to.
-1. The `n` flag on the substitute command will tell you how many occurences of a given pattern are in a buffer. ex: `:%s/pattern//gn`
+1. The `n` flag on the substitute command will tell you how many occurrences of a given pattern are in a buffer. ex: `:%s/pattern//gn`
 1. Want to search for something you've yanked/got in a buffer? `/ctrl+r{buffer}` will do the job. This was super useful for building macros when translating countries.
 1. `:reg` will list all the named buffers, and what they contain.
 1. `q{a-z}` will record to the chosen buffer. `@{a-z}` will execute the selected buffer as a macro. You can execute macros in other macros, so it's useful to build things up in pieces.
-1. `:set filetype?` will tell you what filetype Vim thinks you're dealing with.
+1. `:set filetype?` will tell you what file type Vim thinks you're dealing with.
 1. `:e!` Reloads the current file with changes from disk.
 
 ## General tips
 1. Prefer `iw` to `w` and visa versa, it makes `.` *way* more functional.
 1. Similarly, prefer text objects to motions.
-1. Make use of `:set relativenumber`, which gives you lines relative to your current, rather than aboslutely, which is handy for "how many lines do I need to move down?". `:set norelativenumber` will disable it.
+1. Make use of `:set relativenumber`, which gives you lines relative to your current, rather than absolutely, which is handy for "how many lines do I need to move down?". `:set norelativenumber` will disable it.
 1. Repeating yourself or using Visual mode is a smell. If you find yourself using either, consider if you can use a better object/motion.
 
 # Links

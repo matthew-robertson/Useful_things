@@ -14,6 +14,6 @@
 	1. Test Generators (from Clojure)
 	1. Contract Inheritance (from Eiffel)
 	1. Global Contracts (from Ada)
-	1. Static Verifiication (from Dafny)
+	1. Static Verification (from Dafny)
 	1. Abstract Base Classes Metatyping (from Python potentially)
 1. Check out [a11y-automation](https://a11y-automation.dev) for a list of possible accessibility violations and how they might be tested.
