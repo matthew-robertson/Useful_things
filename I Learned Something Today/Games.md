@@ -57,7 +57,7 @@ using agency in order to create dramatic necessity.
 1. It turns out "Famiclones" were a [whole thing](https://medium.com/super-jump/the-nintendo-famicom-clone-craze-ebbf69bdd403).
 1. "Chinese company Subor shifted its efforts to develop a game console, creating an unlicensed Chinese language version of the Famicom, called the Xiao Ba Wang (‘Little Tyrant”)." Jackie Chan was a brand ambassador for their educational series.
 1. The popular Polish Famiclone "Pegasus" was apparently a re-branded Taiwanese clone, of all things, named "Micro Genius". After other Famiclones overtook the Pegasus, they made a deal with Sega to sell a rebranded Genesis. Then the next gen of consoles released in Europe. They bowed out of consoles and now make soft drinks as Hoop.
-1. The Russian famiclone was, of course, the Dendy Junior.
+1. The Russian Famiclone was, of course, the Dendy Junior.
 
 ## Dungeons and Dragons
 1. If you're using terrain, you don't have to represent everything. That will leave pressure off you, and give you better opportunities to wow your players. Use a variety of methods: theatre of the mind, battle mat, actual builds.
@@ -70,14 +70,14 @@ using agency in order to create dramatic necessity.
 1. To guide players towards a specific plan, Matt Colville will challenge the one that he likes "what will you do about X", "you know Y can happen if you do this", while not saying anything about the bad plans.
 1. If you want players to care about your world, you need to chase them up a tree with problems their character sheet can't solve.
 1. As a DM, you want to spend as little time as possible speaking. Set your scene, and let the players get going. (Dungeon Master of None)
-1. Be careful about showing vs telling. For example, Graduations conceit of "Heroes+Villains are effectively pro wreslters, hired out for publicity": don't just take a knowledge roll and explain everything in detail, make it happen! They could've gone out as interns or whatever, seen a villan get arrested, and then see them back at the school being pals with the hero.
+1. Be careful about showing vs telling. For example, Graduations conceit of "Heroes+Villains are effectively pro wrestlers, hired out for publicity": don't just take a knowledge roll and explain everything in detail, make it happen! They could've gone out as interns or whatever, seen a villain get arrested, and then see them back at the school being pals with the hero.
 1. You don't have to start with a "whiz-bang fight", but you *should* give the players something interesting to do ASAP.
 1. "If you, as the DM, are talking to yourself: you've fucked something up."
-1. The key to interesting NPCs is to, without a ton of effort, know what they want. Sometimes the shopkeep's motivation is just "I want to make enough to feed my family"
+1. The key to interesting NPCs is to, without a ton of effort, know what they want. Sometimes the shopkeeper's motivation is just "I want to make enough to feed my family"
 1. You can not set up scenarios predicated on how you think the players will react. It will be incorrect, and you can't force them to feel/respond a certain way.
 1. The DM should generally be the straight-person in the comedy duo. Set the scene, let the players make the obvious jokes.
-1. "If I roll into town looking for Big Guns the Bandit Lord, only to have the City Watch demand I go to the king's house and fill out tax paperwork, I am understandably going to be annoyed". "The problem isn't your players' decision-making process. The problem is that you gave your party five options for dealing with a problem ther were *not interested in dealing with*." - [Tack](https://rpg.stackexchange.com/a/196654)
-1. Players are more movivated by rewards than by fear of consequences. Don't start making their lives difficult until after they've bought in. [StackExchange Post](https://rpg.stackexchange.com/a/196654).
+1. "If I roll into town looking for Big Guns the Bandit Lord, only to have the City Watch demand I go to the king's house and fill out tax paperwork, I am understandably going to be annoyed". "The problem isn't your players' decision-making process. The problem is that you gave your party five options for dealing with a problem they were *not interested in dealing with*." - [Tack](https://rpg.stackexchange.com/a/196654)
+1. Players are more motivated by rewards than by fear of consequences. Don't start making their lives difficult until after they've bought in. [StackExchange Post](https://rpg.stackexchange.com/a/196654).
 
 ## Magic The Gathering
 1. Magic The Gathering is provably Turing-complete.
@@ -100,13 +100,13 @@ using agency in order to create dramatic necessity.
 # Physical Games
 1. The Floor Is Lava is a [weird](http://www.hollygramazio.net/blog/2020/4/1/the-floor-the-floor) cultural game. Lots of people play it as what you call "Grounders".
 1. [Grounders](http://wiki.scouts.ca/en/Grounders) is apparently a game known to Scouts Canada. Who'd have guessed.
-1. Only 72.28% of [survey respondants](http://www.hollygramazio.net/blog/2020/4/1/the-floor-the-floor) played the game with the floor being lava. Water type things get up to 11%, and somehow "No particular reason" got 7%.
+1. Only 72.28% of [survey respondents](http://www.hollygramazio.net/blog/2020/4/1/the-floor-the-floor) played the game with the floor being lava. Water type things get up to 11%, and somehow "No particular reason" got 7%.
 1. Unsurprisingly, floor danger is regional. Places where lava is a real concern (like Hawai'i), seem to shy away from using Lava.
 1. Pippi Longstocking in 1945 has a really quite good description of the game, though without the lava. Probably not the earliest. Lava doesn't seem to show up until the 50's.
 1. What you thought of as "three-ball bowling" is really ["Candlepin Bowling"](https://en.wikipedia.org/wiki/Candlepin_bowling), and is a Maritimes and New England specific variant.
 
 ## LEGO
-1. [Illegal LEGO techniques](https://youtu.be/PpZjHV1n6Hg) are those that are either too fragile to stay together, or that stress the parts. LEGO sets avoid using these techniques for obvious reasons. An excellent example is stuffing plates inbetween studs.
+1. [Illegal LEGO techniques](https://youtu.be/PpZjHV1n6Hg) are those that are either too fragile to stay together, or that stress the parts. LEGO sets avoid using these techniques for obvious reasons. An excellent example is stuffing plates in-between studs.
 1. Amusingly, there's [one such technique](https://youtu.be/jWtZUzkvQ2E?t=60) that's nearly identical to a legal technique. Its illegality comes down to the `LEGO` logo on normal bricks compared to technic bricks (it adds a slight amount of height).
 
 
