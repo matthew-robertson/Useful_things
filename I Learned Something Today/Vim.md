@@ -49,7 +49,7 @@
 1. `` `. `` jumps to the last edited line. Much nicer than `u` + `ctrl+r`.
 1. `g` makes for a weird prefix for commands. `g;` will jump backwards through to lines you've edited.
 1. Stop moving around in insert mode, you dummy. All the tools are in normal mode, so use them.
-1. `zz` redraws the vim window so your cursor is in the middle of the screen, which is cool as heck. 
+1. `zz` redraws the vim window so your cursor is in the middle of the screen, which is cool as heck. `zb` will redraw so the current line is at the bottom, and `zt` will do the same for the top.
 
 ## Entering Insert Mode
 1. `o` and `O` open a new line below and above the current line, respectively
