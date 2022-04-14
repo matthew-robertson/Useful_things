@@ -50,6 +50,7 @@
 1. `g` makes for a weird prefix for commands. `g;` will jump backwards through to lines you've edited.
 1. Stop moving around in insert mode, you dummy. All the tools are in normal mode, so use them.
 1. `zz` redraws the vim window so your cursor is in the middle of the screen, which is cool as heck. `zb` will redraw so the current line is at the bottom, and `zt` will do the same for the top.
+1. `:set relativenumber` gives you lines relative to your current line, rather than absolutely, which is handy for "how many lines do I need to move down?". `:set norelativenumber` will disable it.
 
 ## Entering Insert Mode
 1. `o` and `O` open a new line below and above the current line, respectively
@@ -102,14 +103,18 @@
 1. Want to search for something you've yanked/got in a buffer? `/ctrl+r{buffer}` will do the job. This was super useful for building macros when translating countries.
 1. `:reg` will list all the named buffers, and what they contain.
 1. `q{a-z}` will record to the chosen buffer. `@{a-z}` will execute the selected buffer as a macro. You can execute macros in other macros, so it's useful to build things up in pieces.
+1. Make a typo in your macro? They're just text. Print it out, edit it, and read it back into the buffer you're working from.
 1. `:set filetype?` will tell you what file type Vim thinks you're dealing with.
 1. `:e!` Reloads the current file with changes from disk.
 
 ## General tips
-1. Prefer `iw` to `w` and visa versa, it makes `.` *way* more functional.
+1. Prefer `iw` to `w` and visa versa, it makes macros *way* more functional.
 1. Similarly, prefer text objects to motions.
-1. Make use of `:set relativenumber`, which gives you lines relative to your current, rather than absolutely, which is handy for "how many lines do I need to move down?". `:set norelativenumber` will disable it.
-1. Repeating yourself or using Visual mode is a smell. If you find yourself using either, consider if you can use a better object/motion.
+1. Repeating yourself or using Visual mode is a smell. If you find yourself using either, consider if you can use a better object/motion. If not, consider setting up a mapping or macro. It may not make you a faster programmer exactly, but it shortens the loop between thinking and having code looking the way you want.
+1. Learn to read the manual. `:h` has a ton of info. 
+1. A great way to build your skill is to build your vimrc overtime, it'll help break you out of the intermediate level.
+1. The only way to learn Vim is a tiny bit at a time. Use a cheatsheet. The speaker always has a short sheet of 6-7 commands they're trying to learn. If they're not useful, or if they memorize it, kick it out.
 
 # Links
 1. [Your problem with Vim is that you don't grok Vi](https://stackoverflow.com/a/1220118/13053386)
+1. [Write Code Faster: Expert-level Vim](https://www.youtube.com/watch?v=SkdrYWhh-8s)
