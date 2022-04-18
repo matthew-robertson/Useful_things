@@ -23,6 +23,7 @@
 1. If you need to open a bunch of files as splits quickly, use something like `:args path/to/*.py | vertical all`. 
 1. An alternative is apparently `:vert sf path/to/*.py`.
 1. `:only` is excellent for resetting. It closes all windows but the active one.
+1. `:vnew` opens a new blank buffer to the left of your current split, useful for a scrap notes file. `:new` does the same but with a split above the buffer, which you like less.
 
 ## In-File Navigation
 1. Don't move a character at a time, it's dumb and slow. Use word motions, searches, and similar to move around.
@@ -55,7 +56,7 @@
 ## Entering Insert Mode
 1. `o` and `O` open a new line below and above the current line, respectively
 1. `a` inserts after the current character, `i` inserts before it.
-1. `A` will insert at the end of the line. `I` inserts at the start of it. Whaaaaa
+1. `A` will insert at the end of the line. `I` inserts at the start of it.
 1. `c` can be used to "change" chunks of text. EX: `ci"` will change things between the next two quotations, or `cf:` will change from the cursor to the next colon.
 1. `r` can be used to replace a single character.
 1. `s` is similar to `r`. It deletes the current character and puts you into insert mode.
@@ -95,7 +96,7 @@
 1. Converting long `.vimrc` files into `.vim` directories, some useful config tips in [here](https://vimways.org/2018/from-vimrc-to-vim/) too.
 1. Vim supports syntax folding, neat stuff.
 1. Like everything else in Vim, macros are just text. They're stored in the same buffers you yank/paste from, they're just interpreted as commands instead of characters to print.
-1. [The leader key](https://medium.com/usevim/vim-101-what-is-the-leader-key-f2f5c1fa610f) is a customize able modifier key, essentially: Vim doesn't map anything to it, unlike pretty much everything else. By default it's `\`, but you can change it using `let mapleader=","` or whatever you want to set it to. It also doesn't need to be held. Once pressed, Vim will wait ~1 second for a command's input.
+1. [The leader key](https://medium.com/usevim/vim-101-what-is-the-leader-key-f2f5c1fa610f) is a customizable modifier key, essentially: Vim doesn't map anything to it, unlike pretty much everything else. By default it's `\`, but you can change it using `let mapleader=","` or whatever you want to set it to. It also doesn't need to be held. Once pressed, Vim will wait ~1 second for a command's input.
 1. `map` and `noremap` do basically the same thing, but `noremap` is non-recursive/non-expanding. a handful of characters can be prefixed onto either to specify the mode the mapping should apply to `i` - insert mode, `n` - normal mode, etc...
 1. In command mode, `!` indicates the start of an external command. It will pop you out into the terminal to see the result of running it. Handy stuff for all the searching you do.
 1. `gf` will open the file path you have selected apparently, and `gx` will open a link in a browser? At least, it's supposed to.

@@ -38,3 +38,8 @@
 1. Build your instincts and get used to searching through history.
 1. "The ability to document code effectively using Git is just as important as being able to ship a feature, write clean code, or readable tests."
 1. "Commit messages don't clutter up the code, and don't grow stale"
+
+
+## Trivia
+1. Git's man page is so notoriously bad a [Markov generator](https://git-man-page-generator.lokaltog.net/) exists to make fake ones.
+1. Apparently, the reason `<<<<` and `>>>>` are used to mark merge conflicts is because at the time they were invalid syntax in all languages in use, at least from what [Getting More From Git - Alice Bartlett](https://youtu.be/FQ4IdcrOUz0) says.
