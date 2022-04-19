@@ -24,6 +24,8 @@
 1. An alternative is apparently `:vert sf path/to/*.py`.
 1. `:only` is excellent for resetting. It closes all windows but the active one.
 1. `:vnew` opens a new blank buffer to the left of your current split, useful for a scrap notes file. `:new` does the same but with a split above the buffer, which you like less.
+1. `ctrl+w R` will swap left/right or top/bottom splits. This won't work if you've got a vertical split in a horizontal split, for example.
+1. `ctrl+w T` will break your current split out into a new tab. Nifty.
 
 ## In-File Navigation
 1. Don't move a character at a time, it's dumb and slow. Use word motions, searches, and similar to move around.
@@ -97,10 +99,10 @@
 1. Vim supports syntax folding, neat stuff.
 1. Like everything else in Vim, macros are just text. They're stored in the same buffers you yank/paste from, they're just interpreted as commands instead of characters to print.
 1. [The leader key](https://medium.com/usevim/vim-101-what-is-the-leader-key-f2f5c1fa610f) is a customizable modifier key, essentially: Vim doesn't map anything to it, unlike pretty much everything else. By default it's `\`, but you can change it using `let mapleader=","` or whatever you want to set it to. It also doesn't need to be held. Once pressed, Vim will wait ~1 second for a command's input.
-1. `map` and `noremap` do basically the same thing, but `noremap` is non-recursive/non-expanding. a handful of characters can be prefixed onto either to specify the mode the mapping should apply to `i` - insert mode, `n` - normal mode, etc...
+1. `map` and `noremap` do basically the same thing, but `noremap` is non-recursive/non-expanding. A handful of characters can be prefixed onto either to specify the mode the mapping should apply to `i` - insert mode, `n` - normal mode, etc...
 1. In command mode, `!` indicates the start of an external command. It will pop you out into the terminal to see the result of running it. Handy stuff for all the searching you do.
 1. `gf` will open the file path you have selected apparently, and `gx` will open a link in a browser? At least, it's supposed to.
-1. The `n` flag on the substitute command will tell you how many occurrences of a given pattern are in a buffer. ex: `:%s/pattern//gn`
+1. The `n` flag on the substitute command will tell you how many occurrences of a given pattern are in a buffer. Ex: `:%s/pattern//gn`
 1. Want to search for something you've yanked/got in a buffer? `/ctrl+r{buffer}` will do the job. This was super useful for building macros when translating countries.
 1. `:reg` will list all the named buffers, and what they contain.
 1. `q{a-z}` will record to the chosen buffer. `@{a-z}` will execute the selected buffer as a macro. You can execute macros in other macros, so it's useful to build things up in pieces.
@@ -113,7 +115,7 @@
 1. Similarly, prefer text objects to motions.
 1. Repeating yourself or using Visual mode is a smell. If you find yourself using either, consider if you can use a better object/motion. If not, consider setting up a mapping or macro. It may not make you a faster programmer exactly, but it shortens the loop between thinking and having code looking the way you want.
 1. Learn to read the manual. `:h` has a ton of info. 
-1. A great way to build your skill is to build your vimrc overtime, it'll help break you out of the intermediate level.
+1. A great way to build your skill is to build your vimrc over time, it'll help break you out of the intermediate level.
 1. The only way to learn Vim is a tiny bit at a time. Use a cheatsheet. The speaker always has a short sheet of 6-7 commands they're trying to learn. If they're not useful, or if they memorize it, kick it out.
 
 # Links
