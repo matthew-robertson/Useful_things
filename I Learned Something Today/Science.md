@@ -19,6 +19,8 @@
 1. "The compound exploded in solution,.. on any attempts to touch of move the solid, and exploded when trying to get an infrared spectrum of it."
 1. [Hexanitrohexaazaisowurtzitane](https://blogs.sciencemag.org/pipeline/archives/2011/11/11/things_i_wont_work_with_hexanitrohexaazaisowurtzitane) is kind of hilarious as a compound. Developed to be a new explosive, it's not quite stable enough to use. There's been talk of making it more stable by mixing it with TNT. Which is.. interesting. Notably, heating it leads to CL-20 soaking in liquid TNT.
 
+## Cosmology/Astronomy
+1. Apparently, there's a point at which things that are further away start appearing larger. [The intuitive reason](https://twitter.com/AstroKatie/status/1516548840177946624) is that the light we're seeing from them is *so* old that the universe was *way* smaller, and thus they were closer and covered more of the sky than we'd expect.
 
 ## Miscellaneous
 1. [The ISS uses UTC for its timezone](https://www.world-timezone.com/time-zones-in-outer-space/).

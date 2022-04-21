@@ -63,10 +63,26 @@
 1. `r` can be used to replace a single character.
 1. `s` is similar to `r`. It deletes the current character and puts you into insert mode.
 
+## Registers
+1. Vim registers will persist between sessions? At least as long as viminfo exists, which it probably does.
+1. Registers are prefixed with " unless they're a script/macro, in which case they use @
+1. `:registers` will list all active registers. Handy for those persisted ones especially.
+1. `*` refers to the system register, so `"*y` will yank into your actual clipboard.
+1. "" is the default register, and pretty much always gets used. Same with "0, which is copied to unless a register is specified (except the strange case in which you explicitly use the unnamed register, in which case it uses "0)
+1. If a deletion is small (less than one line) it'll use `"-`, and doesn't interact with `1`-`9`.
+1. `a`-`z` only get written to explicitly. They *are* case sensitive, but only sort of. `"A` will append to `a`
+1. Read only registers like `".` for the last inserted text
+1. `"%` is a read only register that contains the current filename
+1. `":` is a read-only register that contains the more recent command
+1. There are a few registers that *can* be written to, but which are generally only changed by scripts. For example: `"/` contains the last search pattern, and can't be written to with delete/yank, and `"#` which contains the previously edited file.
+1. `:let @x = "value"` is a way to manually set a register to a value, if you're feeling goofy.
+1. Registers 1-9 get used as a delete history, which is kind of cool.
+1. `"_` is a black hole register, in which case it truly gets deleted entirely.
+
+
 ## Text Manipulation
 1. `Y` will yank/copy an entire line.
 1. `y[movement]` will yank based on the movement. E.G.: `yiw` will yank the word you're in.
-1. `*` refers to the system register, so `"*y` will yank into your actual clipboard.
 1. `:r` is used to copy a bunch of text into the current buffer. `:r!ls` will copy the result of ls, one per line, into the page at the cursor.
 1. `p` will paste, `P` will insert a new line first.
 1. `ctrl+t` and `ctrl+d`, used in insert mode, will indent and un-indent the current line respectively.
@@ -77,12 +93,17 @@
 1. Search and replace can be made global by default using `set gdefault`, which then inverts the use of `g` in searches. [Vim Annoyances](https://sanctum.geek.nz/arabesque/vim-annoyances/)
 1. `ctrl+n` will bring up the autocomplete word suggestions when in insert mode.
 1. Manipulate buffers by prefixing a command with `"a` (or some other buffer name). `"aY` `"aP" Will yank the current line into the `a` buffer, then paste it. This gives you access to multiple clipboards.
-1. When you yank something, it goes into the `0` buffer, unlike on deletion/change/whatever. You can imagine how this is useful.
 1. `:sort` with some kind of selection (visual works well), will sort the selected lines alphabetically.
 1. `i` can be used as a prefix for "in". `ciw` will change the word you're currently in, `ci"  does the same for a quotation, `cit` changes inside of an HTML tag.
 1. `:set spell` and `:set nospell` will en/disable spellcheck, respectively. While spell-checking, `]s` and `[s` will jump to the next/previous misspelling, `z=` will bring up suggested replacements, and `zg` will add the word under the cursor to the dictionary. 
 1. `gUiw` will swap the current word to uppercase. `guiw` will do the same to lowercase.
 1. `~` will toggle the current character's case.
+1. `ctrl+p` is Vim's default completion hotkey for insert mode. It'll look backwards through the document to find completion options. `ctrl+n` is similar, but looks backwards. It's look through other open files as well and let you know what file it's finding the bit of text from.
+1. `ctrl+o` and `ctrl+i` will move back and forth through the jump list, to let you bounce between areas you've been to.
+1. `ctrl+x` will launch you into "completion mode", which is a sub-mode of insertion mode. While in it, you can use `ctrl+f` to autocomplete filenames, `ctrl+]` to complete a tag (code stuff, assuming you've got ctags setup).
+1. `ctrl+x ctrl+p` gives you context-aware completion, allowing you to pull in a whole sentence one word at a time when repeated.
+1. `ctrl+x ctrl+l` will complete a whole line, if it can. 
+
 
 ## General Editing
 1. `u` will undo a change
@@ -121,3 +142,5 @@
 # Links
 1. [Your problem with Vim is that you don't grok Vi](https://stackoverflow.com/a/1220118/13053386)
 1. [Write Code Faster: Expert-level Vim](https://www.youtube.com/watch?v=SkdrYWhh-8s)
+1. [Registers - Stephen Belcher](https://youtu.be/sf1prtd_2E8)
+1. [Let Vim do the Typing](https://youtu.be/3TX3kV3TICU)
