@@ -111,6 +111,7 @@
 1. If you're holding down a key, there's probably a better tool to use.
 1. `.` will repeat the previous command.
 1. `:set spell` lets you enable spell checking, using the system dictionary.
+1. `:set complete` will let you know where autocomplete will check for results. `kspell` is a handy option that'll enable the dictionary for completion, but only if spellchecking is on.
 1. `:syntax enable` will turn on syntax highlighting, but I don't really know how it does anything.
 1. `:set encoding=utf-8` will set the encoding for the file, to handle unicode. Neat stuff.
 1. `smartcase` lets your patterns only care about case if at least one char is uppercase.
