@@ -132,6 +132,9 @@
 1. `:set filetype?` will tell you what file type Vim thinks you're dealing with.
 1. `:e!` Reloads the current file with changes from disk.
 
+## Scripting
+1. To do things based on the file type, you can apparently set up files in `~/.vim/after/ftplugin/*.vim`, as mentioned [here](https://vi.stackexchange.com/a/18232)
+
 ## General tips
 1. Prefer `iw` to `w` and visa versa, it makes macros *way* more functional.
 1. Similarly, prefer text objects to motions.

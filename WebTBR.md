@@ -14,12 +14,13 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Why I Don't Use Classes](https://news.ycombinator.com/item?id=22555938)
 1. [Models of Generics and Metaprogramming](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics)
 1. [How to Approach and Prioritize Technical Debt](http://news.ycombinator.com/item?id=30149864)
-1. [There's No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
 1. [Thunks: Read 100 Books on OOP](https://github.com/fogus/thunks/blob/main/studies/1OO.txt)
 1. [Architecture Patterns with Python](https://www.cosmicpython.com/)
 1. [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
 1. [Debugging Under Fire, GOTO2017](https://www.youtube.com/watch?v=30jNsCVLpAE)
 1. [C isn't a Programming Language Anymore](https://gankra.github.io/blah/c-isnt-a-language/)
+1. [The Self Handbook](https://handbook.selflanguage.org/2017.1/)
+1. [BaseDS - Exploring the basics of distributed systems](https://medium.com/baseds)
 
 ### Hardware nonsense
 
@@ -75,6 +76,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [A non-standard book list](https://news.ycombinator.com/item?id=30651273)
 1. [Write Plain Text Files](https://sive.rs/plaintext)
 1. [Don't Write Just in Plain Text](https://blog.miris.design/not-just-plain-text)
+1. [A Short List of Computer Science Textbooks](https://tolerablecoder.blogspot.com/2022/03/a-short-list-of-computer-science.html)
 
 ### Games
 1. [The Door Problem of Combat Design](https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design)
@@ -88,5 +90,4 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [I Add 3-25 Seconds of Latency to Every Page I visit](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
 1. [How did you build up your personal knowledge base?](https://news.ycombinator.com/item?id=21332957)
 1. [I've Seen the Metaverse - and I don't want it](https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it)
-1. [My Productivity App for the past 12 years has been a single .txt file](https://jeffhuang.com/productivity_text_file/)
 1. [Eruciform's top 10/10 and unique Anime](https://www.reddit.com/user/eruciform/comments/nng53n/top_1010_anime_plus_unique_art_and_cinematography/)

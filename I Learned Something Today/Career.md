@@ -72,3 +72,6 @@
 1. Give more positive feedback: it's easier than negative, makes people feel good, and possibly even more effective than negative. "positive feedback is about finding the 10% of things someone's already doing that are awesome, and saying 'yes! do more of that!'" [Alex Turek](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/)
 1. Feedback, positive or negative, is most meaningful if it's highly specific: include links/quotes when possible [Alex Turek](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/).
 1. A workable template for giving negative feedback is [here](https://alexturek.com/2022-03-18-How-to-criticize-coworkers/).
+1. A piece about presenting your invisible work to help with promotions is [here](https://leaddev.com/staffplus/getting-credit-invisible-work-staff-level):
+    1. "Fight recency bias (with snippets)... The key here is to make a habit of summarizing your work at regular intervals.. I do this every other week" "Try to document where you're spending your time and energy, not just the stuff that's obviously work."
+    1. "Keep a brag document... I keep a list of my professional successes in a Google Doc. Every time I'm excited about a project going well, I try to make a quick note of it."
