@@ -39,8 +39,8 @@
   1. You need to figure out how to load balance, i.e.: distribute the traffic among the backend servers. A decent way is to have a public server that just determines what backend server to use. This means the backend servers can use exclusively private IPs, which is nice.
   1. You need to decide if you have a bunch of services, or a bunch of clones of a monolith. The latter ends up eating up a lot more disk space, but is more redundant.
 1. load balancing strategies:
-  1. Round robin: Like Tetris piece generation. Use each IP once, then repeat. This can cause a problem since loaded servers will continue to get more hits. If you do it DNS side, there's also the issue of caching.
-  1. Metric based: If you can tell how much load a server is under, you could go for the lightest server each time, for example. However, you have to send the user to the same server each time, or you'll break sessions. 
+    1. Round robin: Like Tetris piece generation. Use each IP once, then repeat. This can cause a problem since loaded servers will continue to get more hits. If you do it DNS side, there's also the issue of caching.
+    1. Metric based: If you can tell how much load a server is under, you could go for the lightest server each time, for example. However, you have to send the user to the same server each time, or you'll break sessions. 
 
 ## Infrastructure
 1. [Bastion Hosts](https://en.wikipedia.org/wiki/Bastion_host) are a public interface to a private network, allowing a network's defences to be concentrated in fewer places.
@@ -75,10 +75,10 @@
 1. "Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I usually won't need your flowcharts." - Mythical Man-Month (102).
 1. Conway's Law, restated by Yourdon and Constantine: "The structure of any system designed by an organization is isomorphic to the structure of the organization."
 1. If you're dealing with data that doesn't fit into memory, you have a few different techniques available to you.
-  1. Get more RAM. This is easy, and often times cheaper than your time. Do this first.
-  1. Compress the data's memory footprint: change ints to chars, to bools, etc...
-  1. Chunk the data: process books one page at a time.
-  1. Index the data: Build an easy way to determine what subset to load. The simplest way is to build a well-named file-structure.
+    1. Get more RAM. This is easy, and often times cheaper than your time. Do this first.
+    1. Compress the data's memory footprint: change ints to chars, to bools, etc...
+    1. Chunk the data: process books one page at a time.
+    1. Index the data: Build an easy way to determine what subset to load. The simplest way is to build a well-named file-structure.
 1. "Performance is everyone's responsibility and it needs to be part of the process along the way. And that leads to item 3, you need to take performance regressions seriously. If performance unexpectedly drops, it should be a top priority to investigate and fix. And to catch performance regressions you should have systems in place detecting it, such as auto tests with daily graphs over performance. But engineers on the team should also profile often enough to have a good idea in their head of the overall performance characteristics of their game or application as a whole, and of their particular systems in particular, so that whenever it looks different from the usual they know that either something broke or there's a team member that needs an extra pat on their back for the awesome performance work." - [Humus](http://www.humus.name/index.php?page=News&ID=383).
 1. "Elegance is what happens when we find a way to express what we mean with the units of meaning that our tools provide." - [Eevee](https://eev.ee/blog/2016/04/21/elegance/)
 1. "Tool design is important! Its why I pick on programming languages. If the fundamental pieces at your disposal are awkwardly-shaped, you'll have a much harder time expressing what you actually intended." - Eevee, [talking about jank in zdoom's API](https://eev.ee/blog/2016/04/21/elegance/#zdoom-and-pickactor)
