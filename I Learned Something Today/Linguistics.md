@@ -28,3 +28,4 @@
 1. [A plan to learn Japanese in a year](https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/dkuskc2/)
 1. [Wanikani masterlist of book clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
 1. [Jo-Mako's JRPG scripts](https://jo-mako-anki.github.io/webpages/resources/jrpg/jrpg_index.html)
+1. [Bookwalker, a bookstore for Japanese ebooks](https://global.bookwalker.jp/ex/feature/about-us/#pl_whyuse)

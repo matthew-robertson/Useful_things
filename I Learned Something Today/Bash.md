@@ -28,3 +28,6 @@
 1. `${var:?error message}` will require the argument to exist else it'll throw an error.
 1. `${var:-default_val}` will give an argument a default value. Handy.
 1. `foo | bar` no longer involves running `foo`, and *then* piping it into `bar`, there's a lot of parallel execution here, which means it's hard if not impossible to prevent [the second half of a pipe from running](http://rachelbythebay.com/w/2022/04/05/pipe/) in the case of an error. `set -o pipefail` is usually what people are looking for, but doesn't actually help.
+
+## Links
+1. [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/)
