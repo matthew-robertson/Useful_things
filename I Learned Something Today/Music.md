@@ -12,3 +12,4 @@
 1. They're called Original Sound Tracks to contrast with scores: meaning that they were composed originally for the piece of media, instead of licensing pre-existing music.
 1. With upright bass, multiple bow styles exist. Specifically, [French and German](https://gollihurmusic.com/french-or-german-bow-which-should-i-choose/), the latter of which looks almost like an underhand grip. Allegedly French is more dextrous and German is more powerful, but it's largely preference. Orchestral players often use both kinds of bow so they can switch as needed.
 1. Drums distinguish grip in a [couple ways](https://www.libertyparkmusic.com/drum-sticks-grip-guide/): most prominently with match grip (double overhand) vs traditional grip (weak-hand underhand).
+1. Ozzy Osbourne is the only person inducted into both the Rock and Roll Hall of Fame and the WWE Hall of fame. [Toddintheshadows](https://twitter.com/ShadowTodd/status/1521987595462320128?s=20&t=xQnBuAjYohQBV-F3tZu1Ag).

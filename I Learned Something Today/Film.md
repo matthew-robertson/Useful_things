@@ -14,3 +14,6 @@
 1. Watch out for triangles and depth in shots what have multiple actors.
 1. Eye-lines are tricky, and you often want to shoot characters such that they're looking towards each other (one left->right, and the other the opposite).
 1. A short twitter thread exploring why Marvel movies have [such boring lighting](https://twitter.com/sadhilldevan/status/1502701062641229824).
+
+# TV
+1. Flip Flappers is a [dense anime](https://techhenzy.com/a-complete-guide-to-flip-flappers/).

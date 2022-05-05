@@ -10,17 +10,20 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Nikita Voloboev's Wiki](https://wiki.nikitavoloboev.xyz/programming)
 1. [Build Your Own React](https://pomb.us/build-your-own-react/)
 1. [Defunctionalism - An Underappreciated tool for writing good software](https://www.gresearch.co.uk/article/defunctionalisation/)
-1. [Health Status/circuit breakers in services](https://news.ycombinator.com/item?id=22545972)
-1. [Why I Don't Use Classes](https://news.ycombinator.com/item?id=22555938)
+1. [Health Status/circuit breakers in services](https://shopify.engineering/circuit-breaker-misconfigured)
+1. [Why I Don't Use Classes](https://spin.atomicobject.com/2020/03/12/why-i-dont-use-classes/#.Xmom-cfXe3U.hackernews)
 1. [Models of Generics and Metaprogramming](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics)
-1. [How to Approach and Prioritize Technical Debt](http://news.ycombinator.com/item?id=30149864)
+1. [How to Approach and Prioritize Technical Debt](https://leadership.garden/tips-on-prioritizing-tech-debt/)
 1. [Thunks: Read 100 Books on OOP](https://github.com/fogus/thunks/blob/main/studies/1OO.txt)
 1. [Architecture Patterns with Python](https://www.cosmicpython.com/)
 1. [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
 1. [Debugging Under Fire, GOTO2017](https://www.youtube.com/watch?v=30jNsCVLpAE)
 1. [C isn't a Programming Language Anymore](https://gankra.github.io/blah/c-isnt-a-language/)
+1. [The Tower of Weakenings: Memory Models For Everyone](https://gankra.github.io/blah/tower-of-weakenings/#the-tower-of-weakenings)
 1. [The Self Handbook](https://handbook.selflanguage.org/2017.1/)
 1. [BaseDS - Exploring the basics of distributed systems](https://medium.com/baseds)
+1. [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+1. [Optimizing Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/)
 
 ### Hardware nonsense
 
@@ -33,6 +36,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Developer Tools secrets that shouldn't be secrets](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 1. [Happy Birthday Vim](https://news.ycombinator.com/item?id=29113216)
 1. [EmberConf 2021 Notes](https://alexdiliberto.com/posts/emberconf-2021-notes/)
+1. [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/)
 
 ### Graphics
 1. [Physically Based Rendering](http://www.pbr-book.org/3ed-2018/contents.html)
@@ -44,6 +48,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Banding in Games: A Noisy Rant](https://loopit.dk/banding_in_games.pdf)
 1. [Designing 2D graphics in the Japanese Industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s)
 1. [Abstracting the Graphics API for a Toy Renderer](https://interplayoflight.wordpress.com/2022/03/12/abstracting-the-api-for-a-toy-renderer/)
+1. [How to build a BVH - Part 1](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
 
 ### Games Tech
 1. [SNES Development Part 1: Getting Started](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
@@ -54,6 +59,9 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Game Boy Techincal Specification](https://gbdev.io/pandocs/About.html)
 1. [How Crash Bandicoot Hacked the original playstation](https://copetti.org/projects/consoles/playstation/)
 1. [How the Nintendo Switch Prevents Downgrades by Irreparably Blowing its own Fuses](https://blog.jonlu.ca/posts/nintendo-switch)
+1. [1000 Hours of Difficulty: How Destiny Builds Systemic Challenge](https://www.gdcvault.com/play/1027550/1000-Hours-of-Difficulty-How)
+1. [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
+1. [POKEGB: A GameBoy Emulator that only Plays Pokemon Blue](https://binji.github.io/posts/pokegb/)
 
 ### Math
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
@@ -85,9 +93,12 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Final Fantasy X Part 1: Favourite Fantasy](https://www.shamusyoung.com/twentysidedtale/?p=32341)
 1. [Donky Kong Country Speedruns - DKC Tricks](https://dkcspeedruns.com/DKC_Tricks)
 1. [Satoshi Matrix's Top 100 Famicom/NES Games](https://satoshimatrix.wordpress.com/2012/03/20/top-100-nesfamicom-games-list-1/)
+1. [Jaquaysing the Dungeon](https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon)
+1. [Jaquaysing the Dungeon - Map Crow](https://www.youtube.com/watch?v=yJXnrRd9qns)
 
 ### Random stuff
 1. [I Add 3-25 Seconds of Latency to Every Page I visit](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
 1. [How did you build up your personal knowledge base?](https://news.ycombinator.com/item?id=21332957)
 1. [I've Seen the Metaverse - and I don't want it](https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it)
 1. [Eruciform's top 10/10 and unique Anime](https://www.reddit.com/user/eruciform/comments/nng53n/top_1010_anime_plus_unique_art_and_cinematography/)
+1. [How to do Magic](https://ciswoman.medium.com/how-to-do-magic-1f199d276ee8)

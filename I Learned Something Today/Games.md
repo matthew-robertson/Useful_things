@@ -113,3 +113,6 @@ using agency in order to create dramatic necessity.
 # Links
 1. [Passion Play - How did participatory culture of early internet fandom turn into the mob culture familiar torday?](https://reallifemag.com/passion-play/)
 1. [Why So Few Violent Games?](https://ludusnovus.net/2011/08/15/why-so-few-violent-games/)
+1. [How to Host a Dungeon (solo ttrpg)](https://i.4pcdn.org/tg/1367213491216.pdf)
+1. [r/Roms Megathread, Archive.org links for ROMs for various consoles](https://r-roms.github.io/)
+1. [Database for finding Wii/GCN game ids](https://www.gametdb.com/Wii)
