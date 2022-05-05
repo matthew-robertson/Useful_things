@@ -11,6 +11,7 @@
 1. "What I'm looking for when I'm looking for burnout are people who on paper like their job, but are fundamentally unfulfilled by it... People tend to devalue their own experience" - [You are Burned Out and Don't Even Know it](https://www.youtube.com/watch?v=jqONINYF17M)
 1. "Three things we're looking for are: 1) lack of energy, despite ability to do work, 2) lack of empathy, and 3) lack of fulfillment despite on-paper enjoying your job." - [You are Burned Out and Don't Even Know it](https://www.youtube.com/watch?v=jqONINYF17M)
 1. A notable distinction between burnout and depression, at least allegedly, is the presence of [anhedonia](https://en.wikipedia.org/wiki/Anhedonia). People who are burnt out will generally enjoy things if they can get past the motivation discrepancy, people with depression do not. 
+1. The Dunning-Kruger effect doesn't actually seem to be real. It seems to be an artifact of [statistical modelling](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/).
 
 ## Chemistry
 1. Soap is super good for "killing" viruses, because it's really good at breaks up lipids, which tends to make viruses fall apart. Most antibacterial stuff isn't as good as soap at this.

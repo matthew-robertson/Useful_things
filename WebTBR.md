@@ -10,7 +10,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Nikita Voloboev's Wiki](https://wiki.nikitavoloboev.xyz/programming)
 1. [Build Your Own React](https://pomb.us/build-your-own-react/)
 1. [Defunctionalism - An Underappreciated tool for writing good software](https://www.gresearch.co.uk/article/defunctionalisation/)
-1. [Health Status/circuit breakers in services](https://shopify.engineering/circuit-breaker-misconfigured)
 1. [Why I Don't Use Classes](https://spin.atomicobject.com/2020/03/12/why-i-dont-use-classes/#.Xmom-cfXe3U.hackernews)
 1. [Models of Generics and Metaprogramming](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics)
 1. [How to Approach and Prioritize Technical Debt](https://leadership.garden/tips-on-prioritizing-tech-debt/)
