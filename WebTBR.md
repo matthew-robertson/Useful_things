@@ -10,9 +10,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Nikita Voloboev's Wiki](https://wiki.nikitavoloboev.xyz/programming)
 1. [Build Your Own React](https://pomb.us/build-your-own-react/)
 1. [Defunctionalism - An Underappreciated tool for writing good software](https://www.gresearch.co.uk/article/defunctionalisation/)
-1. [Why I Don't Use Classes](https://spin.atomicobject.com/2020/03/12/why-i-dont-use-classes/#.Xmom-cfXe3U.hackernews)
 1. [Models of Generics and Metaprogramming](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics)
-1. [How to Approach and Prioritize Technical Debt](https://leadership.garden/tips-on-prioritizing-tech-debt/)
 1. [Thunks: Read 100 Books on OOP](https://github.com/fogus/thunks/blob/main/studies/1OO.txt)
 1. [Architecture Patterns with Python](https://www.cosmicpython.com/)
 1. [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
@@ -22,7 +20,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [The Self Handbook](https://handbook.selflanguage.org/2017.1/)
 1. [BaseDS - Exploring the basics of distributed systems](https://medium.com/baseds)
 1. [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
-1. [Optimizing Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/)
 
 ### Hardware nonsense
 
