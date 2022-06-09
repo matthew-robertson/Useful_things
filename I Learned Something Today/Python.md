@@ -46,6 +46,8 @@ basetwo('10010') #18
 1. Python has a built in memoization decorator, discussed [here](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html): `@functools.lru_cache(maxsize=max_lru, typed=False)`.
 1. Fstrings are rad, and can make print-debugging cleaner. `print(f"{d['key'][1]=}")` will print out `d['key'][1]='one'`, for example.
 1. Use `pip-compile requirements.in` from [pip-tools](https://pypi.org/project/pip-tools/) to compile a bare requirements file (`setup.py` or `requirements.in`) that only lists direct dependencies, into a fully-defined `requirements.txt`. This is handy for keeping track of which libraries are actually your responsibility to update while still pinning all of them.
+1. There are  number of possibly unintuitive things Python [can do](https://github.com/satwikkansal/wtfpython#usage).
+  1. Python will intern some string literals, creating immutable objects for some literals instead of creating new objects each time. This only applies to strings made of a-z, A-Z, 0-9, or underscores, or any string at most one character long. Note that it *will* use a single object if the same literal is used multiple times on a single line.
 
 
 ## Typing
