@@ -24,6 +24,8 @@
 1. `git log --grep regexp` lets you search your history using a regex.
 1. `git diff @~ @` will let you know what was changed in the last commit. `@` is a shortcut for `HEAD`.
 1. `git show` will show the contents of the `HEAD` commit. You can supply an argument if you want.
+1. `git reflog --grep-reflog="*"` will let you grep through your reflog, which is occasionally useful.
+1. `git rev-parse SHA` will let you convert a short-sha into the full sha, useful for diffing.
 
 ## Tips for maintaining a good commit history
 1. These are all taken from the back half of [Branch In Time, RubyConf2018](https://youtu.be/8OOTVxKDwe0?t=1107).
