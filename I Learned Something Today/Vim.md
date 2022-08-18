@@ -103,6 +103,7 @@
 1. `ctrl+x` will launch you into "completion mode", which is a sub-mode of insertion mode. While in it, you can use `ctrl+f` to autocomplete filenames, `ctrl+]` to complete a tag (code stuff, assuming you've got ctags setup).
 1. `ctrl+x ctrl+p` gives you context-aware completion, allowing you to pull in a whole sentence one word at a time when repeated.
 1. `ctrl+x ctrl+l` will complete a whole line, if it can. 
+1. `ctrl+v+tab` will insert a real tab in insert mode, even if you've got expandtab enabled.
 
 
 ## General Editing

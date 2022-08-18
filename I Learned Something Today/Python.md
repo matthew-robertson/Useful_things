@@ -48,6 +48,7 @@ basetwo('10010') #18
 1. Use `pip-compile requirements.in` from [pip-tools](https://pypi.org/project/pip-tools/) to compile a bare requirements file (`setup.py` or `requirements.in`) that only lists direct dependencies, into a fully-defined `requirements.txt`. This is handy for keeping track of which libraries are actually your responsibility to update while still pinning all of them.
 1. There are  number of possibly unintuitive things Python [can do](https://github.com/satwikkansal/wtfpython#usage).
   1. Python will intern some string literals, creating immutable objects for some literals instead of creating new objects each time. This only applies to strings made of a-z, A-Z, 0-9, or underscores, or any string at most one character long. Note that it *will* use a single object if the same literal is used multiple times on a single line.
+1. In addition to list comprehensions, you can do dictionary comprehensions: `{k:v for (k, v) in dict}` won't do anything interesting, but is the format.
 
 
 ## Typing
