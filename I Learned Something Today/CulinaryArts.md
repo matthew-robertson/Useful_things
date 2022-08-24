@@ -58,7 +58,8 @@
 ## Food Trivia
 1. The marshmallows in Lucky Charms are called "Marbits", short for "Marshmallow bits".
 1. Everyone's mom uses a [biscuit tin to store sewing supplies](https://www.vice.com/en_uk/article/qv3jax/seriously-why-does-everyones-mum-use-that-same-cookie-tin-for-sewing-stuff). It's something that dates back before WWII, and largely has to do with finding new uses for the sturdy and uncommon tins.
-1. purple and golden grapes are (at least commonly, in North America) made from the [same, green, grapes](https://www.thedailymeal.com/eat/shocker-golden-raisins-are-made-same-grape-variety-purple-ones). The difference is partly in the dehydration method, and partly that they're treated with sulfur dioxide before drying.
+1. purple and golden raisins are (at least commonly, in North America) made from the [same, green, grapes](https://www.thedailymeal.com/eat/shocker-golden-raisins-are-made-same-grape-variety-purple-ones). The difference is partly in the dehydration method, and partly that they're treated with sulfur dioxide before drying.
+1. A [Bialy](https://en.wikipedia.org/wiki/Bialy_(bread)) is a traditional Ashkenazi Jewish bread roll, which is *real* similar to a bagel. However, bialys are only baked, not boiled, and don't have a hole in the middle. Instead, bialy have a central depression that gets filled with garlic, poppy seeds, etc....
 
 ## Kitchen management
 1. Kitchen zoning. Separate things by purpose, keep things near where you'll use it, and set things up like a grocery store. Stuff like:

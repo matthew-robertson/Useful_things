@@ -49,6 +49,8 @@ basetwo('10010') #18
 1. There are  number of possibly unintuitive things Python [can do](https://github.com/satwikkansal/wtfpython#usage).
   1. Python will intern some string literals, creating immutable objects for some literals instead of creating new objects each time. This only applies to strings made of a-z, A-Z, 0-9, or underscores, or any string at most one character long. Note that it *will* use a single object if the same literal is used multiple times on a single line.
 1. In addition to list comprehensions, you can do dictionary comprehensions: `{k:v for (k, v) in dict}` won't do anything interesting, but is the format.
+1. `os.path.exists("/path/to/check")` can be used to check if a file/folder exists. `os.listdir` is similar, and will list all the files in a directory.
+1. [Click](click.palletsprojects.com) is a handy tool for writing Python tools with CLI functionality.
 
 
 ## Typing

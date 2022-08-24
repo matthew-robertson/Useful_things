@@ -2,6 +2,7 @@
 1. You're interviewing the company as much as they're interviewing you. Find out what's important to you, ask some tangential questions, and pay attention to the interviewers' answers. https://www.reddit.com/r/cscareerquestions/comments/5ncqti/no_palantir_your_internships_are_not_worth_5/dcfbnwd/
 1. If you don't have a physical offer in hand, it doesn't exist.
 1. Interviewing other people is a great way to get better at interviewing. Pay attention
+1. A ton of questions to ask interviewers, take what's important to you from [here](https://github.com/viraptor/reverse-interview).
 1. A handful of good questions to bring into an interview, stolen from [here](https://www.reddit.com/r/ExperiencedDevs/comments/qrmwpc/questions_ive_asked_during_interviews/):
     1. "What is the career progression path like for my position at this company"
     1. "Can you give me an example of a technical (non-management track) leader at your company, and what their position/responsibilities are like?"

@@ -38,6 +38,7 @@
 1. Canadians still wanted to build plantations, but didn't because the growing season wasn't good enough. (Policing Black Lives, chapter 1).
 1. Medical examiners in Canada were once paid bonuses for denying black migrants at the US-Canada border. (Policing Black Lives, chapter 1).
 1. The Canadian government also paid black doctors to go to America and convince potential black migrants not to migrate, as "the climate was dangerous for black people." (Policing Black Lives, chapter 1).
+1. [Boston Pizza](https://en.wikipedia.org/wiki/Boston_Pizza) was founded in Edmonton as "Boston Pizza and Spaghetti House", by four Greek immigrants. It is not, in fact, American. The company also sued Boston Market over the use of "Boston" as a trademark?
 
 # General History
 1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)
