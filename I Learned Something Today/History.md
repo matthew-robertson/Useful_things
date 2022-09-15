@@ -5,6 +5,8 @@
 1. Cross lacing wasn't really a thing until the 19th century. Spiral and ladder-lacing were much more common.
 1. That comical bonnet you always see on "pilgrim" women is a real (ish) thing. But wasn't intended to block peripheral vision, and would have been smaller/further back.
 1. The 18th century *loved* [ruffles](https://youtu.be/vAoaksK9mZM?t=786)
+1. Surgeon's Cuffs are what it's called when a suit jacket has functional buttons. So named because they were introduced for military field surgeons so they could [roll up their sleeves](https://bespokeedge.com/blog/what-are-surgeon-cuffs) to avoid staining their uniform.
+1. The [ticket pocket](https://garrisonbespoke.com/ticket-pocket-need-one-jacket)l is a second pocket on the right side above the normal pocket. Intended for holding train tickets, it's a more common feature for "country" jackets.
 
 # Historical Tech
 1. Typewriters had a "lost" key: `⁝`. We don't really know what it was for, but [speculation](http://widespacer.blogspot.com/2016/03/the-lost-key-of-qwerty.html) is that it worked like we use the slash now, to separate lines: "Roses are red/ Violets are blue/ .."

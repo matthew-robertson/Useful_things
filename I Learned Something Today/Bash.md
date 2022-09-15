@@ -20,6 +20,7 @@
 1. `awk 'BEGIN {srand(); print srand()}'` will get the number of seconds [since epoch](https://stackoverflow.com/a/41324810). Don't ask me how, it has to do with `srand` generally being seeded with the current time.
 1. `ctrl+z` will suspend a task, `fg` will bring it back to the foreground. Notably, you can give `fg` an argument to foreground something other than your most recently suspended/backgrounded task.
 1. `jobs -l` will let you know the jobid for all the suspended/backgrounded tasks, for use with `fg`.
+1. Watchman throwing weird errors after upgrading it on Mac? Might be due to the old version still sticking around, running, without permissions. Restarting will probably fix it, but `watchman watch-del-all; watchman shutdown-server` is an easier way to kill it.
 
 ## Scripting
 1. `if [ -d /folder ]` will return true if a folder exists. `-f` will check files, and `[ ! -d /folder ]` will return true if it *doesn't* exist. A bunch of these tests exist, check them [here](https://www.geeksforgeeks.org/bash-scripting-how-to-check-if-file-exists/).
