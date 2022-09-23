@@ -3,3 +3,4 @@
 1. There's [a wikipage](https://en.wikipedia.org/wiki/Skateboarding_dog) for skateboarding dogs. "Another dog, Extreme Pete, can do the half pipe and ride a skateboard down stairs."
 1. [Milk Yarn](https://www.milkgenomics.org/?splash=back-to-the-future-milk-fibers-in-the-21st-century) is what it sounds like: yarn made from milk. The milk fiber's produced from casein, coagulated to curd, then a whole bunch of other steps.
 1. [Fish Extenders](https://www.keytotheworldtravel.com/what-the-heck-is-a-fish-extender/) are a bizarre Disney cruise thing. They're basically a secret santa for cruise ships?
+1. Keep notes in [plain text](https://sive.rs/plaintext) as much as you can, add jpgs or whatever as you need them. Plaintext lasts forever, isn't tied to any organization/program, can be converted into anything, and is available without an internet connection. Do make sure to back them up somehow though, possibly using git, like this wiki.

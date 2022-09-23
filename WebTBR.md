@@ -79,7 +79,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Ask HN: Great Blogs by Programmers](https://news.ycombinator.com/item?id=30245247) 
 1. [A non-standard book list](https://news.ycombinator.com/item?id=30651273)
 1. [Write Plain Text Files](https://sive.rs/plaintext)
-1. [Don't Write Just in Plain Text](https://blog.miris.design/not-just-plain-text)
 1. [A Short List of Computer Science Textbooks](https://tolerablecoder.blogspot.com/2022/03/a-short-list-of-computer-science.html)
 
 ### Games
