@@ -11,6 +11,7 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
   1. Above subduction zones: Vesuvius being a famous example, these volcanoes are formed through subduction. As one plate is forced down, friction with the upper plate will eventually melt the rock, which rises through the plate and emerges as a volcano. See also the "Ring of Fire" in the pacific.
   1. Hot spots: Areas where the mantle is, for some reason, exceptionally hot. Examples include Hawaii, Yellowstone, and Iceland.
 1. Iceland is incredibly special among volcano having spaces. It's a hot spot coinciding with a mid-ocean ridge, causing way more magma than usual to surface. The whole country is essentially an active volcano, and its oldest rock is 13.5 million years old (The Big Ones, pg.70, ebook).
+1. [Blue lava](https://en.wikipedia.org/wiki/Blue_lava), also known as "blue fire" is a blue flame that looks like lava, caused by sulfur burning. This is most common at Indonesia's Kawah Ijen volcano.
 
 # Plate Tectonics
 1. The continental crust is made of lighter and weaker rock than the ocean floor, which is kinda wild. This caused issues with the idea of continental drift, as the idea that the continents were pushing themselves apart would be, and I quote "Like pushing a marshmallow through a brick" - The Big Ones, pg.69
