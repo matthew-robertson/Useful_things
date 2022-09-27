@@ -9,6 +9,7 @@
 1. The Harry Potter movies were only filmed in Britain because Warner Bros [campaigned to loosen child labour laws](https://blogs.loc.gov/law/2012/02/the-law-behind-the-magic-of-harry-potter/) in the country. Otherwise it likely would have been filmed in the US.
 1. Unsurprisingly, Darren Aronofsky is a [fan of Perfect Blue](https://animationobsessive.substack.com/p/the-real-history-of-perfect-blue?s=r), having paid "too much homage" (to quote Kon) to it in Requiem for a Dream (and also in Black Swan, though he denies that). In Aronofsky's telling of his meeting with Kon, Kon is much kinder than Kon tells the story as being.
 1. The movie [Krull](https://www.imdb.com/title/tt0085811/) did a promotion in which [a dozen couples got married on set](https://gizmodo.com/the-krull-wedding-the-most-confounding-scifi-movie-pr-5615160). Bizarrely, this was before the movie even came out.
+1. [Giallo](https://en.wikipedia.org/wiki/Giallo) is a sort of Italian cinema that's sort of a precursor to the slasher genre.
 
 ## Cinematography
 1. Watch out for triangles and depth in shots what have multiple actors.
