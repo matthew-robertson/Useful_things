@@ -12,6 +12,7 @@
 1. The [ticket pocket](https://garrisonbespoke.com/ticket-pocket-need-one-jacket)l is a second pocket on the right side above the normal pocket. Intended for holding train tickets, it's a more common feature for "country" jackets.
 
 # Links/Lists/Brands
+1. [How to Develop Good Taste Part 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/) - Die, Workwear!
 1. A "short" list of non-Luxottica sunglass brands, courtesy of [this Reddit post](https://www.reddit.com/r/malefashionadvice/comments/5yyrhw/comment/deu63eh/):
     1. Activist Eyewear (USA, offshored to Japan)
     1. Alexander Daas (USA)
