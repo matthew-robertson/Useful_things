@@ -20,6 +20,8 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [The Self Handbook](https://handbook.selflanguage.org/2017.1/)
 1. [BaseDS - Exploring the basics of distributed systems](https://medium.com/baseds)
 1. [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+1. [Can I See Your Scripts?](https://news.ycombinator.com/item?id=32467957)
+1. [Programming Breakthroughs We Need](https://yoyo-code.com/programming-breakthroughs-we-need/)
 
 ### Hardware nonsense
 

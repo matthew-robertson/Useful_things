@@ -54,12 +54,14 @@
 1. Making good ice is a matter of directional freezing. If it warrants it, buy clear ice from professionally made ice. If you want to make your own, use a cooler (or some other insulated container) in the freezer.
 1. Making decent ice at home requires water with less impurities: use hot/warm water, let it cool in the container you'll be freezing in. It contains less trapped gas than cold water (Liquid Intelligence)
 1. We have specific elements in our mouths that sense CO2. It seems to be related to our sense of sour, but doesn't taste acidic. (Liquid Intelligence, 288)
+1. Why does pepperoni [curl like that?](https://www.seriouseats.com/the-pizza-lab-why-does-pepperoni-curl) A few reasons: the heat differential caused by directional heating (helped out by a slightly thicker slice), as well as the stuffing method. The stuffing affects it because the meat will "stick" to natural or collagen casings as it's inserted, creating a denser center, and a wave in the meat.
 
 ## Food Trivia
 1. The marshmallows in Lucky Charms are called "Marbits", short for "Marshmallow bits".
 1. Everyone's mom uses a [biscuit tin to store sewing supplies](https://www.vice.com/en_uk/article/qv3jax/seriously-why-does-everyones-mum-use-that-same-cookie-tin-for-sewing-stuff). It's something that dates back before WWII, and largely has to do with finding new uses for the sturdy and uncommon tins.
 1. purple and golden raisins are (at least commonly, in North America) made from the [same, green, grapes](https://www.thedailymeal.com/eat/shocker-golden-raisins-are-made-same-grape-variety-purple-ones). The difference is partly in the dehydration method, and partly that they're treated with sulfur dioxide before drying.
 1. A [Bialy](https://en.wikipedia.org/wiki/Bialy_(bread)) is a traditional Ashkenazi Jewish bread roll, which is *real* similar to a bagel. However, bialys are only baked, not boiled, and don't have a hole in the middle. Instead, bialy have a central depression that gets filled with garlic, poppy seeds, etc....
+1. Garlic is sticky because it contains mercaptan (a sulfur compound), which is attracted to other sulfur compounds, like the cystine in your skin/nails/hair, as explained [here](https://foodiosity.com/why-is-garlic-sticky/).
 
 ## Kitchen management
 1. Kitchen zoning. Separate things by purpose, keep things near where you'll use it, and set things up like a grocery store. Stuff like:

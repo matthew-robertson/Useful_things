@@ -1,13 +1,3 @@
-# Historical Dress
-1. A bunch of this is gonna come from [here](https://www.youtube.com/watch?v=vAoaksK9mZM) and her channel, probably.
-1. In the 15th-century, women would wear dresses so long you couldn't walk in them. This is why we see them carrying armfuls of skirt all the time in art.
-1. Structured garments (like corsets), weren't around until the 16th century.
-1. Cross lacing wasn't really a thing until the 19th century. Spiral and ladder-lacing were much more common.
-1. That comical bonnet you always see on "pilgrim" women is a real (ish) thing. But wasn't intended to block peripheral vision, and would have been smaller/further back.
-1. The 18th century *loved* [ruffles](https://youtu.be/vAoaksK9mZM?t=786)
-1. Surgeon's Cuffs are what it's called when a suit jacket has functional buttons. So named because they were introduced for military field surgeons so they could [roll up their sleeves](https://bespokeedge.com/blog/what-are-surgeon-cuffs) to avoid staining their uniform.
-1. The [ticket pocket](https://garrisonbespoke.com/ticket-pocket-need-one-jacket)l is a second pocket on the right side above the normal pocket. Intended for holding train tickets, it's a more common feature for "country" jackets.
-
 # Historical Tech
 1. Typewriters had a "lost" key: `⁝`. We don't really know what it was for, but [speculation](http://widespacer.blogspot.com/2016/03/the-lost-key-of-qwerty.html) is that it worked like we use the slash now, to separate lines: "Roses are red/ Violets are blue/ .."
 1. Flicker was spun out of a social web game. They built picture sharing as a side thing for it, and it quickly outgrew the game in popularity.
@@ -20,6 +10,7 @@
 1. The first minifig released [in 1975](https://blog.hobbydb.com/2018/11/05/the-evolution-of-lego-minifigs-brick-by-brick/). There was nothing printed on them, and they had no moving parts.
 1. Minifigs gained faces and moving limbs [in 1978](https://blog.hobbydb.com/2018/11/05/the-evolution-of-lego-minifigs-brick-by-brick/), and with it, small-scale vehicles got wider, to accommodate figures.
 1. The Trackball was invented [by the Canadian Navy in 1952]](https://tedium.co/2021/11/12/trackball-input-device-history/). It was discarded in favor of the tech the US military was using, but eventually came back and was popular with air traffic controllers.
+1. The [ADFGVX cipher](https://en.wikipedia.org/wiki/ADFGVX_cipher) was a neat manual cipher used by the Germans in WWI and was broken by French lieutenant Georges Painvin. Weirdly, you learned about it from an issue of Batman Eternal as a code The Riddler was using.
 
 # Art History
 1. There was a really quite large [monument to Stalin](https://en.wikipedia.org/wiki/Stalin_Monument_(Prague)) in Prague. It was built by [Otakar Švec](https://en.wikipedia.org/wiki/Otakar_%C5%A0vec), [the winner of a competition no one wanted to win](https://twitter.com/lewis_crofts/status/1270786908768083969).

@@ -29,3 +29,6 @@
 1. [Wanikani masterlist of book clubs](https://community.wanikani.com/t/master-list-of-book-clubs/35283)
 1. [Jo-Mako's JRPG scripts](https://jo-mako-anki.github.io/webpages/resources/jrpg/jrpg_index.html)
 1. [Bookwalker, a bookstore for Japanese ebooks](https://global.bookwalker.jp/ex/feature/about-us/#pl_whyuse)
+1. [Show Me Your Books](https://community.wanikani.com/t/show-me-your-books/48826/8)
+1. [Game2Text - OCR tool for scanning Japanese](https://game2text.com/)
+1. [Yomichan - Firefox plugin for quick lookup](https://addons.mozilla.org/en-US/firefox/addon/yomichan/)
