@@ -22,6 +22,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 1. [Can I See Your Scripts?](https://news.ycombinator.com/item?id=32467957)
 1. [Programming Breakthroughs We Need](https://yoyo-code.com/programming-breakthroughs-we-need/)
+1. [A Decade of Dotfiles](https://news.ycombinator.com/item?id=31557430)
 
 ### Hardware nonsense
 
@@ -47,6 +48,10 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Designing 2D graphics in the Japanese Industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s)
 1. [Abstracting the Graphics API for a Toy Renderer](https://interplayoflight.wordpress.com/2022/03/12/abstracting-the-api-for-a-toy-renderer/)
 1. [How to build a BVH - Part 1](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
+1. [My Take on Shaders: Grass Shader Part 1](https://halisavakis.com/my-take-on-shaders-grass-shader-part-i/) - Harry Alisavakis
+1. [My Take on Shaders: Stylized Water Shader](https://halisavakis.com/my-take-on-shaders-stylized-water-shader/) - Harry Alisavakis
+1. [Stylized Grass with Shaders in URP](https://danielilett.com/2021-08-24-tut5-17-stylised-grass/) - Daniel Ilett
+1. [Ice Refraction in Shader Graph and URP](https://danielilett.com/2021-02-04-tut5-14-ice-refraction/) - Daniel Ilett
 
 ### Games Tech
 1. [SNES Development Part 1: Getting Started](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
@@ -60,6 +65,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [1000 Hours of Difficulty: How Destiny Builds Systemic Challenge](https://www.gdcvault.com/play/1027550/1000-Hours-of-Difficulty-How)
 1. [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 1. [POKEGB: A GameBoy Emulator that only Plays Pokemon Blue](https://binji.github.io/posts/pokegb/)
+1. [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 
 ### Math
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
