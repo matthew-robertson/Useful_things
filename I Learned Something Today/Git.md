@@ -26,6 +26,7 @@
 1. `git show` will show the contents of the `HEAD` commit. You can supply an argument if you want.
 1. `git reflog --grep-reflog="*"` will let you grep through your reflog, which is occasionally useful.
 1. `git rev-parse SHA` will let you convert a short-sha into the full sha, useful for diffing.
+1. `git log --name-status` will get you the list of files changed as part of the commit log.
 
 ## Tips for maintaining a good commit history
 1. These are all taken from the back half of [Branch In Time, RubyConf2018](https://youtu.be/8OOTVxKDwe0?t=1107).

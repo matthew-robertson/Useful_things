@@ -7,3 +7,4 @@
 1. The [Windshield Pheonomenon](https://en.wikipedia.org/wiki/Windshield_phenomenon) describes the decrease in dead insects on drivers' windshields since the 2000s, seemingly caused by a decrease in global insect populations.
 1. [Plano lenses](https://www.koalaeye.com/blogs/our-stories/plano-lenses) are lenses that provide no corrective power/vision correction. Often used in protective equipment, or when people only need corrective lenses in a single eye.
 1. The right way to use a Post-it note is by peeling it parallel to the adhesive (left-right), rather than perpindicular (bottom to top). This [helps keep it from curling](https://tylercipriani.com/blog/2022/05/28/on-the-proper-use-of-post-its/)
+1. Ostensibly, helipads are directional: the H is supposed to indicate a preferred direction, and whether the enclosing shape is a triangle or circle is supposed to indicate if it must be followed.
