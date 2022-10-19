@@ -38,6 +38,7 @@
 1. Egg whites are optional in sours, but they add the rad foam to it. Make sure to dry shake (without ice), as cold prevents the proteins from unravelling and [doing their thing](https://drinks.seriouseats.com/2011/08/cocktail-101-how-to-use-eggs-in-cocktails-what-do-egg-whites-do-in-drinks.html).
 1. People associate smaller carbonation bubbles with fancy drinks largely because aged champagne tends to have smaller bubbles. This is less a mark of quality on its own, and more because CO2 will diffuse through the cork over time lowering the carbonation in the bottle. (Liquid Intelligence, 291)
 1. Carbonated drinks will get people drunk faster. This is because alcohol is mostly absorbed in the intestine rather than the stomach, and CO2 is thought to speed gastric emptying, leaving to more alcohol being available for absorption. We're also just conditioned to drink carbonated drinks more quickly. (Liquid Intelligence)
+1. [Trappist beer](https://en.wikipedia.org/wiki/Trappist_beer) refers to beer brewed by Trappist monks at one of 13 (or 11, depending) Trappist monasteries. Or, presumably, beer styled after their beer.
 
 ## Molecular Gastronomy
 1. Frozen Florida is an inverted [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), which seemingly can only be produced in a microwave. It's weird.

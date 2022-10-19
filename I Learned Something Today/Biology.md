@@ -15,6 +15,7 @@
 1. [Livestock guardian dogs](https://en.wikipedia.org/wiki/Livestock_guardian_dog) are a dog type bred to protect livestock from predators. This is distinct form herding dogs, and they generally live as a part of the herd and are bonded to the herd from a young age. The only breed you know of previously that was bred for this is the great pyrenees.
 1. Not only do hedgehogs hibernate, they're one of the few mammals that "truly" hibernate: they aren't asleep, they've dropped their body temp to match the cold and almost cryo themselves.
 1. Cats have "faster" vision than people, which makes us think they couldn't [understand CRTs](https://catbeep.com/can-cats-see-tv/), as they could likely see the individual dots rendering?
+1. [Single Cat Syndrome](https://www.seattleareafelinerescue.org/single-kitten-syndrome/) is something that can arise when a young kitten is raised in a single cat household. Effectively, cats learn not to bite/scratch too hard by getting bit themselves/by having other cats tell them, so solo cats can end up aggressive because they never really learned the appropriate way to play with others. It's why a lot of rescures won't let kittens under a certain age to to a single-cat household. Get two.
 
 # Humans in general
 1. "Brown is a colour that doesn't really exist" - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)

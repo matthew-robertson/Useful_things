@@ -23,6 +23,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Can I See Your Scripts?](https://news.ycombinator.com/item?id=32467957)
 1. [Programming Breakthroughs We Need](https://yoyo-code.com/programming-breakthroughs-we-need/)
 1. [A Decade of Dotfiles](https://news.ycombinator.com/item?id=31557430)
+1. [How Trying New Programming Languages Helped Me Grow as a Software Engineer](https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer)
 
 ### Hardware nonsense
 
@@ -66,6 +67,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 1. [POKEGB: A GameBoy Emulator that only Plays Pokemon Blue](https://binji.github.io/posts/pokegb/)
 1. [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
+1. [A thread of great game design talks from Rosa Carbo-Mascarell](https://twitter.com/moreelen/status/1582401907142070272?s=46&t=rais2YEC34l8t8DIr5dfJA)
 
 ### Math
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
@@ -105,3 +107,4 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [I've Seen the Metaverse - and I don't want it](https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it)
 1. [Eruciform's top 10/10 and unique Anime](https://www.reddit.com/user/eruciform/comments/nng53n/top_1010_anime_plus_unique_art_and_cinematography/)
 1. [How to do Magic](https://ciswoman.medium.com/how-to-do-magic-1f199d276ee8)
+1. [Understanding Urusei Yatsura](https://fullfrontal.moe/understanding-urusei-yatsura/)

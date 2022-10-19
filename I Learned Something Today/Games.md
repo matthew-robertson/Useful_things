@@ -60,6 +60,7 @@ using agency in order to create dramatic necessity.
 1. The popular Polish Famiclone "Pegasus" was apparently a re-branded Taiwanese clone, of all things, named "Micro Genius". After other Famiclones overtook the Pegasus, they made a deal with Sega to sell a rebranded Genesis. Then the next gen of consoles released in Europe. They bowed out of consoles and now make soft drinks as Hoop.
 1. The Russian Famiclone was, of course, the Dendy Junior.
 1. [Cabbage](https://en.wikipedia.org/wiki/Cabbage_(video_game)) was a cancelled game that eventually influenced Animal Crossing and Nintendogs among others. It was being led by heavy hitters like Shigesato Itoi (Mother), Tsunekazu Ishihara (Pokemon), Shigeru Miyamoto (You know.), and Satoru Iwata.
+1. A small handful of pokemon [get shorter when they evolve](https://gaming.stackexchange.com/a/378519): Haunter, Porygon, Dragonair, Gloom, and Cosmog, at least as of 2020.
 
 ## Dungeons and Dragons
 1. If you're using terrain, you don't have to represent everything. That will leave pressure off you, and give you better opportunities to wow your players. Use a variety of methods: theatre of the mind, battle mat, actual builds.
