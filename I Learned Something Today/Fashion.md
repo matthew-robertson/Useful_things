@@ -10,9 +10,11 @@
 1. The 18th century *loved* [ruffles](https://youtu.be/vAoaksK9mZM?t=786)
 1. Surgeon's Cuffs are what it's called when a suit jacket has functional buttons. So named because they were introduced for military field surgeons so they could [roll up their sleeves](https://bespokeedge.com/blog/what-are-surgeon-cuffs) to avoid staining their uniform.
 1. The [ticket pocket](https://garrisonbespoke.com/ticket-pocket-need-one-jacket)l is a second pocket on the right side above the normal pocket. Intended for holding train tickets, it's a more common feature for "country" jackets.
+1. Pockets were originally [tied on](https://www.youtube.com/watch?v=uaRoWPEUTI4), not unlike a fanny pack, I guess. This was known to exist in the middle ages, and at least in women's clothes, stuck around for a couple centuries.
 
 # Links/Lists/Brands
 1. [How to Develop Good Taste Part 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/) - Die, Workwear!
+1. [Putting together a balanced and tasteful suit/shirt/tie/pocket square outfit](https://www.reddit.com/r/malefashionadvice/comments/18th1d/putting_together_a_balanced_and_tasteful/)
 1. A "short" list of non-Luxottica sunglass brands, courtesy of [this Reddit post](https://www.reddit.com/r/malefashionadvice/comments/5yyrhw/comment/deu63eh/):
     1. Activist Eyewear (USA, offshored to Japan)
     1. Alexander Daas (USA)

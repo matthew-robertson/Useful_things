@@ -132,6 +132,7 @@
 1. Make a typo in your macro? They're just text. Print it out, edit it, and read it back into the buffer you're working from.
 1. `:set filetype?` will tell you what file type Vim thinks you're dealing with.
 1. `:e!` Reloads the current file with changes from disk.
+1. `ca'.*p` is a handy way to wrap a quote in parentheses or whatever: change everything around the singlequotes, do whatever work you need, then paste the cut string back in. You've spent a lot of time working around auto-completing parentheses before remembering you could do this.
 
 ## Scripting
 1. To do things based on the file type, you can apparently set up files in `~/.vim/after/ftplugin/*.vim`, as mentioned [here](https://vi.stackexchange.com/a/18232)
