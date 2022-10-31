@@ -78,6 +78,7 @@
 1. `:let @x = "value"` is a way to manually set a register to a value, if you're feeling goofy.
 1. Registers 1-9 get used as a delete history, which is kind of cool.
 1. `"_` is a black hole register, in which case it truly gets deleted entirely.
+1. Need to paste a register somewhere outside of command mode (I.E.: in insert mode, or in a search)? `ctrl+r {register_id}` will insert it. Use `0` for the last yanked string, `"` for the last used register, and `+` for the clipboard.
 
 
 ## Text Manipulation
