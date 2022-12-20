@@ -75,6 +75,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [UBC's 2007 Fluid Simulation course notes](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)
 1. [Ask HN: The Book that did it for You in Math and/or CS](https://news.ycombinator.com/item?id=30485544)
 1. [Theorems for Free!](http://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)
+1. [The Ultimate Guide to Groups: Part 1](https://tomrocksmaths.com/2022/11/16/the-ultimate-guide-to-groups-part-i/)
 
 ## Food
 1. [Green Risotto with Mushrooms](https://www.seriouseats.com/2013/03/the-vegan-experience-green-risotto-with-mushr.html)

@@ -42,6 +42,7 @@
 1. Younger tea leaves produce more caffeine. This is somewhat generally true, and because younger plants tend to produce more chemical defenses before their physical defenses harden (their cells toughening, etc..)
 1. We don't know how, but seedlings will leech caffeine into their surrounding area as an anti-competition measure. It somehow makes other plants less likely to seed in the immediate area.
 1. [Tumbleweeds](https://en.wikipedia.org/wiki/Tumbleweed#Environmental_effects) are an invasive species in the USA, and they're kind of terrifying really. [They're](https://youtu.be/hsWr_JWTZss) a huge fire hazard, very thorny, and great at sucking up water other plants need.
+1. [Apple Rankings dot com](https://applerankings.com/) ranks every variety of apple you can think of on a handful of traits. It's neat.
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)
