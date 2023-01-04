@@ -24,8 +24,13 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Programming Breakthroughs We Need](https://yoyo-code.com/programming-breakthroughs-we-need/)
 1. [A Decade of Dotfiles](https://news.ycombinator.com/item?id=31557430)
 1. [How Trying New Programming Languages Helped Me Grow as a Software Engineer](https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer)
+1. [A Practical Guide to Applying Data-Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
+1. [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
+1. [The C Language is Purely Functional (a response to "Scala is Not a Functional Programming Language")](http://conal.net/blog/posts/the-c-language-is-purely-functional)
 
 ### Hardware nonsense
+1. [When to Hold 'em and When to Fold 'em: Adding a Hinge to a Game Boy that God Never Intended](https://posts.decontextualize.com/pocket-sp/)
+1. [Pimping my Casio with Oddly Specific Objects' Alternate Motherboard and Firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
 
 ### Design
 
@@ -68,6 +73,9 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [POKEGB: A GameBoy Emulator that only Plays Pokemon Blue](https://binji.github.io/posts/pokegb/)
 1. [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 1. [A thread of great game design talks from Rosa Carbo-Mascarell](https://twitter.com/moreelen/status/1582401907142070272?s=46&t=rais2YEC34l8t8DIr5dfJA)
+1. [Portal64](https://github.com/lambertjamesd/portal64)
+1. [Cramming 'Papers, Please' Onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
+1. [There Oughta be a Game Boy Capture Cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
 
 ### Math
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
@@ -82,8 +90,11 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Mushroom "Calimari"](https://www.reddit.com/r/veganrecipes/comments/ehhiit/mushroom_calimari_with_homemade_tartar_sauce/)
 1. [r/AskCulinary's wiki](https://www.reddit.com/r/AskCulinary/wiki/foodlifefaqs)
 1. [Pulling off a multi-course dinner for a friend](https://www.reddit.com/r/AskCulinary/comments/6tdms4/cooking_a_multicourse_dinner_to_thank_a_friend/)
+1. [Hacked to Bits: Secret Menus and Tiktok Hacks are Out of Control](https://www.eater.com/23399320/secret-menu-order-hacks-starbucks-workers)
 
 ## Business
+1. [What Does Sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
+1. [Being Glue](https://www.youtube.com/watch?v=5cr2Yn_MrKg) and [slides](https://noidea.dog/glue)
 
 ## Writing
 1. [Ask HN: Best Engineering Blog Posts?](https://news.ycombinator.com/item?id=29758396)
@@ -101,6 +112,11 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Satoshi Matrix's Top 100 Famicom/NES Games](https://satoshimatrix.wordpress.com/2012/03/20/top-100-nesfamicom-games-list-1/)
 1. [Jaquaysing the Dungeon](https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon)
 1. [Jaquaysing the Dungeon - Map Crow](https://www.youtube.com/watch?v=yJXnrRd9qns)
+1. [Thinky Games](https://thinkygames.com/)
+1. [The Street Fighter Lady: Invisibility and Gender in Game Composition](http://todigra.org/index.php/todigra/article/view/112/159)
+1. [Female Credit: Excavating Recognition for the Capcom Sound Team](https://www.semanticscholar.org/paper/Female-Credit%3A-Excavating-Recognition-for-the-Sound-Lemon-Rietveld/43997438332110c91118d63b7da452ad164c6dc7)
+1. [Canon Fire - Sin and Punishment: Successor of the Earth](https://canonfire.net/post/699567239609860096/022-sin-and-punishment-successor-of-the-earth)
+1. [I am Going to Solve the Cyberpunk Discourse Forever. Part 1](https://docseuss.medium.com/i-am-going-to-solve-the-cyberpunk-discourse-forever-part-1-the-pigs-74305168990f)
 
 ### Random stuff
 1. [I Add 3-25 Seconds of Latency to Every Page I visit](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
@@ -109,3 +125,11 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Eruciform's top 10/10 and unique Anime](https://www.reddit.com/user/eruciform/comments/nng53n/top_1010_anime_plus_unique_art_and_cinematography/)
 1. [How to do Magic](https://ciswoman.medium.com/how-to-do-magic-1f199d276ee8)
 1. [Understanding Urusei Yatsura](https://fullfrontal.moe/understanding-urusei-yatsura/)
+1. [Personal Style is Dead and the Algorithm Killed It](https://evilfemale.substack.com/p/personal-style-is-dead-and-the-algorithm)
+1. [You May be Early, but You're Not Wrong: A COVID Realing List](https://jessicawildfire.substack.com/p/you-may-be-early-but-youre-not-wrong)
+1. [Fandom Studies Videos](https://www.animefeminist.com/fandom-studies-resources)
+1. [Marginalia, a search engine focused on non-commercial content](https://search.marginalia.nu/)
+1. [Just Beans: What Was Ethical Consumption Under Capitalism](https://www.thedriftmag.com/just-beans/)
+1. [Which Emoji Scissors Close? +links to similar studies](https://news.ycombinator.com/item?id=33360719)
+1. [This is a Video about Video](https://fasterthanli.me/videos/this-is-a-video-about-video)
+1. [At N.Y.U., Students Were Failing Organic Chemistry. Who Was to Blame?](https://www.nytimes.com/2022/10/03/us/nyu-organic-chemistry-petition.html)
