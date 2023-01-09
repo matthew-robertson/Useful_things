@@ -12,7 +12,7 @@
 1. `ctrl+a` and `ctrl+e` move to the start/end of the line.
 1. `ctrl+r` and `ctrl+s` will search through the history, which is wild.
 1. You can repeat previous data using a couple different things. `!!` will repeat the previous command, useful for building pipelines. `!$` is shorthand for the last argument of the previous command, and `!*` is shorthand for all of the arguments of the previous command.
-1. `df -h` gives you the disk sizes in a human-readable format, while `du -h` does the same for file sizes.
+1. `df -h` gives you the disk sizes in a human-readable format, while `du -h` does the same for file sizes. You can use `--max-depth=1` (`-d 1` on Mac) to only list files/folders at the current level.
 1. start services (like docker, for when an AWS instance gets reset!) using `sudo service docker start`.
 1. `strace` is a cool little (and performance-heavy) tool, that tracks all syscalls a call makes. `strace ls .` records every system call `ls` would make.
 1. `grep -rl "foo" dict/to/search | xargs sed -i 's/foo/bar/g'`  will replace all instances of foo with bar in files in the target directory. If you're on mac, `-i` requires an argument. `-i ""` should cover that.
@@ -21,6 +21,7 @@
 1. `ctrl+z` will suspend a task, `fg` will bring it back to the foreground. Notably, you can give `fg` an argument to foreground something other than your most recently suspended/backgrounded task.
 1. `jobs -l` will let you know the jobid for all the suspended/backgrounded tasks, for use with `fg`.
 1. Watchman throwing weird errors after upgrading it on Mac? Might be due to the old version still sticking around, running, without permissions. Restarting will probably fix it, but `watchman watch-del-all; watchman shutdown-server` is an easier way to kill it.
+1. `head -n3 foo.txt` will print the first 3 lines in `foo.txt`. `tail` will do the same, but the last 3 lines.
 
 ## Scripting
 1. `if [ -d /folder ]` will return true if a folder exists. `-f` will check files, and `[ ! -d /folder ]` will return true if it *doesn't* exist. A bunch of these tests exist, check them [here](https://www.geeksforgeeks.org/bash-scripting-how-to-check-if-file-exists/).
