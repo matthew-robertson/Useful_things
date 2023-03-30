@@ -16,6 +16,7 @@
 1. Not only do hedgehogs hibernate, they're one of the few mammals that "truly" hibernate: they aren't asleep, they've dropped their body temp to match the cold and almost cryo themselves.
 1. Cats have "faster" vision than people, which makes us think they couldn't [understand CRTs](https://catbeep.com/can-cats-see-tv/), as they could likely see the individual dots rendering?
 1. [Single Cat Syndrome](https://www.seattleareafelinerescue.org/single-kitten-syndrome/) is something that can arise when a young kitten is raised in a single cat household. Effectively, cats learn not to bite/scratch too hard by getting bit themselves/by having other cats tell them, so solo cats can end up aggressive because they never really learned the appropriate way to play with others. It's why a lot of rescures won't let kittens under a certain age to to a single-cat household. Get two.
+1. White cats, especially those with blue eyes, are [pretty likely to be deaf](https://en.wikipedia.org/wiki/Congenital_sensorineural_deafness_in_cats). 17-20% of non-blue eyed white cats, 40% of "odd-eyed" cats with one blue eye, and between 65% and 85% of blue-eyed cats are deaf.
 
 # Humans in general
 1. "Brown is a colour that doesn't really exist" - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
@@ -37,6 +38,7 @@
 1. The first case of HIV/AIDS (unknown at the time) was in 1908, when a hunter contracted it from a chimp's blood.
 1. "Patient zero" as a term comes from the AIDS epidemic. He was marked as "patient O" for "Out of California" (and was not the first patient). This was later misread as a 0 however.
 1. Tannins, such as those in tea, can cause nausea on an empty stomach, and can lower the bioavailability of Iron, making [iron deficiencies more likely](https://pubmed.ncbi.nlm.nih.gov/29955693/). Notably, the tannins in tea seem to cause this more than "condensed tannins", which are more-often found in foods.
+1. [Oral Rehydration Solution](https://en.wikipedia.org/wiki/Oral_rehydration_therapy) is a relatively easy to make fluid replacement used to treat dehydration. Packets aside, you can approximate it with sugar and salt in clean water. This solution has reduced the mortality rate of diarrhea by 93%, and is credit with saving over 50 million lives.
 
 # Virology
 1. Viruses are, generally: a sack of RNA with some proteins to help replicate/break into cells/etc..., all surrounded by lipids. The lipids are half for protection, and half for invading cells. [Twitter source](https://twitter.com/PalliThordarson/status/1236549318439387137)
