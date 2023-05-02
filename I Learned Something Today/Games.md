@@ -31,6 +31,8 @@
 1. The battle system in Final Fantasy was 1) designed by someone who didn't play RPGs, and 2) was inspired by his knowledge of professional sports. Specifically, [the NFL](https://www.giantbomb.com/final-fantasy/3025-194/forums/final-fantasys-battle-system-inspired-by-nfl-564914/).
 1. [New Element](https://www.nedesigns.com/) is an extremely longstanding community for Roller Coaster Tycoon. They continue to have contests to this day.
 1. [Dobotone](http://www.videogamo.com/dobotone/) is a weird project by Videogamo to make a console that can be modified mid-play.
+1. The WonderSwan Color game Digimon Tamers: Battle Spirit has a full English translation that can be [hacked in](https://www.reddit.com/r/WonderSwan/comments/epskr9/convert_digimon_tamers_battle_spirit_for_the/?utm_source=share&utm_medium=web2x&context=3)) by soldering a 10k 0603 resistor to an unpopulated footprint on the PCB labelled JP1. This is done differently on a later revision, and impossible on the last revision.
+1. [Tibia](https://en.wikipedia.org/wiki/Tibia_(video_game%29) is one of the oldest and longest running MMOs, having released in 1997 and somehow peaking in popularity in 2007.
 
 ## Thinking about Games
 1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:

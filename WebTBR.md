@@ -93,7 +93,6 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Hacked to Bits: Secret Menus and Tiktok Hacks are Out of Control](https://www.eater.com/23399320/secret-menu-order-hacks-starbucks-workers)
 
 ## Business
-1. [What Does Sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
 1. [Being Glue](https://www.youtube.com/watch?v=5cr2Yn_MrKg) and [slides](https://noidea.dog/glue)
 
 ## Writing
@@ -117,6 +116,9 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Female Credit: Excavating Recognition for the Capcom Sound Team](https://www.semanticscholar.org/paper/Female-Credit%3A-Excavating-Recognition-for-the-Sound-Lemon-Rietveld/43997438332110c91118d63b7da452ad164c6dc7)
 1. [Canon Fire - Sin and Punishment: Successor of the Earth](https://canonfire.net/post/699567239609860096/022-sin-and-punishment-successor-of-the-earth)
 1. [I am Going to Solve the Cyberpunk Discourse Forever. Part 1](https://docseuss.medium.com/i-am-going-to-solve-the-cyberpunk-discourse-forever-part-1-the-pigs-74305168990f)
+1. [Chris Totten Mario Maker Level Design Tips](https://twitter.com/totter87/status/1145648595175182336?s=46&t=Qy75PAm7bg2jBYX7uaalRw)
+1. [Barbie as Rapunzel - Ally McLean](http://ally-mclean.com/featured-content/research-barbie-as-rapunzel/)
+1. [Playing this Board Game is Agony. And That's the Point](https://www.wired.com/2013/12/brenda-romero/)
 
 ### Random stuff
 1. [I Add 3-25 Seconds of Latency to Every Page I visit](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
@@ -133,3 +135,5 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Which Emoji Scissors Close? +links to similar studies](https://news.ycombinator.com/item?id=33360719)
 1. [This is a Video about Video](https://fasterthanli.me/videos/this-is-a-video-about-video)
 1. [At N.Y.U., Students Were Failing Organic Chemistry. Who Was to Blame?](https://www.nytimes.com/2022/10/03/us/nyu-organic-chemistry-petition.html)
+1. [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
+1. [AI is an Ideology, Not a Technology](https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/)

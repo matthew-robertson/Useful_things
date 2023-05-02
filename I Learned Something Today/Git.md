@@ -2,8 +2,10 @@
 1. Push to a different remote branch using `git push origin local-branch:remote-branch`.
 1. If you encounter a merge conflict and want to get their changes only, `git checkout --theirs path/to/file` will work. Though it only works on unmerged paths, so you can't do this to sub-folders.
 1. `git stash pop` will remove the change from the stack, while `git stash apply` will keep it.
+1. `git stash --keep-index` will stash all your unstaged changes, but leave anything you have staged.
 1. Both `git pull` and `git clone` call `git fetch` under the hood, which is why the clone stats on your repos look weird as heck.
 1. `git blame file/path` is pretty handy, and gives you what commit set any given line in the provided file
+1. `git blame -L 23,24 file/path` will limit the annotation to lines 23 and 24 of the target file. Much nicer to work with.
 1. `git log SHA --patch`, or `-p` gives you the full commit log in addition to the commit message.
 1. The `-S "SnippetToSearch"` [option](https://git-scm.com/docs/git-log#Documentation/git-log.txt--Sltstringgt) for `git log`, apparently called "the pickax", lets you search for commits that add or remove a given snippet.
 1. `git rebase -i SHAToRebaseOnto` is super handy for squashing and fixing up commits. I.E: `git rebase -i HEAD^3` will rebase the last 3 commits on the branch.
@@ -24,6 +26,7 @@
 1. `git log --grep regexp` lets you search your history using a regex.
 1. `git diff @~ @` will let you know what was changed in the last commit. `@` is a shortcut for `HEAD`.
 1. `git show` will show the contents of the `HEAD` commit. You can supply an argument if you want.
+1. `git show --stat` will give you which files are part of a given commit, which you often find yourself wanting to do.
 1. `git reflog --grep-reflog="*"` will let you grep through your reflog, which is occasionally useful.
 1. `git rev-parse SHA` will let you convert a short-sha into the full sha, useful for diffing.
 1. `git log --name-status` will get you the list of files changed as part of the commit log.
