@@ -1,4 +1,5 @@
 # General Advice
+1. [Tanker Boots](https://en.wikipedia.org/wiki/Tanker_boot) are military boots designed for tank crews. Unlike normal combat boots, they use leather straps over laces+eyelets. Civilian ones look cool as hell.
 
 
 # Historical Dress
@@ -11,6 +12,7 @@
 1. Surgeon's Cuffs are what it's called when a suit jacket has functional buttons. So named because they were introduced for military field surgeons so they could [roll up their sleeves](https://bespokeedge.com/blog/what-are-surgeon-cuffs) to avoid staining their uniform.
 1. The [ticket pocket](https://garrisonbespoke.com/ticket-pocket-need-one-jacket)l is a second pocket on the right side above the normal pocket. Intended for holding train tickets, it's a more common feature for "country" jackets.
 1. Pockets were originally [tied on](https://www.youtube.com/watch?v=uaRoWPEUTI4), not unlike a fanny pack, I guess. This was known to exist in the middle ages, and at least in women's clothes, stuck around for a couple centuries.
+1. [Visual Kei](https://en.wikipedia.org/wiki/Visual_kei) is a movement among Japanese musicians popular between 1980 and 2000. It's pretty similar to glam rock or hair metal, though less genre locked.
 
 # Links/Lists/Brands
 1. [How to Develop Good Taste Part 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/) - Die, Workwear!

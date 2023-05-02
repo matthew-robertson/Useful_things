@@ -33,11 +33,15 @@
 1. The Canadian government also paid black doctors to go to America and convince potential black migrants not to migrate, as "the climate was dangerous for black people." (Policing Black Lives, chapter 1).
 1. [Boston Pizza](https://en.wikipedia.org/wiki/Boston_Pizza) was founded in Edmonton as "Boston Pizza and Spaghetti House", by four Greek immigrants. It is not, in fact, American. The company also sued Boston Market over the use of "Boston" as a trademark?
 
-# General History
+# American History
 1. Ben Franklin was apparently supremely bad at keeping secrets, so he probably wasn't in the Illuminati? (Sawbones: Ben Franklin)
 1. [1200 pieces of bones (probably from about 15 skeletons) were found when renovating Franklin House in London in 1998.](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/) This probably isn't from spooky murder, but from the illicit anatomy school run out of the house by Ben Franklin's protege (Sawbones: Ben Franklin)
 1. In the wake of [The Great Flood of 1862](https://en.wikipedia.org/wiki/Great_Flood_of_1862), the whole city of Sacramento was raised 9-14 feet. This is a wild idea (The Big Ones, pg. 102, ebook).
 1. In the 1900's, people [reversed the flow of the Chicago River](https://en.wikipedia.org/wiki/Chicago_River#Reversing_the_flow). Mostly because the river was dirty as hell, and was in danger of causing some serious health issues.
+1. The [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party) was instigated by the British *lowering* taxes, rather than raising them. This is because the sons of liberty made a *lot* of money smuggling in tea, which the lowered tax was poised to kill.
+1.
+
+# General History
 1. A day after the Kanto region was devastated by a 7.9 earthquake, the ministry of home affairs proclaimed martial law. Vigilantes, imperial soldiers, and police murdered at least 6000 Koreans and Japanese socialists.
 1. Pope John XII (955-964) was super young (between 18 and 25) when he became pope. He also was allegedly [murdered by the jealous husband of the woman with whom he was in bed](https://en.wikipedia.org/wiki/List_of_popes_who_died_violently), which is wild.
 1. Why did Mongol terror last until Tolkien's time? Probably partly their success, and partly their curiosity for foreign cultures [here](https://jamesmendezhodes.com/blog/2019/1/13/orcs-britons-and-the-martial-race-myth-part-i-a-species-built-for-racial-terror).
@@ -47,7 +51,9 @@
 1. There's a common pop-theory that our conception of witches stems from alewives. Unfortunately [that doesn't seem correct](https://braciatrix.com/2017/10/27/nope-medieval-alewives-arent-the-archetype-for-the-modern-pop-culture-witch/).
 1. There are a few theories on where the witch's pointy hat comes from. It may be from classical depictions of the goddess Diana; an exaggeration of the dunce cap; or more likely it stems from antisemitism or the common hats of the day [as mentioned here](https://braciatrix.com/2017/10/27/nope-medieval-alewives-arent-the-archetype-for-the-modern-pop-culture-witch/).
 1. While the broomstick is the most popular flying item in modern society, they've been portrayed flying on everything from shovels to tridents (though notably no alestakes). The broom may be associated with witches [simply to reflect the amount of female witches](https://braciatrix.com/2017/10/27/nope-medieval-alewives-arent-the-archetype-for-the-modern-pop-culture-witch/).
-1. The [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party) was instigated by the British *lowering* taxes, rather than raising them. This is because the sons of liberty made a *lot* of money smuggling in tea, which the lowered tax was poised to kill.
+1. [Swan Upping](https://en.wikipedia.org/wiki/Swan_upping) is a weird process in which a census is taken of the swans on the River Thames. Apparently the British Crown "owns" all unmarked swans in open water. This has been happening for 900+ years, and was only known to fully cancelled for the first time in 2020. Notably, when Queen Elizabeth II attended in 2009, it was the first time in centuries that the monarch had personally attended.
+1. In 2015, [Germainwings Flight 9525](https://en.wikipedia.org/wiki/Germanwings_Flight_9525) ended with co-pilot Andreas Lubitz locking the pilot out of the cockpit and flying directly into a mountain, killing everyone onboard. He had been deemed unfit for duty by his doctor for suicidal tendencies, but hid that from his employer. Afterwards, several aviation authorities started requiring two members to be in the cockpit at all times, though that didn't last very long.
 
 # Military History?
 1. A [Decurion](https://en.wikipedia.org/wiki/Decurion_(Roman_cavalry_officer)) was a Roman officer in charge of a squadron (roughly 10 people), while a [Centurion](https://en.wikipedia.org/wiki/Centurion) was a higher rank, in charge of a century (about 80 legionnaires). A Legion would be commanded by the senior-most centurion of the constituent centuries.
+1. [Mary Edwards Walker](https://en.wikipedia.org/wiki/Mary_Edwards_Walker) was the first (and to date, only) woman to be awarded a Medal of Honor. She received it for her efforts to treat the wounded across enemy lines (she was captured by confederate forces after crossing enemy lines to treat civilians, and arrested as a spy), and is one of only eight civilians to be awarded the medal.

@@ -30,6 +30,7 @@
 ## Commercial Fiction
 1. [The Boy in the Striped Pyjamas](https://en.wikipedia.org/wiki/The_Boy_in_the_Striped_Pyjamas#Educational_implications) has had a pretty disastrous impact on history education. A [twitter thread](https://twitter.com/gwenckatz/status/1487530360703361024) goes into some details. One of note is the use of a non-Jewish perspective as the narrator.
 1. The author of The Boy in the Striped Pyjamas is the same dumb-ass who included [Legend of Zelda ingredients](https://twitter.com/DanaSchwartzzz/status/1290099395220799488?ref_src=twsrc%5Etfw) in his historical fiction. A paragon of research.
+1. The [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) is a series of Sci-fi novels by E.E. "Doc" Smith. The Green Lantern Crops appears to be quite similar to the Lensmen, and though the original editor denied any connection explicit references have since been made.
 
 ## Poetry
 1. Poetry's *about* [playing with language](https://youtu.be/arE2yyQe1PY). 
