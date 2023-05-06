@@ -12,6 +12,7 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
   1. Hot spots: Areas where the mantle is, for some reason, exceptionally hot. Examples include Hawaii, Yellowstone, and Iceland.
 1. Iceland is incredibly special among volcano having spaces. It's a hot spot coinciding with a mid-ocean ridge, causing way more magma than usual to surface. The whole country is essentially an active volcano, and its oldest rock is 13.5 million years old (The Big Ones, pg.70, ebook).
 1. [Blue lava](https://en.wikipedia.org/wiki/Blue_lava), also known as "blue fire" is a blue flame that looks like lava, caused by sulfur burning. This is most common at Indonesia's Kawah Ijen volcano.
+1. [Lava tubes](https://en.wikipedia.org/wiki/Lava_tube) are big caves formed by lava continuing to flow under a hardened lava surface. They're wild.
 
 # Plate Tectonics
 1. The continental crust is made of lighter and weaker rock than the ocean floor, which is kinda wild. This caused issues with the idea of continental drift, as the idea that the continents were pushing themselves apart would be, and I quote "Like pushing a marshmallow through a brick" - The Big Ones, pg.69
@@ -36,6 +37,7 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 1. [Sailing Stones](https://en.wikipedia.org/wiki/Sailing_stones) are a wild phenomenon where rocks create huge tracks on a smooth valley floor without animal intervention. It's caused by very thin ice sheets forming, breaking up, shoving rocks via wind, and then evaporating.
 1. There's a belt of democrat-voting counties cutting through the deep south. Why? To make a long story short: [becuase of a 100 million year old coastline](https://www.deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/). The marine life there led to richer soil, which gave exceptionally productive agricultural land (cotton especially), which led to more slaves being taken there, and now manifests as a large black population which overwhelmingly votes Democrat. 
 1. [Tepui's](https://en.wikipedia.org/wiki/Tepui) are tableop mountains found in South America that are host to extremely unique endemic plants+animals. One is the source of the Angel Falls.
+1. A couple kinds of caves exist. The most commint ad [solutional](https://en.wikipedia.org/wiki/Cave), which happens in soluble rocks (mostly limestone) as the acid in groundwater dissolves joints/faults and forms caves. A consequence of this is that 1) caves are wet, always, and 2) you *know* water wants to flow through a cave, since it already has once before.
 
 # Rocks
 1. Diamonds are classified by [type](https://en.wikipedia.org/wiki/Diamond_type), which is a measure of the level and type of impurities in them. The effect is largely on the diamond's colour. Type I diamonds have nitrogen as their main impurity, with Type Ia being 95% of natural diamonds, and Type Ib having fewer, more diffuse impurities. Type II have no measurable nitrogen impurities, though Type IIb have significant boron impurities.

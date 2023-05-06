@@ -27,10 +27,14 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [A Practical Guide to Applying Data-Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 1. [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 1. [The C Language is Purely Functional (a response to "Scala is Not a Functional Programming Language")](http://conal.net/blog/posts/the-c-language-is-purely-functional)
+1. [A Unified Theory of Garbage Collection](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/)
 
 ### Hardware nonsense
 1. [When to Hold 'em and When to Fold 'em: Adding a Hinge to a Game Boy that God Never Intended](https://posts.decontextualize.com/pocket-sp/)
 1. [Pimping my Casio with Oddly Specific Objects' Alternate Motherboard and Firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
+1. [G-Wii portable by Gmanmods](https://bitbuilt.net/forums/index.php?threads/g-wii.2322/)
+1. [Portables and Batteries: a Guide and Explanation](https://bitbuilt.net/forums/index.php?threads/portables-and-batteries-a-guide-and-explanation.2228/)
+1. [Making a Tiny PlayStation 2 with the Ultra Slim PS2 Mod](https://macho-nacho.com/news/making-a-tiny-playstation-2-with-the-ultra-slim-ps2-mod/)
 
 ### Design
 
@@ -137,3 +141,4 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [At N.Y.U., Students Were Failing Organic Chemistry. Who Was to Blame?](https://www.nytimes.com/2022/10/03/us/nyu-organic-chemistry-petition.html)
 1. [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
 1. [AI is an Ideology, Not a Technology](https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/)
+1. [The best things and stuff of 2022 - Fogus](http://blog.fogus.me/2022/12/13/the-best-things-and-stuff-of-2022/)
