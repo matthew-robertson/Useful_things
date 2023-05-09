@@ -33,6 +33,7 @@
 1. [Dobotone](http://www.videogamo.com/dobotone/) is a weird project by Videogamo to make a console that can be modified mid-play.
 1. The WonderSwan Color game Digimon Tamers: Battle Spirit has a full English translation that can be [hacked in](https://www.reddit.com/r/WonderSwan/comments/epskr9/convert_digimon_tamers_battle_spirit_for_the/?utm_source=share&utm_medium=web2x&context=3)) by soldering a 10k 0603 resistor to an unpopulated footprint on the PCB labelled JP1. This is done differently on a later revision, and impossible on the last revision.
 1. [Tibia](https://en.wikipedia.org/wiki/Tibia_(video_game%29) is one of the oldest and longest running MMOs, having released in 1997 and somehow peaking in popularity in 2007.
+1. The [expansion bay](https://en.wikipedia.org/wiki/PlayStation_2_Expansion_Bay) in PS2 "fats" was only used for the network adapter, and its functionality was built directly into the PS2 slim (minus HDD support). It's useful today for PS2 homebrew, since you can play games off of a hdd. While the official HDDs were 40gb and only supported IDE, upgrades exist to use SATA and any sata/ide hard drive can be used.
 
 ## Thinking about Games
 1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:
@@ -87,6 +88,7 @@ using agency in order to create dramatic necessity.
 
 ## Magic The Gathering
 1. Magic The Gathering is provably Turing-complete.
+1. ["As-fan"](https://mtg.fandom.com/wiki/As-fan) is a term WotC R&D uses in reference to how boosters look when fanned out and not, like you assumed, a reference to fans as in players. The number describes the actual frequency of a given card in boosters: it's a function of rarity (of the card, the count at that rarity in packs+the set), if it's a locked slot, etc... 
 
 ### Improving at Magic
 1. "The first step to mind-reading is asking opponents questions when you lose" - [Autumn Burchett](https://twitter.com/autumnlilypad/status/1503099602337251332)
