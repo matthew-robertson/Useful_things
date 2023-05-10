@@ -13,6 +13,7 @@
 1. You can assign default parameters like `function foo(bar=10) {...}`, which is pretty tame. It gets nutty when you start using arguments as parameters to other default values like so: `function foo(bar, baz=test(bar)) {...}`.
 1. Want to insert an asynchronous sleep, for use in tests or something? `const delay = ms => new Promise(res => setTimeout(res, ms)); await delay(2000)` has you covered.
 1. `?.` is a variant of the chaining operator that will shortcircuit if something doesn't exist, kinda [neat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining). It'll return undefined if the thing chaining is `null` or `undefined`.
+1. `typeof null === 'object'`, which seems a bit odd as `null` exists as a type. This is, seemingly, for [interoperability with Java](https://stackoverflow.com/a/64009911).
 
 ## Typescript
 1. In interface definitions, `?` can be used to mark optional parameters, like 

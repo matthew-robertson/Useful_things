@@ -12,6 +12,7 @@
 1. `:b#` will go to the alternate buffer (probably the previous one)
 1. `vim -p 'grep -ril test .'` will open up all the results of grep in different vim tabs. `-O` will instead open them as vertical splits. `-o` will do horizontal.
 1. `:wincmd` lets you move windows around. Of note: `vim -o 1 2 3 -c "wincmd H"` will open three horizontal splits, and re-size the leftmost to be a full-height vertical split (giving you one your preferred format).
+1. `:cd path/to/dir` will change your working directory to the specified path
 
 ## Windows
 1. `ctrl+w v` will vertically split, opening a new window, duplicating the current file.

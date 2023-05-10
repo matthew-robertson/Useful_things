@@ -43,6 +43,7 @@
 1. We don't know how, but seedlings will leech caffeine into their surrounding area as an anti-competition measure. It somehow makes other plants less likely to seed in the immediate area.
 1. [Tumbleweeds](https://en.wikipedia.org/wiki/Tumbleweed#Environmental_effects) are an invasive species in the USA, and they're kind of terrifying really. [They're](https://youtu.be/hsWr_JWTZss) a huge fire hazard, very thorny, and great at sucking up water other plants need.
 1. [Apple Rankings dot com](https://applerankings.com/) ranks every variety of apple you can think of on a handful of traits. It's neat.
+1. [Raspberries](https://en.wikipedia.org/wiki/Raspberry) and blackberries are produced by plants of the same genus. A good way to distinguish them is whether or not the stem/core remains after picking: raspberries are hollow, blackberries are not.
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)
