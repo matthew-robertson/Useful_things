@@ -40,7 +40,7 @@
 1. In the wake of [The Great Flood of 1862](https://en.wikipedia.org/wiki/Great_Flood_of_1862), the whole city of Sacramento was raised 9-14 feet. This is a wild idea (The Big Ones, pg. 102, ebook).
 1. In the 1900's, people [reversed the flow of the Chicago River](https://en.wikipedia.org/wiki/Chicago_River#Reversing_the_flow). Mostly because the river was dirty as hell, and was in danger of causing some serious health issues.
 1. The [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party) was instigated by the British *lowering* taxes, rather than raising them. This is because the sons of liberty made a *lot* of money smuggling in tea, which the lowered tax was poised to kill.
-1.
+1. The [Hollywood Blacklist](https://en.wikipedia.org/wiki/Hollywood_blacklist) was put into effect during the red scare, during McCarthyism, to bar "Red Fascists and their sympathizers" from employment in the entertainment industry. [Vincent Price](https://en.wikipedia.org/wiki/Vincent_Price#Personal_life)  was allegedly "grey-listed" for being a "premature anti-Nazi".
 
 # General History
 1. A day after the Kanto region was devastated by a 7.9 earthquake, the ministry of home affairs proclaimed martial law. Vigilantes, imperial soldiers, and police murdered at least 6000 Koreans and Japanese socialists.

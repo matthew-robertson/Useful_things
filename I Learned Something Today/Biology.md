@@ -1,3 +1,7 @@
+# Biology, general
+1. An [apomorhpy](https://en.wikipedia.org/wiki/Apomorphy_and_synapomorphy) is a trait derived from an ancestral one. If two taxa share the trait, we call it a "synapomorphy", and usually think it evolved in their most-recent common ancestor. An example is the fur of mammals, which is lacked by amphibians. In this case, fur is a `synapomorphy` of mammals, while amphibians retain the original lack of fur (these traits are a plesiomorphy).
+1. [homology](https://en.wikipedia.org/wiki/Homology_(biology)) refers to a similarity in structures/genes across taxa. The most well-known example is probably how the forearms of humans, front legs dogs/cats/etc.., the wings of birds, and others are all similar structures: sharing something approximating an ulna+radius and wristbones. 
+
 # Fish and Fish accessories
 1. When baiting a hook, worms will work for bottom-feeders (like carp), while feathers help for fish that eat surface insects (like trout) (The Feather Thief, p.56)
 1. The earliest recorded instance of "fly-tying", which will never make sense to you, is in the 3rd century AD writings of Cladius Aelianus (The Feather Thief, p.56)
@@ -17,6 +21,11 @@
 1. Cats have "faster" vision than people, which makes us think they couldn't [understand CRTs](https://catbeep.com/can-cats-see-tv/), as they could likely see the individual dots rendering?
 1. [Single Cat Syndrome](https://www.seattleareafelinerescue.org/single-kitten-syndrome/) is something that can arise when a young kitten is raised in a single cat household. Effectively, cats learn not to bite/scratch too hard by getting bit themselves/by having other cats tell them, so solo cats can end up aggressive because they never really learned the appropriate way to play with others. It's why a lot of rescures won't let kittens under a certain age to to a single-cat household. Get two.
 1. White cats, especially those with blue eyes, are [pretty likely to be deaf](https://en.wikipedia.org/wiki/Congenital_sensorineural_deafness_in_cats). 17-20% of non-blue eyed white cats, 40% of "odd-eyed" cats with one blue eye, and between 65% and 85% of blue-eyed cats are deaf.
+1. Cats can scream, and it's a [horrid sound](https://www.youtube.com/watch?v=mqWqrmsS-uU).
+1. When we say a cat is "spitting and hissing", it's not really about the act of spitting saliva. [Spitting](https://youtu.be/xpc_mQ4BVbw?t=60) is a specific sound cats can make, and it sounds kind of like teeth clacking?
+1. Surprisingly few big cats can roar: the lion, tiger, jaguar, and leopard (and we think the snow leopard lost its ability to). It's thought that roaring and purring in cats is [mutually exclusive](https://cattime.com/cat-facts/10019-purrs-vs-roars), and the distinction is thought to be due to varying ossification of the hyoid (fully in most cats, but not in roaring cats), and/or due to differently shaped vocal cords (square for roarers, triangular otherwise). The snow leopard is one such cat with a flexible hyoid that can't roar, which is why we think they once could.
+1. Snow Leopards don't purr or roar. They make a sound we call [chuffing](https://en.wikipedia.org/wiki/Prusten) or "prusten".  In Snow Leopards is sounds like [this](https://www.youtube.com/watch?v=gapw9G5seDE), but [tiger](https://www.youtube.com/watch?v=m1Ts6DRnDGk) and a few other big cats also chuff. 
+1. Purring isn't a purely pleased noise, cats will also purr when quite stressed/hurt. It's thought that the purr may have comforting and [healing](https://www.scientificamerican.com/article/why-do-cats-purr/#:~:text=Cats%20purr%20during%20both%20inhalation,bone%20density%20and%20promote%20healing.) properties, given the frequencies they operate at. Apparently investigations have found that frequencies between 25-150Hz can help improve bone density.
 
 # Humans in general
 1. "Brown is a colour that doesn't really exist" - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
