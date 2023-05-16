@@ -28,3 +28,6 @@
 
 ## Miscellaneous
 1. [The ISS uses UTC for its timezone](https://www.world-timezone.com/time-zones-in-outer-space/).
+1. [Flashover](https://en.wikipedia.org/wiki/Flashover) is what we call it when more or less all exposed combustible martial in an enclosed area ignites at once. It happens when most surfaces are heated to their [autoignition temperature](https://en.wikipedia.org/wiki/Autoignition_temperature), often around 590C (1100F).
+1. A fire's [Air-fuel ratio](https://en.wikipedia.org/wiki/Air%E2%80%93fuel_ratio) is exactly what is sounds like. If there's exactly enough air to burn all the fuel it's a "stoichiometric mixture", or "stoich". This is pretty uncommon outside of lab conditions.
+1. A fuel's [adiabatic flame temperature](https://en.wikipedia.org/wiki/Adiabatic_flame_temperature) is the temperature a flame would reach under "ideal conditions", and it's *pretty hot*. Worth noting: wood's adiabatic flame temperature is 3596F, and the LA Central Library fire reached temperatures of over 2500F.

@@ -34,6 +34,7 @@
 1. The WonderSwan Color game Digimon Tamers: Battle Spirit has a full English translation that can be [hacked in](https://www.reddit.com/r/WonderSwan/comments/epskr9/convert_digimon_tamers_battle_spirit_for_the/?utm_source=share&utm_medium=web2x&context=3)) by soldering a 10k 0603 resistor to an unpopulated footprint on the PCB labelled JP1. This is done differently on a later revision, and impossible on the last revision.
 1. [Tibia](https://en.wikipedia.org/wiki/Tibia_(video_game%29) is one of the oldest and longest running MMOs, having released in 1997 and somehow peaking in popularity in 2007.
 1. The [expansion bay](https://en.wikipedia.org/wiki/PlayStation_2_Expansion_Bay) in PS2 "fats" was only used for the network adapter, and its functionality was built directly into the PS2 slim (minus HDD support). It's useful today for PS2 homebrew, since you can play games off of a hdd. While the official HDDs were 40gb and only supported IDE, upgrades exist to use SATA and any sata/ide hard drive can be used.
+1. There were a lot of off-brand GameBoys, for obvious reasons. One was the [Mega Duck/Cougar Boy](https://en.wikipedia.org/wiki/Mega_Duck), which is home to the arguably perfect box art of [Snake Roy](https://www.vgdb.com.br/gf/fotos/games/media_58820/snake-roy-58820.jpg).
 
 ## Thinking about Games
 1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:
@@ -65,6 +66,7 @@ using agency in order to create dramatic necessity.
 1. The Russian Famiclone was, of course, the Dendy Junior.
 1. [Cabbage](https://en.wikipedia.org/wiki/Cabbage_(video_game)) was a cancelled game that eventually influenced Animal Crossing and Nintendogs among others. It was being led by heavy hitters like Shigesato Itoi (Mother), Tsunekazu Ishihara (Pokemon), Shigeru Miyamoto (You know.), and Satoru Iwata.
 1. A small handful of pokemon [get shorter when they evolve](https://gaming.stackexchange.com/a/378519): Haunter, Porygon, Dragonair, Gloom, and Cosmog, at least as of 2020.
+1. Kate Willert of Critical Hit! has done some [excellent](https://youtu.be/dGwWpbHLcXU) [research](https://youtu.be/8Tr5OhozM3I) into Metroid's influences. Space Cobra seems to be the big one.
 
 ## Dungeons and Dragons
 1. If you're using terrain, you don't have to represent everything. That will leave pressure off you, and give you better opportunities to wow your players. Use a variety of methods: theatre of the mind, battle mat, actual builds.

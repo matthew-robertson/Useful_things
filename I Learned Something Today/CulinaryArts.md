@@ -5,6 +5,7 @@
 
 ## Baking
 1. At least in baking (and especially with salt), always measure by mass. 3tbsp of kosher salt isn't 3tbsp of table salt, but 11g is 11g is 11g.
+1. [Scalding flour](https://thebreadmaiden.com/2016/02/18/the-science-behind-scalded-flour/) is a technique from japanese bread baking, using boiling water instead of autolysing, which triggers starch gelatinization rather than building gluten. It makes the bread much softer. You have to let it come down in temp before mixing, just like an autolyse, because you don't want to kill the yeast.
 
 ## General Cooking
 1. Cook times are guidelines, things obviously depend on the individual thing being cooked. Go by temperature or texture.
@@ -20,6 +21,7 @@
 1. [Culinary school-inspired practice](https://www.reddit.com/r/AskCulinary/comments/ftcuyv/suggestions_for_culinary_school_type_exercises/fm6l9ce/).
 1. Sodium Citrate is sometimes called ["sour salt"](https://www.youtube.com/watch?v=PTbdvND_YLQ), and is added to a bunch of stuff as a preservative (like Kraft Singles, or jams), but it's also great for helping emulsification. This is why American cheese melts smooth, while regular cheddar splits. "Sodium citrate allows the proteins in the cheese sauce to become more soluble without lowering the pH of the sauce, which creates a smooth emulsion without curdling." - [Modernist Cuisine](https://modernistcuisine.com/recipes/silky-smooth-macaroni-and-cheese/)
 1. To make a silky cheese sauce, use: 1 part cheese, .5 part liquid (probably water, but beer and things like that work too), and 2-3% sodium citrate by weight. Slowly heat and mix.
+1. [Cascatelli](https://en.wikipedia.org/wiki/Cascatelli) is a pasta only created in 2021, intended to maximize "saucability"
 
 ## Alcohol
 1. Gin is just a neutral alcohol (essentially, vodka), infused with a bunch of botanicals: mainly juniper.
@@ -97,3 +99,6 @@
 1. It's a [bit more complicated](https://www.npr.org/sections/thesalt/2015/03/26/394339284/how-snobbery-helped-take-the-spice-out-of-european-cooking) than that, but part of why European cooking isn't known for spices is that after they became accessible to the common folk, it became "cool" to instead have things which "taste like themselves". This shift started around 1600.
 1. [The first restaurant was opened in 1765](https://www.merriam-webster.com/words-at-play/the-history-of-restaurant), and was so named because the meat stews it sold would "restore" those who had them.
 1. [Soda pop gets its name from](https://kitchensavvy.com/how-soda-pop-got-its-name): 1) bicarbonate of soda to try and replicate the fizziness of seltzer, and 2) the sound it makes when you open a bottle. 
+
+# Links
+1. [List of Pasta - Wikipedia](https://en.wikipedia.org/wiki/List_of_pasta)

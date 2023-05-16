@@ -1,1 +1,4 @@
 1. 'We had a very high resolution photo of the aviation pioneer Amelia Earhart, and a short grainy video clip of her getting into a plane and smiling and waving. My question was: Which one of these two media conveys more information about Amelia?...Both files are the same size in bytes. So which one has more "information"? Which one is more "authentic"?'
+
+# Religion
+1. The Catholic church distinguishes between "direct abortion" and ["indirect abortion"](https://en.wikipedia.org/wiki/Indirect_abortion), the latter of which isn't considered sinful. Indirect abortion is a little hazy, but is for medical procedure that result in an abortion as a "secondary effect".

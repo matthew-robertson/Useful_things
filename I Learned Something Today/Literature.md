@@ -42,7 +42,15 @@
 1. "To speak gobbledygook to a black man is insulting, for it means he is the gook. Yet, we'll be told, there is no intention to willfully give offense. OK, but it is precisely this absence of will - this offhand manner; this casualness; and the ease with which they classify him, imprison him at an uncivilised and primitive level - that is insulting." - Fanon, Black Skin, White Masks "The Black Man and Language."
 1. "Instead of insisting that Tolkien is worth of literary study but resisting analyses that present problems for the reader, critics should allow themselves (and be allowed by their own readers) to examine his books with the same approaches that they use for other texts, noticing changes, gaps, alterations, and biases in Tolkien's texts. After all, in the case of the Dwarves in *The Hobbit*, he seems to have been perfectly willing to perform such examinations himself."
 1. 'At the “proper” level of fandom, one can enjoy commercials as content and enjoy hype as an experience rather than promotion for something else' - [Josh Tucker](https://reallifemag.com/passion-play/)
-
+1. "When you cram a lot of history into small spaces, people tend to do things like starve to death"  - Alice Caldwell-Kelly, [Well There's Your Problem, Berlin-Brandenburg Airport](https://www.youtube.com/watch?v=HBofdlddY5g)
+1. "So they decide to do the only sensible thing and build more of it" - Ben Miller, [Well There's Your Problem, Berlin-Brandenburg Airport](https://www.youtube.com/watch?v=HBofdlddY5g)
+1. "At least under communism there was somewhere to sit." - Random man, [Well There's Your Problem, Berlin-Brandenburg Airport](https://www.youtube.com/watch?v=HBofdlddY5g)
+1. "Don't go in the hole." - All hosts, multiple Well There's Your Problem episodes.
+1. "Caving is betting your existance against the cave's" - Alice Caldwell-Kelly, [Well There's Your Problem, Caving Disasters](https://youtu.be/jUJKRVu6IVA)
+1. "That's the thing with cavers. They all want t obe in the cave, and then all of a sudden they very definitely want to be out of the cave. Make up your mind." - Devon, [Well There's Your Problem, Caving Disasters](https://youtu.be/jUJKRVu6IVA)
+1. "Left to their own devices, traffic engineers will always build New Jersey" - Justin Rozniak, [Well There's Your Problem, The Politics of Traffic Engineering](https://youtu.be/8oq0u2i4iHc)
+1. "I don't want to know this, but I feel obliged to ask: what does a regulated pain-causing device look like? And please don't say a hammed with an accelerometer." - Alice Caldwell-Kelly, Well There's Your Problem Unknown Safety Third segment
+1. "Tunnels are a species of cave as far as I'm concerned, and you should steer clear of them." - Alice Caldwell-Kelly, [Well There's Your Problem, Mont Blanc Tunnel Fire](https://youtu.be/x1BWwuE6muM)
 
 # Links
 1. [Literary translation press, Open Letter Books](https://www.openletterbooks.org)
