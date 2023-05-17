@@ -34,6 +34,7 @@
 
 ## Infrastructure
 1. "[Italians] had to get a lot better [at maintaining infrastructure cheaply] after this, since they lost 70% of the budget. So a lof ot Italy's infrastructure just sort of collapses, metaphorically. And a lof ot Italy's infrastructure just sort of collapses (next slide please), literally." - Alice Caldwell-Kelly, [Well There's Your Problem, Ponte Morandi](https://youtu.be/-uUeBI7RnFM).
+1. There are a number of [types of dam](https://en.wikipedia.org/wiki/Dam#Types_of_dams). In a gravity dam, the force of gravity pulling the dam downwards is what holds the water back (overpowrering the water's attempts to flip it). Embankment dams are similar, but are made of compacted earth. Arch dams are curved upstream, so that water straightens the arch, strengthening it by pushing it further into its foundation, and are quite thin relatively speaking. You can also make a combination arch-gravity dam.
 
 ## Nautical Engineering
 1. Why are ship bottoms generally red? To [avoid algae and whatnot growing on them](https://www.youtube.com/watch?v=-AdW030xQB4). That sounds wild, but they're [anti-fouling paints](https://en.wikipedia.org/wiki/Anti-fouling_paint), and are designed to keep things from growing on ships. They're red because they're largely based on copper compounds, and those are naturally red.

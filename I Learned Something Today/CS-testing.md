@@ -18,3 +18,4 @@
 	1. Abstract Base Classes Metatyping (from Python potentially)
 1. Check out [a11y-automation](https://a11y-automation.dev) for a list of possible accessibility violations and how they might be tested.
 1. Chrome's Devtools have a network throttling [setting](https://developer.chrome.com/docs/devtools/settings/throttling/). They're global, but they can be handy if you need to test loading states during dev. Or if you want to have a bad time navigating the internet.
+1. Faker's company module has the ability to [generate buzzwords](https://fakerjs.dev/api/company.html#bs): the deprecated `.bs()`, which has been replaced by `.catchPhrase()` and `.buzzPhrase()`.
