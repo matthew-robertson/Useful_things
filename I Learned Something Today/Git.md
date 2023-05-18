@@ -31,6 +31,7 @@
 1. `git rev-parse SHA` will let you convert a short-sha into the full sha, useful for diffing.
 1. `git log --name-status` will get you the list of files changed as part of the commit log.
 1. Need to split a commit into smaller ones? Use an interactive rebase, mark whatever commits you want to split as `edit`, and get going. To split a commit mid-rebase, `git reset HEAD~` will soft reset the last commit's changes, and you can commit as you like from there, eventually `git rebase --continue` to move on.
+1. `git branch -m <newname>` will rename your current branch to the argument you provide. Useful for correcting goofy typos.
 
 ## Tips for maintaining a good commit history
 1. These are all taken from the back half of [Branch In Time, RubyConf2018](https://youtu.be/8OOTVxKDwe0?t=1107).
