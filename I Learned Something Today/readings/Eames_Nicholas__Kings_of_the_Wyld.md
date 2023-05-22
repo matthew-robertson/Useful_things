@@ -1,5 +1,5 @@
 Impression:
-I actively hated the first half, and the back-half just felt like generic middling-to-bad fantasy in the back half. I hate the clumsily handled AIDS metaphor, the sloppy prose, the cardboard characters, and the absolute lack of respect the book has for me as a reader.
+I actively hated the first half, and the back-half just felt like generic middling-to-bad fantasy. I hate the clumsily handled AIDS metaphor, the sloppy prose, the cardboard characters, and the absolute lack of respect the book has for me as a reader.
 
 Quotes/Annotations:
 1. "Clay blinked, having lost himself in his own head. He did that sometimes, and could have wished he was better at putting his thoughts into words. He’d sound a right clever bastard then, wouldn’t he?" - Christ this is bad prose
