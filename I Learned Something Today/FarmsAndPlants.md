@@ -45,6 +45,9 @@
 1. [Apple Rankings dot com](https://applerankings.com/) ranks every variety of apple you can think of on a handful of traits. It's neat.
 1. [Raspberries](https://en.wikipedia.org/wiki/Raspberry) and blackberries are produced by plants of the same genus. A good way to distinguish them is whether or not the stem/core remains after picking: raspberries are hollow, blackberries are not.
 1. Cucumbers and squash share a [family](https://en.wikipedia.org/wiki/Cucurbitaceae), but aren't more closely related than that.
+1. [Flat peaches](https://en.wikipedia.org/wiki/Flat_peach) are also called donut peaches and look wild.
+1. [Drupe](https://en.wikipedia.org/wiki/Drupe) is more or less the technical term for "stone fruit". Wildly, almonds, cherries, and plums are all drupes that are  part of the Prunus genus.
+1. [Nectarines](https://en.wikipedia.org/wiki/Peach#Nectarines) are the same species as, and are genetically essentially, peaches. They have a single mutation that makes their skin non-fuzzy.
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)
