@@ -19,8 +19,9 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 1. It turns out, the continents are just carried along by the movement of lithospheric plates. Interestingly, this leads to the ocean floor being - relatively speaking - rather new: the oldest findings on the ocean floor are under 200 million years old, while the oldest continental rock is 3.7 billion.
 1. What happens to all the old parts of the Earth's crust? Subduction zones happen. When plates collide here, one gets forced down and is (slowly, bit by bit) melted and recycled.
 
-# Rivers
+# Waterways
 1. Rivers naturally meander, and naturally create levees. This is because faster moving parts pick up silt that is deposited by slower moving parts.
+1. A [Limnic eruption](https://en.wikipedia.org/wiki/Limnic_eruption) is a kind of disaster that causes dissolved carbon dioxide to suddenly erupt from a lake. The resulting cloud of CO2 can suffocate people and livestock. A famous example is the [Lake Nyos disaster](https://en.wikipedia.org/wiki/Lake_Nyos_disaster), which covered a 25km wide radius, killing ~1700 people and ~3500 livestock.
 
 # Tsunamis
 1. Magnitude 8 tsunamis can produce locally devastating tsunamis, but 8.5 is necessary to move enough traverse an ocean basin.
@@ -28,9 +29,11 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 1. If a trough hits land first, the first sign of a tsunami is seawater receding disconcertingly fast.
 1. Damage in a tsunami is mostly dealt by the currents, not by the flooding. It travels through the ocean roughly at the speed of a jet, but as water shallows out it will slow down to the speed of a car. Unsurprisingly, that much water moving at 20mph carries a lot of energy.
 
-# Hurricanes
+# Wind Storms
 1. Hurricanes were [originally named](https://www.britannica.com/story/how-are-hurricanes-and-typhoons-named) after the area where they formed. The modern naming system developed in World War II, and only had masculine names added in 1979 after women's groups complained.
 1. After an especially bad wind storm, the name [will be retired](https://www.britannica.com/story/how-are-hurricanes-and-typhoons-named). Notable examples are: Katrina, Sandy, Harvey, and Irma.
+1. A [downburst](https://en.wikipedia.org/wiki/Downburst) (or micro or macrobust) is sort of a reverse tornado: a strong, extremely localized, downward wind forces (usually in a thunderstorm). They tend to last seconds to minutes, and only a handful of km wide.
+1. A [derecho](https://en.wikipedia.org/wiki/Derecho) is a wild seeming kind of wind storm that's essentially a straight line of wind. They can be caused by successive downbursts.
 
 # The Earth
 1. [Tired Mountain Syndrome](https://en.wikipedia.org/wiki/Tired_mountain_syndrome) is something mountains can experience after underground nuclear bomb testing. The large explosions change the geology of the area substantially enough to weaken the surrounding rock and increase the risk of radioactive stuff leaking out.

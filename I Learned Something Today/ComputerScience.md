@@ -8,6 +8,7 @@
 1. [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) is the bible here. You own it, take a look sometime.
 1. Hashmaps, Dicts, Maps. Whatever the language calls them, they're incredibly powerful tools.
 1. BigO runtimes of all the common algorithms can be found [here](https://www.bigocheatsheet.com/). They're not crazy important most of the time, but it's worth keeping the most common ones in your head.
+1. A [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm) is one that outperforms all alternatives on sufficiently large inputs, but where "sufficiently large" is on a scale that means they aren't used in practice.
 
 ## Building APIs
 1. This is more for general APIs than for HTTP ones (Since things like Get/Put/Patch are pretty explicit about what they allow), but "any function that returns a value should not have observable side effects" - Martin Fowler, Refactoring 307.

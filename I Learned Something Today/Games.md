@@ -114,6 +114,7 @@ using agency in order to create dramatic necessity.
 1. Unsurprisingly, floor danger is regional. Places where lava is a real concern (like Hawai'i), seem to shy away from using Lava.
 1. Pippi Longstocking in 1945 has a really quite good description of the game, though without the lava. Probably not the earliest. Lava doesn't seem to show up until the 50's.
 1. What you thought of as "three-ball bowling" is really ["Candlepin Bowling"](https://en.wikipedia.org/wiki/Candlepin_bowling), and is a Maritimes and New England specific variant.
+1. Badiddle (or, apparently, Padiddle) isn't a game your friends made up. It has a [wiki page](https://en.wikipedia.org/wiki/Car-spotting_game#Padiddle).
 
 ## LEGO
 1. [Illegal LEGO techniques](https://youtu.be/PpZjHV1n6Hg) are those that are either too fragile to stay together, or that stress the parts. LEGO sets avoid using these techniques for obvious reasons. An excellent example is stuffing plates in-between studs.
