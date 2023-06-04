@@ -22,9 +22,13 @@
 1. "The compound exploded in solution,.. on any attempts to touch of move the solid, and exploded when trying to get an infrared spectrum of it."
 1. [Hexanitrohexaazaisowurtzitane](https://blogs.sciencemag.org/pipeline/archives/2011/11/11/things_i_wont_work_with_hexanitrohexaazaisowurtzitane) is kind of hilarious as a compound. Developed to be a new explosive, it's not quite stable enough to use. There's been talk of making it more stable by mixing it with TNT. Which is.. interesting. Notably, heating it leads to CL-20 soaking in liquid TNT.
 1. [Carbonated water](https://en.wikipedia.org/wiki/Carbonated_water#Chemistry) is acidic because the carbon dioxide being dissolved into the water will react to it and create carbonic acid.
+1. The [new book smell](https://www.compoundchem.com/2014/06/01/newoldbooksmell/) comes from a handful of things, but it's mostly from the ink and adhesives rather than the paper itself.
 
 ## Cosmology/Astronomy
 1. Apparently, there's a point at which things that are further away start appearing larger. [The intuitive reason](https://twitter.com/AstroKatie/status/1516548840177946624) is that the light we're seeing from them is *so* old that the universe was *way* smaller, and thus they were closer and covered more of the sky than we'd expect.
+
+## Math
+1. The [Pizza theorem](https://en.m.wikipedia.org/wiki/Pizza_theorem) states that when partitioning a disk into 8 pieces and taking alternating slices, the two groups will have an equal amount of the disk regardless of the central point.
 
 ## Miscellaneous
 1. [The ISS uses UTC for its timezone](https://www.world-timezone.com/time-zones-in-outer-space/).

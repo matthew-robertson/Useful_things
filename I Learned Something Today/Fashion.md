@@ -1,5 +1,9 @@
 # General Advice
+
+# What are Clothes?
+1. [Ita-bags](https://en.m.wikipedia.org/wiki/Ita-bag) are bags designed to have pins, badges, etc... attached to them. They're big in the anime scene, and the "Ita" does in-fact come from "pain": apparently for the pain the bag experiences.
 1. [Tanker Boots](https://en.wikipedia.org/wiki/Tanker_boot) are military boots designed for tank crews. Unlike normal combat boots, they use leather straps over laces+eyelets. Civilian ones look cool as hell.
+
 
 
 # Historical Dress

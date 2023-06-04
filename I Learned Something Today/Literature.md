@@ -5,6 +5,7 @@
 1. A [headband](https://www.bookbindingworkshopsg.com/how-to-make-a-headband-for-book-binding/) is the strip of fabric at the top+bottom of a book. Originally used to strengthen the binding, they're largely decorative (think shirts with fake integrated camisoles) these days.
 
 # Writing
+1. In an `.md` file, you can escape any number of backticks (`` ` ``) in a code block by enclosing the block with more of them. You need to ensure there's a character between the escapped backtick and ones denoting the code block to avoid weirdness.
 ## Blogging
 1. As [Sander Knape](https://sanderknape.com/2020/04/why-great-write-blog-posts/) mentions, a good point of blogging is that it will improve your writing skills, and help you write better documentation/notes in your day-to-day.
 1. If you can't explain it, you don't really know it. Use blog posts to ingrain your learning.

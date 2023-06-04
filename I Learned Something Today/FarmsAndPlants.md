@@ -48,6 +48,7 @@
 1. [Flat peaches](https://en.wikipedia.org/wiki/Flat_peach) are also called donut peaches and look wild.
 1. [Drupe](https://en.wikipedia.org/wiki/Drupe) is more or less the technical term for "stone fruit". Wildly, almonds, cherries, and plums are all drupes that are  part of the Prunus genus.
 1. [Nectarines](https://en.wikipedia.org/wiki/Peach#Nectarines) are the same species as, and are genetically essentially, peaches. They have a single mutation that makes their skin non-fuzzy.
+1. [Cherry-pit Spitting](https://www.mashed.com/1024576/the-unlikely-evolution-of-the-international-cherry-pit-spitting-championship/) is an interesting sport popular around the Niagara area. "Only Montmorency cherries are allowed to be spat, which must be kept at a temperature between 55 and 60 degrees Fahrenheit. Hands are not allowed to be held above shoulders in order to prevent cheek-popping, and mouths must be kept free of anything other than the cherry pit."
 
 ## Farming
 1. [USDA census from 2012 indicate that something like 22% of farms have less than $1000.00 of income per year.](https://twitter.com/SarahTaber_bww/status/1128445471658319872)

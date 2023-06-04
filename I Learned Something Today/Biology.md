@@ -13,6 +13,7 @@
 1. The feather trade blew up on account of women's fashion (mostly hats), and was subsequently largely banned, also thanks largely to women.
 1. The Underwood Tariff Act banned the import of feathers in 1918.
 1. Baby owls sleep [face down](https://twitter.com/roook/status/1494691070571069441?s=21). This is because their heads are too heavy and they haven't learned to quite hold them up yet.
+1. Birds have a "preen gland" or [uropygial gland](https://en.wikipedia.org/wiki/Uropygial_gland). The oil is distributed during preening.
 
 # Mammals
 1. Cats, unlike all other mammals we've examined, can not taste sweetness. They can taste some other stuff we can't though. [Scientific American](https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/)
@@ -38,7 +39,8 @@
 1.'In analyzing their data, the researchers found “Clerical VDT operators showed much higher levels of visual, musculoskeletal, and emotional health complaints, as well as higher job stress levels, than did control subjects and professionals using VDTs.” In every category of health complaint—from fainting to stomach pain to neck pressure to hand cramps—the percentage of complaints went up among clerical workers stationed at computer terminals, often doubling, tripling, or quadrupling in number. ' (note, VDT stands for Video Display Terminal: a monitor. And professional vs clerical is largely a hierarchical split and is quite gendered.). See [here](https://www.vice.com/en/article/y3dda7/how-the-personal-computer-broke-the-human-body).
 1. Also found in that study, the act of using a computer seemed to make the work hurt more and feel less fulfilling.
 1. Innie vs Outie belly buttons are [mostly random](https://www.healthline.com/health/what-causes-an-innie-or-outie-belly-button), and don't have to do with how the umbilibal cord was tied/clamped/cut. Innies are much more common, though a few medical conditions can apparently cause outie belly buttons.
-1. The [palmaris longus](https://en.wikipedia.org/wiki/Palmaris_longus_muscle) is a muscle inbetween the ulnaris and radialis flexors. It's missing in about 14% of the population, though that varies by ethnic group, and its absence is more prevalent in females. If present, it can be seen by touching the ring finger and thumb together. Its absence does reduce pinch strength in the ring and pinky fingers, but it's popular for tendon grafts
+1. The [palmaris longus](https://en.wikipedia.org/wiki/Palmaris_longus_muscle) is a muscle inbetween the ulnaris and radialis flexors. It's missing in about 14% of the population, though that varies by ethnic group, and its absence is more prevalent in females. If present, it can be seen by touching the ring finger and thumb together. Its absence does reduce pinch strength in the ring and pinky fingers, but it's popular for tendon grafts.
+1. A relationship has been suggested between [handedness and sexual orientation](https://en.wikipedia.org/wiki/Handedness_and_sexual_orientation): heterosexual individuals are more likely to be right-handed than non-heterosexual individuals are.
 
 # Human medicine
 1. Auto-brewery syndrome is a bizarre condition where people end up with brewer's yeast taking over their intestines, turning the carbs they eat into alcohol and making them constantly drunk. (Sawbones: Auto-brewery Syndrome)

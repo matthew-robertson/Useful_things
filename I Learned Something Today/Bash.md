@@ -2,7 +2,10 @@
 1. If you want to mass-rename stuff, don't copy the files to somewhere else, just make hardlinks to the backup folder.
 1. Running services that use a port below 1024 requires `sudo` (or something like nginx to redirect from one port to another).
 1. "Those that don't remember history are doomed to press Up repeatedly."
-1. `date` is an exceptional tool
+1. `date` is an exceptional tool.
+
+## General Bash
+1. When in `vi` or `emacs` mode, you can edit the current command within your `$EDITOR`. In Vi mode, it's `esc` then `v`.
 
 ## Tool specific 
 1. `grep [options] [pattern] [file]`. Use it. `-r` does recursive, `-i` does case-insensitive, `-n` gives line numbers too.
