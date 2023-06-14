@@ -37,7 +37,7 @@
     1. Dillon Optics (USA)
     1. Dita (USA offshored to Japan)
     1. Drift (USA)
-    1. Entourage of 7 (USA offshored to Denmark and Japan)
+    1. [Entourage of 7](https://eof7.com/optics-and-sunglasses/#!) (USA offshored to Denmark and Japan)
     1. Etnia Barcelona (Spain)
     1. Eye DC (French)
     1. Eyevan (Japanese)
@@ -91,3 +91,4 @@
     1. Vue DC
     1. Warby Parker
     1. Zero G
+    1. [Hakusan Megane](http://hakusan-megane.co.jp/shop/) (From Tim Rogers)

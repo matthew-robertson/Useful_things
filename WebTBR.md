@@ -28,6 +28,12 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 1. [The C Language is Purely Functional (a response to "Scala is Not a Functional Programming Language")](http://conal.net/blog/posts/the-c-language-is-purely-functional)
 1. [A Unified Theory of Garbage Collection](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/)
+1. [Sharpening the Axe: The Primacy of Toolmaking](https://www.youtube.com/watch?v=_GpBkplsGus&t=1s)
+1. [Python Performance Matters](https://www.youtube.com/watch?v=vVUnCXKuNOg)
+1. [Stop Writing Dead Programs - Jack Rusher](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
+1. [Object-Oriented Programming is Bad](https://youtu.be/QM1iUe6IofM)
+1. [The Hardest Program I've Ever Written](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/#2)
+1. [Pointers Are Complicated II, or: We Need Better Language Specs](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 
 ### Hardware nonsense
 1. [When to Hold 'em and When to Fold 'em: Adding a Hinge to a Game Boy that God Never Intended](https://posts.decontextualize.com/pocket-sp/)
@@ -80,6 +86,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Portal64](https://github.com/lambertjamesd/portal64)
 1. [Cramming 'Papers, Please' Onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
 1. [There Oughta be a Game Boy Capture Cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
+1. [The Gang Reverse-Engineers the [Blaseball Beta] Sim](https://sibr.dev/blog/the-nominative-determinism-article/)
 
 ### Math
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
@@ -123,6 +130,10 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Chris Totten Mario Maker Level Design Tips](https://twitter.com/totter87/status/1145648595175182336?s=46&t=Qy75PAm7bg2jBYX7uaalRw)
 1. [Barbie as Rapunzel - Ally McLean](http://ally-mclean.com/featured-content/research-barbie-as-rapunzel/)
 1. [Playing this Board Game is Agony. And That's the Point](https://www.wired.com/2013/12/brenda-romero/)
+
+### Fashion
+1. [How to Develop Good Taste Pt.1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
+1. [How to Get Good at Shopping](https://paynterjacket.com/blogs/stories/how-to-get-good-at-shopping)
 
 ### Random stuff
 1. [I Add 3-25 Seconds of Latency to Every Page I visit](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
