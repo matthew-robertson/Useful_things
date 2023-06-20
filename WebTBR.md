@@ -80,6 +80,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Portal64](https://github.com/lambertjamesd/portal64)
 1. [Cramming 'Papers, Please' Onto Phones](https://dukope.com/devlogs/papers-please/mobile/)
 1. [There Oughta be a Game Boy Capture Cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
+1. [The Gane Reverse-Engineers the Beta Sim](https://sibr.dev/blog/the-nominative-determinism-article/#user-content-fnref-6)
 
 ### Math
 1. [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
@@ -105,6 +106,7 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [A non-standard book list](https://news.ycombinator.com/item?id=30651273)
 1. [Write Plain Text Files](https://sive.rs/plaintext)
 1. [A Short List of Computer Science Textbooks](https://tolerablecoder.blogspot.com/2022/03/a-short-list-of-computer-science.html)
+1. [On books that sell 192-book study of the American YA fiction market showing particularly strong audience resonance in matters of race, gender and moral identity](https://research.bangor.ac.uk/portal/en/theses/on-books-that-sell-192book-study-of-the-american-ya-fiction-market-showing-particularly-strong-audience-resonance-in-matters-of-race-gender-and-moral-identity(9b6fae39-aa73-49a0-bf51-4a5e41510cc5).html)
 
 ### Games
 1. [The Door Problem of Combat Design](https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design)
@@ -123,6 +125,18 @@ To be (re)read and integrated elsewhere in this wiki:
 1. [Chris Totten Mario Maker Level Design Tips](https://twitter.com/totter87/status/1145648595175182336?s=46&t=Qy75PAm7bg2jBYX7uaalRw)
 1. [Barbie as Rapunzel - Ally McLean](http://ally-mclean.com/featured-content/research-barbie-as-rapunzel/)
 1. [Playing this Board Game is Agony. And That's the Point](https://www.wired.com/2013/12/brenda-romero/)
+1. [Saying it with Less - The Sweet Spot of Game Dialogue](https://cohost.org/Sheri/post/1528531-saying-it-with-less)
+1. [How to Make Good Small Games](https://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html?utm_source=cohost&utm_medium=iframely&m=1)
+1. [End of the Line](https://bulletpointsmonthly.com/2023/05/03/end-of-the-line-spec-ops-the-line)
+1. [Aura's Guide to the Modern Atelier](https://docs.google.com/document/u/0/d/18TMbTwoeAsOXadzSHsqzFp20-UbXIDq28-xbqoLg0Zc/mobilebasic)
+
+### Fashion
+1. [How to Understand Silhouettes](https://putthison.com/tag/how-to-understand-silhouettes-series/)
+1. [Tips For Buying a Wedding Suit](https://putthison.com/tips-for-buying-a-wedding-suit/)
+1. [How to Shop on a Budget](https://putthison.com/how-to-shop-on-a-budget/)
+1. [How to Judge Quality in Clothing](https://putthison.com/how-to-judge-quality-in-clothing/)
+1. [Hakusan Megan glasses](http://hakusan-megane.co.jp/originalframes/acetatetypical/)
+1. [Bonlook sunglasses](https://www.bonlook.ca/collections/men-sunglasses)
 
 ### Random stuff
 1. [I Add 3-25 Seconds of Latency to Every Page I visit](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)

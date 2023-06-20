@@ -18,3 +18,4 @@
 1. [Wetsuits](https://en.wikipedia.org/wiki/Wetsuit) are different from [drysuits](https://en.wikipedia.org/wiki/Dry_suit). The former are lighter-weight, cheaper, and less effective since they use a layer of water near the body to regulate temperature. Drysuits however provide better insulation by providing a full seal and using water for that temperature regulating layer.
 1. [Cavers](https://startcaving.com/info/spelunking-vs-caving) don't like people calling them "spelunkers", because apparently that implies amateurism.
 1. [ZIP Codes](https://en.wikipedia.org/wiki/ZIP_Code) were introduced by the USPS in 1963. ZIP is an acronym for "Zone Improvement Plan", and is meant to imply that mail "zips along" faster when the code is used.
+1. A [fid](https://en.wikipedia.org/wiki/Fid) is a tool, like a [marlinspike](https://en.wikipedia.org/wiki/Marlinspike), used to hold knots open or to separate strands of a rope for splicing.
