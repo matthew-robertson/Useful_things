@@ -35,6 +35,7 @@
 1. [Tibia](https://en.wikipedia.org/wiki/Tibia_(video_game%29) is one of the oldest and longest running MMOs, having released in 1997 and somehow peaking in popularity in 2007.
 1. The [expansion bay](https://en.wikipedia.org/wiki/PlayStation_2_Expansion_Bay) in PS2 "fats" was only used for the network adapter, and its functionality was built directly into the PS2 slim (minus HDD support). It's useful today for PS2 homebrew, since you can play games off of a hdd. While the official HDDs were 40gb and only supported IDE, upgrades exist to use SATA and any sata/ide hard drive can be used.
 1. There were a lot of off-brand GameBoys, for obvious reasons. One was the [Mega Duck/Cougar Boy](https://en.wikipedia.org/wiki/Mega_Duck), which is home to the arguably perfect box art of [Snake Roy](https://www.vgdb.com.br/gf/fotos/games/media_58820/snake-roy-58820.jpg).
+1. Toward sthe end of 2022, streamers realized they could use Splatoon 3's colour blindness settings to chroma key out their opponents ink on screen, and started [keying it to pornography](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153), which didn't end well for anyone.
 
 ## Thinking about Games
 1. Futile Interactivity is an interesting concept proposed in [this essay](https://www.gwern.net/docs/fiction/2009-fortugno.pdf). In essence, Futile Interactivity is a scene in which the player's control is "false". Consider Final Fantasy's boss fights you *must* lose, or the Shadow of the Colossus post-colossi scenes, in which the player is "killed" by the black tentacles:

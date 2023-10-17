@@ -65,6 +65,7 @@
 1. purple and golden raisins are (at least commonly, in North America) made from the [same, green, grapes](https://www.thedailymeal.com/eat/shocker-golden-raisins-are-made-same-grape-variety-purple-ones). The difference is partly in the dehydration method, and partly that they're treated with sulfur dioxide before drying.
 1. A [Bialy](https://en.wikipedia.org/wiki/Bialy_(bread)) is a traditional Ashkenazi Jewish bread roll, which is *real* similar to a bagel. However, bialys are only baked, not boiled, and don't have a hole in the middle. Instead, bialy have a central depression that gets filled with garlic, poppy seeds, etc....
 1. Garlic is sticky because it contains mercaptan (a sulfur compound), which is attracted to other sulfur compounds, like the cystine in your skin/nails/hair, as explained [here](https://foodiosity.com/why-is-garlic-sticky/).
+1. [Pennsylvania Dutch chicken potpie](https://www.tasteofhome.com/article/amish-chicken-potpie/) is bizarre: it's more of a soup than pie, including noodles.
 
 ## Kitchen management
 1. Kitchen zoning. Separate things by purpose, keep things near where you'll use it, and set things up like a grocery store. Stuff like:
