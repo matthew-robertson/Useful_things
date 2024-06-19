@@ -31,6 +31,7 @@
 1. The genetics of cat coats are complicated enough to have their own [wiki page](https://en.wikipedia.org/wiki/Cat_coat_genetics).
 1. More or less all cats shed more heavily [at the end of winter](https://www.thesprucepets.com/the-times-of-year-that-cats-shed-the-most-5225999), to swap for a lighter summer coat. Many do the same in the fall to prep for winter. Some cold-weather cats go so far as to have a "double-coat" with two types of hair for better insulation. Squid, as a short-haired domestic, is likely to have a [double coat](https://mrbosscat.com/cats-with-undercoats/)
 1. Most mammals have an outer layer of fur known as [guard hair](https://en.wikipedia.org/wiki/Guard_hair). In cats, dogs, etc... they're what's raising when they spike their fur up.
+1. Paw pads are pretty specific to mammalian predators, and act as shock absorbers and as traction. Rabbits notably don't have them. To quote the tweet I learned this from "If it ain't a dog, cat, bear, or weasel, that paw won't have a bean." [Kory Bing](https://x.com/korybing/status/1487728805611388928)
 
 # Humans in general
 1. "Brown is a colour that doesn't really exist" - [Technology Connections](https://www.youtube.com/watch?v=wh4aWZRtTwU&feature=youtu.be)
