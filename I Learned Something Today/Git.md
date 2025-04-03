@@ -32,6 +32,7 @@
 1. `git log --name-status` will get you the list of files changed as part of the commit log.
 1. Need to split a commit into smaller ones? Use an interactive rebase, mark whatever commits you want to split as `edit`, and get going. To split a commit mid-rebase, `git reset HEAD~` will soft reset the last commit's changes, and you can commit as you like from there, eventually `git rebase --continue` to move on.
 1. `git branch -m <newname>` will rename your current branch to the argument you provide. Useful for correcting goofy typos.
+1. Need to work with multiple Git accounts on one machine? [Update your SSH config](https://code.tutsplus.com/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574t) to map multiple hosts to the same hostname. In your case, have both `github.com-work` and `github.com` map to `HostName github.com`, give them both different `IdentityFile`s, and make sure each repo has the appropriate remotes set and you're all good.
 
 ## Tips for maintaining a good commit history
 1. These are all taken from the back half of [Branch In Time, RubyConf2018](https://youtu.be/8OOTVxKDwe0?t=1107).
