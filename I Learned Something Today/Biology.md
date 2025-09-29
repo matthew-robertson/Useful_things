@@ -1,6 +1,7 @@
 # Biology, general
 1. An [apomorhpy](https://en.wikipedia.org/wiki/Apomorphy_and_synapomorphy) is a trait derived from an ancestral one. If two taxa share the trait, we call it a "synapomorphy", and usually think it evolved in their most-recent common ancestor. An example is the fur of mammals, which is lacked by amphibians. In this case, fur is a `synapomorphy` of mammals, while amphibians retain the original lack of fur (these traits are a plesiomorphy).
-1. [homology](https://en.wikipedia.org/wiki/Homology_(biology)) refers to a similarity in structures/genes across taxa. The most well-known example is probably how the forearms of humans, front legs dogs/cats/etc.., the wings of birds, and others are all similar structures: sharing something approximating an ulna+radius and wristbones. 
+1. [homology](https://en.wikipedia.org/wiki/Homology_(biology)) refers to a similarity in structures/genes across taxa. The most well-known example is probably how the forearms of humans, front legs dogs/cats/etc.., the wings of birds, and others are all similar structures: sharing something approximating an ulna+radius and wristbones.
+1. [Koilocytes](https://en.wikipedia.org/wiki/Koilocyte) are a type of squamous epithelial cells that HPV has really messed with: the nucleus enlarges, the nuclear membrane gets wrinkly/raisin-like.
 
 # Fish and Fish accessories
 1. When baiting a hook, worms will work for bottom-feeders (like carp), while feathers help for fish that eat surface insects (like trout) (The Feather Thief, p.56)
@@ -68,6 +69,10 @@
 1. [Barotrauma](https://en.wikipedia.org/wiki/Barotrauma) is the name for physical damage to the body caused by pressure differential between the body and the environment: things like the bends, sinus/middle ear problems, haemmorhages, etc...
 1. [Suspension syndrome](https://en.wikipedia.org/wiki/Suspension_trauma) or "harness hang syndrome", happens when someone is held upright without any movement for a period of time (often 20+ minutes) and is caused by blood pooling, which leads to fainting and potentially death.
 1. Scurvy can [cause old wounds to re-open](https://www.reddit.com/r/askscience/comments/rtv03/comment/c48m5es/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). This seems to be due to Vitamin C's role in collagen synthesis and maintenance: causing collagen to break down in dense areas, like scars.
+1. [Tissue expansion](https://en.wikipedia.org/wiki/Tissue_expansion) is a surgical technique to promote tissue growth by stretching it. It helps minimize scarring, and obviously creates skin that exactly matches the surrounding area.
+1. [Broken Heart Syndrome](https://my.clevelandclinic.org/health/diseases/17857-broken-heart-syndrome) (or Takotsubo cardiomyopathy) occurs when your heart is suddenly weaker, lasts between days and weaks, and tends to occur after a stressful event: sudden illness, loss of a loved one, etc... 90% of reported cases occur in [women aged 58-75](https://www.health.harvard.edu/heart-health/takotsubo-cardiomyopathy-broken-heart-syndrome).
+1. Needle Thoracostamies have been the standard treatment for tension pneumothorax for a while. An alternative is the [finger thoracostomy](https://wikem.org/wiki/Finger_thoracostomy). In which you 1) cut a hole in their chest, then 2) shove a finger in there and feel around.
+1.  [HELLP Syndrome](https://en.wikipedia.org/wiki/HELLP_syndrome) is a pregnancy complication meaning "hemolysis, elevated liver enzymes, and low platelet count", usually occurring shortly before/after childbirth, with an unknown cause.
 
 # Virology
 1. Viruses are, generally: a sack of RNA with some proteins to help replicate/break into cells/etc..., all surrounded by lipids. The lipids are half for protection, and half for invading cells. [Twitter source](https://twitter.com/PalliThordarson/status/1236549318439387137)

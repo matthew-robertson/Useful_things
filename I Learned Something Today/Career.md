@@ -88,3 +88,5 @@
 1. A piece about presenting your invisible work to help with promotions is [here](https://leaddev.com/staffplus/getting-credit-invisible-work-staff-level):
     1. "Fight recency bias (with snippets)... The key here is to make a habit of summarizing your work at regular intervals.. I do this every other week" "Try to document where you're spending your time and energy, not just the stuff that's obviously work."
     1. "Keep a brag document... I keep a list of my professional successes in a Google Doc. Every time I'm excited about a project going well, I try to make a quick note of it."
+1. We love the [5S methodology](https://en.wikipedia.org/wiki/5S_(methodology)) in this house. Sort (removing unnecessary items), Straighten (putting things in their place), Shine (regularly clean/inspect), Sustain hygeine (similar to Shine?), Sustain (make it easy to enforce. Shadow boards, etc..) 
+1. [Gantt charts](https://en.wikipedia.org/wiki/Gantt_chart) are a relatively standard way to show a project timeline.

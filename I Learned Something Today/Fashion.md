@@ -18,6 +18,9 @@
 1. Pockets were originally [tied on](https://www.youtube.com/watch?v=uaRoWPEUTI4), not unlike a fanny pack, I guess. This was known to exist in the middle ages, and at least in women's clothes, stuck around for a couple centuries.
 1. [Visual Kei](https://en.wikipedia.org/wiki/Visual_kei) is a movement among Japanese musicians popular between 1980 and 2000. It's pretty similar to glam rock or hair metal, though less genre locked.
 
+# Sewing
+1. [Princess Seams](https://en.wikipedia.org/wiki/Princess_seams) are a sort of dart variant that run the full length of the garment, and their use in a dress can obviate the need for a waistline.
+
 # Links/Lists/Brands
 1. [How to Develop Good Taste Part 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/) - Die, Workwear!
 1. [Putting together a balanced and tasteful suit/shirt/tie/pocket square outfit](https://www.reddit.com/r/malefashionadvice/comments/18th1d/putting_together_a_balanced_and_tasteful/)
