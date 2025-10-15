@@ -34,3 +34,4 @@
 1. [Show Me Your Books](https://community.wanikani.com/t/show-me-your-books/48826/8)
 1. [Game2Text - OCR tool for scanning Japanese](https://game2text.com/)
 1. [Yomichan - Firefox plugin for quick lookup](https://addons.mozilla.org/en-US/firefox/addon/yomichan/)
+1. [International Linguistics Olympiad - and its practice problems](https://ioling.org/)
