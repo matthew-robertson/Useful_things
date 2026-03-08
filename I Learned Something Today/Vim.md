@@ -136,6 +136,7 @@
 1. `:e!` Reloads the current file with changes from disk.
 1. `ca'.*p` is a handy way to wrap a quote in parentheses or whatever: change everything around the singlequotes, do whatever work you need, then paste the cut string back in. You've spent a lot of time working around auto-completing parentheses before remembering you could do this.
 1. `Jn` will join n lines by removing the EOL characters, and replace the next line's leading whitespace with a single space. `gJ` does the same, but retains leading whitespace.
+1. `gq<motion>` can be used to apply a formatter from the cursor to the end of the motion. Doing `gggqG` can be used to format the entire file, and `formatprg` is used to set the formatter to use. For the linter black, for instance, include `set formatprg=black\ -q\ -` in the vimrc.
 
 ## Scripting
 1. To do things based on the file type, you can apparently set up files in `~/.vim/after/ftplugin/*.vim`, as mentioned [here](https://vi.stackexchange.com/a/18232)

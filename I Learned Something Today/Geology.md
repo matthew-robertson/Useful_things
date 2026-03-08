@@ -34,6 +34,7 @@ since the plates won't have enough dynamic friction to stop moving in a short pe
 1. After an especially bad wind storm, the name [will be retired](https://www.britannica.com/story/how-are-hurricanes-and-typhoons-named). Notable examples are: Katrina, Sandy, Harvey, and Irma.
 1. A [downburst](https://en.wikipedia.org/wiki/Downburst) (or micro or macrobust) is sort of a reverse tornado: a strong, extremely localized, downward wind forces (usually in a thunderstorm). They tend to last seconds to minutes, and only a handful of km wide.
 1. A [derecho](https://en.wikipedia.org/wiki/Derecho) is a wild seeming kind of wind storm that's essentially a straight line of wind. They can be caused by successive downbursts.
+1. [Chinook winds](https://en.wikipedia.org/wiki/Chinook_wind) are warm winds in North America, either wet (blowing from the ocean) or dry (blowing down the eastern side of the mountain ranges).
 
 # The Earth
 1. [Tired Mountain Syndrome](https://en.wikipedia.org/wiki/Tired_mountain_syndrome) is something mountains can experience after underground nuclear bomb testing. The large explosions change the geology of the area substantially enough to weaken the surrounding rock and increase the risk of radioactive stuff leaking out.
