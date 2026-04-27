@@ -1,7 +1,36 @@
 Impression:
 
 
-Quotes/Annotations:
+
+## Summarizing takeaways:
+1. Targets are your objectives. Commitments are targets with deadlines. Neither is the same as your estimate. The goal of your estimate is to be accurate, not to get a specific result. If the two diverge, your solution can't be to massage the final estimate. You can 1) Remove targets, 2) extend commitment deadlines, or 3) adjust the inputs to your estimate. Developers have a nasty habit of "optimistic" estimation, which will often be made further optimistic as it travels up the chain. "Before we can make our estimates more accurate, we need to make them *bigger*."
+1. Tip #54 is a big one: "Do not address estimation uncertainty by biasing the estimate. Address uncertainty by expressing the estimate in uncertain terms."
+1. No estimate is is 100% accurate, so don't provide single-point estimates if you can avoid it. Being explicit about your confidence level is good, making it up isn't. Single-point estimates tend to look more like best-case estimates than average case ones. Similarly, worst-case estimates have a nasty habit of being "optimistic worst-case" rather than true worst case.
+1. Simply don't give off the cuff estimates. People are *really*, *really* bad at them.
+1. The Cone of Uncertainty is an important tool to keep in mind in costing. tl;dr - the less defined the project is, the less confident your estimates can possibly be. For example: Before requirements are complete, data indicates the best range you can get is 0.67 - 1.50X the nominal result. Note: the cone doesn't narrow just because time has passed, you need to actually work to narrow it.
+1. Project managers are there to help you hit your deadlines, but you can only manage so much project. Anecdata indicates a project can be landed by skilled manages if the estimates are within ~20% of the real timeline. One key benefit of estimating (and re-estimating) is in learning that you're going to miss *early*, while those levers are the most useful.
+1. About a quarter of all projects are finished late, another quarter abandoned entirely. The rest are either late, over budget, or both.
+1. Your estimates only include the work you're estimating. We're *really* good at forgetting to account for all the time spent reviewing the work of others, in meetings, etc.... One way to account for this is to base your estimates on historical data, which can include all that extra work.
+1. Ideally, individual tasks should be decomposed such that the pieces take <3 days of work. Larger, and there's too much uncertainty.
+1. Data's important to estimating&planning well. Historical data's invaluable, and is best captured *during* the work rather than after. In addition, it's important to review your initial estimates after the fact to compare how they related to the true results. Ideally, your estimates will under-estimate as often as they over-estimate.
+1. Schedules are only so compressible (or so expandable). Above that compression maxima you hit the Impossible Zone. Estimates are that schedules can't be compressed below 75% of nominal. Not by being cleverer, not by working harder or with more people. You just can't do it.
+1. "The fact that an external requirement exists does not necessarily mean it's possible to meet that requirement. It does mean that you need to make it perfects clear to the executives you're dealing with that you understand the requirement and you take it seriously."
+
+###  Estimation Techniques
+1. Timelines are pretty heavily correlated with project size, and simple methods are often better than complex ones. I.E.: Find something that correlates with project size, and count that something to derive estimates. Ideally, the thing you're counting will have at least 20 items to be statistically significant.
+1. You can create a rough estimate of the expected case by calculating `[best_case + 4*most_likely_case + worst_case]/6`.
+1. `StandardDeviation = SumOfWorstCaseEstimates - SumOfBestCaseEstimates) / 6`
+1. "As statistically valid 75%-likely estimate would be `ExpectedCase + 0.67*StandardDeviation`".
+1. "Tip #58 - Exercise caution when calculating estimates that use numeric ratings scales. Be sure that the numeric categories in the scale actually work like numbers, not like verbal categories such as small, medium, and large."
+1. "If the group agrees on a single estimate without much discussion, the coordinator assigns someone to play devil's advocate."
+1. If the group *doesn't* agree on a single estimate without much discussion, you're better off having everyone re-vote rather than averaging the results or something. In the author's study, ~20% of groups initial estimation ranges didn't include the "true" answer, but their final estimates did. Similarly, ~66% of groups got a more accurate estimate by re-voting than by averaging.
+1. It's important to re-estimate, and to re-estimate at planned times (and/or: as soon as requirements change). Getting stuck re-estimating after slippage late in the project is no fun for anyone. You *should* use more accurate estimation methods as time goes on.
+1. You want to use multiple estimation methods when possible. In doing so, estimates that converge are a good sign you're on the right track. Estimates that disagree are a sign something weird's going on and needs to be looked into.
+1. Function Points are a decent way to estimate because they're correlated with size. TL;DR - Calculate function points as `External_Inputs * 4 + External Outputs *5 + External Queries*4 + Internal Logic files*10 + External Interface files*7`. As a simple first-order estimate, take that total and raise it to the power of 0.37. The ISBSG method is `staffMonths = 0.512*FunctionPoints^0.392 * MaximumTeamSize^0.791`
+1. Once you have an estimate in staff months, you need ot turn it into calendar months, but note that it's not as simple as just dividing by the number of devs in the team. More devs is more co-ordination&communication. 9 women in one month, and all that. A rule of thumb is `ScheduleInMonths = 3.0*staffMonths^(1/3)`, though that assumes you can modify the team-size to match.
+
+
+## Quotes/Annotations:
 1. "A *target* is a statement of a desirable business objective."
 1. "A *commitment* is a promise to deliver defined functionality at a specific level of quality by a certain date."
 1. "Do not assume that the commitment has to be the same as the estimate; it doesn't."
@@ -10,10 +39,10 @@ Quotes/Annotations:
 1. "Tip #2 - When you're asked to provide an estimate, determine whether you're supposed to be estimating or figuring out how to hit a target."
 1. "Tip #4 - When you see a single-point estimate, that number's probability is not 100%. Ask what the probability of that number is."
 1. "all estimates include a probability, whether the probability is stated or implied. An explicitly stated probability is one sign of a good estimate."
-1. "In 1986, Professors S.D. Conte, H.E. Dundsmore, and V.Y. Shen proposed that a goof estimation approach should provide estimates that are withing 25% of the actual results 75% of the time."
+1. "In 1986, Professors S.D. Conte, H.E. Dundsmore, and V.Y. Shen proposed that a good estimation approach should provide estimates that are withing 25% of the actual results 75% of the time."
 1. "Events that happen during the project nearly always invalidate the assumptions that were used to estimate the project in the first place... It becomes impossible to make a clean analytical assessment of whether the project was estimated accurately because the software project that was ultimately delivered is not the project that was originally estimated."
 1. "The primary purpose of a software estimation is not to predict a project's outcome; it is to determine whether a project's targets are realistic enough to allow the project to be controlled to meet them."
-1. "I have found that if the initial target and initial estimate are within about 205 of each other, the project manager will have enough maneuvering room to control the feature set, schedule, team size, and other parameters to meet the projects business goals; other experts concur."
+1. "I have found that if the initial target and initial estimate are within about 20% of each other, the project manager will have enough maneuvering room to control the feature set, schedule, team size, and other parameters to meet the projects business goals; other experts concur."
 1. "A good estimate is an estimate that provides a clear enough view of the project reality to allow the project leadership to make good decisions about how to control the project to hit its targets."
 1. "No one has ever gotten [every question on the 'How Good an Estimator Are You? quiz] correct. I've concluded that most people's intuitive sense of '90% confident' is really comparable to something closer to '30% confident. Other studies have confirmed this basic finding... I've concluded that specific percentages such as '90%' are not meaningful unless they are supported through some kind of statistical analysis."
 1. "Tip #6 - Avoid using artificially narrow ranges. Be sure the ranges you use in your estimates don't misrepresent your confidence in your estimates."
@@ -38,12 +67,14 @@ Quotes/Annotations:
 1. "Estimates can fail to improve... The issue isn't really that the estimates don't converge, the issue is that the project itself doesn't converge."
 1. "Tip #12 - Don't assume that the Cone of Uncertainty will narrow itself. You must force the Cone to narrow by removing sources of variability from your project."
 1. "This tendency to use ranges that are too narrow can be addressed two ways. The first is to start with a 'most likely' estimate and then compute the ranges using predefined multipliers"
-Phase                       | Possible Error on Low Side | Possible Error on High Side
-Initial Concept             | 0.25x (-75%)               | 4.0x (+300%)
-Approved Product Definition | 0.50x (-50%)               | 2.0x (+100%)
-Requirements Complete       | 0.67x (-33%)               | 1.5x (+50%) 
-UI Design Complete          | 0.80x (-20%)               | 1.25x (+25%)
-Detailed Design Complete    | 0.90x (-10%)               | 1.10x (+10%)
+
+  | Phase                       | Possible Error on Low Side | Possible Error on High Side |
+  | --------------------------- | -------------------------- | --------------------------- |
+  | Initial Concept             | 0.25x (-75%)               | 4.0x (+300%) |
+  | Approved Product Definition | 0.50x (-50%)               | 2.0x (+100%) |
+  | Requirements Complete       | 0.67x (-33%)               | 1.5x (+50%) |
+  | UI Design Complete          | 0.80x (-20%)               | 1.25x (+25%) |
+  | Detailed Design Complete    | 0.90x (-10%)               | 1.10x (+10%) |
 
 1. "Tip #14 - Account for the Cone of Uncertainty by having one person create the 'how much' part of the estimate and a different person create the 'how uncertain' part of the estimate."
 1. "Software organizations routinely sabotage their own projects by making commitments too early in the Cone of Uncertainty. If you commit at Initial Concept of Product Definition time, you will have a factor of 2x to 5x error in your estimates.... A skilled project manager can navigate a project to completion if the estimate is within about 20% of the project reality."
@@ -60,7 +91,7 @@ Detailed Design Complete    | 0.90x (-10%)               | 1.10x (+10%)
 1. "Using an estimate of 395.7 days instead of 1 year is like representing pi as 3.37882 - the number is more precise, but it's really less accurate."
 1. "software size being the largest cost driver might seem obvious, yet organizations routinely violate this fundamental fact in two ways: costs, effort, and schedule are estimated without knowing how big the software will be; costs, effort, and schedule are not adjusted when the size of the software is consciously increased"
 1. "Software that is developed with the goal of later reuse can increase costs as much as 31%. This doesn't say whether the initiative actually succeeds. Industry experience has been that forward-looking reuse programs often fail."
-1. "What this means fro ma project planning and control point of view is that small and medium-sized projects can succeed largely on the basis of strong individuals. Large projects still need strong individuals, but how well the project is managed, how mature the organization is, and how well the individuals coalesce into a team become significant."
+1. "What this means from a project planning and control point of view is that small and medium-sized projects can succeed largely on the basis of strong individuals. Large projects still need strong individuals, but how well the project is managed, how mature the organization is, and how well the individuals coalesce into a team become significant."
 1. "One of the secrets of this book is that you should avoid doing what we traditionally think of as estimating! If you can *count* the answer directly, you should do that first."
 1. "Tip #30 - Count if at all possible. Compute when you can't count. Use judgement alone only as a last resort."
 1. "Find something to count that's highly correlated with the size of the software you're estimating."
@@ -120,4 +151,78 @@ Detailed Design Complete    | 0.90x (-10%)               | 1.10x (+10%)
 1. "It's unlikely that the whole estimate is accurate, except for the part that you've had real experience with.... Tip #74 - When you re-estimate in response to a missed deadline, base the new estimate on the project's actual progress, not on the project's planned progress."
 1. "There are no magic times to re-estimate.... Projects commonly re-estimate at major milestones, upon major releases, or when major project assumptions change"
 1. "Tip #77 - Develop a Standardized Estimation Procedure at the organizational level; use it at the project level."
-1. 
+1. Typical Correspondence between SDLC Gates and Estimates
+
+  | SDLC Gate| Estimate Accuracy (for remainder of project) | Estimate usage |
+  | ---------- | ---------- | -------- |
+  | 1 | -75%%, +300% | Vision Estimate. For internal use only, do not publish outside of development group.|
+  | 2 | -50%, +100% | Exploratory Estimate. For internal company use only, do not publish externally |
+  | 3 | -20%, +25% | Budget Estimate. OK to publish the high end of the range externally. Do not publish the lower number or midpoint |
+  | 4 | -10%, +10% | Final Commitment Estimate. OK to publish the midpoint number externally. |
+
+1. "Task nominals should be computed using the formula `[BestCast + (4 * MostLikelyCase) + WorstCase] / 6`"
+1. "Compare [budget estimate] to [preliminary dev estimate]. Compute a nominal estimate, `N`, using the following formula: `(2 * TheHigherEstimate + TheLowerEstimate) / 3)`"
+1. "After each project, you should assess the effectiveness of your estimates in several ways:
+  1. How accurate were your estimates? Did your ranges include the final result...?
+  1. Were your ranges wide enough? Could they be made narrower and still account for the variability that you've observed?
+  1. Did your estimates tend to be on the low side or the high side, or was the error tendency neutral?
+1. "The number of function points in a program is based on the number and complexity of each of the following items: External Inputs, External Outputs, External Queries, Internal Logical Files, and External Interface Files"
+
+  | Program Characteristic   | Low Complexity | Medium Complexity | High Complexity |
+  | -------------------------- | ---------------- | ------------------- | -----------------|
+  | External Inputs          |     _ x 3      |       _ x 4       |      _ x 6      |
+  | External Outputs         |     _ x 4      |       _ x 5       |      _ x 7      |
+  | External Queries         |     _ x 3      |       _ x 4       |      _ x 6      |
+  | Internal Logical Files   |     _ x 4      |       _ x 10      |      _ x 15     |
+  | External Interface Files |     _ x 5      |       _ x 7       |      _ x 10     |
+
+1. "Two studies have found that Unadjusted Function Points are more strongly correlated with ultimate size than Adjusted Function Points are. Some experts also recommend eliminating the 'low complexity' and 'high complexity' judgments, and classifying all counted items as 'medium', which eliminates another source of subjectivity."
+1. "As an alternative to counting function points directly, you might count GUI elements instead. This is an example of proxy-based estimation... Some uncertainly likely exists in your original counts of the number of GUI elements or your estimates of them. You introduce additional uncertainty when you convert from GUI elements to function points. And you will introduce still more uncertainty when you convert from function points to lines of code."
+1. "Tip #84 - With better estimation methods, the size estimate becomes the foundation of all other estimates. The size of the system you're building is the single largest cost driver. Use multiple size-estimation techniques to make your size estimate accurate."
+1. "The largest influence on a project's effort is the size of the software being build. The second largest influence is your organization's productivity."
+1. Why use historical data to create estimates? "...it includes whatever effort is included in the historical data. ...If the historical data also included effort for requirements, project management, and user documentation, that's what the estimate includes."
+1. "If you don't have your own historical data and are using these graphs, that's a sign that your development organization is at best average."
+1. ISBSG estimation method for general projects, calibrated on about 600 projects of different types&sizes: `StaffMonths = 0.512 * FucntionPoints&0.392 * MaximumTeamSize^0.791`
+1. "An interesting aspect of the ISBSG method is that the formulas for effort depend on the maximum size of the project team, with smaller teams producing smaller total estimates." Why? Probably because of increased communication channels?
+1. "Tip #88 - Not all estimation methods are equal. When looking for convergence or spread among estimates, give more weight to the techniques that tend to produce the most accurate results."
+1. "A rule of thumb is that you can estimate schedule early in a project using the Basic Schedule Equation: `ScheduleInMonths = 3.0 & StaffMonths^(1/3)`... the basic idea that schedule is a cube-root function of effort is almost universally accepted by estimation experts."
+1. "The schedule equation implicitly assumes that you're able to adjust the team size to suit the size implied by the equation."
+1. "First-Order Estimation Practice... take your function-point total and raise it to the appropriate power selected from Table 20-3."
+
+  |                                Kind of software                                  | Better | Average | Worse |
+  | ---------------------------------------------------------------------------------- | -------- | --------- | ------- |
+  | Object-oriented software                                                         | 0.33   | 0.36    | 0.39  |
+  | Client-server software                                                           | 0.34   | 0.37    | 0.40  |
+  | Business systems, internal intranet systems                                      | 0.36   | 0.39    | 0.42  |
+  | Shrink-wrapped, scientific systems, engineering systems, public internet systems | 0.37   | 0.40    | 0.43  |
+  | Embedded systems, telecommunications, device drivers, systems software           | 0.38   | 0.41    | 0.44  |
+
+1. "If the nominal schedule is 12 months with a team of 7 developers, you can't just use 12 developers to reduce the schedule to 7 months. Shorter schedules require more effort for several reasons: 1) Larger teams require more coordination and management overhead. 2) Larger teams introduce more communication paths... 3) Shorter schedules require more work to be done in parallel."
+1. "Tip #92 - So not shorten a schedule estimate without increasing the effort estimate."
+1. "There is an Impossible Zone, and you can't beat it... The consensus of researchers is that schedule compression of more than 25% from nominal is not possible. ...for a project of a particular size, there's a point beyond which the development schedule simply can't be shortened. Not by working harder. Not by working smarter. And not by finding creative solutions or by making the team larger. It simply can't be done (Symons 1991, Boehm 2000, Putnam and Myers 2003)"
+1. "For an extended schedule to reduce effort, you must actually reduce the team size. If you simply allocate the same people to the same project fractionally instead of reducing the number of people on the team, you'll likely make matters worse instead of better"
+1. Recommended tradeoffs between effort and schedule
+
+  | Schedule compression/expansion | Effort increase/reduction |
+  | ------------------------------ | ------------------------- |
+  | -15%    | +100% |
+  | -10%    | +50%  |
+  | -5%     | +25%  |
+  | Nominal | 0%    |
+  | +10%    | -30%  |
+  | +20%    | -50%  |
+  | +30%    | -65%  |
+  | >+30%   | Not practical |
+
+1. "Mike Cohn describes the difference between ideal time and planned time as akin to the difference between the minutes on the game clock vs the minutes on the wall clock in an American football game. A normal game of American football lasts 60 minutes on the game clock. On the wall clock, a game can last anywhere from 2 to 4 hours."
+1. "If you work in a large, established organization in which you have frequent corporate-overhead meetings and most people work about 40 hours per week, you might need to assume only 20 to 30 hours of project-focused time, and those hours might be spread across 2 or more projects."
+1. "Capers Jones reports that, on average, technical workers apply about 6 hours of focused project time per day to their assigned projects"
+1. "One factor that contributes to software's diseconomy of scale is that larger projects tend to produce more defects per line of code, which requires more defect-correction effort, which in turn drives up project costs."
+1. "Lawrence Putnam provides two additional rules of thumb for defect removal. If you want to move from 95% reliability to 99% reliability, you should plan to add 25% to the 'main build' part of your schedule. You should plan to add another 95% to your schedule to improve from 99% to 99.9% reliability."
+1. "Total Risk Exposure makes a good place to begin quantitative buffer planning. If you want more certainty that you will deliver on time, you should plan for a buffer that's larger than the total RE."
+1. Other rules of Thumb: 1) For administrative and clerical support, add 5% to 10% to the base effort. 2) For configuration management/build support at 2% to 8% to the base effort estimate. 3) Allow for 1% to 4% increase in requirements per month. 4) To go from one-company, one-campus development to multiple-company, multiple-city development, allow for a 25% increase in effort. 5) To go from one-company, one-campus development to international outsource development, allow for a 40% increase in effort. 6) For first time development with new language and tools compared to comparable development with familiar language and tools, allow for 20% to 40% increase in effort.
+1. "An essential practice in presenting an estimate is to document the assumptions embodied in the estimate."
+1. "A weakness of the plus-or-minus style is that, as the estimate is passed through the organization, it tends to get stripped down to just the core estimate. Occasionally, managers simplify such an estimate out of a desire to ignore the variability implied by the estimate. More often, they simplify the estimate because their manager or their corporate budgeting system can handle only estimates that are expressed as single-point numbers. If you use this technique, be sure you can live with the single-point number that's left after the estimate gets converted to a simplified form."
+1. "Should you present the full range or only the part of the range from the nominal estimate to the top end of the range?" Projects rarely become smaller over time, and estimates tend to err on the low side."
+1. "Project stakeholders might think that presenting an estimate as a wide range makes the estimate useless. What's really happening is that presentation of the estimate as a wide range accurately conveys the fact that the estimate *is* useless! It isn't the presentation that makes the estimate useless; it's the uncertainty in the estimate itself."
+1. "The fact that an external requirement exists does not necessarily mean it's possible to meet that requirement. It does mean that you need to make it perfects clear to the executives you're dealing with that you understand the requirement and you take it seriously."
